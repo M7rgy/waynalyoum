@@ -1,0 +1,34 @@
+[
+  {
+    "id": "eg-unesco",
+    "topic_key": "bahrain-unesco-3-sites",
+    "title": "Bahrain has 3 UNESCO World Heritage Sites: Qal'at al-Bahrain (2005), Pearling Path (2012), Dilmun Burial Mounds (2019)",
+    "summary": "Qal'at al-Bahrain occupied since c. 2300 BCE, capital of Dilmun. Pearling site: 17 buildings in Muharraq, 3 oyster beds, Bu Maher Fort. Dilmun Burial Mounds: 21 sites, 2200–1750 BCE, 6 mound fields with over 10,000 mounds, 17 royal mounds. 6 tentative sites incl. Barbar Temple and Hawar Islands.",
+    "url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain",
+    "published": null, "lang": "en"
+  },
+  {
+    "id": "eg-hawar",
+    "topic_key": "hawar-islands-nature",
+    "title": "Hawar Islands — on UNESCO's tentative list for nature",
+    "summary": "Islands about 26 km offshore, important for migratory waterbirds, coral reefs, seagrass meadows and a dugong (sea cow) population.",
+    "url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain",
+    "published": null, "lang": "en"
+  },
+  {
+    "id": "eg-barbar",
+    "topic_key": "barbar-temple",
+    "title": "Barbar Temple — three temples built on top of each other",
+    "summary": "Three temples built one over another between the 3rd and 2nd millennia BCE, with Sumerian-like architecture. On UNESCO's tentative list.",
+    "url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain",
+    "published": null, "lang": "en"
+  },
+  {
+    "id": "eg-startups",
+    "topic_key": "bahrain-startup-ecosystem-1-6bn",
+    "title": "Bahrain startup ecosystem valued at $1.6bn, top-5 in MENA (GSER 2026)",
+    "summary": "Value $1.6bn (Jul 2023–Dec 2025), +759% vs 2021 review. GSER 2026 (Startup Genome): MENA top 5 Performance, top 10 AI-Native, top 15 R&D.",
+    "url": "https://www.gccbusinessnews.com/gser-2026-bahrain-mena-startup-ecosystems/",
+    "published": "2026-06-18T00:00:00+00:00", "lang": "en"
+  }
+]

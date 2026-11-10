@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-29",
+  "day_theme": "Thursday — Weekend guide + November preview",
+  "held_topics": [
+    {
+      "topic": "Bahrain Comic Con 2026 (listed 6–7 Nov)",
+      "reason": "Postponed in March 2026; November dates listed but venue/lineup/tickets not officially confirmed in a source ≤30 days old. Re-check before posting."
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "D1-01",
+      "format": "reel",
+      "platforms": ["instagram", "tiktok"],
+      "time_local": "20:30",
+      "topic_key": "november-2026-events-guide",
+      "title_internal": "November in Bahrain: 3 weekends not to miss",
+      "hook": "نوفمبر في البحرين؟ خلني أرتب لك الشهر 👇",
+      "script": [
+        {
+          "t": "0-2s",
+          "on_screen": "نوفمبر في البحرين = 3 ويكندات ما تنفوّت",
+          "vo": "جايين البحرين في نوفمبر؟ خلني أرتب لكم الشهر كله.",
+          "visual": "Fast drone push-in over Manama skyline at golden hour, quick whoosh transition"
+        },
+        {
+          "t": "2-10s",
+          "on_screen": "6–7 نوفمبر | Royal Bahrain Concours 🚗\nالنادي الملكي للغولف – الرفاع",
+          "vo": "أول ويكند: سيارات كلاسيكية ونادرة من كل العالم، ونوادي سيارات من الخليج، في النادي الملكي للغولف بالرفاع. تذكرة اليوم 25 دينار، والباس ليومين 40.",
+          "visual": "Slow-motion glide past chrome details of vintage cars on a green golf lawn, palm trees, warm sun flare"
+        },
+        {
+          "t": "10-18s",
+          "on_screen": "20–21 نوفمبر | FIBA 3x3 Manama Masters 🏀\nالأفنيوز – المنامة",
+          "vo": "ثاني ويكند: بطولة كرة السلة 3x3 العالمية في الأفنيوز. 16 فريق من صربيا وألمانيا وإسبانيا وكندا والصين… ومعهم فريق سيف من البحرين.",
+          "visual": "Basketball bouncing in slow motion on an outdoor court by the waterfront at night, crowd lights bokeh, quick cuts on the beat"
+        },
+        {
+          "t": "18-27s",
+          "on_screen": "24–28 نوفمبر | Jewellery Arabia + Scent Arabia 💎\nمركز البحرين العالمي للمعارض – دخول مجاني بالتسجيل",
+          "vo": "وآخر الشهر: معرض المجوهرات والساعات، ومعرض العطور، بنفس المكان، والدخول مجاني بالتسجيل.",
+          "visual": "Macro shots: gold jewellery sparkling under soft light, perfume bottle with mist, oud smoke curling"
+        },
+        {
+          "t": "27-32s",
+          "on_screen": "احفظ الفيديو 📌 وأرسله لربعك",
+          "vo": "احفظ الفيديو، وأرسله للي بيجي معك. وتابع وين اليوم، كل يوم نقول لك وين تروح.",
+          "visual": "Sunset over the sea with a dhow silhouette, logo end card '@waynalyoum'"
+        }
+      ],
+      "caption_instagram": "نوفمبر في البحرين مليان 🔥\n\n🚗 6–7 نوفمبر | Royal Bahrain Concours — النادي الملكي للغولف، الرفاع (يوم 25 د.ب / يومين 40 د.ب)\n🏀 20–21 نوفمبر | FIBA 3x3 Manama Masters — الأفنيوز، المنامة\n💎 24–28 نوفمبر | Jewellery Arabia + Scent Arabia — مركز البحرين العالمي للمعارض (مجاني بالتسجيل، ومعرض المجوهرات لمن هم 16 سنة وفوق)\n\nأي ويكند بتختار؟ قول لنا بالكومنتات 👇\nاحفظ المنشور وأرسله لربعك 📌",
+      "caption_tiktok": "نوفمبر في البحرين = 3 ويكندات 🔥 أي واحد بتروح؟ 👇",
+      "hashtags": ["#وين_اليوم", "#البحرين", "#فعاليات_البحرين", "#ويكند", "#السعودية", "#الخليج", "#Bahrain"],
+      "audio_suggestion": "Upbeat khaleeji percussion / trending Gulf-pop instrumental at ~120 BPM; cut each beat change to a section",
+      "visual_prompts": [
+        "Aerial view of Manama skyline at golden hour, Bahrain, modern towers by turquoise sea, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue tones, no people faces, no text, no logos --ar 9:16",
+        "Row of gleaming vintage 1950s grand tourer cars on a manicured golf course lawn with palm trees, Bahrain, late afternoon sun flare, cinematic, photorealistic, sand gold and palm green palette, unbranded cars, no logos, no text, no people faces --ar 9:16",
+        "Orange basketball mid-bounce on an outdoor 3x3 court at night beside a waterfront mall promenade, stadium lights bokeh, cinematic, photorealistic, deep blue and coral tones, no people faces, no text, no logos --ar 9:16",
+        "Macro shot of gold Arabian jewellery and an elegant perfume bottle on dark velvet with soft oud smoke, luxurious, cinematic lighting, sand gold palette, no text, no logos --ar 9:16"
+      ],
+      "broll_search": ["Manama skyline drone sunset", "classic car show golf course", "3x3 basketball outdoor night slow motion", "gold jewelry macro", "perfume bottle mist slow motion", "dhow sunset Persian Gulf"],
+      "sources": [
+        "https://www.newsofbahrain.com/bahrain/132331.html",
+        "https://blog.wego.com/bahrain-autumn-of-unmissable-events/",
+        "https://www.newsofbahrain.com/en/article/manama-gears-up-for-3x3-masters",
+        "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      ]
+    },
+    {
+      "post_id": "D1-02",
+      "format": "carousel",
+      "platforms": ["instagram"],
+      "time_local": "17:30",
+      "topic_key": "bahrain-unesco-3-sites",
+      "title_internal": "One island, 3 UNESCO World Heritage sites",
+      "hook": "جزيرة صغيرة… و3 مواقع تراث عالمي 🏛️",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "جزيرة صغيرة… و3 مواقع تراث عالمي 🏛️",
+          "body": "تعرفها كلها؟ اسحب 👈",
+          "visual_prompt": "Ancient stone fortress walls at sunrise by the sea, Bahrain, cinematic, photorealistic, warm golden light, sand gold and deep sea blue, no people, no text --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "1️⃣ قلعة البحرين (2005)",
+          "body": "أول موقع بحريني بقائمة اليونسكو. ميناء قديم وعاصمة حضارة دلمون، والناس سكنوا فيه من 2300 قبل الميلاد تقريباً.",
+          "visual_prompt": "Qal'at al-Bahrain style ancient fort ruins on a coastal mound, palm groves behind, golden hour, aerial 45-degree angle, photorealistic, no people, no text --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "2️⃣ طريق اللؤلؤ – المحرق (2012)",
+          "body": "قصة جزيرة عاشت على الغوص: 17 مبنى تاريخي بالمحرق، و3 مغاصات لؤلؤ بالبحر، وقلعة بو ماهر.",
+          "visual_prompt": "Narrow traditional Muharraq alley with coral-stone houses, wooden doors and wind-tower details, soft afternoon light, photorealistic, pearl white and sand tones, no people, no text --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "3️⃣ تلال مدافن دلمون (2019)",
+          "body": "أكثر من 10,000 تل أثري في 6 حقول، بُنيت بين 2200 و1750 قبل الميلاد. منظر ما تشوفه بأي مكان ثاني بالعالم.",
+          "visual_prompt": "Vast desert landscape dotted with ancient rounded burial mounds stretching to the horizon, Bahrain, low sunset light with long shadows, cinematic wide shot, photorealistic, no people, no text --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "📍 خطة يوم كامل",
+          "body": "الصبح: قلعة البحرين 🏰\nالظهر: تلال دلمون 🏜️\nالعصر: طريق اللؤلؤ بالمحرق + قهوة 🫖",
+          "visual_prompt": "Flat-lay of a traveller's map, Arabic coffee dallah and finjan, pearls and a straw hat on a wooden table, top-down, warm light, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "🎁 بونس",
+          "body": "6 مواقع ثانية على القائمة المؤقتة لليونسكو… منها معبد باربار ومحمية جزر حوار 🐢",
+          "visual_prompt": "Turquoise shallow sea and untouched island coastline with seabirds, Hawar Islands mood, aerial, photorealistic, no people, no text --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "احفظ 📌 وشارك ربعك",
+          "body": "وتابع @waynalyoum — كل يوم وين تروح في البحرين",
+          "visual_prompt": "Dhow sail silhouette against a coral sunset over calm sea, minimal composition with space for text, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "البحرين صغيرة بالمساحة… كبيرة بالتاريخ 🏛️\n\n3 مواقع على قائمة التراث العالمي لليونسكو:\n🏰 قلعة البحرين (2005)\n🦪 طريق اللؤلؤ بالمحرق (2012)\n🏜️ تلال مدافن دلمون (2019)\n\nوتقدر تزورها كلها بيوم واحد 👀\nأي واحد زرته؟ قول لنا 👇\n\nاحفظ المنشور لرحلتك الجاية 📌",
+      "caption_tiktok": "",
+      "hashtags": ["#وين_اليوم", "#البحرين", "#تراث_البحرين", "#اليونسكو", "#سياحة_البحرين", "#الخليج", "#VisitBahrain"],
+      "audio_suggestion": "Soft oud + ambient instrumental (for IG carousel music)",
+      "visual_prompts": [],
+      "broll_search": ["Qal'at al-Bahrain fort", "Muharraq old houses", "Dilmun burial mounds aerial", "Hawar islands"],
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain",
+        "https://www.bahrain-confidential.com/unesco-heritage-sites-bahrain/"
+      ]
+    },
+    {
+      "post_id": "D1-03",
+      "format": "carousel",
+      "platforms": ["instagram"],
+      "time_local": "21:30",
+      "topic_key": "bahrain-startup-ecosystem-1-6bn",
+      "title_internal": "Bahrain startups: $1.6B and top-5 in MENA",
+      "hook": "1.6 مليار دولار… شنو صاير في ستارتبات البحرين؟ 🚀",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "1.6 مليار دولار 🚀",
+          "body": "شنو صاير في ستارتبات البحرين؟ اسحب 👈",
+          "visual_prompt": "Modern glass office atrium at night with warm lights reflecting on the floor, Manama skyline outside, cinematic, photorealistic, deep blue and coral accents, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "💰 القيمة",
+          "body": "قيمة بيئة الشركات الناشئة في البحرين وصلت 1.6 مليار دولار (من يوليو 2023 لين ديسمبر 2025).",
+          "visual_prompt": "Abstract rising 3D bar graph made of glowing glass, deep blue background with coral highlights, minimal, no text, no numbers --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "📈 النمو",
+          "body": "+759% مقارنة بالمراجعة اللي قبلها في 2021.",
+          "visual_prompt": "Rocket-like light trail shooting upward over a night city skyline by the sea, long exposure, cinematic, no text --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "🏆 من أقوى 5",
+          "body": "تقرير GSER 2026 من Startup Genome حط البحرين ضمن أفضل 5 بيئات ستارتب في الشرق الأوسط وشمال أفريقيا بمؤشر الأداء.",
+          "visual_prompt": "Golden trophy-like abstract geometric shape on a reflective dark surface, spotlight, premium minimal, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "🤖 الذكاء الاصطناعي",
+          "body": "ونفس التقرير: ضمن أفضل 10 بالمنطقة في فئة الشركات المبنية على الذكاء الاصطناعي (AI-Native).",
+          "visual_prompt": "Close-up of hands typing on a laptop with soft holographic neural-network lines floating above, warm desk lamp, shallow depth of field, no faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "🔬 البحث والتطوير",
+          "body": "وضمن أفضل 15 في محرّك البحث والتطوير (R&D).",
+          "visual_prompt": "Clean modern lab bench with prototype circuit boards and a 3D printer, cool white light with coral accent, no people faces, no text --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "💡 عندك فكرة؟",
+          "body": "منشن الشخص اللي دايماً يقول: «عندي فكرة مشروع» 👇",
+          "visual_prompt": "Single glowing light bulb on a desk beside a notebook with sketches, dark moody background, warm light, no text --ar 4:5"
+        },
+        {
+          "n": 8,
+          "headline": "احفظ 📌 وتابع @waynalyoum",
+          "body": "أخبار حلوة من البحرين… كل يوم",
+          "visual_prompt": "Manama skyline at blue hour reflected in calm water, minimal with negative space for text, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "البحرين تبني مستقبلها… ستارتب ورى ستارتب 🚀\n\n💰 1.6 مليار دولار قيمة بيئة الشركات الناشئة\n📈 +759% نمو مقارنة بمراجعة 2021\n🏆 ضمن أفضل 5 بيئات في MENA (GSER 2026)\n🤖 ضمن أفضل 10 في الذكاء الاصطناعي\n\nمنشن صاحب الأفكار في شلتكم 👇💡\n\nالمصدر: GSER 2026 – Startup Genome، و Gulf Daily News",
+      "caption_tiktok": "",
+      "hashtags": ["#وين_اليوم", "#البحرين", "#ريادة_اعمال", "#ستارتب", "#الذكاء_الاصطناعي", "#الخليج", "#Bahrain"],
+      "audio_suggestion": "Light electronic / lo-fi tech instrumental",
+      "visual_prompts": [],
+      "broll_search": ["startup office night", "Manama skyline blue hour"],
+      "sources": [
+        "https://www.gdnonline.com/Details/1397909/Bahrains-startup-ecosystem-hits-$16-billion-in-value",
+        "https://www.gccbusinessnews.com/gser-2026-bahrain-mena-startup-ecosystems/"
+      ]
+    },
+    {
+      "post_id": "D1-04",
+      "format": "story",
+      "platforms": ["instagram"],
+      "time_local": "13:00",
+      "topic_key": "manama-masters-2026-countdown",
+      "title_internal": "Manama Masters countdown + poll",
+      "hook": "أقوى 3x3 بالعالم جاي المنامة 🏀",
+      "frames": [
+        {
+          "n": 1,
+          "text": "🏀 أقوى بطولات 3x3 بالعالم\nجاية المنامة",
+          "sticker": {"type": "countdown", "data": {"title": "Manama Masters", "end": "2026-11-20T16:00:00+03:00"}},
+          "visual_prompt": "Dramatic low-angle shot of a basketball hoop on an outdoor court under night lights, waterfront city backdrop, cinematic, deep blue and coral, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "📍 الأفنيوز – المنامة\n🗓️ 20–21 نوفمبر\n16 فريق… ومعهم فريق سيف 🇧🇭",
+          "sticker": {"type": "poll", "data": {"question": "بتحضر؟", "options": ["أكيد 🔥", "يمكن 👀"]}},
+          "visual_prompt": "Basketball resting on a court line with blurred city lights behind, shallow depth of field, night, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [],
+      "audio_suggestion": "Sneaker squeaks + bass hit",
+      "visual_prompts": [],
+      "broll_search": ["basketball hoop night outdoor"],
+      "sources": ["https://www.newsofbahrain.com/en/article/manama-gears-up-for-3x3-masters"]
+    },
+    {
+      "post_id": "D1-05",
+      "format": "story",
+      "platforms": ["instagram"],
+      "time_local": "19:30",
+      "topic_key": "unesco-quiz-story",
+      "title_internal": "UNESCO quiz story → drives to carousel",
+      "hook": "سؤال سريع 🤔",
+      "frames": [
+        {
+          "n": 1,
+          "text": "سؤال سريع 🤔\nكم موقع تراث عالمي (يونسكو) في البحرين؟",
+          "sticker": {"type": "quiz", "data": {"options": ["1", "2", "3", "5"], "correct": "3"}},
+          "visual_prompt": "Close-up of weathered coral-stone wall texture with warm sunlight and a carved wooden door edge, Muharraq heritage mood, no text --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "الجواب: 3 ✅\nقلعة البحرين • طريق اللؤلؤ • تلال دلمون\nالتفاصيل بآخر منشور 👇",
+          "sticker": {"type": "link", "data": {"label": "شوف المنشور", "url": "<link to D1-02 after publishing>"}},
+          "visual_prompt": "Pearls spilling from an old wooden chest onto a woven palm mat, warm side light, macro, no text --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [],
+      "audio_suggestion": "Quiz-show tick-tock sound",
+      "visual_prompts": [],
+      "broll_search": [],
+      "sources": ["https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"]
+    }
+  ]
+}

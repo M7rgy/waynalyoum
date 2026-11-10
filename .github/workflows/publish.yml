@@ -1,0 +1,35 @@
+# Every 30 min from 06:30 to 23:30 Bahrain: publishes any post whose time has come (and wasn't vetoed)
+name: Publish due posts
+on:
+  schedule:
+    - cron: "*/30 3-20 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: read
+concurrency:
+  group: agency
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publish
+        working-directory: agency
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python publish_ig.py --due
+      - name: Save publish state
+        run: |
+          git config user.name "waynalyoum-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A content data
+          git commit -qm "Publish state $(TZ=Asia/Bahrain date '+%F %H:%M')" || exit 0
+          git pull --rebase -q && git push -q

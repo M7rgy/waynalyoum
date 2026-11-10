@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-10",
+  "posts": [
+    {
+      "post_id": "D13-01",
+      "format": "story",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "13:00",
+      "topic_key": "yousra-honored-bahrain-film-festival-2026",
+      "title_internal": "Yousra honored at Bahrain Film Festival",
+      "hook": "يسرا تتكرم في مهرجان البحرين السينمائي",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "يسرا تتكرم\nفي مهرجان البحرين السينمائي",
+          "sticker": null,
+          "visual_prompt": "empty red carpet leading to a grand cinema hall entrance with warm spotlights, Bahrain, early evening, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "شنو أحلى فيلم عربي\nشفته؟",
+          "sticker": {
+            "type": "question",
+            "data": {
+              "prompt": "شنو أحلى فيلم عربي شفته؟"
+            }
+          },
+          "visual_prompt": "vintage film reel and a cinema projector beam in a dark hall, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين"
+      ],
+      "audio_suggestion": "soft cinematic oud and strings, no vocals",
+      "visual_prompts": [
+        "empty red carpet leading to a grand cinema hall entrance with warm spotlights, Bahrain, early evening, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "red carpet cinema empty",
+        "film reel projector beam",
+        "movie theater seats golden light"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNdmhPLS1KZ3FJRVY2MmZvM3VXeGpFYVd3RnNtUEp5YjBYWHVxOFI2YXZ1ODlfdGc2SHZMLUI4LVktWF9SYXVHTXBqYy1lODVhcmNxdnhRWkU0OWhZNFNrTU5HMVJNaGZKeEF4TWd6X01la282a19fRGlvWUotWUM3YlN4dmJRV2lSUmhkRlpzYXoycWlVTlZNbjNaOE5GOWRxTnI0OFh6TFN5MjFjSGFsbGRpNERoejc4WUlNdFc0UkdheDFzeFBvYWNRbmE5aVEyUVg4M1cyb0l5Z29hLXR4bTI0N3g3b2UwRzNEZ2Z4dXhfdTlEN2ZSNXFSSHlObGZCQVlxNWNqcW9saDdFRlVTdExvVnZFSkZPRjNKbnkyOTRkcTU4Wjk4STlMN1VWZFJxRU5zeTdEaDZscEwwZm5lYXBmNlZkNWU0cGdtM0FXX05KWVNnQi1nbmdJZ05vaEc4eXctaWtCTVZFM2pFMm5xY0twNWJLZUtNTmtZMnEyT1UxWC0xY2RkRmd4LUZZMDM0cUVxWENULVFYWTZCYk5VQ19rZ3k3bnVwQ2pmcVVHMEI4a3FZV0VRM3VHUTRkZmNQVzI0?oc=5"
+      ],
+      "post_type": "local"
+    },
+    {
+      "post_id": "D13-02",
+      "format": "carousel",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "17:30",
+      "topic_key": "mudak-first-place-european-university-bahrain-2026",
+      "title_internal": "Mudak competition first place, 105,000 participants",
+      "hook": "من تصدّر أكثر من 105,000 مشارك؟",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "من تصدّر أكثر من\n105,000 مشارك؟",
+          "body": "سالفة تستاهل تعرفها، اسحب",
+          "visual_prompt": "university campus courtyard with sandstone arches and palm trees, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, palm green, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "مسابقة مداك",
+          "body": "مسابقة جمعت أكثر من 105,000 مشارك في المنافسة.",
+          "visual_prompt": "a desk with notebooks and a pen in warm window light, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "+105,000",
+          "body": "أكثر من 105,000 مشارك دخلوا التحدي.",
+          "visual_prompt": "large crowd seen from behind and out of focus in a bright hall, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "المركز الأول",
+          "body": "أحد طلاب الجامعة الأوروبية في البحرين تصدّر المنافسة وحقق المركز الأول.",
+          "visual_prompt": "golden trophy on a podium in soft spotlight, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "الجامعة الأوروبية في البحرين",
+          "body": "من هنا جاء صاحب المركز الأول بين أكثر من 105,000 مشارك.",
+          "visual_prompt": "modern university building facade with glass and stone at sunset, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "إنجاز يستاهل التصفيق",
+          "body": "فخر للشباب وللجامعة. مبروك من وين اليوم.",
+          "visual_prompt": "silhouette of hands raised in applause at sunset over the Bahrain skyline, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "شارك الخبر مع ربعك",
+          "body": "احفظ المنشور وتابع وين اليوم لكل جديد.",
+          "visual_prompt": "turquoise water and a traditional dhow sail at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, turquoise, pearl white, sand gold, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "من تصدّر أكثر من 105,000 مشارك؟\nأحد طلاب الجامعة الأوروبية في البحرين.\nحقق المركز الأول في مسابقة مداك.\nإنجاز يرفع الراس ويستاهل التصفيق.\nشارك الخبر مع ربعك، واحفظ المنشور.\nالتفاصيل في الرابط بالبايو.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#إيجابية_البحرين",
+        "#الخليج",
+        "#Bahrain"
+      ],
+      "audio_suggestion": "uplifting khaleeji pop instrumental, light percussion",
+      "visual_prompts": [
+        "university campus courtyard with sandstone arches and palm trees, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, palm green, sand gold, no people faces, no text, no logos --ar 4:5",
+        "golden trophy on a podium in soft spotlight, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "university campus golden hour",
+        "trophy podium spotlight",
+        "students applauding silhouette",
+        "Bahrain skyline sunset"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uM2l3OVNUaHdpa3o5OW45TUtTdGVNYVNkY0lYcXhzNWxXRVRxRDdHWjFtT2JvbTBGdktDRjV1ZHRNbnVUeXZVeWtrMlVJNzREUlFNVFZnN1hVNXhiVGI5NVI2VU5tX19CR3c?oc=5"
+      ],
+      "post_type": "local"
+    },
+    {
+      "post_id": "D13-03",
+      "format": "story",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "19:30",
+      "topic_key": "fatima-alsafi-style-bahrain-film-festival-2026",
+      "title_internal": "Fatima Al-Safi classic-bold festival style",
+      "hook": "كلاسيك ولا جريء؟ إطلالة فاطمة الصافي",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "فاطمة الصافي\nكلاسيك + جرأة في مهرجان البحرين السينمائي",
+          "sticker": null,
+          "visual_prompt": "elegant fabric draped in classic sand gold beside a bold sunset coral fabric, hands adjusting the drape, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "أي ستايل يعجبك أكثر؟",
+          "sticker": {
+            "type": "poll",
+            "data": {
+              "question": "أي ستايل يعجبك أكثر؟",
+              "options": [
+                "كلاسيك",
+                "جريء"
+              ]
+            }
+          },
+          "visual_prompt": "red carpet edge with soft bokeh lights, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين"
+      ],
+      "audio_suggestion": "smooth modern khaleeji lounge beat",
+      "visual_prompts": [
+        "elegant fabric draped in classic sand gold beside a bold sunset coral fabric, hands adjusting the drape, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "fashion fabric drape gold coral",
+        "red carpet bokeh lights",
+        "elegant evening dress hands detail"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTjJFWUtPRGJKSUE5azBkSmpSNFNQWERjeTRpSlBfc0QtSkoyUEd6TFZDblUxc2VUbnF0RURSVHllZGxpSGZVTWN5WThLaFpCeWRqadIBVEFVX3lxTE9LUVdMc1NXaTNBTXVLQjhxV1g4N1NCaFF2eXdETUduNm5QZGVfM3JPaF9IXzI2STNhR3NKODFDSlhPVmpGcVVFdW8xSDlGZlJJYkxoVw?oc=5"
+      ],
+      "post_type": "local"
+    }
+  ],
+  "day_theme": "food, cafés, new openings",
+  "held_topics": [
+    {
+      "topic": "Muharraq Nights festival on the Pearling Path, December 2026 (dates TBC — check before posting)",
+      "reason": "Festival confirmed for December 2026 but exact dates still TBC."
+    },
+    {
+      "topic": "Patrick Reed ready to ‘step on the gas’ in bid to win Race to Dubai - Articles - Rolex Series - DP World Tour",
+      "reason": "Golf season finale in Dubai; no event dates or venue in source."
+    },
+    {
+      "topic": "Paris Society Announces New Openings Across Dubai, Ras Al Khaimah, and Abu Dhabi - Hospitality Net",
+      "reason": "Restaurant openings in UAE cities; no dates or specific venues given."
+    },
+    {
+      "topic": "Saudi Arabia opens bookings for ultra-luxury desert train launching in 2027 - Gulf News",
+      "reason": "Desert train launch in 2027; no specific date given."
+    }
+  ]
+}

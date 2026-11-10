@@ -1,0 +1,57 @@
+# Builds the day's 8 posts at 06:00 Bahrain (03:00 UTC): research -> safety -> writing -> slides -> reel -> summary issue
+name: Daily batch
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: agency
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: agency/requirements.txt
+      - name: System packages (Arabic text shaping + video)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq libfribidi0 libraqm0 ffmpeg
+      - run: pip install -r agency/requirements.txt
+      - name: Build batch
+        working-directory: agency
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
+        run: |
+          echo "TODAY=$(TZ=Asia/Bahrain date +%F)" >> $GITHUB_ENV
+          python run_daily.py --today
+      - name: Slides, stories and reel
+        working-directory: agency
+        run: |
+          python render_slides.py "$TODAY"
+          python make_reel.py "$TODAY"
+      - name: Upload media (orphan "media" branch -> jsDelivr)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bash scripts/push_media.sh "$TODAY"
+      - name: Save to repo
+        run: |
+          git config user.name "waynalyoum-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A content data assets
+          git commit -m "Batch $TODAY" || echo "nothing to commit"
+          git pull --rebase -q && git push -q
+      - name: Daily summary issue (phone notification)
+        working-directory: agency
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python daily_summary.py "$TODAY"
+          cd .. && git add -A content && git commit -qm "Summary $TODAY" && git pull --rebase -q && git push -q || true

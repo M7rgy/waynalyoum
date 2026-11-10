@@ -1,0 +1,160 @@
+{
+  "brand": "وين اليوم",
+  "handle": "@waynalyoum",
+  "timezone_offset": "+03:00",
+  "models": {
+    "gatekeeper": "claude-haiku-5-5",
+    "creative": "claude-sonnet-5-5"
+  },
+  "max_tokens": {
+    "gatekeeper": 10000,
+    "creative": 32000
+  },
+  "use_batch_api": false,
+  "scout": {
+    "max_age_days": 21,
+    "max_candidates": {
+      "bahrain": 18,
+      "gcc": 10
+    },
+    "queries_en": [
+      "Bahrain festival",
+      "Bahrain exhibition",
+      "Bahrain concert",
+      "Bahrain tourism",
+      "Bahrain startup",
+      "Bahrain championship win",
+      "Bahrain heritage",
+      "Bahrain new restaurant opening",
+      "Exhibition World Bahrain",
+      "Bahrain International Circuit event",
+      "Bahrain international award"
+    ],
+    "queries_ar": [
+      "فعاليات البحرين",
+      "مهرجان البحرين",
+      "سياحة البحرين",
+      "شباب بحريني إنجاز",
+      "معرض البحرين"
+    ],
+    "queries_gcc_en": [
+      "Saudi Arabia festival",
+      "Dubai new attraction opening",
+      "Kuwait event",
+      "Qatar event",
+      "Oman tourism",
+      "Riyadh Season event",
+      "Abu Dhabi new attraction",
+      "Doha festival",
+      "Muscat festival"
+    ],
+    "queries_gcc_ar": [
+      "فعاليات الخليج",
+      "افتتاح وجهة سياحية الخليج",
+      "موسم الرياض",
+      "فعاليات دبي",
+      "فعاليات الكويت"
+    ]
+  },
+  "weekly_theme": {
+    "Sunday": "تدري إن… heritage & surprising facts",
+    "Monday": "innovation, startups, youth success",
+    "Tuesday": "food, cafés, new openings",
+    "Wednesday": "weekend guide (Thu–Sat events)",
+    "Thursday": "weekend guide + countdowns",
+    "Friday": "beaches, islands, nature, family",
+    "Saturday": "sports & achievements / week recap"
+  },
+  "dedupe_days": 7,
+  "postiz": {
+    "integration_ids": {
+      "instagram": "PASTE_INSTAGRAM_INTEGRATION_ID",
+      "tiktok": "PASTE_TIKTOK_INTEGRATION_ID"
+    },
+    "create_as": "draft",
+    "tiktok_settings": {
+      "privacy_level": "PUBLIC_TO_EVERYONE",
+      "duet": true,
+      "stitch": true,
+      "comment": true,
+      "content_posting_method": "DIRECT_POST"
+    }
+  },
+  "render": {
+    "palette": {
+      "sea": "#0B3C5D",
+      "coral": "#F26B5B",
+      "pearl": "#FAF7F2",
+      "sand": "#D9B26F",
+      "palm": "#2E7D5B"
+    },
+    "styles_available": [
+      "pearl",
+      "night",
+      "magazine",
+      "sadu",
+      "swiss"
+    ],
+    "style_by_type": {
+      "info": "pearl",
+      "local": "sadu",
+      "international": "swiss"
+    },
+    "default_type": "local"
+  },
+  "daily_mix": [
+    {
+      "slot": "bh_story_1",
+      "format": "story",
+      "region": "bahrain",
+      "time": "10:00"
+    },
+    {
+      "slot": "gcc_story_1",
+      "format": "story",
+      "region": "gcc",
+      "time": "12:00"
+    },
+    {
+      "slot": "bh_carousel_1",
+      "format": "carousel",
+      "region": "bahrain",
+      "time": "14:00"
+    },
+    {
+      "slot": "gcc_carousel",
+      "format": "carousel",
+      "region": "gcc",
+      "time": "16:00"
+    },
+    {
+      "slot": "bh_story_2",
+      "format": "story",
+      "region": "bahrain",
+      "time": "18:00"
+    },
+    {
+      "slot": "bh_reel",
+      "format": "reel",
+      "region": "bahrain",
+      "time": "20:30"
+    },
+    {
+      "slot": "gcc_story_2",
+      "format": "story",
+      "region": "gcc",
+      "time": "21:30"
+    },
+    {
+      "slot": "bh_carousel_2",
+      "format": "carousel",
+      "region": "bahrain",
+      "time": "22:30"
+    }
+  ],
+  "automation": {
+    "full_auto": true,
+    "publisher": "instagram_graph_api"
+  },
+  "github_repo": "M7rgy/waynalyoum"
+}
