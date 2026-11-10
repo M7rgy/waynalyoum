@@ -22,7 +22,7 @@ import urllib.request
 from common import ASSETS, CONTENT, ROOT, bahrain_now, config, load_env, log, read_json, write_json
 from render import caption, expected_assets, normalize
 
-GRAPH = "https://graph.facebook.com/" + os.environ.get("GRAPH_VERSION", "v23.0")
+GRAPH = "https://graph.facebook.com/" + os.environ.get("GRAPH_VERSION", "v27.0")
 LATE_LIMIT_H = 3        # don't publish a slot more than 3h late (e.g. after a long GitHub outage)
 MAX_ATTEMPTS = 3
 

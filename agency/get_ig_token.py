@@ -7,7 +7,7 @@ import json
 import urllib.parse
 import urllib.request
 
-G = "https://graph.facebook.com/v23.0"
+G = "https://graph.facebook.com/v27.0"
 
 
 def get(path, **q):
