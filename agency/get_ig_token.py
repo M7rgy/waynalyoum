@@ -2,8 +2,9 @@
 Page token + Instagram account ID that GitHub needs. Run on your PC:   python get_ig_token.py
 Nothing is saved to disk; copy the two values into GitHub secrets.
 """
-import getpass
 import json
+import re
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -11,13 +12,29 @@ G = "https://graph.facebook.com/v27.0"
 
 
 def get(path, **q):
-    with urllib.request.urlopen(f"{G}/{path}?{urllib.parse.urlencode(q)}", timeout=30) as r:
-        return json.loads(r.read())
+    try:
+        with urllib.request.urlopen(f"{G}/{path}?{urllib.parse.urlencode(q)}", timeout=30) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        try:
+            err = json.loads(e.read()).get("error", {})
+        except Exception:
+            err = {}
+        raise SystemExit(f"\n❌ Meta said: {err.get('message', e)}\n   (code {err.get('code')}, subcode {err.get('error_subcode')})\n"
+                         "   Common fixes: copy the App Secret again (App settings > Basic > Show), "
+                         "generate a fresh token in Graph API Explorer with YOUR app selected, then run this again.")
 
 
-app_id = input("App ID: ").strip()
-secret = getpass.getpass("App Secret (hidden): ").strip()
-short = getpass.getpass("Short-lived user token from Graph API Explorer (hidden): ").strip()
+def ask(label):
+    # visible input: Ctrl+V inside hidden prompts on Windows inserts junk characters
+    return re.sub(r"[\x00-\x1f\s]", "", input(label))
+
+
+print("Paste with right-click or Ctrl+V. Close this window afterwards.\n")
+app_id = ask("App ID: ")
+secret = ask("App Secret: ")
+short = ask("Short-lived user token from Graph API Explorer: ")
+print(f"\nGot App ID {app_id}, secret of {len(secret)} chars (should be 32), token of {len(short)} chars (usually 150-250).")
 
 long_user = get("oauth/access_token", grant_type="fb_exchange_token", client_id=app_id,
                 client_secret=secret, fb_exchange_token=short)["access_token"]
