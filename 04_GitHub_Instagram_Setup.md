@@ -87,7 +87,7 @@ schtasks /Delete /TN "WaynAlyoum Daily Batch" /F
 |---|---|
 | Cancel one post | Comment `skip D14-03` on today's issue (several IDs is fine) |
 | Cancel the rest of today | Comment `stop` |
-| Add your voice to the reel | Repo → `assets/<date>/voice/` → **Add file → Upload** `D14-06.mp3` (use the reel's ID). The reel rebuilds in about 3 min. Do it before 20:30. |
+| Add your voice to the reel | Repo → `voice/` folder → **Add file → Upload files** → name it after the reel's ID, e.g. `D14-06.m4a` (phone voice memos are fine). The reel rebuilds in about 3 min. Do it before 20:30. |
 | Background music for reels | Upload royalty-free `.mp3` files to `assets/music/`. One is picked each day. |
 | Post to TikTok | Today's issue has a reel download link + TikTok caption. Upload them from your phone. |
 | Push tomorrow's topic | Edit `data/inbox.md` on GitHub (one line + link) |

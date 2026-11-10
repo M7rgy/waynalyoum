@@ -1,9 +1,10 @@
-# Upload your voice-over to assets/<date>/voice/<post_id>.mp3 (GitHub web: Add file > Upload files)
+# Upload your voice-over to the voice/ folder named after the reel ID, e.g. voice/D14-06.m4a (GitHub web: Add file > Upload files)
 # and this rebuilds that day's reel with your voice before it is published.
 name: Rebuild reel with voice-over
 on:
   push:
     paths:
+      - "voice/**"
       - "assets/*/voice/**"
   workflow_dispatch:
     inputs:

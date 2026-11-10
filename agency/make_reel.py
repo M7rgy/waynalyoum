@@ -3,7 +3,7 @@
   python make_reel.py 2026-11-11
 
 Audio (first match wins):
-  1. Your voice-over:  assets/<date>/voice/<post_id>.mp3|.m4a|.wav   -> video stretches to fit the voice
+  1. Your voice-over:  voice/<post_id>.mp3|.m4a|.wav  (e.g. voice/D14-06.m4a) -> video stretches to fit the voice
   2. A music track:    assets/music/*.mp3  (put royalty-free tracks here; one is picked per day)
   3. Silence (add a trending sound in the Instagram app if you want)
 Optional AI backgrounds per beat: assets/<date>/bg/<post_id>_beat<N>.jpg
@@ -36,11 +36,11 @@ def beat_seconds(t, default=4.0):
 
 
 def audio_for(date, pid):
-    vdir = ASSETS / date / "voice"
-    for ext in ("mp3", "m4a", "wav", "aac", "ogg"):
-        f = vdir / f"{pid}.{ext}"
-        if f.exists():
-            return f, "voice"
+    for vdir in (ASSETS.parent / "voice", ASSETS / date / "voice"):  # repo-root voice/ folder is the easy one
+        for ext in ("mp3", "m4a", "wav", "aac", "ogg"):
+            f = vdir / f"{pid}.{ext}"
+            if f.exists():
+                return f, "voice"
     music = sorted((ASSETS / "music").glob("*.mp3")) if (ASSETS / "music").exists() else []
     if music:
         return random.Random(date).choice(music), "music"
