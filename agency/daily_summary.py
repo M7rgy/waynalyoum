@@ -28,6 +28,7 @@ def body(date, batch, base):
         L += ["---", f"### {p['post_id']} · {p['time_local']} · {p['format']} — {p['title_internal']}", ""]
         if p["format"] == "reel":
             L.append(f"🎬 [Watch / download the reel]({base}/{date}/{files[0]})")
+            L.append(f"🎙️ Want your voice on it? Upload `{p['post_id']}.m4a` (or .mp3) to the [voice/ folder](../tree/main/voice) before {p['time_local']}.")
         else:
             L.append(" ".join(f'<img src="{base}/{date}/{f}" width="160">' for f in files[:4]))
         if p["format"] != "story":
