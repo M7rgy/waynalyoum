@@ -1,0 +1,335 @@
+{
+  "date": "2026-11-11",
+  "posts": [
+    {
+      "post_id": "D14-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "hawar-islands-unesco-tentative",
+      "title_internal": "Hawar Islands: nature on UNESCO tentative list",
+      "hook": "جزر حوار: كنز طبيعي بحريني",
+      "frames": [
+        {
+          "n": 1,
+          "text": "جزر حوار 🌿\nكنز طبيعي بحريني على قائمة اليونسكو المبدئية",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "turquoise shallow sea around a small sandy island with seagrass patches seen from above, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise, sand gold, pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "حوالي 26 كم داخل البحر\nوموطن مهم للطيور المائية المهاجرة",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "flock of migratory waterbirds flying low over calm turquoise water at sunset, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "شعاب مرجانية، أعشاب بحرية، وأطوم (بقرة البحر)\nكنت تعرف؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Quiz: كم تبعد جزر حوار عن الساحل؟ (26 كم / 6 كم / 60 كم)",
+          "visual_prompt": "underwater coral reef and seagrass meadow with soft sunbeams, Arabian Gulf, Bahrain, midday, cinematic, photorealistic, 35mm, warm light, turquoise, palm green, sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#سياحة_البحرين"
+      ],
+      "audio_suggestion": "soft ambient sea waves with light khaleeji oud",
+      "visual_prompts": [
+        "turquoise shallow sea around a small sandy island with seagrass patches seen from above, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise, sand gold, pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Arabian Gulf island aerial",
+        "migratory birds over sea sunset",
+        "coral reef underwater turquoise"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      ]
+    },
+    {
+      "post_id": "D14-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "unesco-3-sites-bahrain",
+      "title_internal": "Bahrain's 3 UNESCO World Heritage Sites",
+      "hook": "3 مواقع بحرينية في قائمة اليونسكو",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "3 مواقع بحرينية في قائمة اليونسكو",
+          "body": "تعرف أسماءها؟ اسحب وشوف",
+          "visual_prompt": "ancient stone fort silhouette on the coast at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "قلعة البحرين — 2005",
+          "body": "موقع مأهول منذ نحو 2300 قبل الميلاد، وكان عاصمة دلمون.",
+          "visual_prompt": "textured heritage stone walls of a historic fort with palm trees, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, palm green, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "مسار اللؤلؤ — 2012",
+          "body": "17 مبنى في المحرق، و3 مغاصات للمحار، وقلعة بوماهر.",
+          "visual_prompt": "traditional dhow sails and old pearling-era stone buildings in Muharraq, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "مدافن دلمون — 2019",
+          "body": "21 موقعاً تعود إلى الفترة 2200–1750 قبل الميلاد.",
+          "visual_prompt": "rows of ancient burial mounds across desert landscape, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "أكثر من 10,000 تل",
+          "body": "6 حقول للتلال، منها 17 تلاً ملكياً.",
+          "visual_prompt": "aerial view of vast field of burial mounds in warm light, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "و6 مواقع على القائمة المبدئية",
+          "body": "منها معبد باربار وجزر حوار.",
+          "visual_prompt": "ancient temple stone foundations beside turquoise coastal water, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "احفظها لخطة الويكند",
+          "body": "شارك المنشور مع ربعك، وتابع وين اليوم.",
+          "visual_prompt": "sunset over Bahrain coastline with a dhow sail and modern skyline in the distance, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "3 مواقع بحرينية على قائمة اليونسكو للتراث العالمي 🏛️\n\nقلعة البحرين (2005)\nمسار اللؤلؤ (2012)\nمدافن دلمون (2019)\n\nوفي القائمة المبدئية 6 مواقع، منها معبد باربار وجزر حوار.\n\nاحفظ المنشور لخطة الويكند، وشارك ربعك اللي يحبون التاريخ 🤍",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#تراث_البحرين",
+        "#سياحة_البحرين",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "ancient stone fort silhouette on the coast at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Bahrain fort aerial",
+        "Muharraq old buildings",
+        "ancient burial mounds desert aerial"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      ]
+    },
+    {
+      "post_id": "D14-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "barbar-temple-3-temples",
+      "title_internal": "Barbar Temple: three temples stacked",
+      "hook": "معبد باربار: 3 معابد فوق بعض",
+      "frames": [
+        {
+          "n": 1,
+          "text": "معبد باربار\n3 معابد بُنيت فوق بعضها",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "ancient stone temple foundations in layered stonework, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "بين الألفية 3 والألفية 2 قبل الميلاد\nبطراز معماري يشبه السومري",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "close-up of textured ancient limestone blocks with warm side light, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue sky, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "على قائمة اليونسكو المبدئية\nزرته قبل؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: زرت معبد باربار؟ (إيه / لسه)",
+          "visual_prompt": "ancient temple ruins against a sunset sky, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#تراث_البحرين"
+      ],
+      "audio_suggestion": "soft cinematic oud and light percussion",
+      "visual_prompts": [
+        "ancient stone temple foundations in layered stonework, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "ancient temple ruins stone",
+        "archaeological site desert sunset",
+        "limestone blocks close up"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      ]
+    },
+    {
+      "post_id": "D14-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "international",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "gser-2026-bahrain-startups",
+      "title_internal": "Bahrain startups: top 5 in MENA",
+      "hook": "البحرين بين أفضل 5 في الشرق الأوسط",
+      "script": [
+        {
+          "t": "0-2s",
+          "on_screen": "بين أفضل 5 في MENA 🚀",
+          "vo": "البحرين بين أفضل 5 في المنطقة... في شنو؟",
+          "visual": "Modern Manama skyline at dusk, slow push-in, warm golden light, glass towers reflecting coral sky"
+        },
+        {
+          "t": "2-9s",
+          "on_screen": "قيمة منظومة الشركات الناشئة\n1.6 مليار دولار",
+          "vo": "منظومة الشركات الناشئة في البحرين قيمتها 1.6 مليار دولار.",
+          "visual": "Hands typing on a laptop in a bright modern workspace, shallow depth of field, no faces"
+        },
+        {
+          "t": "9-17s",
+          "on_screen": "+759% مقارنة بتقييم 2021",
+          "vo": "ونمو بنسبة 759% مقارنة بتقييم 2021.",
+          "visual": "Animated upward line graph overlay on a blurred city skyline, deep sea blue and sand gold tones"
+        },
+        {
+          "t": "17-26s",
+          "on_screen": "تقرير GSER 2026\nStartup Genome",
+          "vo": "حسب تقرير GSER 2026 من Startup Genome.",
+          "visual": "Close-up of hands scrolling a tablet with abstract charts, out-of-focus office behind"
+        },
+        {
+          "t": "26-34s",
+          "on_screen": "أفضل 5 أداء\nأفضل 10 ذكاء اصطناعي\nأفضل 15 بحث وتطوير",
+          "vo": "أفضل 5 في الأداء، أفضل 10 في الذكاء الاصطناعي، وأفضل 15 في البحث والتطوير.",
+          "visual": "Three quick cuts: skyline, hands on keyboard, silhouette from behind looking at a city view at sunset"
+        },
+        {
+          "t": "34-38s",
+          "on_screen": "احفظ وشارك ربعك\nتابع وين اليوم",
+          "vo": "شاركها مع ربعك اللي يحبون الأفكار الجديدة، وتابعنا لكل جديد.",
+          "visual": "Wide sunset shot of Bahrain waterfront with a dhow sail in the foreground"
+        }
+      ],
+      "caption_instagram": "البحرين بين أفضل 5 في الشرق الأوسط 🚀\n\nمنظومة الشركات الناشئة بقيمة 1.6 مليار دولار (يوليو 2023 – ديسمبر 2025).\nنمو +759% مقارنة بتقييم 2021.\nحسب GSER 2026 من Startup Genome: أفضل 5 في الأداء، أفضل 10 في الذكاء الاصطناعي، وأفضل 15 في البحث والتطوير في المنطقة.\n\nاحفظ وشارك ربعك 🤍",
+      "caption_tiktok": "البحرين بين أفضل 5 في الشرق الأوسط 🚀 منظومة الشركات الناشئة بقيمة 1.6 مليار دولار، ونمو +759% مقارنة بتقييم 2021 (GSER 2026). شاركها مع ربعك!",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#ريادة_اعمال",
+        "#إيجابية_البحرين",
+        "#Bahrain"
+      ],
+      "audio_suggestion": "upbeat modern khaleeji electronic beat with light percussion",
+      "visual_prompts": [
+        "modern Manama skyline with glass towers, Bahrain, dusk, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16",
+        "hands typing on a laptop in a bright modern workspace, Bahrain, daytime, cinematic, photorealistic, 35mm, warm light, pearl white, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Manama skyline sunset",
+        "startup office hands typing laptop",
+        "business growth chart animation",
+        "Bahrain waterfront dhow sunset"
+      ],
+      "sources": [
+        "https://www.gccbusinessnews.com/gser-2026-bahrain-mena-startup-ecosystems/"
+      ]
+    }
+  ],
+  "day_theme": "weekend guide (Thu–Sat events) (applies to the Bahrain posts)",
+  "held_topics": [
+    {
+      "topic": "Muharraq Nights festival on the Pearling Path, December 2026 (dates TBC — check before posting)",
+      "reason": "Festival dates still TBC; no confirmed date within 30 days."
+    },
+    {
+      "topic": "جانب من افتتاح معرض البحرين الدولي «مراعي 2026» في نسخته الجديدة - الأيام البحرينية",
+      "reason": "Exhibition dates and venue missing; royal-linked opening needs review."
+    },
+    {
+      "topic": "«آسيا موتورز» تكشف عن 212 نافيجيتور الجديدة كليا في معرض رويال بحرين كونكور 2026 - أخبار الخليج",
+      "reason": "Event date and venue missing from source."
+    },
+    {
+      "topic": "«صالح للحياة» مسرحية لجلجامش عن صراع الإرادات بمهرجان البحرين المسرحي - الأيام البحرينية",
+      "reason": "Performance date and venue not stated in source."
+    },
+    {
+      "topic": "الستار يسدل على مهرجان البحرين السينمائي وسط حراك فني واعد - جريدة البلاد",
+      "reason": "Festival closing recap; exact dates and venue not stated."
+    },
+    {
+      "topic": "Bahrain International Trophy 2026: First Group 1 Race Draws 13 Runners - News of Bahrain",
+      "reason": "Race date and venue missing from source."
+    },
+    {
+      "topic": "Bahrain U17 Face Brunei in AFC Asian Cup Qualifiers - News of Bahrain",
+      "reason": "Date and venue missing for upcoming U17 match"
+    },
+    {
+      "topic": "اختتام فعاليات اليوم الأول لمعرض \"أوتوميكانيكا دبي\" وسط مناقشات ثرية حول الرؤية الوطنية لمستقبل قطاع التنقل والتوجهات المستقبلية للصناعة - www.albawaba.com",
+      "reason": "Event recap, exact dates and venue unconfirmed"
+    },
+    {
+      "topic": "Morocco’s El Halli tops men’s event as Qatar’s Al Kaabi grabs silver - Qatar Tribune",
+      "reason": "Sports result; event date and venue not stated in text."
+    },
+    {
+      "topic": "Dubai Shopping Festival returns with Steve Aoki, drone shows and 45 days of deals - Gulf Business",
+      "reason": "Festival dates and venue details missing from text."
+    },
+    {
+      "topic": "قبل لقاء موسم الرياض.. راشد الماجد يهدي جمهوره \"نبض القلوب\" - بيلبورد عربية",
+      "reason": "Concert date and venue not confirmed in text."
+    },
+    {
+      "topic": "«موسم الرياض» يرسم مدينة تتحرك على إيقاع الفن - جريدة الجزيرة",
+      "reason": "General feature; no specific event date or venue."
+    },
+    {
+      "topic": "غدا انطلاق أولى فعاليات ليالي كانو موتورز رولنغ دراغ - أخبار الخليج",
+      "reason": "Start date relative ('tomorrow'); venue not stated."
+    }
+  ]
+}

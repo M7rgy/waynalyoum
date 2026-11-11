@@ -1,0 +1,91 @@
+[
+  {
+    "post_id": "D14-01",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-11T07:00:00Z",
+    "time_local": "10:00",
+    "content": "",
+    "assets": [
+      "D14-01_1.jpg",
+      "D14-01_2.jpg",
+      "D14-01_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D14-03",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-11T11:00:00Z",
+    "time_local": "14:00",
+    "content": "3 مواقع بحرينية على قائمة اليونسكو للتراث العالمي 🏛️\n\nقلعة البحرين (2005)\nمسار اللؤلؤ (2012)\nمدافن دلمون (2019)\n\nوفي القائمة المبدئية 6 مواقع، منها معبد باربار وجزر حوار.\n\nاحفظ المنشور لخطة الويكند، وشارك ربعك اللي يحبون التاريخ 🤍\n\n#وين_اليوم #البحرين #تراث_البحرين #سياحة_البحرين #وجهات_سياحية",
+    "assets": [
+      "D14-03_1.jpg",
+      "D14-03_2.jpg",
+      "D14-03_3.jpg",
+      "D14-03_4.jpg",
+      "D14-03_5.jpg",
+      "D14-03_6.jpg",
+      "D14-03_7.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D14-05",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-11T15:00:00Z",
+    "time_local": "18:00",
+    "content": "",
+    "assets": [
+      "D14-05_1.jpg",
+      "D14-05_2.jpg",
+      "D14-05_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D14-06",
+    "platform": "instagram",
+    "format": "reel",
+    "schedule_utc": "2026-11-11T17:30:00Z",
+    "time_local": "20:30",
+    "content": "البحرين بين أفضل 5 في الشرق الأوسط 🚀\n\nمنظومة الشركات الناشئة بقيمة 1.6 مليار دولار (يوليو 2023 – ديسمبر 2025).\nنمو +759% مقارنة بتقييم 2021.\nحسب GSER 2026 من Startup Genome: أفضل 5 في الأداء، أفضل 10 في الذكاء الاصطناعي، وأفضل 15 في البحث والتطوير في المنطقة.\n\nاحفظ وشارك ربعك 🤍\n\n#وين_اليوم #البحرين #ريادة_اعمال #إيجابية_البحرين #Bahrain",
+    "assets": [
+      "D14-06.mp4"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D14-06",
+    "platform": "tiktok",
+    "format": "reel",
+    "schedule_utc": "2026-11-11T17:30:00Z",
+    "time_local": "20:30",
+    "content": "البحرين بين أفضل 5 في الشرق الأوسط 🚀 منظومة الشركات الناشئة بقيمة 1.6 مليار دولار، ونمو +759% مقارنة بتقييم 2021 (GSER 2026). شاركها مع ربعك!\n\n#وين_اليوم #البحرين #ريادة_اعمال #إيجابية_البحرين #Bahrain",
+    "assets": [
+      "D14-06.mp4"
+    ],
+    "settings": {
+      "privacy_level": "PUBLIC_TO_EVERYONE",
+      "duet": true,
+      "stitch": true,
+      "comment": true,
+      "content_posting_method": "DIRECT_POST"
+    },
+    "manual_on_phone": false
+  }
+]
