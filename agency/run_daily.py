@@ -8,6 +8,7 @@
 import argparse
 import datetime as dt
 import json
+import re
 
 import ceo
 import scout
@@ -89,8 +90,15 @@ def main():
     batch["held_topics"] = held + batch.get("held_topics", [])
 
     # 2b — Gatekeeper pass 2 (regex, free): drop any post whose public copy hits the red list
+    source_text = json.dumps(approved, ensure_ascii=False) + json.dumps(candidates, ensure_ascii=False)
     clean = []
     for p in batch["posts"]:
+        public = json.dumps({k: p.get(k) for k in ("hook", "slides", "frames", "script", "caption_instagram")}, ensure_ascii=False)
+        bad_names = [n for n in set(re.findall(r"«([^»]{2,40})»", public)) if n not in source_text]
+        if bad_names:  # a quoted event name that appears in no source = likely misread/invented
+            batch["held_topics"].append({"topic": p.get("title_internal", p["post_id"]), "reason": f"unverified names: {bad_names}"})
+            log(f"pass2: dropped {p['post_id']} unverified names {bad_names}")
+            continue
         hits = scan_post(p)
         if hits:
             batch["held_topics"].append({"topic": p.get("title_internal", p["post_id"]), "reason": f"red-list words in copy: {hits}"})

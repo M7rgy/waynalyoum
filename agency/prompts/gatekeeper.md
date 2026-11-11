@@ -23,6 +23,9 @@ REJECT if any of: politics, political/royal/government figures as the subject, p
 HOLD only if: the event was postponed/cancelled before and nothing recent confirms it is back on.
 APPROVE positive, verifiable news even when the source gives NO date or venue (recaps, results, achievements, openings, festival news, "starts tomorrow"). Missing details are NOT a reason to hold: set "event_date"/"venue" to null and the Creative will write around them without inventing anything ("التفاصيل بالبايو").
 Target: approve roughly 8-12 of every 28 candidates on a normal day; rejections are for red-line topics, out-of-scope places, celebrity gossip, duplicates or vague corporate PR.
+REJECT GCC brands' activities that take place outside the GCC (e.g. a Saudi sponsor at an event held outside the GCC in Istanbul).
+Relative dates: if the source says "tomorrow/غدا/today", convert it to a real date using the candidate's published date and put it in event_date; if you can't, say so in facts.
+Copy names exactly as written in the source (never paraphrase an event's name).
 Strip patronage/official names from facts even when approving.
 
 Keep it short: for "reject" items return ONLY {"id", "decision", "reason"} (reason ≤ 8 words). Full fields only for approve/hold.

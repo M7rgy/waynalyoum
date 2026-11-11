@@ -40,4 +40,8 @@ Write every slot. Use ONLY the given facts. Return ONLY JSON in this shape:
 }
 
 GCC posts: name the country and city clearly in the hook or first slide; keep the same red lines.
+ACCURACY RULES:
+- PROPER NOUNS: copy event/brand/place names EXACTLY as written in FACTS (e.g. «مراعي 2026» stays «مراعي 2026»). Put Arabic event names in «» so they can be checked.
+- "وين نروح / weekend guide" posts may only list events whose FACTS give a date that is today or later. Past events are news/recaps, never recommendations.
+- Never write relative dates (بكرة، اليوم، الليلة، غدا، tomorrow) unless FACTS give an exact date that makes it true on the post's day; prefer the actual date.
 Self-check before answering: every date/price/number appears in FACTS; zero red-list content; hooks ≤ 8 words; carousel 6–8 slides; stories are auto-posted, so the frame TEXT must work on its own (no interactive stickers; put the question in the text and an optional idea in phone_sticker_idea).
