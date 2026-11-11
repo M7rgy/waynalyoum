@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - "voice/**"
+      - "!voice/README.md"
       - "assets/*/voice/**"
   workflow_dispatch:
     inputs:

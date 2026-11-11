@@ -96,3 +96,35 @@ schtasks /Delete /TN "WaynAlyoum Daily Batch" /F
 **Safety nets built in:** posts more than 3h late are skipped (never posted at the wrong time) · each post is tried at most 3 times · a story that fails halfway resumes without repeating frames · only you can veto (comments from others are ignored).
 
 **Limits to know:** GitHub's scheduler can run 5–30 min late at busy times · Instagram allows about 50 API posts a day (we use about 12) · stories go out without poll/quiz stickers (Instagram's API can't add them, so add one from your phone if you want).
+
+---
+
+## Part C — Reliable timer with cron-job.org (free, about 10 min)
+
+GitHub's built-in scheduler is "best effort": runs can be hours late or skipped. cron-job.org presses GitHub's **Run workflow** button for us at exact times. GitHub's own schedule stays on as a backup, and duplicates are safe: a day is only built once, and a post is only published once.
+
+**C1. Make a GitHub key that can only start workflows in this repo**
+1. github.com → profile picture → **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**.
+2. Name: `cron-job waynalyoum`. Expiration: **1 year** (set a phone reminder to renew it).
+3. Repository access: **Only select repositories → M7rgy/waynalyoum**.
+4. Permissions → Repository permissions → **Actions: Read and write**. Leave everything else at No access.
+5. **Generate** and copy the token (`github_pat_…`).
+
+**C2. Create two jobs on cron-job.org** (free account). Use **Create cronjob** for each:
+
+| Field | Job 1 — Daily batch | Job 2 — Publish |
+|---|---|---|
+| Title | waynalyoum daily | waynalyoum publish |
+| URL | `https://api.github.com/repos/M7rgy/waynalyoum/actions/workflows/daily.yml/dispatches` | `https://api.github.com/repos/M7rgy/waynalyoum/actions/workflows/publish.yml/dispatches` |
+| Schedule | Every day at **06:00** | **Every 30 minutes**, hours 06–23 |
+| Time zone | Asia/Bahrain | Asia/Bahrain |
+
+Then on the **Advanced** tab, set this for **both** jobs:
+- Request method: **POST**
+- Headers:
+  - `Authorization` = `Bearer github_pat_…` (your token)
+  - `Accept` = `application/vnd.github+json`
+  - `Content-Type` = `application/json`
+- Request body: `{"ref":"main"}`
+
+**C3. Test:** click **Test run** on Job 2. A response of **204** means it worked, and a new "Publish due posts" run appears under the repo's Actions tab.
