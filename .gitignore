@@ -6,3 +6,6 @@ data/logs/
 # generated slides/videos live on the "media" branch, not in main history
 assets/20*/*.jpg
 assets/20*/*.mp4
+reel/node_modules/
+reel/out/
+reel/public/tmp/

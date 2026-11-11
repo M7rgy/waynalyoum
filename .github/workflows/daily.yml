@@ -36,9 +36,18 @@ jobs:
           cache-dependency-path: agency/requirements.txt
       - name: System packages (Arabic text shaping + video)
         if: steps.guard.outputs.skip != 'true'
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq libfribidi0 libraqm0 ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq libfribidi0 libraqm0 ffmpeg fonts-noto-color-emoji
       - run: pip install -r agency/requirements.txt
         if: steps.guard.outputs.skip != 'true'
+      - uses: actions/setup-node@v5
+        if: steps.guard.outputs.skip != 'true'
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: reel/package-lock.json
+      - name: Install reel renderer
+        if: steps.guard.outputs.skip != 'true'
+        run: cd reel && npm ci --no-audit --no-fund && npx remotion browser ensure
       - name: Build batch
         if: steps.guard.outputs.skip != 'true'
         working-directory: agency

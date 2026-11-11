@@ -28,8 +28,15 @@ jobs:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: agency/requirements.txt
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq libfribidi0 libraqm0 ffmpeg
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq libfribidi0 libraqm0 ffmpeg fonts-noto-color-emoji
       - run: pip install -r agency/requirements.txt
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: reel/package-lock.json
+      - name: Install reel renderer
+        run: cd reel && npm ci --no-audit --no-fund && npx remotion browser ensure
       - name: Rebuild slides + reel, re-upload media
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

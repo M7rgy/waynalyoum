@@ -10,6 +10,7 @@ Optional AI backgrounds per beat: assets/<date>/bg/<post_id>_beat<N>.jpg
 Output: assets/<date>/<post_id>.mp4  (H.264 + AAC, 1080x1920, 30 fps, kept under 19 MB for hosting)
 """
 import json
+import os
 import random
 import re
 import shutil
@@ -59,7 +60,7 @@ def run(cmd):
         raise RuntimeError(r.stderr[-1500:])
 
 
-def make(post, date):
+def make_slideshow(post, date):
     pid = post["post_id"]
     beats = post.get("script") or []
     if not beats:
@@ -112,6 +113,103 @@ def make(post, date):
                 break
     log(f"reel: {pid} -> {out.name} ({total:.0f}s, audio={kind}, {out.stat().st_size / 1e6:.1f} MB, style={style})")
     return out
+
+
+# ───────────── motion-graphics reel (Remotion, in ../reel) ─────────────
+REEL = ASSETS.parent / "reel"
+MONTHS = "يناير|فبراير|مارس|أبريل|مايو|يونيو|يوليو|أغسطس|سبتمبر|أكتوبر|نوفمبر|ديسمبر"
+DATE_RX = re.compile(rf"(\d{{1,2}}\s*[-–]\s*\d{{1,2}}\s*({MONTHS}))|(\d{{1,2}}\s*({MONTHS}))|({MONTHS})\s*\d{{4}}")
+
+
+def is_date(t):
+    return bool(DATE_RX.search(t))
+
+
+def parse_beat(b, use_vo):
+    lines = [l.strip() for l in (b.get("on_screen") or "").split("\n") if l.strip()]
+    head, chips, body = "", [], []
+    for i, line in enumerate(lines):
+        parts = [x.strip() for x in line.split("|") if x.strip()]
+        if i == 0:
+            rest = [x for x in parts if not is_date(x)]
+            chips += [x for x in parts if is_date(x)]
+            head = " ".join(rest) or parts[0]
+        elif len(line) <= 40 and (is_date(line) or "–" in line or "-" in line or len(parts) > 1):
+            chips += parts
+        else:
+            body.append(line)
+    if not body and use_vo and b.get("vo"):
+        first = re.split(r"(?<=[.!؟?])\s", b["vo"].strip())[0]
+        if len(first) <= 110 and first.strip() != head.strip():
+            body.append(first)
+    num = None
+    m = re.search(r"(?<![\d–\-/])(\+?\d{1,3}(?:,\d{3})+\+?|\+?\d{2,7}(?:\.\d+)?\s?[%+]?)(?![\d–\-/x])", head)
+    if m and not is_date(head[max(0, m.start() - 3): m.end() + 10]):
+        num = m.group(1).strip()
+    return {"headline": head, "body": "\n".join(body), "chips": chips[:3], "number": num}
+
+
+def make_motion(post, date):
+    beats = post.get("script") or []
+    if not beats:
+        return None
+    if not (REEL / "node_modules").exists():
+        raise RuntimeError("reel/node_modules missing (run: cd reel && npm ci)")
+    pid = post["post_id"]
+    _, style = style_for(post)
+    style = style if style in ("pearl", "sadu", "swiss") else "sadu"
+    secs = [max(2.5, beat_seconds(b.get("t"))) for b in beats]
+    audio, kind = audio_for(date, pid)
+    if kind == "voice":
+        total = duration(audio)
+        if total > 0:
+            secs = [s * (total + 0.3) / sum(secs) for s in secs]
+    tmp = REEL / "public" / "tmp"
+    shutil.rmtree(tmp, ignore_errors=True)
+    tmp.mkdir(parents=True)
+    props_beats = []
+    for i, (b, sec) in enumerate(zip(beats, secs), 1):
+        pb = parse_beat(b, use_vo=(kind != "voice"))
+        pb["seconds"] = round(sec, 2)
+        bg = ASSETS / date / "bg" / f"{pid}_beat{i}.jpg"
+        if bg.exists():
+            shutil.copy(bg, tmp / bg.name)
+            pb["bg"] = f"tmp/{bg.name}"
+        props_beats.append(pb)
+    props = {"style": style, "kicker": kicker(post), "handle": "@waynalyoum",
+             "cta": "احفظ 📌", "ctaSub": "وأرسله لربعك", "beats": props_beats,
+             "audio": None, "audioKind": kind}
+    if audio:
+        shutil.copy(audio, tmp / f"audio{audio.suffix}")
+        props["audio"] = f"tmp/audio{audio.suffix}"
+    pfile = tmp / "props.json"
+    pfile.write_text(json.dumps(props, ensure_ascii=False), encoding="utf-8")
+    out = ASSETS / date / f"{pid}.mp4"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    npx = shutil.which("npx") or shutil.which("npx.cmd") or "npx"
+    cmd = [npx, "remotion", "render", "src/index.ts", "Reel", str(out.resolve()), f"--props={pfile.resolve()}",
+           "--codec=h264", "--crf=24", "--x264-preset=veryfast", "--audio-codec=aac", "--log=error"]
+    if os.environ.get("REMOTION_BROWSER"):
+        cmd.append(f"--browser-executable={os.environ['REMOTION_BROWSER']}")
+    r = subprocess.run(cmd, cwd=REEL, capture_output=True, text=True)
+    if r.returncode != 0 or not out.exists():
+        raise RuntimeError((r.stderr or r.stdout)[-1500:])
+    if out.stat().st_size > MAX_MB * 1024 * 1024:  # keep under the hosting limit
+        small = out.with_suffix(".small.mp4")
+        run([FFMPEG, "-y", "-loglevel", "error", "-i", str(out), "-c:v", "libx264", "-preset", "veryfast", "-crf", "30",
+             "-c:a", "copy", "-movflags", "+faststart", str(small)])
+        small.replace(out)
+    shutil.rmtree(tmp, ignore_errors=True)
+    log(f"reel: {pid} -> {out.name} motion graphics ({sum(secs):.0f}s, style={style}, audio={kind}, {out.stat().st_size / 1e6:.1f} MB)")
+    return out
+
+
+def make(post, date):
+    try:
+        return make_motion(post, date)
+    except Exception as e:  # never lose the day's reel: fall back to the simple slideshow
+        log(f"reel: motion render failed ({str(e)[:300]}) -> slideshow fallback")
+        return make_slideshow(post, date)
 
 
 def make_day(date):

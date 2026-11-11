@@ -40,6 +40,13 @@ Write every slot. Use ONLY the given facts. Return ONLY JSON in this shape:
 }
 
 GCC posts: name the country and city clearly in the hook or first slide; keep the same red lines.
+REEL ON-SCREEN TEXT (rendered as animated motion graphics, keep it tight):
+- 4-6 beats, 4-7 seconds each ("t": "0-3s"...). Beat 1 = hook, ≤ 7 words + 1 emoji.
+- on_screen line 1 = punchy headline ≤ 6 words (+ optional 1 emoji). Put a key number in it when there is one ("16 فريق من العالم") — it gets an animated counter.
+- optional line 2 = info chips separated by " | " (date | place), e.g. "20–21 نوفمبر | الأفنيوز – المنامة".
+- optional line 3 = one short supporting sentence ≤ 12 words.
+- Last beat = CTA (احفظ / شارك / تابع).
+
 ACCURACY RULES:
 - PROPER NOUNS: copy event/brand/place names EXACTLY as written in FACTS (e.g. «مراعي 2026» stays «مراعي 2026»). Put Arabic event names in «» so they can be checked.
 - "وين نروح / weekend guide" posts may only list events whose FACTS give a date that is today or later. Past events are news/recaps, never recommendations.
