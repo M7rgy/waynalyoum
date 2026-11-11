@@ -1,8 +1,11 @@
 {
   "D14-01": {
-    "status": "failed",
-    "attempts": 1,
-    "error": "Graph API 400: {\"error\":{\"message\":\"Error validating access token: Session has expired on Tuesday, 10-Nov-26 14:00:00 PST. The current time is Tuesday, 10-Nov-26 23:06:41 PST.\",\"code\":190,\"type\":\"OAuthException\",\"error_subcode\":463,\"fbtrace_id\":\"ABoo8JdDlQGqUrWqATAXa5Q\"}}",
-    "at": "2026-11-11T10:06:40.182184+03:00"
+    "status": "published",
+    "at": "2026-11-11T10:37:20.310377+03:00",
+    "ig_media_id": [
+      "17958096795292855",
+      "18449552677133211",
+      "18047236442834410"
+    ]
   }
 }
