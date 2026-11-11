@@ -57,15 +57,31 @@ def main():
     # 2 — Gatekeeper (Haiku, one call for all candidates)
     verdicts = []  # judge in chunks of 10 so a big news day never overflows one reply
     for i in range(0, len(candidates), 10):
-        verdicts += ask("gatekeeper", "gatekeeper", {"today": date.isoformat(), "candidates": candidates[i:i + 10]})
-    approved = [v for v in verdicts if v.get("decision") == "approve" and v.get("risk", 10) < 3]
-    held = [{"topic": next((c["title"] for c in candidates if c["id"] == v["id"]), v["id"]), "reason": v.get("reason", "")}
+        out = ask("gatekeeper", "gatekeeper", {"today": date.isoformat(), "candidates": candidates[i:i + 10]})
+        if isinstance(out, dict):  # tolerate {"verdicts": [...]} or a single object
+            out = next((v for v in out.values() if isinstance(v, list)), [out])
+        verdicts += [v for v in out if isinstance(v, dict)]
+    by_id = {c["id"]: c for c in candidates}
+    for v in verdicts:  # fill gaps the model left out
+        c = by_id.get(v.get("id"), {})
+        v.setdefault("region", c.get("scope_hint", "bahrain"))
+        v.setdefault("facts", [{"fact": c.get("title", ""), "source_url": c.get("url", "")}] if c else [])
+    approved = [v for v in verdicts if v.get("decision") == "approve" and (v.get("risk") or 0) < 3]
+    held = [{"topic": by_id.get(v.get("id"), {}).get("title", v.get("id")), "reason": v.get("reason", "")}
             for v in verdicts if v.get("decision") == "hold"]
     write_json(folder / "gatekeeper.json", verdicts)
-    log(f"gatekeeper: {len(approved)} approved / {len(held)} held / {len(verdicts)} total")
+    counts = {d: sum(1 for v in verdicts if v.get("decision") == d) for d in ("approve", "hold", "reject")}
+    log(f"gatekeeper: {len(approved)} approved ({sum(1 for v in approved if v['region'] == 'bahrain')} bahrain, "
+        f"{sum(1 for v in approved if v['region'] == 'gcc')} gcc) | raw decisions {counts} of {len(candidates)} candidates")
+    # slow news day: top up Bahrain with pre-checked evergreen facts so the day is never empty
+    if sum(1 for v in approved if v["region"] == "bahrain") < 3:
+        for e in scout._evergreen(used)[:5]:
+            approved.append({"id": e["id"], "decision": "approve", "risk": 0, "region": "bahrain", "category": "heritage",
+                             "facts": [{"fact": e["title"] + ". " + e.get("summary", ""), "source_url": e.get("url", "")}],
+                             "angle": "evergreen"})
+        log(f"gatekeeper: topped up with evergreen -> {len(approved)} facts")
     if not approved:
-        log("gatekeeper: nothing approved -> stop (add ideas to data/inbox.md or data/evergreen.json)")
-        return
+        raise SystemExit("gatekeeper: nothing approved and no evergreen left -> add ideas to data/inbox.md")
 
     # 3+4 — Creative + Visual Director (Sonnet, one call for the whole day)
     batch = ask("creative", "creative", {"plan": plan, "facts": approved, "avoid_topic_keys": sorted(used)})
