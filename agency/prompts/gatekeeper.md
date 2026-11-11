@@ -20,8 +20,9 @@ For EACH candidate return one JSON object:
 
 SCOPE: approve (a) Bahrain stories and (b) positive GCC stories from Saudi Arabia, UAE, Kuwait, Qatar or Oman (events, tourism, openings, culture, sport, tech). REJECT anything outside Bahrain + GCC. Also REJECT celebrity gossip, fashion/looks commentary about named people, or items with no real place/event/achievement.
 REJECT if any of: politics, political/royal/government figures as the subject, patronage-only news, ministers' statements, diplomacy, military, security, regional tensions, crime, accidents, deaths, courts, sectarian or religious debate, protests, layoffs, price complaints, negative comparisons between countries, or ANY doubt.
-HOLD if: event was postponed/cancelled before and no confirmation dated within 30 days; date/venue missing; source older than 30 days for an upcoming event.
-APPROVE only clearly positive, verifiable items.
+HOLD only if: the event was postponed/cancelled before and nothing recent confirms it is back on.
+APPROVE positive, verifiable news even when the source gives NO date or venue (recaps, results, achievements, openings, festival news, "starts tomorrow"). Missing details are NOT a reason to hold: set "event_date"/"venue" to null and the Creative will write around them without inventing anything ("التفاصيل بالبايو").
+Target: approve roughly 8-12 of every 28 candidates on a normal day; rejections are for red-line topics, out-of-scope places, celebrity gossip, duplicates or vague corporate PR.
 Strip patronage/official names from facts even when approving.
 
 Keep it short: for "reject" items return ONLY {"id", "decision", "reason"} (reason ≤ 8 words). Full fields only for approve/hold.
