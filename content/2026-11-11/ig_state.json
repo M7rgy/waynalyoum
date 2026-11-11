@@ -26,9 +26,12 @@
     "at": "2026-11-11T19:40:35.703828+03:00"
   },
   "D14-05": {
-    "status": "failed",
-    "attempts": 2,
-    "error": "Graph API 400: {\"error\":{\"message\":\"Cannot call API for app 1026561320461696 on behalf of user 122107908375535263\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"A91CRdTRoQ7gBpLheqW-jgn\"}}",
-    "at": "2026-11-11T19:51:08.006814+03:00"
+    "status": "published",
+    "at": "2026-11-11T20:00:34.699660+03:00",
+    "ig_media_id": [
+      "18095781107196133",
+      "17891065836478315",
+      "17921249967461437"
+    ]
   }
 }
