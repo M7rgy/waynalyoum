@@ -191,6 +191,13 @@ def due(dry=False, date=None):
 
 
 def check():
+    me = api("GET", "me", fields="id,name")
+    try:  # only Pages have a "category"; asking a user token for it errors
+        is_page = "category" in api("GET", "me", fields="id,name,category")
+    except RuntimeError:
+        is_page = False
+    print(f"Token belongs to: {me.get('name')} ->", "PAGE token ✅ (never expires)" if is_page else
+          "⚠️ USER token: this is the short Explorer token and will expire. Use the IG_ACCESS_TOKEN printed by get_ig_token.py")
     me = api("GET", os.environ["IG_USER_ID"], fields="username,name,media_count")
     lim = api("GET", f"{os.environ['IG_USER_ID']}/content_publishing_limit", fields="config,quota_usage")
     print("Connected to Instagram:", me)
