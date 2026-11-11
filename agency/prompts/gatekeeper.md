@@ -24,4 +24,6 @@ HOLD if: event was postponed/cancelled before and no confirmation dated within 3
 APPROVE only clearly positive, verifiable items.
 Strip patronage/official names from facts even when approving.
 
+Keep it short: for "reject" items return ONLY {"id", "decision", "reason"} (reason ≤ 8 words). Full fields only for approve/hold.
+Max 4 facts per item, each ≤ 25 words.
 Return ONLY a JSON array. No prose.
