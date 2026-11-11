@@ -16,5 +16,19 @@
       "18122308240743693",
       "18123422747066641"
     ]
+  },
+  "D14-03": {
+    "status": "vetoed",
+    "at": "2026-11-11T19:40:35.703828+03:00"
+  },
+  "D14-04": {
+    "status": "too_late",
+    "at": "2026-11-11T19:40:35.703828+03:00"
+  },
+  "D14-05": {
+    "status": "failed",
+    "attempts": 1,
+    "error": "Graph API 400: {\"error\":{\"message\":\"Cannot call API for app 1026561320461696 on behalf of user 122107908375535263\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"A5IIYgwZayneDYbAeSX2eaZ\"}}",
+    "at": "2026-11-11T19:40:35.703828+03:00"
   }
 }
