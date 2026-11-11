@@ -55,7 +55,9 @@ def main():
     from llm import ask
 
     # 2 — Gatekeeper (Haiku, one call for all candidates)
-    verdicts = ask("gatekeeper", "gatekeeper", {"today": date.isoformat(), "candidates": candidates})
+    verdicts = []  # judge in chunks of 10 so a big news day never overflows one reply
+    for i in range(0, len(candidates), 10):
+        verdicts += ask("gatekeeper", "gatekeeper", {"today": date.isoformat(), "candidates": candidates[i:i + 10]})
     approved = [v for v in verdicts if v.get("decision") == "approve" and v.get("risk", 10) < 3]
     held = [{"topic": next((c["title"] for c in candidates if c["id"] == v["id"]), v["id"]), "reason": v.get("reason", "")}
             for v in verdicts if v.get("decision") == "hold"]
