@@ -2,186 +2,355 @@
 
 **Theme:** weekend guide (Thu–Sat events) (applies to the Bahrain posts)
 
-> ⏸️ **Held by Gatekeeper:**
-> - Muharraq Nights festival on the Pearling Path, December 2026 (dates TBC — check before posting) — Festival dates still TBC; no confirmed date within 30 days.
-> - جانب من افتتاح معرض البحرين الدولي «مراعي 2026» في نسخته الجديدة - الأيام البحرينية — Exhibition dates and venue missing; royal-linked opening needs review.
-> - «آسيا موتورز» تكشف عن 212 نافيجيتور الجديدة كليا في معرض رويال بحرين كونكور 2026 - أخبار الخليج — Event date and venue missing from source.
-> - «صالح للحياة» مسرحية لجلجامش عن صراع الإرادات بمهرجان البحرين المسرحي - الأيام البحرينية — Performance date and venue not stated in source.
-> - الستار يسدل على مهرجان البحرين السينمائي وسط حراك فني واعد - جريدة البلاد — Festival closing recap; exact dates and venue not stated.
-> - Bahrain International Trophy 2026: First Group 1 Race Draws 13 Runners - News of Bahrain — Race date and venue missing from source.
-> - Bahrain U17 Face Brunei in AFC Asian Cup Qualifiers - News of Bahrain — Date and venue missing for upcoming U17 match
-> - اختتام فعاليات اليوم الأول لمعرض "أوتوميكانيكا دبي" وسط مناقشات ثرية حول الرؤية الوطنية لمستقبل قطاع التنقل والتوجهات المستقبلية للصناعة - www.albawaba.com — Event recap, exact dates and venue unconfirmed
-> - Morocco’s El Halli tops men’s event as Qatar’s Al Kaabi grabs silver - Qatar Tribune — Sports result; event date and venue not stated in text.
-> - Dubai Shopping Festival returns with Steve Aoki, drone shows and 45 days of deals - Gulf Business — Festival dates and venue details missing from text.
-> - قبل لقاء موسم الرياض.. راشد الماجد يهدي جمهوره "نبض القلوب" - بيلبورد عربية — Concert date and venue not confirmed in text.
-> - «موسم الرياض» يرسم مدينة تتحرك على إيقاع الفن - جريدة الجزيرة — General feature; no specific event date or venue.
-> - غدا انطلاق أولى فعاليات ليالي كانو موتورز رولنغ دراغ - أخبار الخليج — Start date relative ('tomorrow'); venue not stated.
-
 | # | Time (BH) | Format | Platforms | Topic | Post from |
 |---|---|---|---|---|---|
-| D14-01 | 10:00 | story | instagram | Hawar Islands: nature on UNESCO tentative list | Postiz |
-| D14-03 | 14:00 | carousel | instagram | Bahrain's 3 UNESCO World Heritage Sites | Postiz |
-| D14-05 | 18:00 | story | instagram | Barbar Temple: three temples stacked | Postiz |
-| D14-06 | 20:30 | reel | instagram, tiktok | Bahrain startups: top 5 in MENA | Postiz |
+| D14-01 | 10:00 | story | instagram | Bahrain U17 face Brunei in qualifiers | Postiz |
+| D14-02 | 12:00 | story | instagram | Qatar's Al Kaabi wins silver | Postiz |
+| D14-03 | 14:00 | carousel | instagram | Weekend guide: Mazaya, Concours, Trophy | Postiz |
+| D14-04 | 16:00 | carousel | instagram | Dubai Shopping Festival returns | Postiz |
+| D14-05 | 18:00 | story | instagram | Muharraq Nights on Pearling Path | Postiz |
+| D14-06 | 20:30 | reel | instagram, tiktok | Rolling Drag Nights start tomorrow | Postiz |
+| D14-07 | 21:30 | story | instagram | Riyadh Season sponsors Spanish Super Cup | Postiz |
+| D14-08 | 22:30 | carousel | instagram | Bahrain film and theatre momentum | Postiz |
 
 ---
 
-## D14-01 · STORY · 10:00 — Hawar Islands: nature on UNESCO tentative list
+## D14-01 · STORY · 10:00 — Bahrain U17 face Brunei in qualifiers
 
-**Type:** info  ·  **Hook:** جزر حوار: كنز طبيعي بحريني
+**Type:** international  ·  **Hook:** منتخبنا الناشئ يلاقي بروناي
 
-- **Frame 1:** جزر حوار 🌿 / كنز طبيعي بحريني على قائمة اليونسكو المبدئية  ·  sticker: `none` 
-- **Frame 2:** حوالي 26 كم داخل البحر / وموطن مهم للطيور المائية المهاجرة  ·  sticker: `none` 
-- **Frame 3:** شعاب مرجانية، أعشاب بحرية، وأطوم (بقرة البحر) / كنت تعرف؟ التفاصيل بالبايو  ·  sticker: `none` 
+- **Frame 1:** منتخبنا الناشئ تحت 17 سنة / يلاقي بروناي  ·  sticker: `none` 
+- **Frame 2:** في تصفيات كأس آسيا / شجّعوهم من البيت  ·  sticker: `none` 
+- **Frame 3:** مين معنا يشجّع شبابنا؟ / التفاصيل بالبايو  ·  sticker: `none` 
 
-**Audio:** soft ambient sea waves with light khaleeji oud  
+**Instagram caption:**
+
+```
+شبلنا تحت 17 سنة يلاقون بروناي في تصفيات كأس آسيا. شجّعوهم! التفاصيل في الرابط بالبايو.
+
+#وين_اليوم #البحرين #إيجابية_البحرين
+```
+
 
 <details><summary>🎨 Visual prompts</summary>
 
-1. `turquoise shallow sea around a small sandy island with seagrass patches seen from above, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise, sand gold, pearl white, no people faces, no text, no logos --ar 9:16`
-2. `turquoise shallow sea around a small sandy island with seagrass patches seen from above, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise, sand gold, pearl white, no people faces, no text, no logos --ar 9:16`
-3. `flock of migratory waterbirds flying low over calm turquoise water at sunset, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16`
-4. `underwater coral reef and seagrass meadow with soft sunbeams, Arabian Gulf, Bahrain, midday, cinematic, photorealistic, 35mm, warm light, turquoise, palm green, sand gold, no people faces, no text, no logos --ar 9:16`
+1. `football resting on green pitch grass, stadium floodlights out of focus, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, palm green and sunset coral, no people faces, no text, no logos --ar 9:16`
+2. `football resting on freshly cut green pitch grass, stadium floodlights glowing in the background out of focus, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, palm green and sunset coral tones, no people faces, no text, no logos --ar 9:16`
+3. `empty stadium seats facing a pitch at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16`
+4. `silhouette from behind of a young fan holding a flag toward a stadium, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral and pearl white, no people faces, no text, no logos --ar 9:16`
 
 </details>
 
-**B-roll search:** Arabian Gulf island aerial, migratory birds over sea sunset, coral reef underwater turquoise
+**B-roll search:** football pitch golden hour, stadium floodlights, soccer ball grass close up
 
 **Assets expected in `assets/2026-11-11/`:** D14-01_1.jpg, D14-01_2.jpg, D14-01_3.jpg
 
 **Sources:**
-- https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain
+- https://news.google.com/rss/articles/CBMilwFBVV95cUxQc094cEFIT2w4UU5kMDJPWXZ4RVpTMXFzV1l3RkN6QmRHczMwTVdmUUpNeDRXR3RTcHR1TlZKcG9HTlUyNFhySUNYazFyS3E2bzBCc0Q1LU9aVEZwMHJtM05RWGVnQ1FHR0ZtX1I2TkVYNU9ubl9nVDRIc0F4NkNZLVVnWTVoeEtIN2xzd0pqTVhIYXhCendn?oc=5
 
 ---
 
-## D14-03 · CAROUSEL · 14:00 — Bahrain's 3 UNESCO World Heritage Sites
+## D14-02 · STORY · 12:00 — Qatar's Al Kaabi wins silver
 
-**Type:** info  ·  **Hook:** 3 مواقع بحرينية في قائمة اليونسكو
+**Type:** international  ·  **Hook:** الكعبي يحصد الفضة لقطر
 
-| Slide | Headline | Body |
-|---|---|---|
-| 1 | 3 مواقع بحرينية في قائمة اليونسكو | تعرف أسماءها؟ اسحب وشوف |
-| 2 | قلعة البحرين — 2005 | موقع مأهول منذ نحو 2300 قبل الميلاد، وكان عاصمة دلمون. |
-| 3 | مسار اللؤلؤ — 2012 | 17 مبنى في المحرق، و3 مغاصات للمحار، وقلعة بوماهر. |
-| 4 | مدافن دلمون — 2019 | 21 موقعاً تعود إلى الفترة 2200–1750 قبل الميلاد. |
-| 5 | أكثر من 10,000 تل | 6 حقول للتلال، منها 17 تلاً ملكياً. |
-| 6 | و6 مواقع على القائمة المبدئية | منها معبد باربار وجزر حوار. |
-| 7 | احفظها لخطة الويكند | شارك المنشور مع ربعك، وتابع وين اليوم. |
+- **Frame 1:** فضة لقطر 🥈 / الكعبي على المنصة  ·  sticker: `none` 
+- **Frame 2:** المغربي الحلّي تصدّر منافسات الرجال / والقطري الكعبي أخذ الفضة  ·  sticker: `none` 
+- **Frame 3:** مبروك للكعبي! الخليج كله يفتخر / التفاصيل بالبايو  ·  sticker: `none` 
 
 **Instagram caption:**
 
 ```
-3 مواقع بحرينية على قائمة اليونسكو للتراث العالمي 🏛️
+الكعبي من قطر يحقق الفضة في منافسات الرجال، والمغربي الحلّي تصدّر. مبروك! التفاصيل في الرابط بالبايو.
 
-قلعة البحرين (2005)
-مسار اللؤلؤ (2012)
-مدافن دلمون (2019)
-
-وفي القائمة المبدئية 6 مواقع، منها معبد باربار وجزر حوار.
-
-احفظ المنشور لخطة الويكند، وشارك ربعك اللي يحبون التاريخ 🤍
-
-#وين_اليوم #البحرين #تراث_البحرين #سياحة_البحرين #وجهات_سياحية
+#وين_اليوم #الخليج #قطر
 ```
 
 
 <details><summary>🎨 Visual prompts</summary>
 
-1. `ancient stone fort silhouette on the coast at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5`
-2. `ancient stone fort silhouette on the coast at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5`
-3. `textured heritage stone walls of a historic fort with palm trees, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, palm green, no people faces, no text, no logos --ar 4:5`
-4. `traditional dhow sails and old pearling-era stone buildings in Muharraq, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5`
-5. `rows of ancient burial mounds across desert landscape, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 4:5`
-6. `aerial view of vast field of burial mounds in warm light, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 4:5`
-7. `ancient temple stone foundations beside turquoise coastal water, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise, sand gold, no people faces, no text, no logos --ar 4:5`
-8. `sunset over Bahrain coastline with a dhow sail and modern skyline in the distance, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5`
+1. `silver medal on a ribbon resting on a podium step, soft golden light, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue, no people faces, no text, no logos --ar 9:16`
+2. `silver medal on a ribbon resting on a podium step, soft golden light, sleek modern setting, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue, no people faces, no text, no logos --ar 9:16`
+3. `three empty podium steps in warm light, confetti in the air out of focus, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 9:16`
+4. `silhouette from behind of an athlete raising a medal toward the sunset sky, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 9:16`
 
 </details>
 
-**B-roll search:** Bahrain fort aerial, Muharraq old buildings, ancient burial mounds desert aerial
+**B-roll search:** silver medal podium, athlete silhouette sunset, medal ceremony confetti
 
-**Assets expected in `assets/2026-11-11/`:** D14-03_1.jpg, D14-03_2.jpg, D14-03_3.jpg, D14-03_4.jpg, D14-03_5.jpg, D14-03_6.jpg, D14-03_7.jpg
+**Assets expected in `assets/2026-11-11/`:** D14-02_1.jpg, D14-02_2.jpg, D14-02_3.jpg
 
 **Sources:**
-- https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain
+- https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVVpUWU3NWZCVzN3Rm1WTTVvNDJwMG40ZnY1aFVOdTI1Y2ZWRF90MHM5SkFGS05naWpUUGl1Smt6ZTRWMjd6T2wwdTItS2Z4MUtDWUhkbmhzM1hpOC1GUFBfa2RBLUJaMlZTWlpjWElxcV9SQzd3bWlqeVB3dDZqS1BsRzZDdkFEemdCb1ZrX3dIUkFNV05kbnphODNEZV82dkZDUFdDWENNVGhTcjJQUkNBRnl1LUQ5?oc=5
 
 ---
 
-## D14-05 · STORY · 18:00 — Barbar Temple: three temples stacked
+## D14-03 · CAROUSEL · 14:00 — Weekend guide: Mazaya, Concours, Trophy
 
-**Type:** info  ·  **Hook:** معبد باربار: 3 معابد فوق بعض
+**Type:** local  ·  **Hook:** وين نروح الويكند؟ ٣ خيارات
 
-- **Frame 1:** معبد باربار / 3 معابد بُنيت فوق بعضها  ·  sticker: `none` 
-- **Frame 2:** بين الألفية 3 والألفية 2 قبل الميلاد / بطراز معماري يشبه السومري  ·  sticker: `none` 
-- **Frame 3:** على قائمة اليونسكو المبدئية / زرته قبل؟ التفاصيل بالبايو  ·  sticker: `none` 
+| Slide | Headline | Body |
+|---|---|---|
+| 1 | وين نروح الويكند؟ | 3 أشياء تحرّك البحرين هالأيام. تعرفها؟ |
+| 2 | معرض البحرين الدولي | «مزايا 2026» افتتح بنسخته الجديدة. |
+| 3 | رويال بحرين كونكور 2026 | آسيا موتورز كشفت عن 212 نافيجيتور جديدة كلياً. |
+| 4 | جو الخيل | أول سباق قروب 1 في كأس البحرين الدولي 2026. |
+| 5 | 13 حصان | هذا عدد المشاركين في السباق الأول. |
+| 6 | احفظ المنشور | شارك ربعك وتابع وين اليوم. التفاصيل في الرابط بالبايو. |
 
-**Audio:** soft cinematic oud and light percussion  
+**Instagram caption:**
+
+```
+وين نروح الويكند؟ 👀
+
+معرض «مزايا 2026» افتتح بنسخته الجديدة.
+رويال بحرين كونكور 2026: كشف 212 نافيجيتور جديدة.
+كأس البحرين الدولي 2026: أول سباق قروب 1 بـ 13 حصان.
+
+احفظ المنشور وشاركه مع ربعك. التفاصيل في الرابط بالبايو.
+
+#وين_اليوم #البحرين #فعاليات_البحرين #ويكند #VisitBahrain
+```
+
 
 <details><summary>🎨 Visual prompts</summary>
 
-1. `ancient stone temple foundations in layered stonework, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 9:16`
-2. `ancient stone temple foundations in layered stonework, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 9:16`
-3. `close-up of textured ancient limestone blocks with warm side light, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue sky, no people faces, no text, no logos --ar 9:16`
-4. `ancient temple ruins against a sunset sky, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16`
+1. `Bahrain skyline at golden hour with turquoise water and a dhow sail, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 4:5`
+2. `Bahrain skyline at golden hour with turquoise water and a dhow sail in the foreground, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 4:5`
+3. `spacious modern exhibition hall with bright lights and empty display stands, Bahrain, daytime, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue, no people faces, no text, no logos --ar 4:5`
+4. `row of glossy black luxury SUVs parked on a lawn at sunset, generic unbranded design, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 4:5`
+5. `racehorses galloping on a sand track seen from behind in motion blur, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and palm green, no people faces, no text, no logos --ar 4:5`
+6. `starting gates on a horse racing track at sunset, empty, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 4:5`
+7. `Bahrain waterfront at dusk with calm turquoise water and soft coral sky, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue, no people faces, no text, no logos --ar 4:5`
 
 </details>
 
-**B-roll search:** ancient temple ruins stone, archaeological site desert sunset, limestone blocks close up
+**B-roll search:** Bahrain skyline sunset, horse racing track, luxury SUV sunset, exhibition hall interior
+
+**Assets expected in `assets/2026-11-11/`:** D14-03_1.jpg, D14-03_2.jpg, D14-03_3.jpg, D14-03_4.jpg, D14-03_5.jpg, D14-03_6.jpg
+
+**Sources:**
+- https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q19wRnNyVmFUVi1EdjBlLXo5MlZUa3oyYUdJVnN6Y2tzd0d3cFBJby1rMmV2SGk2QXRvRldVYTQ5ZHc3NTVkUFAxX2I4UndqazBldG42dVpVai1yek1sVkVmbUNZLWEz?oc=5
+- https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QclRnemo1Sk5ESWNtclJEbXJnSEo4VWRBZDQ0ZnBlTVF6QmpQSkI4ZmZKNmFrOWxacUVPbnRqUERCWWdqbmhwTkZxVVZRekZuRkx4RHFPTnRTeXB4aHc?oc=5
+- https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWlGQnF2WHZTa0sxZklWeE1HR0NBbUE0am5mWUVJSkgwTHF6bnlHSERHTTc1OC1kV2ROcDVEUFNncGFlcy1aNnEwUHVQcEFTdkNEWk9pSmlOazlBSVcxeDNwN2dwVUotV19hbVl5dnhtandUMk5FSVFYbnI0VDlrWDJLSFo5N2NLYzREMktROFRZVWhPdzQyeld0T2NkQ1NjYUc1YTNoak5QMjNab19z?oc=5
+
+---
+
+## D14-04 · CAROUSEL · 16:00 — Dubai Shopping Festival returns
+
+**Type:** international  ·  **Hook:** مهرجان دبي للتسوق رجع!
+
+| Slide | Headline | Body |
+|---|---|---|
+| 1 | دبي: المهرجان رجع! | شنو اللي ينتظرك مع مهرجان دبي للتسوق؟ |
+| 2 | الإمارات تفتح الموسم | مهرجان دبي للتسوق يرجع من جديد. |
+| 3 | ستيف أوكي على المسرح | المهرجان يرجع مع حفلة ستيف أوكي. |
+| 4 | درونز في السماء | عروض درونز تضيء سماء المهرجان. |
+| 5 | 45 يوم عروض | تسوق على راحتك طول 45 يوم من العروض. |
+| 6 | احفظ وشارك | شارك ربعك اللي يحبون التسوق. التفاصيل في الرابط بالبايو. |
+
+**Instagram caption:**
+
+```
+مهرجان دبي للتسوق رجع! 🛍️
+
+حفلة ستيف أوكي.
+عروض درونز في السماء.
+45 يوم من العروض.
+
+احفظ المنشور وشاركه مع ربعك. التفاصيل في الرابط بالبايو.
+
+#وين_اليوم #الخليج #الامارات #وجهات_سياحية
+```
+
+
+<details><summary>🎨 Visual prompts</summary>
+
+1. `Dubai skyline at dusk with glowing towers and warm reflections, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 4:5`
+2. `Dubai skyline at dusk with glowing towers and warm reflections on water, UAE, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 4:5`
+3. `modern Dubai shopping boulevard with warm lights at evening, empty, UAE, cinematic, photorealistic, 35mm, warm golden light, pearl white and sunset coral, no people faces, no text, no logos --ar 4:5`
+4. `outdoor concert stage with colorful lights and crowd out of focus from behind, Dubai, night, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 4:5`
+5. `swarm of glowing drones forming light patterns over Dubai skyline at night, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 4:5`
+6. `stack of colorful empty shopping bags on a marble floor, warm light, Dubai mall interior, cinematic, photorealistic, 35mm, warm golden light, pearl white and sunset coral, no people faces, no text, no logos --ar 4:5`
+7. `Dubai marina at golden hour with calm water and soft skyline, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 4:5`
+
+</details>
+
+**B-roll search:** Dubai skyline night, drone light show, shopping mall evening, concert stage lights
+
+**Assets expected in `assets/2026-11-11/`:** D14-04_1.jpg, D14-04_2.jpg, D14-04_3.jpg, D14-04_4.jpg, D14-04_5.jpg, D14-04_6.jpg
+
+**Sources:**
+- https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGV3SEVaTzZ4dHptX1hycjBCUVgwV01rck5vMFE1R3lCNGU0cldCdzdvRHRHQ25IZVhVVS0wU1paODBsSENXdlBwY0lGaUVkRXFHZnZnMGR4Mk8yRkpHZUxHdzk5UW85b1gtSGx1bm4yOHRvTTl3bEFGUHdEQUEtSUNZbHJlTkxOQ0liZ0FzX29PU2k2SW5FTUxkdXFDMnF2MDUydzlKYlM3NWdiUG0zajFSQXM2eTktMk9GOVBB?oc=5
+
+---
+
+## D14-05 · STORY · 18:00 — Muharraq Nights on Pearling Path
+
+**Type:** local  ·  **Hook:** ديسمبر والمحرق تتزين
+
+- **Frame 1:** ديسمبر 2026 / ليالي المحرق جاية  ·  sticker: `none` 
+- **Frame 2:** مهرجان على طريق اللؤلؤ / في المحرق  ·  sticker: `none` 
+- **Frame 3:** المواعيد تنعلن قريب / تحطها بقائمتك؟ التفاصيل في الرابط بالبايو  ·  sticker: `none` 
+
+**Instagram caption:**
+
+```
+ليالي المحرق على طريق اللؤلؤ في ديسمبر 2026. المواعيد تتأكد قريب. التفاصيل في الرابط بالبايو.
+
+#وين_اليوم #البحرين #تراث_البحرين #فعاليات_البحرين
+```
+
+
+<details><summary>🎨 Visual prompts</summary>
+
+1. `narrow heritage stone alley in Muharraq lit by warm lanterns at dusk, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 9:16`
+2. `narrow heritage stone alley in Muharraq lit by warm lanterns at dusk, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 9:16`
+3. `textured coral stone wall and wooden doorway of a traditional Muharraq house at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 9:16`
+4. `silhouette from behind of a person walking down a lantern-lit heritage lane in Muharraq at dusk, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 9:16`
+
+</details>
+
+**B-roll search:** Muharraq heritage alley, Bahrain old house stone, lantern alley dusk
 
 **Assets expected in `assets/2026-11-11/`:** D14-05_1.jpg, D14-05_2.jpg, D14-05_3.jpg
 
 **Sources:**
-- https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain
+- https://www.bahrain-confidential.com/bahrain-events-2026-guide/
 
 ---
 
-## D14-06 · REEL · 20:30 — Bahrain startups: top 5 in MENA
+## D14-06 · REEL · 20:30 — Rolling Drag Nights start tomorrow
 
-**Type:** international  ·  **Hook:** البحرين بين أفضل 5 في الشرق الأوسط
+**Type:** local  ·  **Hook:** المحركات تشتغل بكرة!
 
 | Time | On-screen text | Voice-over | Visual |
 |---|---|---|---|
-| 0-2s | بين أفضل 5 في MENA 🚀 | البحرين بين أفضل 5 في المنطقة... في شنو؟ | Modern Manama skyline at dusk, slow push-in, warm golden light, glass towers reflecting coral sky |
-| 2-9s | قيمة منظومة الشركات الناشئة<br>1.6 مليار دولار | منظومة الشركات الناشئة في البحرين قيمتها 1.6 مليار دولار. | Hands typing on a laptop in a bright modern workspace, shallow depth of field, no faces |
-| 9-17s | +759% مقارنة بتقييم 2021 | ونمو بنسبة 759% مقارنة بتقييم 2021. | Animated upward line graph overlay on a blurred city skyline, deep sea blue and sand gold tones |
-| 17-26s | تقرير GSER 2026<br>Startup Genome | حسب تقرير GSER 2026 من Startup Genome. | Close-up of hands scrolling a tablet with abstract charts, out-of-focus office behind |
-| 26-34s | أفضل 5 أداء<br>أفضل 10 ذكاء اصطناعي<br>أفضل 15 بحث وتطوير | أفضل 5 في الأداء، أفضل 10 في الذكاء الاصطناعي، وأفضل 15 في البحث والتطوير. | Three quick cuts: skyline, hands on keyboard, silhouette from behind looking at a city view at sunset |
-| 34-38s | احفظ وشارك ربعك<br>تابع وين اليوم | شاركها مع ربعك اللي يحبون الأفكار الجديدة، وتابعنا لكل جديد. | Wide sunset shot of Bahrain waterfront with a dhow sail in the foreground |
+| 0-2s | المحركات تشتغل بكرة! 🔥 | المحركات تشتغل بكرة! | Extreme close-up of glowing car headlights switching on in the dark, Bahrain night |
+| 2-9s | Kano Motors Rolling Drag Nights | أول فعاليات Kano Motors Rolling Drag Nights تنطلق بكرة. | Slow pan across polished car bodies reflecting neon and street lights, no faces, no logos |
+| 9-17s | ليالي المحركات | للي يحبون جو السيارات، هذي سالفة تستاهل. | Hands gripping a steering wheel in dim light, then tail lights streaking in motion blur |
+| 17-26s | الويكند بدأ بدري | وين نروح الويكند؟ حط ربعك بالخطة من الحين. | Silhouettes from behind watching cars under floodlights, out of focus crowd |
+| 26-34s | التفاصيل بالبايو | لا يفوتك! التفاصيل في الرابط بالبايو، وتابع وين اليوم. | Final shot of a car's glowing taillights fading down a night road, space at bottom clear for UI |
 
 **Instagram caption:**
 
 ```
-البحرين بين أفضل 5 في الشرق الأوسط 🚀
+المحركات تشتغل بكرة! 🔥
 
-منظومة الشركات الناشئة بقيمة 1.6 مليار دولار (يوليو 2023 – ديسمبر 2025).
-نمو +759% مقارنة بتقييم 2021.
-حسب GSER 2026 من Startup Genome: أفضل 5 في الأداء، أفضل 10 في الذكاء الاصطناعي، وأفضل 15 في البحث والتطوير في المنطقة.
+أول فعاليات Kano Motors Rolling Drag Nights تنطلق بكرة.
+وين نروح الويكند؟ حط ربعك بالخطة.
 
-احفظ وشارك ربعك 🤍
+لا يفوتك، التفاصيل في الرابط بالبايو.
 
-#وين_اليوم #البحرين #ريادة_اعمال #إيجابية_البحرين #Bahrain
+#وين_اليوم #البحرين #فعاليات_البحرين #ويكند
 ```
 
 **TikTok caption:**
 
 ```
-البحرين بين أفضل 5 في الشرق الأوسط 🚀 منظومة الشركات الناشئة بقيمة 1.6 مليار دولار، ونمو +759% مقارنة بتقييم 2021 (GSER 2026). شاركها مع ربعك!
+أول فعاليات Kano Motors Rolling Drag Nights تنطلق بكرة 🔥 التفاصيل في الرابط بالبايو
 
-#وين_اليوم #البحرين #ريادة_اعمال #إيجابية_البحرين #Bahrain
+#وين_اليوم #البحرين #فعاليات_البحرين #ويكند
 ```
 
-**Audio:** upbeat modern khaleeji electronic beat with light percussion  
+**Audio:** upbeat khaleeji trap percussion remix with revving-engine energy  
 
 <details><summary>🎨 Visual prompts</summary>
 
-1. `modern Manama skyline with glass towers, Bahrain, dusk, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16`
-2. `hands typing on a laptop in a bright modern workspace, Bahrain, daytime, cinematic, photorealistic, 35mm, warm light, pearl white, sand gold, no people faces, no text, no logos --ar 9:16`
+1. `close-up of glowing car headlights on a dark road at night, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral, no people faces, no text, no logos --ar 9:16`
+2. `tail lights streaking in motion blur on a night road, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 9:16`
 
 </details>
 
-**B-roll search:** Manama skyline sunset, startup office hands typing laptop, business growth chart animation, Bahrain waterfront dhow sunset
+**B-roll search:** car headlights night, tail lights motion blur, hands steering wheel night, car show floodlights
 
 **Assets expected in `assets/2026-11-11/`:** D14-06.mp4
 
 **Sources:**
-- https://www.gccbusinessnews.com/gser-2026-bahrain-mena-startup-ecosystems/
+- https://news.google.com/rss/articles/CBMiXkFVX3lxTE42MkhmWVp6VGZmdHg4RUFBRHF2SFF0LWVxVHIwclk5Mnp5MUl3RExJbm1GZWRsTDNCZ05BUTROZkdWelBXN01MRlE5YTlPT2QzeDYwZXVQRnpGTE1fSGc?oc=5
+
+---
+
+## D14-07 · STORY · 21:30 — Riyadh Season sponsors Spanish Super Cup
+
+**Type:** international  ·  **Hook:** موسم الرياض يرعى السوبر الإسباني
+
+- **Frame 1:** موسم الرياض (السعودية) / يوصل إسطنبول  ·  sticker: `none` 
+- **Frame 2:** راعي كأس السوبر الإسباني 2027 / في إسطنبول  ·  sticker: `none` 
+- **Frame 3:** التذاكر متاحة الحين / تروح؟ التفاصيل بالبايو  ·  sticker: `none` 
+
+**Instagram caption:**
+
+```
+موسم الرياض يرعى كأس السوبر الإسباني 2027 في إسطنبول. التذاكر متاحة الحين. التفاصيل في الرابط بالبايو.
+
+#وين_اليوم #الخليج #السعودية
+```
+
+
+<details><summary>🎨 Visual prompts</summary>
+
+1. `Riyadh skyline at dusk with glowing towers, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16`
+2. `Riyadh skyline at dusk with glowing towers and warm sky, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16`
+3. `football stadium at night with bright floodlights and empty seats, cinematic, photorealistic, 35mm, warm golden light, palm green and sand gold, no people faces, no text, no logos --ar 9:16`
+4. `football resting on the center spot of a floodlit pitch at night, cinematic, photorealistic, 35mm, warm golden light, palm green and pearl white, no people faces, no text, no logos --ar 9:16`
+
+</details>
+
+**B-roll search:** Riyadh skyline dusk, football stadium floodlights night, football center spot
+
+**Assets expected in `assets/2026-11-11/`:** D14-07_1.jpg, D14-07_2.jpg, D14-07_3.jpg
+
+**Sources:**
+- https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtRXJXQmhkRzlqUWotLVV5aUVITGJLLXdlQ0JuVU1lck9wNGFmVndHMFJhOUpNek1rTEdhc0lZd3Y0d2ZHWW9YNVpsY1M1UGFuRFZQaHE5dEY1Y2c?oc=5
+
+---
+
+## D14-08 · CAROUSEL · 22:30 — Bahrain film and theatre momentum
+
+**Type:** local  ·  **Hook:** الفن البحريني في حراك واعد
+
+| Slide | Headline | Body |
+|---|---|---|
+| 1 | الفن البحريني في حراك واعد | شنو اللي صار بين السينما والمسرح؟ |
+| 2 | مهرجان البحرين السينمائي | المهرجان أسدل ستاره بعد أيام حافلة. |
+| 3 | حراك فني واعد | ختام المهرجان جاء وسط حراك فني وُصف بالواعد. |
+| 4 | مهرجان البحرين المسرحي | مسرحية «صالح للحياة» انعرضت على خشبته. |
+| 5 | جلجامش بروح جديدة | العرض مقتبس من ملحمة جلجامش. |
+| 6 | صراع الإرادات | تدور القصة حول صراع بين إرادتين. |
+| 7 | احفظ وشارك | شارك المنشور مع ربعك اللي يحبون الفن. تابع وين اليوم. |
+
+**Instagram caption:**
+
+```
+الفن البحريني في حراك واعد 🎭
+
+مهرجان البحرين السينمائي أسدل ستاره وسط حراك فني واعد.
+وفي مهرجان البحرين المسرحي: «صالح للحياة» عن ملحمة جلجامش، وتدور حول صراع إرادات.
+
+احفظ المنشور وشاركه مع ربعك. التفاصيل في الرابط بالبايو.
+
+#وين_اليوم #البحرين #إيجابية_البحرين #فعاليات_البحرين
+```
+
+
+<details><summary>🎨 Visual prompts</summary>
+
+1. `empty velvet theatre seats facing a softly lit stage, Bahrain, warm evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral, no people faces, no text, no logos --ar 4:5`
+2. `empty velvet theatre seats facing a softly lit stage, Bahrain, warm evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral, no people faces, no text, no logos --ar 4:5`
+3. `closing red curtain on a cinema screen with warm light, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral and sand gold, no people faces, no text, no logos --ar 4:5`
+4. `vintage film projector beam of light in a dark room, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 4:5`
+5. `theatre stage with a single spotlight on an empty wooden floor, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 4:5`
+6. `ancient clay tablet with carved patterns lit by warm light on a stone surface, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 4:5`
+7. `two long shadows facing each other on a stage floor, silhouettes from behind, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral, no people faces, no text, no logos --ar 4:5`
+8. `Bahrain waterfront at dusk with calm turquoise water and soft coral sky, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue, no people faces, no text, no logos --ar 4:5`
+
+</details>
+
+**B-roll search:** empty theatre stage spotlight, film projector light beam, red curtain cinema, ancient clay tablet
+
+**Assets expected in `assets/2026-11-11/`:** D14-08_1.jpg, D14-08_2.jpg, D14-08_3.jpg, D14-08_4.jpg, D14-08_5.jpg, D14-08_6.jpg, D14-08_7.jpg
+
+**Sources:**
+- https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbmFaZ0I5RDUwWmhHcktLejR3eEs5ZV9fZUs5dXppWTFPZjR2bUZib2FWYjNDLXYxbTlTLVZkaEp0bEhlbmJwQzc2a2dJN2JINjZCSjdkNGRSNURqSnd6WW5GMXgwR2Nkb1BtT28xU1g?oc=5
+- https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWnFHcUV1MTVyUHFCMkZFNjRIR0ZVZXB6OEhTeUQ4QUpqMjVoVzBxVU1mUmpIZXd6MHdYSjJrRVZXWXBLRmRNdkNWZU92eHZXaWZzeHdFYU9Yb0ZObjdJSkFuQQ?oc=5

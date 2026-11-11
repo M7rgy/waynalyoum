@@ -1,105 +1,153 @@
 [
   {
     "id": "d5e52b8c",
-    "decision": "hold",
-    "reason": "Festival dates still TBC; no confirmed date within 30 days.",
+    "decision": "approve",
+    "reason": "Positive community festival event in Muharraq; dates still to be confirmed.",
     "category": "event",
     "region": "bahrain",
     "risk": 1,
     "facts": [
       {
-        "fact": "Muharraq Nights festival on the Pearling Path, scheduled for December 2026; dates to be confirmed.",
+        "fact": "Muharraq Nights festival takes place on the Pearling Path in December 2026; dates to be confirmed.",
         "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
       }
     ],
     "event_date": null,
     "venue": "Pearling Path, Muharraq",
-    "angle": "ليالي المحرق على طريق اللؤلؤ.. حطها في تقويم ديسمبر"
+    "angle": "ديسمبر جاي والمحرق تتزين بليالي مهرجان على طريق اللؤلؤ، التفاصيل بالبايو"
   },
   {
-    "id": "a1d682db",
-    "decision": "hold",
-    "reason": "Exhibition dates and venue missing; royal-linked opening needs review.",
-    "category": "food",
-    "region": "bahrain",
-    "risk": 2,
-    "facts": [
-      {
-        "fact": "The Bahrain International Exhibition «Mraei 2026» opened in its new edition.",
-        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q19wRnNyVmFUVi1EdjBlLXo5MlZUa3oyYUdJVnN6Y2tzd0d3cFBJby1rMmV2SGk2QXRvRldVYTQ5ZHc3NTVkUFAxX2I4UndqazBldG42dVpVai1yek1sVkVmbUNZLWEz?oc=5"
-      }
-    ],
-    "event_date": null,
-    "venue": null,
-    "angle": "معرض مراعي 2026 يفتح أبوابه.. كل شي عن الأمن الغذائي والزراعة بالبحرين"
-  },
-  {
-    "id": "583ccc40",
+    "id": "729ade7d",
     "decision": "reject",
-    "reason": "Royal-led opening with official statements; patronage-focused.",
+    "reason": "Vague corporate hotel news with no Bahrain-specific details.",
     "region": "bahrain",
     "facts": [
       {
-        "fact": "بتكليف من الملك.. ناصر بن حمد يفتتح معرض البحرين الدولي «مراعي 2026»سموه: الأمن الغذائي ركيزة أساسية للتنمية الشاملة في البحرين - أخبار الخليج",
-        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1faE9qZUY0eVltSGotUmRRODhHNDdweXVMTWcwUno0Rm4yR3lHOEZKSFRGLVI5bWdvY0RpTHpqUEliOHR5aGNlVVZQTDVQaDVYSFVicFVJRjZGQUREOXc?oc=5"
+        "fact": "New Minor Hotels Openings in 2027 - HospiBuz",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWRBTldIN2ZvTVRyeS1LQ1Fha29UMnY2VlRTRk9fNjJsWDBqWDB5am1OSjFfMi04YUozYXBVNDJFM1h1ZW1sRjE5YldxVm4wZEJzQ0dDcC12czljT2hVNkcxM2R0TV96UkUwWHNITHcwNktUNk85WkM0ZEg3aFFLcjAyaHFLcloz0gGIAUFVX3lxTE1JZEFOV0g3Zm9NVHJ5LUtDUWFrb1QydjZWVFNGT182MmxYMGpYMHlqbU5KMV8yLThhSjNhcFU0MkUzWHVlbWxGMTliV3FWbjBkQnNDR0NwLXZzOWNPaFU2RzEzZHRNX3pSRTBYc0hMdzA2S1Q2TzlaQzRkSDdoUUtyMDJocUtyWjM?oc=5"
       }
     ]
   },
   {
-    "id": "1825a04d",
-    "decision": "hold",
-    "reason": "Event date and venue missing from source.",
+    "id": "661a8e5b",
+    "decision": "reject",
+    "reason": "Generic shopping listicle with no verifiable details supplied.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Top 5 things to shop for in Bahrain - samaa tv",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00dEo2Z1BFLVhIY0VFd2F3SG5iUDg2VExjd0lUeDNUaUdYTG5KQ01PZmJoZUVveGxiOFIzSXVEeVVQWGRCSE5xMjhzMm9hbm9kcGYxLWw4T2FUZW9zZWc2dW9HMmNYSk1WV3NPaVpjNHNoR2l0aFE?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "da8aba0d",
+    "decision": "reject",
+    "reason": "Administrative deadline notice with unclear organiser and low audience value.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "ILA CSR NOMINATIONS DEADLINE EXTENDED TO NOVEMBER 15 - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2RuMkdBaXVyNHRxVXVYd2FxbFg3d2lRNnB2Vi1iYVRxU29RaEdqbklnTkxBYjJUd3RLRThPaHBtMldQWkZUX2RXbEtkdjBGNnNaVmR1WDRHNTVYMFQ2RWphOUlTdHhIWnpzdTVnb2tpeDd3UktiUkI2Qm9PV2QxQlkxTWZqRHd5dTV3U0FwQ1E4dXVtMnBneg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d83d8404",
+    "decision": "reject",
+    "reason": "Foreign destination campaign, outside Bahrain and GCC scope.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "South Korea targets Middle Eastern tourists with new campaign - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOFpHQk9TNkJMM2ZReGZzM0RoN2hkZ3E2dEdjdm84YTJZOHVKaThRUFA4aUdMUUg4am1PNEJQT21teFVoXzdTZzd2NHJqeExfekoyaDBCQ0dWdWdBVEhhanplN1hBYXZHM2tpcHFnUnJwVWhCMm96elMzaVZ4OWpDSnFKLWdFQV9PMlA2cV9iLUR4OXBMR3owczl3MkZoak9aS2lRQw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "583ccc40",
+    "decision": "reject",
+    "reason": "Patronage-led opening centred on a royal figure's remarks.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "بتكليف من الملك.. ناصر بن حمد يفتتح معرض البحرين الدولي \"مراعي 2026\"سموه: الأمن الغذائي ركيزة أساسية للتنمية الشاملة في البحرين - Menafn",
+        "source_url": "https://news.google.com/rss/articles/CBMinAdBVV95cUxNMEFXTlV3RTMyR09wbkNLbTBHak5iTzNsWXBmUDVDdjBXZmhTb1NDX0dmSFVLdkt4X2llbWlUT3lFVTVmcEs2SHRJYVNMeDlpLV93T1d6cmM0cXQ4VUNfb0xPb2xSbjctLUJhM19hRXhkdmdNUU53dFJ6R2MzS2VzUk43R0Z5X3dOZ2IwN3BXbGtSZHJLTFFvTHh0ZXFFU3FqaEQ4UDJtUzBVdzVyS1ZVZFZ4VkUtakU5YjFZUnptZ3ktNXZWck1fVHNXWkFESGRMdWo2bnV4LXhRRXBCb2FKNlFlX1dleklrN19GUGNlbUhGaTdjLWs2bG5MNWxnVGNRZFBrMWFQdy1GZ2QtTnV1NjY4TmpuUGM4bVhIMzNjV0NoQW1hTXlMWUJ3T195LUNYWmZnQzQ4MkE1cVdTcTBHbTdMQzdESzNGbmpCNEg2N3pTajk5V2J4SDVBUTNDV2hZakRMOUZDYWZ0eUpNNXUtTUs3VkMwV0VoYWdDM0piWWh0ang1NUh5bkNENE4yYWVrOVNGeFVVb210MzdvYTNKTE14TDNBS19jVnNNRlJmc1B4ejNQY3Q5UGc0T2U2MlhjRUFYS1I2ZjdIYkJZcHNBbUdxLWk4WlpUSDFfOGljTERpaVlzM2hoclRYazdzdHRPLVVKdzRRT2RPWHRnX2I1TXJPSWJJNVRRbndRM19fX2FIa0lQWVJpbDVHQnZQSjEweklyZUJkWG5aNGduMHBMcGUwR2VJdkRnYU55LV9RMHBvbHJjS1lHMEJNSU1PZU1iRHhIaGlFY1VCcWFMVi1pVk0tTHhTRjh1VDYzd0twMUJocWdsOEliN0Nta3c4QUFINTVmNldLUXZKcm94SUFWQTFHbXVPc3ZNZG8tTzZFdFRiN0MwOUdiTjZFMllkNEgxWVZCcmsydExDMnZJanJmZERZVjZvZy00VG1fX00wWTQxS0RHdGtnNEZ5VnZIRUJCbUU1RmtWQTFsMkNLaGdqd2RCd2xxMWZUc2l5MEQ2Y3c4d0xLTEFNd09tREFpWkl6bkp1OGgxTy0yUThfbjRsaHhrdFVERGpWa19WUG9BUk9fa0tLcHQ4TzBXZnZqcHJXRWptRFdWcGJ2bWZJaTdvcGg5R255ZV9wUGlMX0FjTkZUbEhFRFA4bm5WM1cweHQ5SHA2bVAzMW1Cc3liUjdjcXVDemhaakJuLUFFc2YyQWRJRm1oeEJtamZudUc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "a1d682db",
+    "decision": "approve",
+    "reason": "Positive national exhibition opening; no official names needed.",
     "category": "event",
     "region": "bahrain",
     "risk": 1,
     "facts": [
       {
-        "fact": "Asia Motors reveals all-new Navigator models at the Royal Bahrain Concours 2026.",
+        "fact": "The Bahrain International Exhibition «Mazaya 2026» opened in its new edition.",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q19wRnNyVmFUVi1EdjBlLXo5MlZUa3oyYUdJVnN6Y2tzd0d3cFBJby1rMmV2SGk2QXRvRldVYTQ5ZHc3NTVkUFAxX2I4UndqazBldG42dVpVai1yek1sVkVmbUNZLWEz?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "معرض البحرين الدولي رجع بنسخة جديدة، وش الجديد فيه؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "1825a04d",
+    "decision": "approve",
+    "reason": "Positive car show reveal at a named Bahrain event.",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Asia Motors unveiled 212 all-new Navigator models at the Royal Bahrain Concours 2026.",
         "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QclRnemo1Sk5ESWNtclJEbXJnSEo4VWRBZDQ0ZnBlTVF6QmpQSkI4ZmZKNmFrOWxacUVPbnRqUERCWWdqbmhwTkZxVVZRekZuRkx4RHFPTnRTeXB4aHc?oc=5"
       }
     ],
     "event_date": null,
     "venue": null,
-    "angle": "أول نظرة على النافيجيتور الجديدة كلياً في رويال بحرين كونكور"
+    "angle": "عشاق السيارات، معرض رويال بحرين كونكور 2026 فيه أول ظهور لـ 212 نافيجيتور الجديدة، التفاصيل بالبايو"
   },
   {
     "id": "0b925f82",
-    "decision": "hold",
-    "reason": "Performance date and venue not stated in source.",
+    "decision": "approve",
+    "reason": "Positive theatre production at Bahrain Theatre Festival.",
     "category": "art",
     "region": "bahrain",
-    "risk": 1,
+    "risk": 0,
     "facts": [
       {
-        "fact": "«Saleh for Life», a play inspired by Gilgamesh on clashing wills, is part of the Bahrain Theatre Festival.",
+        "fact": "«Saleh Lil-Hayah» is a play based on Gilgamesh, about a clash of wills, staged at the Bahrain Theatre Festival.",
         "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWnFHcUV1MTVyUHFCMkZFNjRIR0ZVZXB6OEhTeUQ4QUpqMjVoVzBxVU1mUmpIZXd6MHdYSjJrRVZXWXBLRmRNdkNWZU92eHZXaWZzeHdFYU9Yb0ZObjdJSkFuQQ?oc=5"
       }
     ],
     "event_date": null,
     "venue": null,
-    "angle": "جلجامش على المسرح البحريني.. صراع الإرادات في مهرجان البحرين المسرحي"
+    "angle": "جلجامش على خشبة المسرح البحريني، سالفة قديمة بروح جديدة، التفاصيل بالبايو"
   },
   {
     "id": "21e5c94a",
-    "decision": "hold",
-    "reason": "Festival closing recap; exact dates and venue not stated.",
+    "decision": "approve",
+    "reason": "Positive recap of Bahrain Film Festival closing with artistic momentum.",
     "category": "art",
     "region": "bahrain",
-    "risk": 1,
+    "risk": 0,
     "facts": [
       {
-        "fact": "The Bahrain Film Festival has closed, amid what is described as a promising artistic movement.",
+        "fact": "The Bahrain Film Festival concluded amid what was described as promising artistic momentum.",
         "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbmFaZ0I5RDUwWmhHcktLejR3eEs5ZV9fZUs5dXppWTFPZjR2bUZib2FWYjNDLXYxbTlTLVZkaEp0bEhlbmJwQzc2a2dJN2JINjZCSjdkNGRSNURqSnd6WW5GMXgwR2Nkb1BtT28xU1g?oc=5"
       }
     ],
     "event_date": null,
     "venue": null,
-    "angle": "الستار يسدل على مهرجان البحرين السينمائي.. وش الجاي للسينما بالبحرين؟"
+    "angle": "مهرجان البحرين السينمائي خلص، والحراك الفني صار واضح، شنو الأفلام اللي تستاهل؟ التفاصيل بالبايو"
   },
   {
     "id": "ccebd7bf",
     "decision": "reject",
-    "reason": "Patronage-only honours ceremony led by royal figure.",
+    "reason": "Royal patronage-only honours news; royal figure is the subject.",
     "region": "bahrain",
     "facts": [
       {
@@ -110,20 +158,25 @@
   },
   {
     "id": "7b0130a2",
-    "decision": "reject",
-    "reason": "Duplicate of film festival closing story.",
+    "decision": "approve",
+    "reason": "Positive cultural news: Bahrain Film Festival closes with artistic momentum.",
+    "category": "art",
     "region": "bahrain",
+    "risk": 1,
     "facts": [
       {
-        "fact": "الستار يسدل على مهرجان البحرين السينمائي وسط حراك فني واعد - شبكة تواصل الإخبارية",
+        "fact": "The Bahrain Film Festival has closed, amid a promising artistic movement.",
         "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wOTFJMUgzajRSNGpZRHNiRmQ5OTlVRDhsRzFaWHF2MTJwV0Q5ZnctMzVwT3ZyeVNMTWE1U09acXRoaXdWb1lENXExSTRiLVYtOG9n?oc=5"
       }
-    ]
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مهرجان البحرين السينمائي أسدل ستاره… والسينما البحرينية ماشية بقوة. التفاصيل بالبايو"
   },
   {
     "id": "c48ecbc9",
     "decision": "reject",
-    "reason": "Vague corporate award; no event or verifiable details.",
+    "reason": "Vague corporate award PR with no event or public value.",
     "region": "bahrain",
     "facts": [
       {
@@ -134,42 +187,42 @@
   },
   {
     "id": "d1a60e81",
-    "decision": "hold",
-    "reason": "Race date and venue missing from source.",
+    "decision": "approve",
+    "reason": "Positive sports news: first Group 1 race of the Trophy.",
     "category": "sport",
     "region": "bahrain",
-    "risk": 1,
+    "risk": 0,
     "facts": [
       {
-        "fact": "The first Group 1 race of the Bahrain International Trophy 2026 has drawn 13 runners.",
+        "fact": "The first Group 1 race of the Bahrain International Trophy 2026 drew 13 runners.",
         "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWlGQnF2WHZTa0sxZklWeE1GR0JDbUE0am5mWUVJSkgwTHF6bnlHSERHTTc1OC1kV2ROcDVEUFNncGFlcy1aNnEwUHVQcEFTdkNEWk9pSmlOazlBSVcxeDNwN2dwVUotV19hbVl5dnhtandUMk5FSVFYbnI0VDlrWDJLSFo5N2NLYzREMktROFRZVWhPdzQyeld0T2NkQ1NjYUc1YTNoak5QMjNab19z?oc=5"
       }
     ],
     "event_date": null,
     "venue": null,
-    "angle": "13 خيل بأول سباق مجموعة 1.. كأس البحرين الدولية بدأت تسخن"
+    "angle": "13 حصان بأول سباق قروب 1… جو الخيل في البحرين يشتعل. التفاصيل بالبايو"
   },
   {
     "id": "a490a3b7",
-    "decision": "hold",
-    "reason": "Date and venue missing for upcoming U17 match",
+    "decision": "approve",
+    "reason": "Positive sports news: national U17 team in qualifiers.",
     "category": "sport",
     "region": "bahrain",
-    "risk": 1,
+    "risk": 0,
     "facts": [
       {
-        "fact": "Bahrain U17 face Brunei in AFC Asian Cup Qualifiers",
+        "fact": "Bahrain U17 national team face Brunei in the AFC Asian Cup qualifiers.",
         "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc094cEFIT2w4UU5kMDJPWXZ4RVpTMXFzV1l3RkN6QmRHczMwTVdmUUpNeDRXR3RTcHR1TlZKcG9HTlUyNFhySUNYazFyS3E2bzBCc0Q1LU9aVEZwMHJtM05RWGVnQ1FHR0ZtX1I2TkVYNU9ubl9nVDRIc0F4NkNZLVVnWTVoeEtIN2xzd0pqTVhIYXhCendn?oc=5"
       }
     ],
     "event_date": null,
     "venue": null,
-    "angle": "منتخب الناشئين يلاقي بروناي في تصفيات كأس آسيا، شجّع من بعيد وتابع الموعد"
+    "angle": "شبلنا الصغار يلاقون بروناي بتصفيات كأس آسيا. شجعهم من البيت. التفاصيل بالبايو"
   },
   {
     "id": "7a8d2e56",
     "decision": "reject",
-    "reason": "Celebrity-focused story, no event details",
+    "reason": "Celebrity-focused story about a named person's feelings.",
     "region": "bahrain",
     "facts": [
       {
@@ -181,7 +234,7 @@
   {
     "id": "188b565f",
     "decision": "reject",
-    "reason": "Government committee statement, no verifiable event details",
+    "reason": "Government committee statement; official-figure-led content.",
     "region": "bahrain",
     "facts": [
       {
@@ -193,7 +246,7 @@
   {
     "id": "4a76e885",
     "decision": "reject",
-    "reason": "Diplomatic and official ministerial participation",
+    "reason": "Diplomacy: ambassador attending ministerial council.",
     "region": "bahrain",
     "facts": [
       {
@@ -203,74 +256,26 @@
     ]
   },
   {
-    "id": "00464dda",
-    "decision": "reject",
-    "reason": "Outside scope: US location",
-    "region": "bahrain",
-    "facts": [
-      {
-        "fact": "Popular chicken finger chain announces opening of new Birmingham-area location - AL.com",
-        "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3dfQjZoNk1qTkU3dzZwRzVSY2d1cnAzaC1xSUM4cW03ZVR4djM0Xy1KbnpLb1BVanVZUWt5VHVxT3RNNkdyRmROVVJzMi1vMEJkWWpYWlllOXYwaDdIOExmRDB3ZUN4YWZuOGU1UThZeEJYZnRuV3RSN0pOdFpRcTRGY2s3SWZrb0JwVU1MNFpLSFd6dVVRU3Bwa1JERmFhQWxiSlNiU3dHR1RyU1pfVENCUjRlS1ItNGQ3X05yZkRlSTQy?oc=5"
-      }
-    ]
-  },
-  {
-    "id": "c45e638d",
-    "decision": "reject",
-    "reason": "Celebrity-focused story",
-    "region": "bahrain",
-    "facts": [
-      {
-        "fact": "ماذا قالت يسرا بعد تكريمها في مهرجان البحرين السينمائي؟ - https://hawacom.tv/",
-        "source_url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNdmhPLS1KZ3FJRVY2MmZvM3VXeGpFYVd3RnNtUEp5YjBYWHVxOFI2YXZ1ODlfdGc2SHZMLUI4LVktWF9SYXVHTXBqYy1lODVhcmNxdnhRWkU0OWhZNFNrTU5HMVJNaGZKeEF4TWd6X01la282a19fRGlvWUotWUM3YlN4dmJRV2lSUmhkRlpzYXoycWlVTlZNbjNaOE5GOWRxTnI0OFh6TFN5MjFjSGFsbGRpNERoejc4WUlNdFc0UkdheDFzeFBvYWNRbmE5aVEyUVg4M1cyb0l5Z29hLXR4bTI0N3g3b2UwRzNEZ2Z4dXhfdTlEN2ZSNXFSSHlObGZCQVlxNWNqcW9saDdFRlVTdExvVnZFSkZPRjNKbnkyOTRkcTU4Wjk4STlMN1VWZFJxRU5zeTdEaDZscEwwZm5lYXBmNlZkNWU0cGdtM0FXX05KWVNnQi1nbmdJZ05vaEc4eXctaWtCTVZFM2pFMm5xY0twNWJLZUtNTmtZMnEyT1UxWC0xY2RkRmd4LUZZMDM0cUVxWENULVFYWTZCYk5VQ19rZ3k3bnVwQ2pmcVVHMEI4a3FZV0VRM3VHUTRkZmNQVzI0?oc=5"
-      }
-    ]
-  },
-  {
-    "id": "426e8a3e",
-    "decision": "reject",
-    "reason": "Negative safety-related cancellation news",
-    "region": "bahrain",
-    "facts": [
-      {
-        "fact": "Formula 1 Cancels Two Key Early-Season Races, Cites Safety Concerns - TicketNews",
-        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVpZQ2dlZU04NmlHWXV5UVpMUVJXREowZUlRYndXd2R4U0w4NUdqTC1WTWNtQ0RKaDdqbGdvTlRrbkJOaGlsYjZpd0FBSVZ5RTh3dHh4a09QX3BWbWpwb0p0enRWR01yYUpoZlBJRENhcHpQUzFXNkVtaXFPMmxHOXBVLWlHYkwwbWVjaA?oc=5"
-      }
-    ]
-  },
-  {
-    "id": "187bcf1e",
-    "decision": "reject",
-    "reason": "Outside scope: US location",
-    "region": "bahrain",
-    "facts": [
-      {
-        "fact": "New Den10 Cafe in Denton eyes Christmastime opening - Denton Record-Chronicle",
-        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWp2cGpjWE5XbHkyVU5YQ2dvVnRWTEdRNWJuQzJJRDNJZGV4aHdPa1hWcG5sN0t2TC0tTWtHQ1hqZnd5N3lWa3ZGeXk5WmszclAxMW5RUnZPU0l4U2RQOUJqa0QxUC0zalppSXI3NDdQVTJpME05dkdRb3hIMkdQRWl4cURDa2pkMUJNdDRJRjM0aGtNWXlxUTJIRmp1aWlVNDNIQnZJQ3Z1VDBuR0hTQ0ZzTHBBRUphMU9hVmdtX0RDUUlmNnEwY3pEZw?oc=5"
-      }
-    ]
-  },
-  {
-    "id": "8137d0db",
-    "decision": "hold",
-    "reason": "Event recap, exact dates and venue unconfirmed",
-    "category": "event",
+    "id": "cf674c65",
+    "decision": "approve",
+    "reason": "Positive public contest in Dubai parks with cash prizes.",
+    "category": "community",
     "region": "gcc",
     "risk": 1,
     "facts": [
       {
-        "fact": "Automechanika Dubai concluded its first day with discussions on the future of the mobility sector",
-        "source_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPQUl1RTl1TmYyajFidE9oektVWkdhRHBUUnJydFlLZE02T1MwU0N0SE1aVUJ6MTIxTVVaSlFjTnBiOTdzbThlWUhQMDRRcWVVdS1iODREd0JaRUk5UDdiZWk0ZzE5aS1mZFRMdXFLazF1NnRUdXA3YTFoaTBQNnFSUnpRV0ZzYUFTUXhObGc3OUFuMVFWRDJoSVVHSlVZb0tSalo5UjcxdTNNRTNJREQ5NGdDWXdTZElndXpCZGh3cUxNMzVuc21RZGdleEdPN3ZtMHpQVkhBR2stQWNoX1NHa2NKdDFPdlRzMFR6YWsycmRsV0ZWUFFfTHJHaENIYkdjcFhPdE1uNkRuLWFabzFnY0hnSDAwdzNsalpWLWtwMktxbXBjbVhDZFlNNHRPaVRxLTU4NDhGd19WLTlPRlJEaTNMSWU0MHZMbjBJUlpIX05ROUpLUlRkZVRBU2owU3M?oc=5"
+        "fact": "A Dubai park naming contest offers cash prizes to winners.",
+        "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXRlMU90bF8wdE1aZ2xOU1Q3VU9PSlR6MlBGR1B5MXNOSWtEeEFHWGI0eW1UYXZxbjBtR1c4MTBwUkNzbnV6bjd3QWNFYm1WWTB2clNycW1kcTkyUlpUaURwQjNlLXVRZmVmZEdoLVYyRmY1Q2dKOGEzZ0Q4am9oVE5KOXlRQ01KckZiTVhYcTY1bnE00gGnAUFVX3lxTE5COV85ZXZsODgwcTdFWnZzMnBsTmVBOEkwcFFzTFJNWlA2Vnd1NWFoQ09ZdUtpQjN5cFNHWjRORFlFV0x2cHZGRDltd1lFMURKMms0QTk3cmJNQm9WZlhlY0VEbEtxZE03dGxKbjZzUFg2N1NzZHdKeDBlMTJDRzFUck9RUlNBR3lrUzVqUlZJOXRYWklpcmd2QjZZbFBTSTQzOVljNDlj?oc=5"
       }
     ],
     "event_date": null,
-    "venue": "دبي",
-    "angle": "معرض أوتوميكانيكا دبي.. وين مستقبل التنقل؟ التفاصيل بالبايو"
+    "venue": null,
+    "angle": "سمّ حديقة في دبي واربح جوائز نقدية… شلون؟ التفاصيل بالبايو"
   },
   {
     "id": "af939e81",
     "decision": "reject",
-    "reason": "Royal figure as subject",
+    "reason": "Royal figure is the subject of the story.",
     "region": "gcc",
     "facts": [
       {
@@ -281,11 +286,11 @@
   },
   {
     "id": "1e27c624",
-    "decision": "hold",
-    "reason": "Sports result; event date and venue not stated in text.",
+    "decision": "approve",
+    "reason": "Qatari athlete wins silver in international competition; positive sport achievement.",
     "category": "sport",
     "region": "gcc",
-    "risk": 1,
+    "risk": 0,
     "facts": [
       {
         "fact": "Morocco's El Halli topped the men's event; Qatar's Al Kaabi won silver.",
@@ -294,29 +299,33 @@
     ],
     "event_date": null,
     "venue": null,
-    "angle": "فخر قطري بميدالية فضية، والتفاصيل في الرابط بالبايو"
+    "angle": "قطري يحصد الفضة ويفتخر فيه الخليج كله: التفاصيل بالبايو"
   },
   {
     "id": "f34db46b",
-    "decision": "hold",
-    "reason": "Festival dates and venue details missing from text.",
+    "decision": "approve",
+    "reason": "Dubai Shopping Festival returns with entertainment and deals; positive tourism event.",
     "category": "event",
     "region": "gcc",
     "risk": 1,
     "facts": [
       {
-        "fact": "Dubai Shopping Festival returns with Steve Aoki, drone shows and 45 days of deals.",
+        "fact": "Dubai Shopping Festival returns with Steve Aoki performance.",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGV3SEVaTzZ4dHptX1hycjBCUVgwV01rck5vMFE1R3lCNGU0cldCdzdvRHRHQ25IZVhVVS0wU1paODBsSENXdlBwY0lGaUVkRXFHZnZnMGR4Mk8yRkpHZUxHdzk5UW85b1gtSGx1bm4yOHRvTTl3bEFGUHdEQUEtSUNZbHJlTkxOQ0liZ0FzX29PU2k2SW5FTUxkdXFDMnF2MDUydzlKYlM3NWdiUG0zajFSQXM2eTktMk9GOVBB?oc=5"
+      },
+      {
+        "fact": "The festival features drone shows and 45 days of deals.",
         "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGV3SEVaTzZ4dHptX1hycjBCUVgwV01rck5vMFE1R3lCNGU0cldCdzdvRHRHQ25IZVhVVS0wU1paODBsSENXdlBwY0lGaUVkRXFHZnZnMGR4Mk8yRkpHZUxHdzk5UW85b1gtSGx1bm4yOHRvTTl3bEFGUHdEQUEtSUNZbHJlTkxOQ0liZ0FzX29PU2k2SW5FTUxkdXFDMnF2MDUydzlKYlM3NWdiUG0zajFSQXM2eTktMk9GOVBB?oc=5"
       }
     ],
     "event_date": null,
     "venue": null,
-    "angle": "٤٥ يوم عروض ودرون شوز، يا هلا بالتسوق في دبي"
+    "angle": "45 يوم تسوق ودرونز في السماء: الويكند الجاي وين؟"
   },
   {
     "id": "093e27da",
     "decision": "reject",
-    "reason": "Outside GCC scope; political figures as subject.",
+    "reason": "Political figures and government ministers as subject.",
     "region": "gcc",
     "facts": [
       {
@@ -327,37 +336,46 @@
   },
   {
     "id": "7e8b14ac",
-    "decision": "reject",
-    "reason": "Sponsorship-focused; event held in Istanbul, outside GCC.",
+    "decision": "approve",
+    "reason": "Riyadh Season sponsors Spanish Super Cup event with tickets on sale.",
+    "category": "sport",
     "region": "gcc",
+    "risk": 1,
     "facts": [
       {
-        "fact": "موسم الرياض يرعى كأس السوبر الإسباني 2027 في إسطنبول وطرْح التذاكر متاح - https://alsaudi.news/",
+        "fact": "Riyadh Season sponsors the 2027 Spanish Super Cup in Istanbul.",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtRXJXQmhkRzlqUWotLVV5aUVITGJLLXdlQ0JuVU1lck9wNGFmVndHMFJhOUpNek1rTEdhc0lZd3Y0d2ZHWW9YNVpsY1M1UGFuRFZQaHE5dEY1Y2c?oc=5"
+      },
+      {
+        "fact": "Tickets for the 2027 Spanish Super Cup are now on sale.",
         "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtRXJXQmhkRzlqUWotLVV5aUVITGJLLXdlQ0JuVU1lck9wNGFmVndHMFJhOUpNek1rTEdhc0lZd3Y0d2ZHWW9YNVpsY1M1UGFuRFZQaHE5dEY1Y2c?oc=5"
       }
-    ]
+    ],
+    "event_date": null,
+    "venue": "Istanbul",
+    "angle": "كأس السوبر الإسباني يوصل إسطنبول بنكهة سعودية: التذاكر متاحة، التفاصيل بالبايو"
   },
   {
     "id": "4ec37314",
-    "decision": "hold",
-    "reason": "Concert date and venue not confirmed in text.",
+    "decision": "approve",
+    "reason": "Artist releases new song ahead of Riyadh Season performance; positive arts news.",
     "category": "art",
     "region": "gcc",
-    "risk": 2,
+    "risk": 1,
     "facts": [
       {
-        "fact": "Rashed Al Majed dedicates new song \"Nabd Al Quloub\" to fans ahead of a Riyadh Season show.",
+        "fact": "Rashed Al Majed releases new song \"Nabd Al Quloob\" for his audience.",
         "source_url": "https://news.google.com/rss/articles/CBMipARBVV95cUxNZ0otYzRDVVMxblNPZmVweWs1VVo2azhjQTlQMXEzSzVQWmdadTVrTi14MHJSNzRoQ29vWVVVWExwR3NHUnpIbjBNbmFQMl9NWVpPNmlIMk1rbG9ITV9FckFkQWpqQm1IXy1Tak1RTFYza2hsTWNjVnlMZG9PODRhN1NkcnZzb05uamFJMXMxQmZoSUdjTFd2MVhCSVJOQkE5Qzdnc1ZTcjFkc2U5enhTeWtkY1lFYjZDMDlOQmZuRDVwVWZ5WEtSRTNkaGlrVnE2TFExQXJyRE9kLTY1U0hHeXN2aUREYjZnQUx2T1RRTVFPVXhoSzA5VmVLY3liVHRlY05xalF6aXp0UTJQVmV3WklyaGVuSjNrUWo4bllhUzdxaDQ2UFFxM002bHprOFJmYWVZV0J5d0IwRFh6aW1kbGlBUWxpVDJXdi1ZRE9XeUtENXpaSktMcWl6bW5qZjczZDkwXzFYWjRPZk52aDZveGdMMlctanc4M2xoYk01QTdsR2d6MkxRelViV0xoZXU0NmFCa2V3T0JxVEhvOV9xVzZaVGlPX1ItYU42NzNwWGpBRmJNVFpld0NoRWRxSkxTNW42SFo5Mkx1RHdVWjl4SXBOb1BUSEpkekRFR0xhMUxrbmFyWVVpUWdlbVNaZFRpekZrU3BQQ1dETHNmdUhlcEJpY3dGNm9WMTNkTUNGSkozMkVMbjAwS3RHOUlCd0FnOHlYaA?oc=5"
       }
     ],
     "event_date": null,
     "venue": null,
-    "angle": "أغنية جديدة قبل الحفلة، والتفاصيل بالبايو"
+    "angle": "أغنية جديدة قبل الحفلة: نبض القلوب يبدأ من الحين"
   },
   {
     "id": "63e06e88",
     "decision": "reject",
-    "reason": "Sponsorship-focused; event held in Istanbul, outside GCC.",
+    "reason": "Duplicate of Spanish Super Cup ticket story.",
     "region": "gcc",
     "facts": [
       {
@@ -368,36 +386,31 @@
   },
   {
     "id": "5ea6b5d8",
-    "decision": "hold",
-    "reason": "General feature; no specific event date or venue.",
-    "category": "event",
+    "decision": "reject",
+    "reason": "Vague corporate PR with no concrete facts.",
     "region": "gcc",
-    "risk": 1,
     "facts": [
       {
-        "fact": "Riyadh Season is shaping a city that moves to the rhythm of art.",
+        "fact": "«موسم الرياض» يرسم مدينة تتحرك على إيقاع الفن - جريدة الجزيرة",
         "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzSDNOUHo0VGR0bVM5VEZqQmhYdEV1bV81WVd0YU5CMHdQLXlEeG5sbGpDMklncy0wMGc2c3FRUEZrZGpNNXh4QjVDQjktXzdodUFWUktCaXhWUG1w?oc=5"
       }
-    ],
-    "event_date": null,
-    "venue": null,
-    "angle": "موسم الرياض يحوّل المدينة لمسرح فن مفتوح"
+    ]
   },
   {
     "id": "ce59cb89",
-    "decision": "hold",
-    "reason": "Start date relative ('tomorrow'); venue not stated.",
+    "decision": "approve",
+    "reason": "Motorsport night series launches tomorrow; positive event news.",
     "category": "event",
     "region": "bahrain",
-    "risk": 1,
+    "risk": 0,
     "facts": [
       {
-        "fact": "First events of Kanoo Motors Rolling Drag Nights launch tomorrow.",
+        "fact": "The first events of Kano Motors Rolling Drag Nights start tomorrow.",
         "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42MkhmWVp6VGZmdHg4RUFBRHF2SFF0LWVxVHIwclk5Mnp5MUl3RExJbm1GZWRsTDNCZ05BUTROZkdWelBXN01MRlE5YTlPT2QzeDYwZXVQRnpGTE1fSGc?oc=5"
       }
     ],
-    "event_date": null,
+    "event_date": "2026-11-11",
     "venue": null,
-    "angle": "ليالي السرعة تبدأ قريبًا، شباب السيارات لا يفوتون"
+    "angle": "محركات وأضواء ومتابعين: ليالي الدراق تنطلق بكرة، التفاصيل بالبايو"
   }
 ]
