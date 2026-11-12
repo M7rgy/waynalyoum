@@ -1,0 +1,130 @@
+[
+  {
+    "post_id": "D15-01",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-12T07:00:00Z",
+    "time_local": "10:00",
+    "content": "",
+    "assets": [
+      "D15-01_1.jpg",
+      "D15-01_2.jpg",
+      "D15-01_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D15-02",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-12T09:00:00Z",
+    "time_local": "12:00",
+    "content": "",
+    "assets": [
+      "D15-02_1.jpg",
+      "D15-02_2.jpg",
+      "D15-02_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D15-03",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-12T11:00:00Z",
+    "time_local": "14:00",
+    "content": "فعاليات اليوم العالمي للسكري في البحرين 💙\nبالتعاون مع جمعية السكري البحرينية\nفعاليات توعوية للعائلة\nوين نروح الويكند؟ التاريخ والمكان في الرابط بالبايو.\nاحفظ المنشور وشاركه مع أهلك.\n\n#وين_اليوم #البحرين #فعاليات_البحرين #إيجابية_البحرين #ويكند",
+    "assets": [
+      "D15-03_1.jpg",
+      "D15-03_2.jpg",
+      "D15-03_3.jpg",
+      "D15-03_4.jpg",
+      "D15-03_5.jpg",
+      "D15-03_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D15-04",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-12T13:00:00Z",
+    "time_local": "16:00",
+    "content": "دبي – الإمارات 🚗\nاختتام اليوم الثاني من معرض أوتوميكانيكا دبي\nوتوقيع شراكة إستراتيجية عن توطين صناعة الإطارات\nقطاع السيارات يتحرك في الخليج\nالتفاصيل في الرابط بالبايو.\nاحفظ وشارك ربعك محبي السيارات.\n\n#وين_اليوم #الخليج #الامارات #وجهات_سياحية",
+    "assets": [
+      "D15-04_1.jpg",
+      "D15-04_2.jpg",
+      "D15-04_3.jpg",
+      "D15-04_4.jpg",
+      "D15-04_5.jpg",
+      "D15-04_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D15-06",
+    "platform": "instagram",
+    "format": "reel",
+    "schedule_utc": "2026-11-12T17:30:00Z",
+    "time_local": "20:30",
+    "content": "«دارتس بحرين ماسترز 2027» جاي 🎯\nBIC وCBX أطلقوا البطولة رسمياً.\nالمواعيد والتذاكر؟ التفاصيل في الرابط بالبايو.\nاحفظ المنشور وشارك ربعك اللي يحبون الدارتس.\n\n#وين_اليوم #البحرين #فعاليات_البحرين #Bahrain",
+    "assets": [
+      "D15-06.mp4"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D15-06",
+    "platform": "tiktok",
+    "format": "reel",
+    "schedule_utc": "2026-11-12T17:30:00Z",
+    "time_local": "20:30",
+    "content": "«دارتس بحرين ماسترز 2027» جاي 🎯 BIC وCBX أطلقوا البطولة. التفاصيل بالبايو. شارك ربعك!\n\n#وين_اليوم #البحرين #فعاليات_البحرين #Bahrain",
+    "assets": [
+      "D15-06.mp4"
+    ],
+    "settings": {
+      "privacy_level": "PUBLIC_TO_EVERYONE",
+      "duet": true,
+      "stitch": true,
+      "comment": true,
+      "content_posting_method": "DIRECT_POST"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D15-08",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-12T19:30:00Z",
+    "time_local": "22:30",
+    "content": "بطاقة مدفوعة مسبقاً جديدة في البحرين 💳\nGPS وEazyPay وMastercard يتشاركون لإطلاق البرنامج\nالدفع صار أسهل\nالتفاصيل في الرابط بالبايو.\nاحفظ وشارك ربعك.\n\n#وين_اليوم #البحرين #ريادة_اعمال #إيجابية_البحرين #Bahrain",
+    "assets": [
+      "D15-08_1.jpg",
+      "D15-08_2.jpg",
+      "D15-08_3.jpg",
+      "D15-08_4.jpg",
+      "D15-08_5.jpg",
+      "D15-08_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  }
+]

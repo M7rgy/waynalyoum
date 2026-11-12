@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-12",
+  "weekday": "Thursday",
+  "theme": "weekend guide + countdowns (applies to the Bahrain posts)",
+  "rules": [
+    "fill every slot with a fact from its own region: bahrain slots -> region=bahrain facts, gcc slots -> region=gcc facts",
+    "if there is no approved fact for a slot's region, OMIT that slot (never invent, never swap regions)",
+    "the 3 gcc posts should cover different countries when possible",
+    "post_type: gcc posts are always 'international'; bahrain posts are 'info' or 'local' (or 'international' for Bahrain on the world stage)",
+    "max 2 posts from the same category; stories carry their question in the text (no stickers)",
+    "Thursday/Friday: include a 'وين نروح الويكند؟' angle",
+    "dated events must include date + venue + how to get tickets"
+  ],
+  "slots": [
+    {
+      "post_id": "D15-01",
+      "slot": "bh_story_1",
+      "format": "story",
+      "region": "bahrain",
+      "time_local": "10:00",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    {
+      "post_id": "D15-02",
+      "slot": "gcc_story_1",
+      "format": "story",
+      "region": "gcc",
+      "time_local": "12:00",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    {
+      "post_id": "D15-03",
+      "slot": "bh_carousel_1",
+      "format": "carousel",
+      "region": "bahrain",
+      "time_local": "14:00",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    {
+      "post_id": "D15-04",
+      "slot": "gcc_carousel",
+      "format": "carousel",
+      "region": "gcc",
+      "time_local": "16:00",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    {
+      "post_id": "D15-05",
+      "slot": "bh_story_2",
+      "format": "story",
+      "region": "bahrain",
+      "time_local": "18:00",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    {
+      "post_id": "D15-06",
+      "slot": "bh_reel",
+      "format": "reel",
+      "region": "bahrain",
+      "time_local": "20:30",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ]
+    },
+    {
+      "post_id": "D15-07",
+      "slot": "gcc_story_2",
+      "format": "story",
+      "region": "gcc",
+      "time_local": "21:30",
+      "platforms": [
+        "instagram"
+      ]
+    },
+    {
+      "post_id": "D15-08",
+      "slot": "bh_carousel_2",
+      "format": "carousel",
+      "region": "bahrain",
+      "time_local": "22:30",
+      "platforms": [
+        "instagram"
+      ]
+    }
+  ]
+}
