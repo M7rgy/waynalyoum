@@ -1,0 +1,524 @@
+{
+  "date": "2026-11-13",
+  "posts": [
+    {
+      "post_id": "D16-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "birds-falcons-cats-tents-family",
+      "title_internal": "Bird, falcon and cat tents for families",
+      "hook": "وين نروح الويكند؟ خيام الطيور للعوائل",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "وين نروح الويكند؟\nخيام الطيور والصقور والقطط 🦅",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "falcon perched on a leather glove seen from behind with a soft blurred family tent area, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, palm green, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "تجربة تفاعلية مع أكثر من 850 طير\nعايلتكم جاهزة؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: صقور ولا قطط؟ (Ali can add by hand)",
+          "visual_prompt": "colorful birds on perches inside a shaded tent, children's small hands reaching out softly out of focus, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, coral, palm green, sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#ويكند"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "falcon perched on a leather glove seen from behind, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, palm green, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "falcon close up",
+        "colorful birds aviary",
+        "family outdoor tent event"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RNUVfMXVYdDVhcEdxTkhKdWx4cTZ5WDcxR3FTbTVoTlYyMFBUSUJQazdaeFVncE1GNGY3b2p6aVZQRkNNeVN6UWN0cHpIMkcwbHl0bldCeFo1QTgtbDBYU1FWaw?oc=5"
+      ]
+    },
+    {
+      "post_id": "D16-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "kuwait-towers-unesco-listing",
+      "title_internal": "Kuwait seeks UNESCO listing for towers",
+      "hook": "الكويت تسعى لإدراج أبراجها في اليونسكو",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "الكويت 🇰🇼\nتسعى لإدراج أبراجها في قائمة اليونسكو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "slender towers silhouetted against a sunset coastal skyline, Kuwait City, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "تراث يستاهل نعرفه\nشنو رايكم، تستاهل المكان؟",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: أكيد تستاهل / نبي نعرف أكثر",
+          "visual_prompt": "textured stone wall detail with towers softly blurred behind, Kuwait, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, turquoise sea, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#الخليج",
+        "#الكويت",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "slender towers silhouetted against a sunset coastal skyline, Kuwait City, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Kuwait City skyline sunset",
+        "Kuwait coast towers",
+        "Gulf heritage architecture"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmpiZzM5WkdMTEg5cHRYaGVsR0E2NXNLaUw4dElxVVJoM0Z1S2JOaERhaXJvWW4wdk80Sm85MFhVQU5uLUVwcFhzbjRhbmhqNmgyQzJHTFk2ZGQ3UVducERHMXhDdXZhQlkxSmlZa093R28wY0ZFdzF1STFWXzZKSnZKS3ZDSGxPWEpF?oc=5"
+      ]
+    },
+    {
+      "post_id": "D16-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "nobu-reef-island-bahrain",
+      "title_internal": "Nobu hotel planned for Reef Island",
+      "hook": "«Nobu» جاي البحرين… وين بالضبط؟",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "«Nobu» جاي البحرين… وين بالضبط؟",
+          "body": "اسم عالمي في الضيافة والمطاعم، وخطته للبحرين تكبر. اسحب وتعرف",
+          "visual_prompt": "modern waterfront skyline with calm turquoise water at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "شراكة جديدة",
+          "body": "«Nobu» أعلنت شراكة مع Infracorp للبحرين.",
+          "visual_prompt": "two hands shaking over a sunlit table with sea view blurred behind, Bahrain, afternoon, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "فندق",
+          "body": "الخطط تشمل فندق «Nobu» في البحرين.",
+          "visual_prompt": "elegant boutique hotel facade glowing at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "مطعم",
+          "body": "ومعاه مطعم ضمن نفس المشروع.",
+          "visual_prompt": "refined restaurant table setting by a window with sea view, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "وسكن",
+          "body": "والمشروع يشمل أيضاً وحدات سكنية.",
+          "visual_prompt": "modern residential tower with balconies over blue water, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "الموقع: جزيرة ريف",
+          "body": "فندق ومساكن «Nobu» مخططة لجزيرة ريف في البحرين.",
+          "visual_prompt": "island waterfront with palm trees and calm sea at sunset, Reef Island, Bahrain, cinematic, photorealistic, 35mm, warm golden light, palm green, turquoise water, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "تابع وشارك",
+          "body": "التفاصيل في الرابط بالبايو. احفظ البوست وشاركه مع ربعك",
+          "visual_prompt": "dhow sail silhouette on turquoise water at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "«Nobu» جاي البحرين 👀\nأعلنت شراكة مع Infracorp للبحرين.\nالخطط تشمل فندق ومطعم وسكن.\nوالموقع المخطط: جزيرة ريف.\nالتفاصيل في الرابط بالبايو.\nاحفظ البوست وشاركه مع ربعك.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#سياحة_البحرين",
+        "#وجهات_سياحية",
+        "#VisitBahrain"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "modern waterfront skyline with calm turquoise water at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, sand gold, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "luxury hotel exterior sunset",
+        "island waterfront residences",
+        "Bahrain skyline sea"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SRHFLX1RBdHpfNlJrM2xfSXNLR2h0Yzd3SVMxWWZDYlZZMzU5UDdtVHdKVHNoUjJXakxJVDRpU3BNaV9iNURLMk56SkNsTEVNbnppaGpEWXB2UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90VHdicHl5dXF0Sm1qdGpseFhraDV6Wkw4WFF2Z3o3U0ZkS01HQUNETU5tSm9kUVZkUjl4VVB4elNhLVhjZ2pQS3o2RjJhR0pUZXRoMWJlUjk4Mmw0aDZrczNn?oc=5"
+      ]
+    },
+    {
+      "post_id": "D16-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "khafji-destination-saudi-2040",
+      "title_internal": "Khafji destination: 9 hotels by 2040",
+      "hook": "الخفجي في السعودية… شنو الجاي؟",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "الخفجي، السعودية… شنو الجاي؟",
+          "body": "وجهة جديدة تتشكل. اسحب وشوف الأرقام",
+          "visual_prompt": "wide coastal landscape with calm sea and distant skyline at golden hour, Khafji, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "16 ألف وحدة سكنية",
+          "body": "ضمن وجهة الخفجي في السعودية.",
+          "visual_prompt": "modern residential buildings in warm light, Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "9 فنادق",
+          "body": "تنضم للوجهة ضمن نفس الخطة.",
+          "visual_prompt": "hotel exterior with palm trees at sunset, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, palm green, sunset coral, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "الهدف: 2040",
+          "body": "الخطة تستهدف اكتمال الوجهة بحلول عام 2040.",
+          "visual_prompt": "sunrise over a calm sea with empty promenade, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, turquoise water, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "شنو تتوقع؟",
+          "body": "لو تزور الخفجي بعد سنين، وش تبي تلقى فيها؟ اكتب لنا",
+          "visual_prompt": "silhouette of a viewer from behind looking at a sea horizon at sunset, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ وشارك",
+          "body": "تابع وين اليوم لأخبار الخليج الحلوة. شارك ربعك السعوديين",
+          "visual_prompt": "dhow sail silhouette on turquoise water at golden hour, Gulf coast, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "الخفجي، السعودية… وجهة تتشكل 🌅\n16 ألف وحدة سكنية و9 فنادق ضمن وجهة الخفجي.\nالخطة تستهدف اكتمال الوجهة بحلول عام 2040.\nوش تتوقع تشوف فيها؟\nاحفظ البوست وشاركه مع ربعك.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#السعودية",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "wide coastal landscape with calm sea and distant skyline at golden hour, Khafji, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Saudi coastal city aerial",
+        "Gulf coast hotel resort",
+        "Saudi Arabia sea sunset"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HOURmTGJLQWV6ckxXWXg4SmwxeXZLSmxoWXNieG10Q0M2MXR0bnZMVjYzekVJVTlaZ2ZjSUpnT0hrcHpNOEpyTFFadEVuaGJyRXc?oc=5"
+      ]
+    },
+    {
+      "post_id": "D16-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "bahrain-ornamental-pigeons-heritage",
+      "title_internal": "Bahraini excellence in ornamental pigeons",
+      "hook": "حمام الزينة هواية بحرينية أصيلة",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "حمام الزينة 🕊️\nتميز بحريني في التربية والتحكيم",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "white ornamental pigeons perched on a stone ledge, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, textured heritage stone, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "أسعار توصل إلى 8000 د.ب!\nتتوقع؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Quiz: كم سعر أغلى حمامة؟ (Ali can add by hand)",
+          "visual_prompt": "a hand gently holding a fancy pigeon close-up, Bahrain, warm afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#تراث_البحرين",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "white ornamental pigeons perched on a stone ledge, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, textured heritage stone, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "ornamental pigeons close up",
+        "pigeon loft",
+        "fancy pigeon breed"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTFBvUTl3bXoxc1VDSlBXZkdYeXJQeXNJVXFsM2J4aV83XzFNM19QaV9tQk95c20xTFhQcUFSZ1V5c21LRlFYel80YUw5Zk5hZjFJcW15b2N0bF9MTTFUeWNOanUwSTFWNGk3eE9XMmhhRW5FUQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D16-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "international",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "west-asian-badminton-uae-13-medals",
+      "title_internal": "13 medals at West Asian Badminton",
+      "hook": "13 ميدالية خليجية في بطولة غرب آسيا",
+      "script": [
+        {
+          "t": "0-4s",
+          "on_screen": "13 ميدالية خليجية 🏸",
+          "vo": "13 ميدالية! شنو السالفة؟",
+          "visual": "slow-motion shuttlecock flying over a net in a bright indoor hall, no faces, warm golden tones"
+        },
+        {
+          "t": "4-11s",
+          "on_screen": "الإمارات تحصد 13 ميدالية\nبطولة غرب آسيا للبادمنتون",
+          "vo": "الإمارات حققت 13 ميدالية في بطولة غرب آسيا للبادمنتون.",
+          "visual": "close-up of rackets and shuttlecocks on a court floor, no faces, deep sea blue and pearl white palette"
+        },
+        {
+          "t": "11-18s",
+          "on_screen": "بطولة غرب آسيا\nتقرير من البحرين",
+          "vo": "والبطولة جاءت بتغطية من البحرين.",
+          "visual": "Bahrain skyline at golden hour with dhow sail silhouettes, no people faces"
+        },
+        {
+          "t": "18-25s",
+          "on_screen": "الريشة تطير… والحماس يكبر",
+          "vo": "ريشة خفيفة، وسرعة وتركيز. رياضة تجمع الخليج.",
+          "visual": "silhouette of a player from behind mid-swing in an indoor hall, blurred crowd, no faces"
+        },
+        {
+          "t": "25-32s",
+          "on_screen": "تابع وين اليوم 🔔\nاحفظ وشارك ربعك",
+          "vo": "تابعنا لكل رياضة وفعالية تهمك. وشارك الفيديو مع ربعك.",
+          "visual": "sunset over turquoise water with a dhow sail, brand colors, safe zones clear"
+        }
+      ],
+      "slides": [],
+      "frames": [],
+      "caption_instagram": "13 ميدالية للإمارات في بطولة غرب آسيا للبادمنتون 🏸\nالبطولة بتغطية من البحرين.\nريشة وسرعة وتركيز، ورياضة تجمع الخليج.\nتابع وين اليوم لأخبار الرياضة والفعاليات.\nاحفظ وشارك ربعك.",
+      "caption_tiktok": "13 ميدالية للإمارات في بطولة غرب آسيا للبادمنتون 🏸 تقرير من البحرين. تابعنا!",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#الامارات",
+        "#Bahrain"
+      ],
+      "audio_suggestion": "upbeat khaleeji percussion remix, energetic sports vibe",
+      "visual_prompts": [
+        "shuttlecock mid-air over a badminton net in a bright indoor hall, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, sunset coral, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "badminton shuttlecock slow motion",
+        "badminton court indoor",
+        "badminton racket close up"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVJGbXRsekthQUxySXRCUVVfTl9neUJob1JGd3dZT0dPclR6amhrY25YQlEzbnR1a29kRHlVcy1HQW5mZGpMQ1E2U0tjMkR3VnEtemdkYmxUa01uM3RwSU1pd213cTJ3WkMzUE1vM1gxbGZiTk9YZkNFVHhna0xsVEgyUDFreUI2a1NnUlVKM2JERGx4MlFJU3d4T1ZYazVUZllfSlVEdnFvQTlIdzdEeHZMeExOWXVXSXNsOQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D16-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "dubai-future-week-outdoor-families",
+      "title_internal": "Dubai Future Week invites families outdoors",
+      "hook": "وين نروح الويكند؟ دبي فتحت الباب للعوائل",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "دبي، الإمارات 🇦🇪\n«أسبوع دبي للمستقبل» يدعو العائلات",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "modern Dubai skyline at dusk with an open outdoor plaza, United Arab Emirates, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "إلى «منصّة الفعاليات الخارجية»\nوين نروح الويكند؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: تروح مع العايلة؟ إي / لا",
+          "visual_prompt": "outdoor event area with soft lights and families as blurred silhouettes in the distance, Dubai, dusk, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#الخليج",
+        "#الامارات",
+        "#ويكند"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "modern Dubai skyline at dusk with an open outdoor plaza, United Arab Emirates, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Dubai skyline dusk",
+        "outdoor family event lights",
+        "Dubai city evening"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMipgRBVV95cUxQQzVrZWNRS2k3X2NqZXJFeDBpNzYzVl8zdE82QTBXVXFIU1luTWFDSDlnWDZ1bGNuUU1EX3lXaHdtUjB1d0NJVmlOWUtlSVdnZ1JYUDJ5bVVvcG5jNjRwMkZyNVQtUjVTVDd3ZVNmTTdJajZnWlhYemFsQjAybG52cjE4SzFzN0ZsMkRId3JPU3F6dE1EbTBzUDQyWlYxOGN5WHZqUUxRR2ZDRzBqWDB1Y1RRcVd5ZWhSWGtfREVWcm9nc2V6MlhVeXA2THdqTHZGMC1SRVJ6dTZETlhqRy11eWhjSUZaNDh2eWYySk1BM1RmMFJwaW44UldwdmpZUlM5OXZOelh5Nl9vWW1BTzd2RllHWFVwYm4tQXJrR0dlSGEtTWtlUjFtS3U3ME9tWDBBb2k5akgxNV8wTlo0NU01Uk5mRjJqMkN2OHJjN1VJWjNLQmNQTEh3WDdwb3QyQVZWN3c4V1RVd2NxcHFCaW5QRXY2LUwwODVlckNLMDNKbVhDLU5LZ3JwVjNFNzBqQTBpQkZmeV9iWHdCVWlnaTJhc3MzM0g0ek5HVEhZREpDcC1BTVd1bTh5YnBmN2dQOU1KRTZNTmlWX2V2ZGV4Um1CRGFFaEI1NzBPT05EVm9JWEEyUEZCRWdXS2RXV3NZQnhiV3hLdVJhSEswbHMwWXRrMTdFOUdoaFJKV3NXcEZ3Rm1UNFdRUWZvbmRLYVRrUFNxZE82Y3ZB?oc=5"
+      ]
+    },
+    {
+      "post_id": "D16-08",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "22:30",
+      "topic_key": "bahrain-theatre-festival-awards-naseeb",
+      "title_internal": "Bahrain Theatre Festival award winners",
+      "hook": "مسرح البحرين يتوّج أعماله… تعرف الفايزين؟",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "مسرح البحرين يتوّج أعماله 🎭",
+          "body": "تعرف مين الفايزين؟ اسحب وشوف",
+          "visual_prompt": "empty theatre stage with warm spotlight and red velvet curtains, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "«نصيب»",
+          "body": "أفضل عرض في مهرجان البحرين المسرحي.",
+          "visual_prompt": "theatre stage with a single golden spotlight and a wooden chair, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "«صوت الرحى»",
+          "body": "يفوز بجائزة الإخراج في مهرجان البحرين المسرحي.",
+          "visual_prompt": "director's chair silhouette in a dim theatre with warm lights, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, sunset coral, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "مهرجان البحرين المسرحي",
+          "body": "منصة تجمع الأعمال المسرحية وتكافئ أفضلها.",
+          "visual_prompt": "theatre auditorium seats in warm light seen from the stage, blurred, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "أي عرض تبي تشوفه؟",
+          "body": "اكتب لنا اسم العرض اللي يشدك. ومتابعين المسرح عندنا وايد",
+          "visual_prompt": "stage curtain half open with golden light spilling out, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ وشارك",
+          "body": "شارك البوست مع ربعك محبي المسرح، وتابع وين اليوم",
+          "visual_prompt": "dhow sail silhouette on turquoise water at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "مسرح البحرين يتوّج أعماله 🎭\n«نصيب» أفضل عرض في مهرجان البحرين المسرحي.\n«صوت الرحى» يفوز بجائزة الإخراج.\nأعمال تستاهل تنشاف.\nأي عرض تبي تشوفه؟ اكتب لنا.\nاحفظ وشارك ربعك.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "empty theatre stage with warm spotlight and red velvet curtains, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "theatre stage spotlight",
+        "theatre curtains opening",
+        "empty theatre seats"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13U01lR2F5YndfdEF2bEVaQUJVYkhVTDFkN3ZOQ3EyTEJKZ2JRSjBXSVZQblptLTBtMGFBSjkxWEJ5bnIxeDNjaE11bnpyUWUwbVNENURQcFI3bDdDSGZvTWZwOA?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "beaches, islands, nature, family (applies to the Bahrain posts)",
+  "held_topics": []
+}

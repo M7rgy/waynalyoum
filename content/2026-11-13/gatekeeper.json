@@ -1,0 +1,446 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Positive Bahrain festival; dates unconfirmed, so write around them",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival is planned on the Pearling Path in December 2026",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      },
+      {
+        "fact": "The source says exact dates are still to be confirmed",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path",
+    "angle": "ليالي المحرق على طريق اللؤلؤ جاية بديسمبر، والتواريخ بالبايو قريباً"
+  },
+  {
+    "id": "f701c3f9",
+    "decision": "approve",
+    "reason": "Positive sport recap from a Bahrain-datelined championship",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "UAE won 13 medals at the West Asian Badminton Championships",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVJGbXRsekthQUxySXRCUVVfTl9neUJob1JGd3dZT0dPclR6amhrY25YQlEzbnR1a29kRHlVcy1HQW5mZGpMQ1E2U0tjMkR3VnEtemdkYmxUa01uM3RwSU1pd213cTJ3WkMzUE1vM1gxbGZiTk9YZkNFVHhna0xsVEgyUDFreUI2a1NnUlVKM2JERGx4MlFJU3d4T1ZYazVUZllfSlVEdnFvQTlIdzdEeHZMeExOWXVXSXNsOQ?oc=5"
+      },
+      {
+        "fact": "The championship is reported under a Bahrain dateline",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVJGbXRsekthQUxySXRCUVVfTl9neUJob1JGd3dZT0dPclR6amhrY25YQlEzbnR1a29kRHlVcy1HQW5mZGpMQ1E2U0tjMkR3VnEtemdkYmxUa01uM3RwSU1pd213cTJ3WkMzUE1vM1gxbGZiTk9YZkNFVHhna0xsVEgyUDFreUI2a1NnUlVKM2JERGx4MlFJU3d4T1ZYazVUZllfSlVEdnFvQTlIdzdEeHZMeExOWXVXSXNsOQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "13 ميدالية في بطولة غرب آسيا للبادمنتون، والبطولة في البحرين"
+  },
+  {
+    "id": "c1b4362e",
+    "decision": "reject",
+    "reason": "Outside Bahrain and GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Malaysia F1 race generates 7,300 jobs, MYR950m economic impact - Borneo Bulletin",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenQ3dnV1YW53TVpqZ1BzWk9TcUI0U19mQTNobGlEWExxSEhvMFE0cWVPTWZoc0hKSXR6YWcyeTdLWXZHeU83U3hDSnpydGNyWGNOb3hLVWNJR2NnVW9qRGdfSzRtQkNRNkMwWnYxUDJsYUtEZTdZQnhTNzJGYjZFMDBQOVVfRXlnd3RRdHVVdWFsYUUwRmc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "96662d16",
+    "decision": "reject",
+    "reason": "Outside Bahrain and GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "New Turkish restaurant opens at much-loved Barry waterfront spot - Barry and District News",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzBOTmw3bk9NbVpYU2w3aWNkLTN6MkU1c3N1LW9zcE0yR3E3akYyeGYzNlNNQUZEemxrSTBnQ0ExckZGOXU1VnNKbDhPdHl2ZzNmZnFoc3NsMGZ3TDItRC14OTU1QTZ2cTNJOTFjQW81RHk3aEZmLUdiUUJ1bDA1ZEtfQllDT3FyUlU3QkVUTG5Wa3ZKc29PaHJZZnlRSXdxd0RQbg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "101a7fe6",
+    "decision": "approve",
+    "reason": "Positive family event in Bahrain; no political or official subject",
+    "category": "community",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Bird, falcon and cat tents are attracting families",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RNUVfMXVYdDVhcEdxTkhKdWx4cTZ5WDcxR3FTbTVoTlYyMFBUSUJQazdaeFVncE1GNGY3b2p6aVZQRkNNeVN6UWN0cHpIMkcwbHl0bldCeFo1QTgtbDBYU1FWaw?oc=5"
+      },
+      {
+        "fact": "The tents offer an interactive experience with more than 850 birds",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RNUVfMXVYdDVhcEdxTkhKdWx4cTZ5WDcxR3FTbTVoTlYyMFBUSUJQazdaeFVncE1GNGY3b2p6aVZQRkNNeVN6UWN0cHpIMkcwbHl0bldCeFo1QTgtbDBYU1FWaw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "خيام الطيور والصقور والقطط: تجربة عائلية فيها أكثر من 850 طير"
+  },
+  {
+    "id": "69a2d8b6",
+    "decision": "reject",
+    "reason": "Royal figure as subject; patronage-style news",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "HM King Praises Mara’ee 2026 as a Leading Platform for Bahrain’s Agricultural Sector - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVhvUklHanp5OFRla3BjUjlsXzBaTGlRVDdwZVdRSGRIbWFvSEtkekd1SzF1RFg5NWs5QW8tME4tNzEyZmU3aVN5VmhfemhLblpjdTNHNmNDbkJ3Uy1rZk9lWEN2WlNTdXoySDRId3pLQzR3UE1ISzBxSFNNSzF3YmdvYnd3WlJHdVVUejZDLWtaTE1xWi1xYlVGVm80RkhiUlJTVGJMR0dqQUVZMHF4SklSUi1RRVNqVmlpb3FOOXo?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "c17f7740",
+    "decision": "reject",
+    "reason": "Outside Bahrain and GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Malaysia spent RM70m on F1 Bahrain GP in Sepang - event generated 7,300 jobs, RM950m in economic impact - Paul Tan's Automotive News",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNVVLb1JvZHZfYkRuTV9WVHZEVnRXTFQxU2phTXhTcWJHS3U0Q2VENkk1YTdGdmlWbkw3ZHl4ZTN1SGkwMUI5VE1SbWZweTdRY3lMODZUSXFRbEpRWEdIXzZYdzQ1R1B3cFNEb0tNNXpxaDYxM2tJWTNvalkzRThtQnFfR1ZxYzY3RmhzQXRLVUNENzFHd3RsY1lzUHpBTFJ6N2ZkamVUdm5PTWtlM1kxREZBZFUtZlJvbEt5QVUwNTRBZEpvY2U1WFhmaw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "01a57746",
+    "decision": "reject",
+    "reason": "Minister and royal statement; official-focused news",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "استقبل وزير البلديات.. الملك المعظم: «مراعي» يسهم في تعزيز الأمن الغذائي - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FWFBfbFBPWWYxdHhRdXUxOHNSbnJlbmh2QUFLNHBqRGMtMVdwUnRPY3RsMENXNUMyaEIyR0ZteVNCX2Q0ZnB4VkFBeUNEdDZ1a0FaSjlXS2F2X2Y0UmdXaV81MA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d5f4e464",
+    "decision": "approve",
+    "reason": "Positive Bahrain tourism and dining development announcement",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Nobu announced a partnership with Infracorp for Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SRHFLX1RBdHpfNlJrM2xfSXNLR2h0Yzd3SVMxWWZDYlZZMzU5UDdtVHdKVHNoUjJXakxJVDRpU3BNaV9iNURLMk56SkNsTEVNbnppaGpEWXB2UQ?oc=5"
+      },
+      {
+        "fact": "Plans include a Nobu hotel, restaurant and residences in Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SRHFLX1RBdHpfNlJrM2xfSXNLR2h0Yzd3SVMxWWZDYlZZMzU5UDdtVHdKVHNoUjJXakxJVDRpU3BNaV9iNURLMk56SkNsTEVNbnppaGpEWXB2UQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "نوبو جاي البحرين: فندق ومطعم وسكن، والتفاصيل بالبايو"
+  },
+  {
+    "id": "51cc355c",
+    "decision": "reject",
+    "reason": "Vague corporate contract award; no community or tourism value",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "UAE Business: Mered awards main contract for Riviera Residences Phase I - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZFRzazNpS0U1aEtEak11dEZzN1diZnRFQVZvOGdUZnRxaW5CMEx1ak5fQUt0eDFLS1pTaHVfeGwyOExMNFdtd2gzWFlBdjY1Y1BEQmRZSUlDM1VGR09ETHoxYUc5eDFKTmxReTdzcE82SXlBaV8zaUE3SnA2M0U1bWxFTlJnUnl1TWtfSkVhRXFxWUNMb0NoNXkxZHQ2a3VTY3c?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "83d85e45",
+    "decision": "approve",
+    "reason": "Bahraini heritage hobby with verifiable local expertise and pricing details",
+    "category": "heritage",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "تميز بحريني في تربية وتحكيم حمام الزينة، بأسعار تصل إلى 8000 دينار",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvUTl3bXoxc1VDSlBXZkdYeXJQeXNJVXFsM2J4aV83XzFNM19QaV9tQk95c20xTFhQcUFSZ1V5c21LRlFYel80YUw5Zk5hZjFJcW15b2N0bF9MTTFUeWNOanUwSTFWNGk3eE9XMmhhRW5FUQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "حمام الزينة هواية بحرينية أصيلة… شوفوا وش وراها من تميز وتحكيم"
+  },
+  {
+    "id": "a7241dc8",
+    "decision": "approve",
+    "reason": "Kuwaiti heritage towers seeking UNESCO listing, positive cultural news",
+    "category": "heritage",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Kuwait seeks UNESCO listing for its towers",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmpiZzM5WkdMTEg5cHRYaGVsR0E2NXNLaUw4dElxVVJoM0Z1S2JOaERhaXJvWW4wdk80Sm85MFhVQU5uLUVwcFhzbjRhbmhqNmgyQzJHTFk2ZGQ3UVducERHMXhDdXZhQlkxSmlZa093R28wY0ZFdzF1STFWXzZKSnZKS3ZDSGxPWEpF?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أبراج الكويت تطلب مكانها في قائمة اليونسكو… تراث يستاهل نعرفه"
+  },
+  {
+    "id": "e9c8f9b6",
+    "decision": "approve",
+    "reason": "Hotel group announces two new resorts in Bahrain for 2027",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Minor Hotels announces 2027 expansion, bringing two new resorts to Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNW43cUlOZ09LbXkyUDI0WHVtZ0JhU19Ga1RqclozRTcwNUZSQnd4RURPZnY1WXRzbzBMSXpMVnN4Z1B5cFBzTV9RcUhkZDF0ZHVoUXhqRE56V3VEczdwdXY1Y21lZzNMQU0yVGZvcXBaZGFzenFaZGhfLVkwXzZsbjJ4b0hCUDhyZGlLNHV4SEJsZGY5VU56Z1VwTlo1amY0WWdUYzY2bmxScVpGWVE?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "منتجعين جديدين في البحرين جايين 2027… الوجهة تكبر"
+  },
+  {
+    "id": "b219cb0c",
+    "decision": "approve",
+    "reason": "Sponsor's successful participation in a Bahrain car event, positive coverage",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "جيتور اختتمت مشاركتها في فعاليات معرض رويال البحرين كونكورس 2026 بنجاح",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pMEp1VmxLTUp2U0pPNTN0MmFtdkdIanJYTDB5bGpvc2pOeWZmRGE3Rk5YVktnVE9uLTZPelg5cGRKamJPSU5UT1RCclJmX2xPbDE0?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "معرض سيارات في البحرين والتفاصيل كلها بالبايو… لمحبي الكارات"
+  },
+  {
+    "id": "4ebc781a",
+    "decision": "approve",
+    "reason": "Planned hotel and residences project on Reef Island, Bahrain",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Nobu Hotel and Residences planned for Reef Island in Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90VHdicHl5dXF0Sm1qdGpseFhraDV6Wkw4WFF2Z3o3U0ZkS01HQUNETU5tSm9kUVZkUjl4VVB4elNhLVhjZ2pQS3o2RjJhR0pUZXRoMWJlUjk4Mmw0aDZrczNn?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Reef Island",
+    "angle": "فندق جديد على جزيرة ريف… البحرين تضيف محطة فخمة للويكند"
+  },
+  {
+    "id": "eabe3e36",
+    "decision": "approve",
+    "reason": "Community health exhibition and walking marathon for World Diabetes Day",
+    "category": "community",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "المحافظة الشمالية تنظم معرضاً صحياً وماراثوناً للمشي بمناسبة اليوم العالمي للسكري",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lLW9ndkVrLXRXVDNHUzdBVmpqX09KQWFTTTFjSmxTMzBQb1ZYeWVWZlVSUTllS3FsOEVTV0g1a2hnUEN0bHVJcTdmTTc0RWRnWF9lSTVkeDdsbEhiazZ3bGxyLVZKUVJTeVE?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "امشِ وانت تفكر بصحتك… معرض وماراثون مشي في الشمال، التفاصيل بالبايو"
+  },
+  {
+    "id": "764a2064",
+    "decision": "approve",
+    "reason": "Bahrain Theatre Festival awards to named productions, positive arts news",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "«نصيب» أفضل عرض في مهرجان البحرين المسرحي",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13U01lR2F5YndfdEF2bEVaQUJVYkhVTDFkN3ZOQ3EyTEJKZ2JRSjBXSVZQblptLTBtMGFBSjkxWEJ5bnIxeDNjaE11bnpyUWUwbVNENURQcFI3bDdDSGZvTWZwOA?oc=5"
+      },
+      {
+        "fact": "«صوت الرحى» يفوز بجائزة الإخراج في مهرجان البحرين المسرحي",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13U01lR2F5YndfdEF2bEVaQUJVYkhVTDFkN3ZOQ3EyTEJKZ2JRSjBXSVZQblptLTBtMGFBSjkxWEJ5bnIxeDNjaE11bnpyUWUwbVNENURQcFI3bDdDSGZvTWZwOA?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مسرح بحريني يتوّج أعماله… تستاهل تشوفها"
+  },
+  {
+    "id": "32348fca",
+    "decision": "approve",
+    "reason": "Feature on Bahraini artists' award achievements, positive arts coverage",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Bahraini artists share the stories behind their winning achievements",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KTll3MEJ0d3gyQXJNRTk3c0RDUDJfcXlPR0ZiN3FqMnR6TENiZzBFWFlSTVY1R3NuaEthQUVKXzNTOFFma2REcF9VSm52WDJXU0t4Q3I2dktYQlVtSmtlTmJVSUdhUl9mQTN0eGNpenM?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "فنانين بحرينيين يحكون قصة الفوز… سوالف ملهمة لكل شاب يحلم"
+  },
+  {
+    "id": "c43fca4e",
+    "decision": "reject",
+    "reason": "Celebrity gossip about a named public figure",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "«أرقّم لكم الكراسي».. راشد الماجد يمازح جمهوره بالرياض - بيلبورد عربية",
+        "source_url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxORld1QmU3bS1RTmcyMHFVUXRCRDY1dkRrUUhqRlV6U2I0YWhWMi1ydUZaSU9zbFVrdk9YcWpZZmZtWkkzemFmVmNDS0NFUE0zZUkySGxjMUJzX2ZHMUl3bXNzQzJaeVI5RTFvN1EwSHMxbmRCUENxWkJjRV9IdVJoSGFpYWdDeWNXU29SMzdmZ2k3UUoxUTAxcjJxVEV2LXU0VkY1dkFIOTJqWkx3cmY0aW50cE4wd3RpelE2SlFFZ1VpZmwwN2RYY2k3aVRtcEtfVkVZM19wLVdvVG1rLTIwZlpHa2loSkl0UWE4d29vS2gzd1FuUEtRTGpkNXRZb1BrU0lOcUQzbTBIbmN3ZHdLYzBrSzJsdXNDTWhzWjkwbmc0Rlc5T192NkdPVUlzLVRKNEFLWmNoRVdscTN1eUZrdXFoaEtDVjZzUHhjVDZjZ09PWDgwcmpwTVVicC1MZUw0TUhWN3dYaEdFR3lTZHJURnExN0U4VXBSUnNYWjlCbkE0cnRVMXRHNkphcFc0ZDI4Qml1TWl1UnhrQlBDZUZ3bVhjMUtEdFNBNzdnVTNsTEZTUktmV25qdngxaWh1c2pQTHdsLUZQUnlaUkUzdERYQnBBX3d2UWlsaUpXSXdkZUF4MGVlaXpIS1ZjUVY1alN4TEFTZnB2QmhfaG53dUg1T19R?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "fa2b8721",
+    "decision": "reject",
+    "reason": "Multi-event roundup; no verifiable GCC event details",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "UAE Golf, RAF Abu Dhabi, India vs New Zealand: The big Gulf News weekend sports preview - Gulf News",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUFZGay1wVU9CT2c1WHJqbjhjeXpuQnh2cmozSlRPbjZaZl96YUk5azJIZldseEhzUGZWTFVrQlNvME9OOENuakJmeUZYYXYxMElCcmRBT085Nzg2SUF6VFNTaDFMSmdfRmk1clRac3h1SUY4UnU4bzVxcUp2Q05mTE5MNS1jNDNBQUd4RDZPZ0NfSkdCYWV5TFhqOWVYakRwYnVLcEtwUmVfTVdVV1dKLVZTaklKdUlkMVVtUFFZaXbSAdABQVVfeXFMT21TOHRDb1FlUDNtTmJnN2RiQVpVNktTQVNWbTktcEJSY2FGX2ZwaU94WlpEaUx2d212cUdDci1XNjF2MUw4ckRFTkFKa2Vqd3paMHgwb0lWQ3VvSy1lbkJNRnJ1ZFZoU1pvakhEcXl2eHAzZGN0NS1na1lUTklpSFZEa2RWUi1BdmpLYWFnS0ZoNnNZYVc2QmhaeFhrdTBvS0c2Rmsxa05GNnZrY0RJMFFIZXFVRXNyOEtSWEhUMDUzRTVhSkZjR3hjYnZEbUpVbA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "5c31d73d",
+    "decision": "approve",
+    "reason": "Artist's exceptional concert and new album announcement; Saudi cultural news, not gossip.",
+    "category": "art",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "راشد الماجد يتصدر الترند بعد حفل استثنائي",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTk1FSmZGeU5paThseW1SZ3dQTXlzdDR0bkNHVWdjMHNkUGMzeTdPUTY2MmxCX08yOTloc0FzcmxkeHZNMmV5dzlMbDZaRzc3OEJDOGtPZ2ZhdXhGTGpRSEk2eUozVVAzQnl4aGpDanNhck5uQzFwbEp2Zzc0c2pBakdaOVdMY20wR1ZsdXRkc3pCa3dkalRtd1hDVzVGZ05GQXBDZUJ2VDJ5QjZqTW5sem01NG1JOFF3OGdsQkZIQ0JkbmJMWlB5LUYzOHhTbEhTZHhYNHFlbmdlbndHSnNpYVNsZnpBbXZHSTA3Ym1WVnQ4blMxa2VqeEdtWHZLMjdSRWJPSy12MXVBZG5DSDEwR2V2TzJZdFhoeG50YzlzODVfMlR6TG5CRUhTM2h1OHJJeGNpWEpUcElWaEhmcGJuUXZfQQ?oc=5"
+      },
+      {
+        "fact": "يكشف عن ألبوم جديد",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTk1FSmZGeU5paThseW1SZ3dQTXlzdDR0bkNHVWdjMHNkUGMzeTdPUTY2MmxCX08yOTloc0FzcmxkeHZNMmV5dzlMbDZaRzc3OEJDOGtPZ2ZhdXhGTGpRSEk2eUozVVAzQnl4aGpDanNhck5uQzFwbEp2Zzc0c2pBakdaOVdMY20wR1ZsdXRkc3pCa3dkalRtd1hDVzVGZ05GQXBDZUJ2VDJ5QjZqTW5sem01NG1JOFF3OGdsQkZIQ0JkbmJMWlB5LUYzOHhTbEhTZHhYNHFlbmdlbndHSnNpYVNsZnpBbXZHSTA3Ym1WVnQ4blMxa2VqeEdtWHZLMjdSRWJPSy12MXVBZG5DSDEwR2V2TzJZdFhoeG50YzlzODVfMlR6TG5CRUhTM2h1OHJJeGNpWEpUcElWaEhmcGJuUXZfQQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "راشد الماجد يرجع بألبوم جديد… شنو السالفة؟ الترند يتكلم"
+  },
+  {
+    "id": "be6dfb7f",
+    "decision": "approve",
+    "reason": "Positive Saudi tourism development: housing and hotels planned in Khafji.",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "16 ألف وحدة سكنية و9 فنادق ضمن وجهة الخفجي",
+        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HOURmTGJLQWV6ckxXWXg4SmwxeXZLSmxoWXNieG10Q0M2MXR0bnZMVjYzekVJVTlaZ2ZjSUpnT0hrcHpNOEpyTFFadEVuaGJyRXc?oc=5"
+      },
+      {
+        "fact": "الخطة تستهدف اكتمال الوجهة بحلول عام 2040",
+        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HOURmTGJLQWV6ckxXWXg4SmwxeXZLSmxoWXNieG10Q0M2MXR0bnZMVjYzekVJVTlaZ2ZjSUpnT0hrcHpNOEpyTFFadEVuaGJyRXc?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "الخفجي",
+    "angle": "الخفجي على الساحل تتحول لوجهة متكاملة… تبي تعرف شنو الجاي؟"
+  },
+  {
+    "id": "2a835ea0",
+    "decision": "reject",
+    "reason": "Celebrity gossip about a singer's fan interaction.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "\"أرقّم الكراسي شوقًا إليكم\".. راشد الماجد يمازح جمهوره الثالثة فجرًا (فيديو) - إرم نيوز",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xS2RNc0RNUjUzeUZCR1Ztc2VRLXNFLURob2kyMFF4ZHN6VHBjUFRnNG5wMzZfNUYyMjVvU09LcVFWc1RLVFE1NU92aXFPc2h3ZUlkUlFXQ3VGZw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "450a183d",
+    "decision": "approve",
+    "reason": "Concert at Riyadh Season, a positive Saudi entertainment event.",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "حفل راشد الماجد في موسم الرياض يحيي أروع الليالي الفنية",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mc3R3ZHhIT2Y0bXpaSVRZVWpCc2g0U2VPWnNmUlVuaVV0SEg1TlhQdWNiVmN5NmtTeVVsTVhvVXJNMlVOd05QZnpldnNBNTRQQ01hRjNjQUhxREFBR2lSdk51aGUzMzR3eTFnQktVRlkwZw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "موسم الرياض",
+    "angle": "ليالي موسم الرياض مع راشد الماجد… الويكند هذا لا يفوتك"
+  },
+  {
+    "id": "1496b411",
+    "decision": "reject",
+    "reason": "Duplicate of the Khafji development story already selected.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "صندوق الاستثمارات يُطلق شركة ساحل الخليج للتطوير العقاري لإنشاء وجهة ساحلية متكاملة في الخفجي - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EZG91dHhtcVZzOUtOdkNGaWQyTGV3dGpHWGZNTTFvZXN0WHVuWHRZQTRXUFNrSDVxVEJKMDdfU1FxandYaHdDWkZ5bXRDR3FLcmhBTDZTZk8zSnBZR3RaNkpZdE9VdF92Ymc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "96f6e223",
+    "decision": "approve",
+    "reason": "Positive UAE event news: Dubai Future Week invites families to outdoor events platform.",
+    "category": "event",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "«أسبوع دبي للمستقبل» يدعو العائلات إلى «منصّة الفعاليات الخارجية»",
+        "source_url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQQzVrZWNRS2k3X2NqZXJFeDBpNzYzVl8zdE82QTBXVXFIU1luTWFDSDlnWDZ1bGNuUU1EX3lXaHdtUjB1d0NJVmlOWUtlSVdnZ1JYUDJ5bVVvcG5jNjRwMkZyNVQtUjVTVDd3ZVNmTTdJajZnWlhYemFsQjAybG52cjE4SzFzN0ZsMkRId3JPU3F6dE1EbTBzUDQyWlYxOGN5WHZqUUxRR2ZDRzBqWDB1Y1RRcVd5ZWhSWGtfREVWcm9nc2V6MlhVeXA2THdqTHZGMC1SRVJ6dTZETlhqRy11eWhjSUZaNDh2eWYySk1BM1RmMFJwaW44UldwdmpZUlM5OXZOelh5Nl9vWW1BTzd2RllHWFVwYm4tQXJrR0dlSGEtTWtlUjFtS3U3ME9tWDBBb2k5akgxNV8wTlo0NU01Uk5mRjJqMkN2OHJjN1VJWjNLQmNQTEh3WDdwb3QyQVZWN3c4V1RVd2NxcHFCaW5QRXY2LUwwODVlckNLMDNKbVhDLU5LZ3JwVjNFNzBqQTBpQkZmeV9iWHdCVWlnaTJhc3MzM0g0ek5HVEhZREpDcC1BTVd1bTh5YnBmN2dQOU1KRTZNTmlWX2V2ZGV4Um1CRGFFaEI1NzBPT05EVm9JWEEyUEZCRWdXS2RXV3NZQnhiV3hLdVJhSEswbHMwWXRrMTdFOUdoaFJKV3NXcEZ3Rm1UNFdRUWZvbmRLYVRrUFNxZE82Y3ZB?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أسبوع دبي للمستقبل يفتح الباب للعوائل… وين نروح الويكند؟"
+  },
+  {
+    "id": "8a03c7fa",
+    "decision": "reject",
+    "reason": "Duplicate of the Dubai Future Week story already selected.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "\"أسبوع دبي للمستقبل\" يدعو الجمهور والعائلات لزيارة \"منصة الفعاليات الخارجية\" - www.albawaba.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOQUZ3N1RrdHZMSWNIS1BXOS1RUGFNX2hpejZ4NDBhNjVhUHVxZnRNOU85UVRjMW5RSEV2TmNxTlZ1LWlMMjJYaW85bXN2WEZ0eC1SSXVoTmJxZzY3bGhyR0ZKS3NERmhtb2VFMElVZ1lPV1dSYjlkSkF6b1ZaQjgxR0NzYTkwVFJnY2hXbmlnWkRCVkJaN2FBYk1zRi1PbVhZY2VnUzMya3UtM3BfY1h1RWVZUHN4dTFFQ1RGa0RKdGMwN29tMkdEaldPbDJnUldWaEdoWXI3YkNqejlySk4zQjhJWndkeHE3VUZmRlhvX3dpazJFWFp0Z0FCeUYwRFkwb3VUTUlaMktsanIzdkxQTjBiMHNidmNucEQybHJYSFdlRWZDZXRoWndYQUN1NDJMUDc4eWVVd2lRUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "7c57e315",
+    "decision": "reject",
+    "reason": "Duplicate coverage of the Riyadh Season concert.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "راشد الماجد يشعل مساء الرياض حتى الثالثة صباحًا - عكاظ",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XeWhKLW5VUWVEY2JBLUt3WVBiQ0taeHhyZUFpc0plZXBJbkpzc1E5ZlQ5Z2M0QW1lS2RRTmFBVElkdjlOdzhsUmJlWUdoSEQwOHpfTERn0gFUQVVfeXFMTzlSaENJTjVGYXhFTGJOZWg0VXJvZE13NEJubkFUY2txWGRhQjhYaEE5UXpjbmFiM19zTWlNRThGMzRQU25xcks0UkMxN1FuWUYwYlN4?oc=5"
+      }
+    ]
+  }
+]
