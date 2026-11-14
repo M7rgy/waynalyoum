@@ -1,0 +1,422 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Bahrain festival announced for December 2026; exact dates still unconfirmed.",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival on the Pearling Path, December 2026 (dates TBC)",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path",
+    "angle": "ليالي المحرق جاية على مسار اللؤلؤ في ديسمبر 2026. التواريخ قريباً، التفاصيل بالبايو"
+  },
+  {
+    "id": "78cf378f",
+    "decision": "reject",
+    "reason": "Duplicate of approved Bahrain International Trophy story.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Royal Champion lives up to name as he powers to Bahrain International Trophy win - The National",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTFPaTJXTUVoSU9rREVMTlpmOGFTM1JEcE9aY2dFamMxc013bFJhSm01Q3JHV1N5dnFyZjVtX3lPMlpGYWVvVEU3VGZOZ1duNXNPUHY0S051cHlTRUVyNzBSLWYwdzNvTTMzWGdlSEhEME5vQnJHanZRRXhUZTNOSnR2UzlpaFBoR2NVd1lDcHZDTE9sYWZmLW80cnV0YzZta1lNM21rd0lSWng5QmFNQkFpbmpjdHNtWU0tMGtBY3hGU2ZxNmVRbk5n?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "5746550d",
+    "decision": "reject",
+    "reason": "No confirmed GCC location for the concert tour.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Gigi De Lana Talks About Her “Domination” Concert Tour - Metro.Style",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUhpaV9GcTVib2lqZnZYVDE5YUZsYnhsR1hsN21CXzVzYW1ZdDJiaVhSdjVIOXJxVXVPZGhLUS1vUUt4N1ZqdzlMa053OFVaNmdqc0RGVll6eUloYlFmOWxtX3ZJcjNOWTk2LXVVTEVGNnpJTUlaenZNQ1V5U2tTZkZB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "659973bc",
+    "decision": "reject",
+    "reason": "Outside scope: New York event.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "A 10-course taco tasting is coming to Battery Park City - Time Out Worldwide",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVdHRFFMdTRqWW41WjdHMzFpQmdQX1paeV80NnpmbnQ2eTMzMXZhcVdxSmpNTmFQY2NZc2lKU3B6cWw3UTFadWgxd0tXZUM4dGYtVmk0YWdDTHhNNi0yVnUyN19yQm45Z0pVSFN0blFZYUNsQ25HSHFseGxWN3k2dXJkNzhSWHhnNERMZG1sR3BJVFU1bU9JOUJxV1V4ekt0d2tFZEd1ZWU3cnI2U2dfRmpQUndabHM1TS13?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "c2d519a4",
+    "decision": "reject",
+    "reason": "Outside scope: Vietnam tourism training.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "التدريب على تطوير السياحة المجتمعية بالتزامن مع حماية البيئة. - Vietnam.vn",
+        "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaF94eWR4czlZSERhdTJkeFNWMnQ1VWZVZWxqWDlpVE5vRWxGUmJRNWo3UHo5WHVRX1VhMVc2dlRaS3JsTkJ1RG40bVdvcGRfNmVtdXBJSlp1Y19RamExc2hrbHBKZm1iVndUaGp3eWFjQVdvcFFGbkdER19Da2Jsa3dLYWJ1c054UGNaQVhBQVJBMkU?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "1934a7cf",
+    "decision": "reject",
+    "reason": "Emergency-response logistics; no positive hook, medical framing risky.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "دراجات كهربائية تتيح لفرق الإسعاف الوصول سريعًا إلى زوار «مراعي» - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzeWZGaVFFb1hiRHQxSnpZbXdRdDJRajZJSWEzVGtBWVQyVDM4UXNsUElmb1d4UGRLTGUzenYxeTM5MHRVOFE5RW9hOUhUTGlTb1NGbGUtZ2pLQ1dpSkpiUXl5WQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "97481eb4",
+    "decision": "approve",
+    "reason": "Recap of Bahrain expo's third day with strong family attendance.",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "«مراعي» attracted a large audience on its third day amid a family atmosphere",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Oem9jbUFlUmtFeUFQYWxjTG50X0E1cmp2UlVpVDc3TXVTUnM2RWMxYnQtYUJzeVdBSmdIM3B1RWdSa2w0czl0T3VEQUYtUkZYX29CT3pkbzAyNHRrV3ZVUU9OSQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "«مراعي» يجمع العائلات في يومه الثالث. وش اللي شفتوه هناك؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "10bd9e07",
+    "decision": "approve",
+    "reason": "Community children's village activities held within Bahrain's «مراعي» expo.",
+    "category": "youth",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Little Municipalists Village activities are held within the «مراعي» Bahrain International Exhibition",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsRXlDM2JQX1hJRTh2ZUk4bzNxeGpGOTRlWGRWUW1lYl9IM2RpNl94YXdncG1WMHYtc2kzNXVuSmdJVW9NME1kMDNWTTZEcEpqTHBXVGR5ZWhVVDRUWDVOdUxCaw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "معرض البحرين الدولي «مراعي»",
+    "angle": "قرية البلديون الصغار في «مراعي»، مكان يخلي الأطفال يتعلمون ويلعبون. التفاصيل بالبايو"
+  },
+  {
+    "id": "5e24cee0",
+    "decision": "approve",
+    "reason": "Royal Champion won Bahrain International Trophy for a second consecutive year.",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Royal Champion won the Bahrain International Trophy for a second consecutive year",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LZDZkSGM2bHB3RENmdldXSlJPeFRZaFJ3M0lOdDBRa2lUZDBOVUdnZHQ3WmN3ZnhtcGlxUVlnSmwwV1g1bzY5QTRSM0xGOHpkSDd2Ykt3SFowOTNjYlE?oc=5"
+      },
+      {
+        "fact": "The title is recorded as a second consecutive win in the Bahrain International Trophy",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LZDZkSGM2bHB3RENmdldXSlJPeFRZaFJ3M0lOdDBRa2lUZDBOVUdnZHQ3WmN3ZnhtcGlxUVlnSmwwV1g1bzY5QTRSM0xGOHpkSDd2Ykt3SFowOTNjYlE?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "رويال شامبيون يكتب اسمه في التاريخ بالتتويج الثاني توالياً. مبروك للمالك والفريق!"
+  },
+  {
+    "id": "e91df5af",
+    "decision": "reject",
+    "reason": "Mixed roundup includes negative airline disruption news.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "From SpiceJet’s Dubai Check-In Halt To Michael Jackson’s Jacket Auction In Abu Dhabi, 10 Middle East Updates - Curly Tales",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHNYMWtLdTQ0SHZORmpyS0tPZU00a0liNU1RZlpqaDU4aWJYb0ZmZG5JTl8ydTVlMjFBUU1WYnEtUl9OUVF6Xy1MVDFSLV80WkJBTzZzd29QQTE1ejEyOHB2V1VNUWstTjZaallTRk1KQWhVLTFLMk9xSU85NmNCS0Y4QWhFQV8yU1FrUVY3MlEydXhONHBUbHNERkxEZk55d3N0UEZwaE9nUlBheGQ4WmN0eG96WHh1Z05pOUtRWDhQUWNGa0VIdWMteVo2bW51Z2QxVlVYNncyb1RPQnlhWdIB5gFBVV95cUxOVEFSaGxJYXhsUV9adVpaNFBaNVRHNmIzYXJxMXZ2YW5EaGJxSWRWNlhOQ3lGTF9tMkk3WTlPNjVJOWR0c0Uzb2pVeWVXYUl6NFJibnlQZEJ2YUNLSS1BSmVtT2I3Um9URlpSLTh4UTJsbTVGQWN3YW55U1FfVHNmRXpFUjFYYU4xMWFUWWRHbnhRSHpDaVRXLXJZb1ZVc2dWWUR1Wm82Xy1WWGZkeVJLcTVoUi1WYVlPSFYxNU5pQVNsVGFKTW4tXzNhZDBzU1U1bDBKSlVBUDktTXd0d3lJZ3FfOWhtQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "a590173b",
+    "decision": "approve",
+    "reason": "Sports result from Bahrain International Trophy; positive-neutral recap",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Browne McMonagle had no success in the Bahrain International Trophy.",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlItdDB1MUtGR1RPaFdDM3N5aWtTMU1uRjdRXzNDd1JXMlBiNEJURnM1bjJIcFc0Q2J1RFBPd2ZxdGtQVm1fZjU1WDVlelIxdzh0VDZMWDl5YXdUQVJhUnJLa2N3cTV0RGxRVkEzcGpsVGhUdHpCQTlPakt2Z1llOXFvdkQzdWVMejhjOWlkTjNaRlBYZGVOMFkwX0Fodw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "كأس البحرين الدولي: مين فاز ومين ما حالفه الحظ؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "a1f7fadd",
+    "decision": "approve",
+    "reason": "Positive sports achievement at Bahrain International Trophy",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Royal Champion recorded a famous double in the Bahrain International Trophy.",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmlXTXUyMVlCRW1fVnBaMk9DaDdRb2pYWHZiU2w2YmJ6X29qT1QyUjA2R0xtMzVXdS1iQnJuTEY0d0hPTVpibmxEb2tMZzlxaTlRUW45YUQxdVF1S1d2Q0JyME5tS3k5VVFpYm1ULXNPSjRKOHFaQmFSX3E2Y2pKeEd0YWg5RlVQT05seHJxd1RMOENTZ2tYaUMySmZpWkpqYUI1YWZIZmlvMjJxOFhrdGJxY3RtNUNKUDJIa1VDRlk?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "Royal Champion يسجل دبل في كأس البحرين الدولي، والجمهور ما يتوقع أقل من كذا"
+  },
+  {
+    "id": "28db3266",
+    "decision": "approve",
+    "reason": "Positive cultural community event bringing Goan heritage to Bahrain",
+    "category": "community",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Young Goans Club brings the cultural heritage of Goa to Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMG9wTGl1VFpUTWFsdnR2RkRwUEh2TlgzWXpuUW9sOHlyWGVoa1BBTXk4T00tTE1teUpITWR1UmNkUnFlb1dEaE4zODhIWGtYaDFiNzlMVEFacG0zVjZTWTZTMEFsUHRBOE05UEhKRG11WGR3SFc5ZzQxcVRyeDJiakI0a0p6UDB0X2ZMbHRiNlZGMVFSQ1BmclVNeTJzNUpqY3lzV042RFdzWEM1cktn?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "تراث غوا الهندي يوصل البحرين، تعال تعرف الحكاية. التفاصيل بالبايو"
+  },
+  {
+    "id": "ea2d8687",
+    "decision": "reject",
+    "reason": "Generic news aggregator page, no concrete event",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "أحدث أخبار مصر والعالم - ekhbary24.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YSEhoTWEtMUh6aUVCZzROYU94YlNFdFJZN3F0QnVpRF9aejBLYzgwTWE0REdCZnRYX2Rhc195ajZkVzM5YllPYTBaaw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d5a705eb",
+    "decision": "reject",
+    "reason": "Vague corporate PR with no Bahrain detail in text",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "New Minor Hotels Openings in 2027 - WebWire",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKS3lsNERjS2pVWFJhb3lSdzQyeV9SaDctR3N1czVCZ0k3SzF1TGs1cUlRaG9HRkJQV01aSDNVcTVSd1F3VmpoaHNzUVAxbURLM3ptVmU2ci1lZGtqdFRpSA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "782a940c",
+    "decision": "reject",
+    "reason": "Team roster departures; negative framing, no event",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bahrain - Victorious lose three Grand Tour top-10 finishers. Can Lenny Martinez lead the rebuild? - CyclingUpToDate.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkVNQmZvWXVicEQ3bXcyMmIxdzdPM0QxOHFQNGdLYXQtS0ZXNzBoYnQxYkwwNHF0bUlFZm9IYWFBN1ZNcDJ4YzRFMW00M1BrSlpDd0xTM21VNFZjcWd2a0Y5OVZmNmxlNEhoYWdDYVo4REZoR3JEX0dNRl96aU1VY1h3MzJWak1ILVFJOXhOanp1VlJVMkRkWnViUmkxMXpKQl82cy1KTjFMMTRuRDRBanBqSnFIUFozUW5tOGYta2d5M1QyOExFSg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "4fa67292",
+    "decision": "approve",
+    "reason": "Positive tourism and dining opening announced for Bahrain",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "NOBU Hotel, Restaurant and Residences is coming to Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkVHRmFQNXpRWUhqZ1Z1UXpfZHU0cmZqTWQ3Z2hsVlo2b0lHMnpfSkN3TTNjMHNtejVsdHpSRHRZZ0VyWHFwNENmY0QtUnBHdkhlMW9WWUJKOEZLWlNsa045QjJaaDBaTXljcUNjWk1yQnprYXJObUdCQWRwdEVvak1MSURJdVR2M0Ztc2oxNnhpSllUamtRc05rX1dGdzVianJJZWVB?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "نوبو جاية البحرين: فندق ومطعم وإقامات. تبي تعرف التفاصيل؟"
+  },
+  {
+    "id": "50c3a0c3",
+    "decision": "approve",
+    "reason": "Bahrain theatre delegation participating in Gulf theatre festival",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "A Bahrain delegation arrived in Fujairah to take part in the Gulf Theatre Festival.",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odEpqX2ZfNEhuU2FmbHNaN3dxSWtuT1JEbmYzd1I2VkNNM05ub1I1QlI3S1VGdjNrZkxUdUhyT3NrcHU5bzNBTEZ0SzRweF8zb0VlWnZscFg5N2FRdnlUWlU0SGs4dXBBOGNETm9OQWY?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Fujairah",
+    "angle": "المسرح البحريني يوصل الفجيرة لمهرجان المسرح الخليجي. التفاصيل بالبايو"
+  },
+  {
+    "id": "043817e1",
+    "decision": "approve",
+    "reason": "Food festival at The Pearl Qatar, positive and dated",
+    "category": "food",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "The Pearl Qatar hosts a food festival from 11 to 21 November.",
+        "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVVuWlFjMzZyRWd0dlphYlN4QTI5QXNKNEFhdXBZeld2SXNTMEpuWWlPLVNsZ3lKaVBpd1pEclBUZU1VZXNlQUxQUkdlUEFjaG0yekdWSlVENlc2MExSVU5yaWZsSlFmQ0c1RzQwNWhpdEIxc3dvdGJFTFdEbUdFZkVzcHZoZWxNSk9WTHlCVmpCTmQzVlhGWlhEQnZHOGVIMUpWek9fNzh6NW0yblBwYWtXbWk?oc=5"
+      }
+    ],
+    "event_date": "2026-11-11",
+    "venue": "The Pearl Qatar",
+    "angle": "مهرجان أكل في The Pearl قطر من 11 إلى 21 نوفمبر. شنو تبي تجرب؟"
+  },
+  {
+    "id": "7e458f0a",
+    "decision": "approve",
+    "reason": "Doha Film Festival announces cultural collaborations, positive arts news",
+    "category": "art",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Doha Film Festival announced new collaborations to bring cinema and culture together.",
+        "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWkdBSkxlR2lFZHk0djJTTDRndnU5WEp4RkRoQlhUM0NPcnItN3NTZ3AxS0wyZzdYeGJ6SzZEbnZhMUdOWlZQNVNQYnE1cTFxdjVSNnNEdV9YTEZFNE9WaksyUlJyRWYxRG5zUl85enFzSkpVX3BhdGM2Z19xRGxqMmxoVEk3M2xDYktsTDFya1l0dmhjcDgxTWJWV20tenpzSFhzcW1wLV9yV0xzYkdPY0VJRV96T21oM19ZaFNKWlVzTzFndFVQZXNTWlhmaGRrY3B0Y2JCbWE?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مهرجان الدوحة السينمائي يوسع شراكاته، والسينما تلتقي بالثقافة"
+  },
+  {
+    "id": "7010d777",
+    "decision": "reject",
+    "reason": "Outside Bahrain and GCC scope (UK restaurant).",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Manchester Evening News. . This is the restaurant that's perfect for Man City fans - because you can eat your meal with a brilliant view of the Etihad 🙌 Zadie's is Medlock Square’s flagship restaurant and bar - and it serves up pan-Asian delights cooked with Itali - Facebook",
+        "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY1ZfV0JETHdWYkc5aVRUU3RvRkpneFJQZElIMzFfUFQxeDM5REFrYVNoZlZYQ0pJeTQ2N3NqdmJLZjQzOGdzX3ZGNVR1YTMtM3NJNllXU3J1X3RvYmdubE9oT1FnX3lyeG5iRjlzZ3p6VGdVc0Z5emZPcW1xTEpreE5Pd0FSNEg0VktjOUdCSl9PRUdVQWJoV3Nsb2FCSFpuMGhaeWFFWDg1TTMya2tCOVdJRFdnd0lxUzFnRXBhdm1jOWlmSVhxVncwaU8xbDNCMVBHdHBoNzJCbkZlQW9Oa0t1bVg5TFk?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "0e45816f",
+    "decision": "reject",
+    "reason": "Government MoU; diplomacy-adjacent, outside positive-only scope.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "MoU between Sultanate of Oman and Zanzibar on heritage preservation and tourism development - Times of Oman",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0lTMTFWV2huNDdVX0hPd0JoSDh5VXpNRlNKVFJWUkhmNTdhTUtVckFKbVFCWjNUdXpkNzF0Tk1leGtQdmU1OXZ2ZmE0bV9IcTQ2dkNfVkdpYmZRTVJLMmRudWdLZ2tIRV91RXlQZ1EzLTcxbEVNWjc4bVNRd0l3QkdpZkRKa0JxVFpESWJWSkd4N25NQURIUTcyUVlfSElqTjVDUEpMTjNyaVRZUkNCOWprTHdTU1JqOV9mLTF0VEFMVnhyaWxjU2FR?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "1023cbb5",
+    "decision": "approve",
+    "reason": "Verified Saudi sports event happening today with fighter weigh-ins.",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Zuffa Boxing 13 fighters passed weigh-ins ahead of their bouts today in Riyadh Season.",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWVdTUUhrNHVueVlXRHZUNFFkYjhHYS1BNDRzc1hPbFdEREJGUWJVYTh3UFdSbEctejcwYnk0a0F4YjZtTlFFbElnZUQ?oc=5"
+      }
+    ],
+    "event_date": "2026-11-14",
+    "venue": null,
+    "angle": "الليلة نزالات ملاكمة في موسم الرياض… وين تتابعها؟"
+  },
+  {
+    "id": "5afaee1e",
+    "decision": "approve",
+    "reason": "Positive family entertainment launch at a major Riyadh destination.",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Wonder Garden returns bigger and more exciting, a full amusement park in the heart of Boulevard City.",
+        "source_url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNaEVjZ2Z6ZUtyOW8zLW1VRDVHcmRpOUdncnd3UlZSVDRLc0pCaGJ6aHZHSkptVnZNcjR0bmJIakFVbHdsaEI2QTBRLW95RFpyb1hNak41Vjd6LUtEaEl0aGtTR19UYi1GOVM1ckwwOWFMc1U4VDZIV2RqZ0d1SkpucVZYcU1BeG9Beml0M1E3Nk9EOE5LbnBKX0h1Y2hPTGxyX1RyNVhqQ1N6WmhwMW4yQk83ZUJ5ZDY5UnNoODJoN0JrMTdGaUNqalJyaDFOUElWXzFPT3lza3pYSGpGdUNJZHk2Y1Z6bTlWMmEyUVFUQVdpTGJ3a3dtSjdWbTN3N3QyempQdno5Yk14TGNSVGdMNVU3aVRzY0JueUdkODVjS181RDd1VmRXNEpGcWEzb3pSbUxvS3pPVmh4cm1pQmFLYmxsVVFKeXRfY2FNcjhVbHJhQURMaTdvM0xmZUVYYVo3cVJrb0pyWHFCY25JcndoelA0QU5QZlpQODBZbnNLcFVNOGE1SXZ5djJPQUpsWHIyTlh1TUpnQ2UxVHdSTkRyLVdoNjItMWU0WnZZR2owSW5SUlR1eEw1a3Z5YzNNbkk0WWdtcnBLSlJTbDVOc2hRSlYyRWxKZndZQmFoVnVqMy16Q2VrVHZqOGtpMHlSLW01ZjRfTkFvaTRtWUoyaW9tejROUnlVZFVOWTZ3NzUyZVJxWFBsNzI3Q2stOG92c05CYTd2ZVhfUFNtYzIwaTZB?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "بوليفارد سيتي",
+    "angle": "مدينة ملاهي كاملة داخل بوليفارد سيتي… الويكند صار أحلى"
+  },
+  {
+    "id": "607c665a",
+    "decision": "approve",
+    "reason": "Positive concert news in Riyadh; artist event, not gossip.",
+    "category": "art",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "Rashed Al Majed performs an exceptional night in Riyadh, and the audience is waiting for an additional night.",
+        "source_url": "https://news.google.com/rss/articles/CBMinARBVV95cUxONm9zSlNYeklIdk1wRzQyTkswVjZ4OUMxOEVta1BpLVlULWw2eDBieGNMM0NTY0NSTF84Ml9xdXUzeTg3b3NrdDgwWlM3TE5ETmhZUC03NXZlaHljQjF0cTRrZHMzX3lyYkdqSzhWYlN1T1B0UHhNdV9wR1NscnJPTlJTVzY0bWNHRWU5UXRqMzdjMHZUU0pSSUU2czlYWUtfLU5HMVZNRFRYaE4zTF9KVkNRcjJHaG1xd3U0RGRCdnJGODFOY1dxdlJhWjVueEc5aW1SS0JOTWdrYjJ5bDU4cFRUUzJpLWNKaXVmSDVSMkFLNkRfcTJjczY2T3RVTUJXVlFvMDFidlo1ZE9hN0U3bFhLVTc2SDY3N2JFVkhFYmZLdXdySFlXVE4tSE9FZU4yc3FjYm5GZWdkZFFhZjkweElSQkV2UU9GRHRRZ1Y1MGdZcXRfNk12SURpNWp1UXYzc2JLamNWRHdIUld5OExaUHVZelpNRDB6NGtEaVFvOEY1SXMxY3pldF9EUGpMTUd4Z0hsYVB2aUZCY2F3MlZjZmNRVmpYU3QyRkJyRUdadFJlOUE3VGt3NFFqNnFyMXAtbG5WUWFNU1Z1SHhZVDVHblVWUHZMSkJtaXJOZnl2c25mZmlqTEJrWHRoVlZfVDQyNmcwSUNmNkV6YUpYcVF0TkphRGNvbzBXRzM2cXkwSF9Cakd5WmUwcmQxRjE?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "ليلة استثنائية في الرياض والجمهور يطلب ليلة ثانية"
+  },
+  {
+    "id": "1496b411",
+    "decision": "approve",
+    "reason": "Positive Saudi coastal tourism development announcement, no officials named.",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "A new company, Gulf Coast Real Estate Development, is launched to create an integrated coastal destination in Khafji.",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EZG91dHhtcVZzOUtOdkNGaWQyTGV3dGpHWGZNTTFvZXN0WHVuWHRZQTRXUFNrSDVxVEJKMDdfU1FxandYaHdDWkZ5bXRDR3FLcmhBTDZTZk8zSnBZR3RaNkpZdE9VdF92Ymc?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "الخفجي",
+    "angle": "ساحل الخفجي يتحول لوجهة متكاملة… شنو اللي جاي؟"
+  },
+  {
+    "id": "0a8c8be8",
+    "decision": "approve",
+    "reason": "Bahrain community and youth event for children, positive and verifiable.",
+    "category": "youth",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "بلدية الجنوبية hosts the «قرية البلديون الصغار» events within the «مراعي» exhibition.",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZGRPYmhaRkg5VjVrbmpTMUM0dFZMTDhVcERFX0dYakdFQ29Ya19haGxYemthcGFNU3J3bDNvZEI1Y1hKdThydW1FTUlZNmlMYnJyLUc2RlNKVjRObnc?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "معرض «مراعي»",
+    "angle": "قرية صغيرة للأطفال داخل معرض مراعي… الصغار يشتغلون بلدية"
+  },
+  {
+    "id": "695d205c",
+    "decision": "reject",
+    "reason": "Outside Bahrain and GCC scope (Vietnam destination).",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "خليج فينه هي مستعد لموسم جديد من الجمال. - Vietnam.vn",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vZU1jb1FqZkZiRWJtVmsteURpaVJZX0FNY1cydmlTdU56Qm9aeHNvcWhIY2V5bUtJUkFtaDc4VGhjUTBpdWQtNHA5MjRBenpQbGdaUFRaN3NGMzFoQTkwdHd4ZDBBSlNKMTdOWGcxX1FLSXBObk5j?oc=5"
+      }
+    ]
+  }
+]
