@@ -20,5 +20,11 @@
     "status": "published",
     "at": "2026-11-14T16:00:29.504134+03:00",
     "ig_media_id": "17983857150066890"
+  },
+  "D17-05": {
+    "status": "failed",
+    "attempts": 1,
+    "error": "Graph API 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with 18,096,860,738,485,221 cannot be found.\",\"fbtrace_id\":\"A6uygRhcf0L9pP7isg7J0yn\"}}",
+    "at": "2026-11-14T18:00:30.643379+03:00"
   }
 }
