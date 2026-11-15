@@ -1,0 +1,401 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Bahrain festival announcement; dates still to be confirmed.",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival takes place on the Pearling Path, December 2026.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      },
+      {
+        "fact": "Festival dates are listed as to be confirmed in the source.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path",
+    "angle": "مهرجان ليالي المحرق على طريق اللؤلؤ يجي ديسمبر 2026، والتواريخ قريبة، تابعونا"
+  },
+  {
+    "id": "98c71486",
+    "decision": "approve",
+    "reason": "Bahrain Marina revives a signature leisure brand; positive venue news.",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Bahrain Marina is reviving the Marina Club as one of its signature brands.",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDNCNVBVM05hd3duMWFSWTdwSzdFRE9ydEpSdnNHbnNtY2c3dThMSnF4R3dsZVdEbVI5T1VsT3NZdm1vMnB4N1l5VzRjcE1TSUdxY05FdHdhT3g3SUhIY3oyd0hzZW1LbGtwTDFhRU9sSXJLVFBjdGY1bXdIbUZNZXZCX2dHZ0VoMVMwM19TOUJfb1gyUFd0b1ZSU1c2ay0xTDloQU1EaW1kbFN2TUdLc2pPS0pKT2twekNMUHZPcnpGSHpBcWdQMVVCSQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Bahrain Marina",
+    "angle": "نادي المارينا يرجع للحياة. وين كنتوا تتذكرون أجمل لياليه؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "17dd9d3c",
+    "decision": "approve",
+    "reason": "Positive luxury tourism development announced for Reef Island, Bahrain.",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Nobu Hospitality and Infracorp will develop a luxury destination at Marina Bay on Reef Island.",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdmxOTTFqd3ppSzc0MEZpdWxRVXphOENZd19tSXhlTEgxeDlBZGpSeDYtcGlsazRIZHhzMzZPLWRkWTlxZ3duUmUwVjVmWWg4VWhnVEQ0RFVtOWEwY0txcjgyc2F4aHlMTWNtNnZFSkw0MnJzYzc0UFJmWXFpSXZ1NWl3NUJ1U0tsMUpPVXowVHJNZTNYNnphM2JWQXNNRmg3NE9kRXRORUV5YmJCbGRTdU1CekpYR3RRSjhZ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Marina Bay, Reef Island",
+    "angle": "جزيرة الريف تستقبل وجهة فخمة جديدة. تتوقعون شنو يكون الشكل؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "4d327d8f",
+    "decision": "approve",
+    "reason": "Bahrain performing arts festival second edition at a local venue.",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Saint Christopher hosts the second edition of the performing arts festival in Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKUldEdnFVb1o3dTZwRDBGeWVLZjlETUJrM01sbkhBeFRIVW1TVWFTbEFESlFnODZlaExGX3ZjaXdSbnBoWUswX2ItcWNSZDFiazZsTURkTHBhNWRId2hJSUsyMA?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "سنت كريستوفر",
+    "angle": "مسرح يتسع لكل البحرين. تحبون الفنون الأدائية؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "ea2d8687",
+    "decision": "reject",
+    "reason": "Generic news aggregator, no specific verifiable item.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "أحدث أخبار مصر والعالم - ekhbary24.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpQXpEdlU5LW5nekNaLS0yS0xiRFU2OVJjTUxTcFpLRGRFaDZ3MGQzdV9HM3B3TnAxbE1YQ01BanZnUnNQeW9QNDM2NA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "3bec8b32",
+    "decision": "reject",
+    "reason": "Celebrity music award, outside Bahrain and GCC scope.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "aespa Wins Inaugural Global-K Artist of the Year at Melon Awards - Daily Voice Of Asia",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0VjVUozbnItaTQyZlMwYWZDVTlsV05OdDg5N2NBSXNmYVhtWEVmZElmOFpseDVhR3BhRG1xLVdQQ2Y0bXcwbzZOdVNxSk5KSklMa1g3ZEVIQTBVY3RtbEg3NnFwMW85SjAyYXN0TWpTRHN5dm5OUDVOaVk2TU4zMUMwLVg4SU9CSkNEVW94Yl92WWd5VFlZUWtfLTFSeDhT?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "373bad3a",
+    "decision": "reject",
+    "reason": "Accident, outside scope.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "A tanker collision that overturned a docked river cruise ship in New O - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXBxWTg2WDgzamRKTWRVV09HOC1BWTZNRlh2bFA3UEduYV9KZFV5dkI4QklPaVpqUlVyWWIzYnVURzItSGpkcGtQUEoxTXV4UU8tVkRiRFVLZXJVYXNQRV9HLU1qZ1Y2QzhNcFNXZEtFSUxQRnRLay1yckJWelFrcU9PNzNtSEowZUsxMkhtSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "20d7e5b3",
+    "decision": "reject",
+    "reason": "Fuel price change, out of scope.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "سورية تخفض سعر المازوت 14% إلى 150 ليرة لليتر - العربي الجديد",
+        "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOQ0hVeHRkRVBTd0lOX21zbkt2c0R5azRGem1weGRKQWd4X3E5dFhVZ1ZBek96NjhDWnYtSEZ3b20wNmxob21mOHo2T1owTXpaX1JHWWFVdzNXeHZLcmlBcjVqcTI2VW43WVRpYmdZQk9PcXJxUC1kMEZRWDBPaXk4SE9rWE5BQ1BxS3JNMk5TR2FDVUVjYkR5TTFidlN5bFhCTkd5cDdtQ3pDN2pONWdhTndWMlpyeDhsZklOREVpVlQ3c2FoaVJtNFFmWUdYc1l2b25rdFh3STlCY1h0b003WnFuU3ExSkg1dDBNVEVBNjcxQ05JYTFyZXhBT2Y5OTRqZk5UaERjWlg0b1laM0FhM0ZhRXMzNGtJcmYxWl9EeTdqMHptTkZpSnp1LVNycF9TZjZ1RDlkM3Nrb1dtSHVCWFhEY09kaGdyVjFiTXFzZVItU0XSAdgCQVVfeXFMTk4yU2NmWEEtc1VVdHNNaE9WOC1mQ1VNSEU5X2lBSmRCc0doOGlWZ3dlUUVYd2NOZFJVejNpUFdFdXhUWEgwVVdGWGEzcjMyMTBLM3E2S0JDSDIyakFrWkxhaHN3QXpXSDdPNGprZ0d2Tk1UR2ZBRTRVVlpzQjRsNmJOLUF0cGxDV0ZPZE1zNWtOMjluRDBYREJJVzBFZFE5ZE9EZTBwQmZDaTAzVjBPd0RPUGtmMTl6SUVXeHRjcXF0Q1FwSnN6dW5lbHJwM3k4MlNDeF9JdHhVNVhrSnREX1VZVGtSWFJHYW5oRndsSWlDMlM1VE5ob0M4RTBJNG1JbFhIdDNFb3lnbllLWTdna2NuelA1OUFvbENGSjh6VzBoTkJyM2Y4djN6LXFMX2xiSExSRk0yeWRDUzFRclQ4MVRqQTVZVTFDTzNQOGtKZnpoWDhqcjQ5YlI?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "4b658975",
+    "decision": "reject",
+    "reason": "Military and regional tensions, red-line topic.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "البحرين.. الحرس الثوري يعلن استهداف قاعدة مروحيات أمريكية ورادارات دفاعية | CNN Arabic | CNN - CNN Arabic",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXZfbkRUYVZSb3VWZ2w4V0VtTWJMZ2FjQnRkeXdHZzNIc2NsWkZrd2doNHVLQ2dKRXRueURjbUdQV3c4NHFKejFuLTE0X2hBMXV4M2lsV1hrd1Zld0JVTDVadzNGWXlqX2tpb3dfcXdpb1J3bWtiODZiQnBJWnNvMm9BVkJRcTlpbVlHTnhKNzA1Nk81cHVFNXYxZ09MMVp4U1E?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "c65b636a",
+    "decision": "reject",
+    "reason": "Corporate banking award, vague PR with no audience value.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "NBB Named Best Trade Finance Bank in Bahrain Year at the Global Trade Review (GTR) Leaders in Trade Awards 2026 - Al-Bawaba",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2FMd2pGaGpFNGhmMHRZbGc0TTQwVFBicVRNVFZJSW5tNUNadU4xMklXWnR3YzFPMUJDX3J3WEhXc3NVeDJMYVdlQ1B5NEllcWRkaWtqX0JZVV8wYlo5Ql9zblZrVEdhMVpPd1VnaFBZbXRIUzhkQUhKSHFNRENpVXZKZGU?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d6b3e58b",
+    "decision": "reject",
+    "reason": "Foreign regulatory fine; outside Bahrain/GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Italy fines Meta $880 mn over photo privacy: authority - Hürriyet Daily News",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeHJFa2xPV2V0b1V4blFiLW1NNXJxRFpYTHVfTWh2d0dPWW83a2pLRHViYzFTV0tEX3JkMW1yRHRSTHBTQ0Z1NW9hQnhNaFd5MnZqeW5LOHl0OV9DUzB0YVZSaHhlRWE0S0h6c1QwLWJqQ1JnWlFsN0ZWcUUtYlMtRzhXYjZjVW5MV0RIdzUxRGszWDA4Rjg1Nw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "554ebc3b",
+    "decision": "reject",
+    "reason": "Outside Bahrain/GCC scope; not a regional story",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "SpaceX pulls off first-ever spaceship 'catch' - Hürriyet Daily News",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQclJzVDFYLUJ4YndjSXZPejVEUElYYWJzYTAyMFRwbWRwWktDaXN5R292aFhSUUJEVVExRlZINDg2eWVHb1RWUzVsQUxyYWp2eDA4WFRxZ2VTRnoxb3ZDV1hEZEo4eFFzMl9yeGh0a1dQTjhSRGNyNXF3UDcxMi10V0tCUFNFaVhUMnRUcFg5enFUZw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "347522cc",
+    "decision": "reject",
+    "reason": "Economic news outside scope; negative framing",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Russian economy growth slows to 1 percent in third quarter - Hürriyet Daily News",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0lLcy1vWGZzZk9xbmJhT3N2elMzalUzRmEydzN0MnpRMTNSQUgxNVBPNEtrd0Nqa2tlT2F6XzBXVzFDVEhWODFEdndDN1otWmpTaEE4a2lkQ1pLdW5xazJkTzZqVlJDeWtTSDNCcm9OTlQ2WnZQVEFfOXc0NFBkNFZUbXlDeEJlV3dtTHVqSGlkZ2Q1WWVNYnloaWlCOVhFT3gxV3VB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "12f86d84",
+    "decision": "reject",
+    "reason": "Event held outside GCC (Tunisia)",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Syrian Dance Production To Open Tunisia’s Carthage Theater Festival - The Media Line",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmxFUjhUenZsV2RLVkd5TVpGVThqZk9Vakdib2xuV2VsRG9kTUJfb2hhTnVtNkc2OV9vNUloSjN6dllmbWlnLVQyQWtzSmRGTVVvMEZlcGRNMkplRFhqb05PdVlydXJkclhoczFUMVBlQ19TdDRVTW56alV1MXJJbTg5VjZSRElEbUlkcU9SQ3kzemR1U1hFQ1hMcHgwVVlOMlE5Y0xQUllYVHdZ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "1f1560d8",
+    "decision": "approve",
+    "reason": "Positive Bahrain sport event announcement",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bahrain International Circuit and CBX launched the 2027 Bahrain Darts Masters.",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ2tiUks3LVBXLUo5Tm84VG4wd0xkOGJGSFVEaTNzSy1hTV9jRk5Da0FEaFZSV2pHa1hsNXBNajdscmszX0owLUtSZk94V2UyVW9fSktfMGlYQ010Z0lNZFBXLWl3T0ZWdEt5aHVqOXFTdlo1YjBVWWZWcm9FNlVmc29tMXVfYTZzVGc?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "بطولة Bahrain Darts Masters 2027 جاية — حضّر مكانك من الحين. التفاصيل بالبايو."
+  },
+  {
+    "id": "d2bc53c3",
+    "decision": "reject",
+    "reason": "Maritime accident",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Tanker collides with cruise ship - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80R2ctUHU1NEpPV2JRMTNGVWRZd0NvRzdvZXd1UWxqbjNPQzZ1cWhOMWZLYk84d3hhWHFla1ZLS2l3ODNIeXdwRHoyS2VmVEVJTE4tSWdRcGxnOFdyTDl4bXFfZ2VxQzY4bUFBcE1ud2dreVRQMHA3cFEwYzRlOEE?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "27f5fcdb",
+    "decision": "reject",
+    "reason": "Official's statement as subject; attribution doubtful",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "الحداد يهنئ بالإنجاز الآسيوي المشرف لأبطال المنتخب الوطني لكمال الأجسام - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sd1BKMzdVMG9nLUVkdmMxVmRIcVNUQkhrNjR2cWJtdk9GaUxrZnZGR2RHOHc3T2d3ODBMN2lqc1prZWxfUjBVQ1hXQV9iVFNYam1fb2t3OXZWenpXUUJvVHpRTHM?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "38b32fbb",
+    "decision": "reject",
+    "reason": "Vague corporate promotion without concrete details",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "«البحرين والكويت» و«كريدي مكس» و«مركز البحرين للمجوهرات» يطلقون عروضاً مشتركة - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90M0NlaThMaW0yeFBtNjlaY2FTb0dlLWVJRk1GY05ORjQ4OHhKZmxRcTFfMWhxS2JKRlI0RDZOeVJ1Z284aFpDOHJUdy1KNmFOeDE0aTdURHNlb0I3MUJPd1BxS0U2aTA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "6c528a52",
+    "decision": "approve",
+    "reason": "Positive Saudi heritage festival returning for 2026",
+    "category": "heritage",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "King Abdulaziz Falcon Festival 2026 returns, as reported by Time Out Riyadh.",
+        "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWGhaUmlselBjMGYzUS13TTVvdVZCclFVa3VCNnJSb01wdnZXNjE1M0g3LXdndHF1eld6bHg3YmtBSXZjSjNQTHdEME1la29uWjk3QjNienAyOHFWbnRlRG1RUjh4dU9zX3pwQlRhcW1uSnpJQ1liREZLQjhFV0VOcEhvNHVvbDRIZlU3WHJRejZHaHdvYlhfZUFPS3ZVakZqYXhENjhUTzJEN2ZHOFhTMUM2emt3WHhhLUd3andNVXRWX3MwYy1XYmJ2U3MwaDBEUGhoYTJkRUd0dFp6b2FnMGhQUHBBQXpPWkp6MUtkYTlEc1hsYkwwdjE1dU9BQ0NfQ0Vra1p2NWVyNG5feFIzNl9FSGZmcnJyNHZWd1VR?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مهرجان الملك عبدالعزيز للصقور يرجع 2026 — تراث يستاهل الزيارة. التفاصيل بالبايو."
+  },
+  {
+    "id": "c489396d",
+    "decision": "reject",
+    "reason": "Official as subject; celebrity-focused news",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "تركي آل الشيخ يلتقي نجوم «في حتة تانية» و«علمي علوم» في موسم الرياض - بوابة أخبار اليوم الإلكترونية",
+        "source_url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNWmRqaVVZanBrWHhJZ3otRkYzeXljZjlxTGUzdGt0dTYwUmZsR1BEdGhudUNJRFBTb1BGbDJPdkhaVTVGcXRxYnRVbHdvWDVvbGhPdmxKY1BDdjQ2cWhlRjFsUFB1VzFsRVkyWkFsS1BZS1VhUDZlMzl4Z1F3SVFXUkM5NXZFTGZpNVR1a1pYVVZUV201ZmJwRlVQc2ltMFo4MHNkRDlkN09Belkzc0ppckRmS0JoZlNTTEhMNVEzNm1ZQW03dUw3ZjZKaFp4OE9hZXJ1S1JhMDV0T05pV3JDU05mRE85VUcxU3N5Sm5sUFpaTEpicnA3Q0toYnNxTFdxUThVWU1YTU5mTDlrajZGUG5YR3c3eTk3dV9Rc1hGdm5yc2Y2c3N2ZDhhVlEyS3NlemNERW05QkNxb0swR2E0bThXb0traU1XZm9LQm5qNHFTeDVnbUxIemhrUTBlZ2hHUlhN?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "f7ca4cbf",
+    "decision": "reject",
+    "reason": "Flight route to Denmark; activity outside GCC",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "طيرانُ السّلام يُطلق أولى رحلاته الجديدة إلى كوبنهاجن بالدنمارك - برس بي",
+        "source_url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxQZjBBM25LWjJEak83NHdOaUpUQkxsX095SldvZU1MQzF6NlRBUGcydVo1dVVaN1R6bTdCX0VZVGh6eUVicXZmazVtZEdueUtVeVgwT1BHNVMyMTZ3R254eXk5LVhoNlItSElfZEd5RUtRLUhrMTJVNk13UUJwWFA4WGxFMDVEdG1RMHZTOE1wMzhCNk51SGY1MHJya0lDb20ycEJ5WDdxb2JTNGZCS1BzR0x3OXY1a055WnRqelVCR2k1TzhHWmNKc2lXWDZjTzNPWE5YdEowQk5xbUh0UFdxcTl0bVNSRzQzMDQ0RG1nRC1kLUg4eE9iWjhhSkU1U3VLUTZjQWFXdVlTVEZjZVRzRnhjb3BSSDBubWhzaHp6Qy1CRWtLd2xXeXdUektqcFA3Y0FJR01jVkY5d0h0amhhRXpFanQtSUVQTXMybi0zN3pEYzR1TnRuSTVzcnVGYm80M0daaGhvM3hmVVEzSm9qY0IzUWVSV0xTV2NJa0IwZG54a2gwV2FzaXBEMXU5UEl1a05WWHRCVkR6UjZ0SGlGeUJGRTBrenNCeHZ3RFRZdTg4c01XQWJmZDFVQ0l2LVZGdm5VQ1JGeGNRWFJnejJPUExQaEtyQndRb2ZBaktWNnhCSjctZWpoSFR4NTJiQWxOTmRFc3lrUDBtYlMwMGktckhsTUpIWGFCTHlzSWZiVdIBXkFVX3lxTFBqX0cwUllyV3VYLUhVQldnei03UTdsWjNhT3ZiTTlrRUtIaEZ4S0pxTGNGSEJoeFJWOE5jM2k5NlhvZldyTzhLejVMQlZ5RTZFVnlhYlR0dHpqMGpqNHc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "c712c6b5",
+    "decision": "approve",
+    "reason": "Community health awareness event at a Kuwaiti mall",
+    "category": "community",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Dasman Diabetes Institute marks World Diabetes Day at Assima Mall.",
+        "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk9VdnVWZHFHVzVVY1lFdDNMazBoVkREbkJOTHd5b1M5OTQxc3ZUd3dDS1duNFBTbU9vMDc1eU16TnFndmJjZERzQXpkdElfQ0ZrS2JteGRTbHV2alNtSnQwQzctS29kZzY5ZW9ROEFtdmtYa0twcUs4MXR5NXRNTlhXWFlLMjdiRFhxcnNpMjQ0Nmt4?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Assima Mall",
+    "angle": "صحتك أولاً: فعالية توعوية في عصيمة مول بمناسبة اليوم العالمي للسكري، التفاصيل بالبايو"
+  },
+  {
+    "id": "0b8bc707",
+    "decision": "approve",
+    "reason": "Recreation centre readiness for an upcoming Omani carnival",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Bidiyah Recreation Centre is ready for the Bidiya Sands Carnival 2026.",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVhPY1ZZamVzeTNqaGw3c3lpU0VMM0FUaGtWVElMQmt6dGJlOGJzYkJoTnFkdm5JTm5YSjV6SVl5bWdXbHktek1FSFJxYnJWSHFDZ2lCV08zdi1DRV9DWUVHbzVWcVpYSFpLM2g0OG5mTEFMY2RSZlpvTVhXRU53dWhnUENYb2d5RFF6a19JYVlON3NWNloyOEQ2cjhsSUpmc2pj?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Bidiyah Recreation Centre",
+    "angle": "رمال بدية وكرنفال جديد في عُمان، الويكند جاهز؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "4ac55ded",
+    "decision": "approve",
+    "reason": "Sports result from a Riyadh Season boxing evening",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Adamas was crowned winner of the Zuffa Boxing 13 evening during Riyadh Season.",
+        "source_url": "https://news.google.com/rss/articles/CBMikARBVV95cUxOcDFFeU9lcXVBaFkzQ0JyZkwxTFZncGZZRndXUUtoS1l2dTN0b2RHV1lSeFJhUTMzN256RDdLVWhyRHVuWXJNQ0tHbG1VcnBBODI5NG9ySV9WZzJHSFdvZ0VpN1NxOTZ2akZUVmozUWppeGR5ZDR3VFozcGp4TWNwYjh1WnNfTDVqVEZ4TmZkdjN0TlZxQkU2Vmo5dUtWMDZEaTkyX3VuaGFCZWUxQWE1TFh3enVlM0lYSXlfVmNwMzJNODNCOG9XZmpEZGVQQ3p5UVFzX2pCQ3dJa0xyXzVjSWpfYmkwS1QzN3lTemIyRkhhN2JDWERMYVAwUVlwMjRzWERfQWJVUUZRNUxxcHFLT2w0b0xEblpMbVhlMXp2M2wxRFgyNC16dTd1UjVmSXlaeTF1bzBNOTFwUGVoMkJlV1pQZGc5XzRnTXkxMFZiZ0l1c056WWlNM0JFMzMxajEyaVFLV2tYZ2F0S0xjRGtxazBfSS1qSnkxcnItQmdsa3VtWFpMOHlBOWJEMU05Vk1IMW10OXY0MWJZanRMY1FGVVBhOEhpc2htdXBkVU5HdGllcWhtV2EtVVk5R21yOVBYOTN4UzRfU0YwNXduZVB2LWxqTnhvcmRvZThxZEF4bmVkbndROTVXMUw0R1hid3o2UEZaYWVkNnVWT2pjZUdWeFpZcWROSGNBTTB0YjNrYTg?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "حلبة الملاكمة في موسم الرياض، أداميس يحصد اللقب، شفتوا الأمسية؟"
+  },
+  {
+    "id": "b6e42256",
+    "decision": "reject",
+    "reason": "Subject is an official figure; not event-focused",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "بعد رسائل النجوم.. تركي آل الشيخ: أحبكم كثيرًا والرحلة مستمرة - بيلبورد عربية",
+        "source_url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNOWVCMTN2T0tWaGgzcWRtV3FVaHM5Y094cGFSRjV0dVg2T0loWElOMERyTl9aSTNqLUdxTGtLWkYxclRTMDlUX1U3LUt0enAyWVN5YVVrVEhMR0xqTlVZNlB0eldxYlV6WFg1WW1YSlJYMEVLVEpKVi1FNlR0OHVqaW54RjlkWUwtMGxpVnZReGRDa3J5WThCb1JfRjQ0akc3S3V1ZW5wZ29IYURBLUdVS29BVV93WjBsOUhRMUtyMjBwSFhEZUJkZU1QVFRlbGZtaC1KY014cUdoeDEtZmJCcXVxRnh6c3lRLXNROUVFMVJJVHhNMzVHenF4NFh6QmxCaC1hZm1iTG53MlA4SmU2MmFPWjZjczdkakF5U1F4cUZyNG1TTkZQcmQxckJHUGpzZkJjcGJMT2tSQ0ttUU9CcU1SMG1RU2kyREJwUWNRRnV0Zm00QTVnNFpicnRSTHdMLV80Z1JoNHJmQnNQcjNEWDN1MWtLN054VDVDVFZDaWFyVGpEcjFqRUUwXzJYWS1kRlcwM1pUTWJDa2E0UE5MdnozOG9FMGVBQkxtaHNDZEF3bDdpak9ha2dKSFllUmVUeHUyU2VQdTVpSHdTejJVbXBvSUhZejlLSHVMdHdZOERPVThpQnBMOTE5M2tRbkozUmxKSXRfVnVpNkRrU19xVTQ5SC1fSDhTemVDbm5kaHFJRUtWa1EwX3FiLXhLR04yUmI3ZDZnaE9GZGM1V0Exb3ctdl8?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "07ca6afc",
+    "decision": "approve",
+    "reason": "Concert event in Riyadh with a sold-out second night",
+    "category": "art",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Rashid Al Majid's Riyadh concert drew a full house on its second night.",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxNc0hPbHRyN0M2Z0lnTmUtRmxOZG5Ra0gzYjFuN2otWmJrNmlycEY0R0szVXVsb2VxYUhTRVJKMXdzTFZwX0UwUFVQdEROQlJVWVNpdUtXZHNHaE1pVEdkcnlOQV9nU2FTWmE5Q2JiS1hFclBwQTdGcTNsS19SUTh3V2xPNnY1OU1ONkw4UVpwY3N3eG5sZk1sTWVNTnFibkF3ZHBKOU1ONnJvLWJ2bm96WmVBRTlVT3g4Q255cTN0OUpLSW5ZcC1lRXZOeVM5ckFJZFItOFdGZEN1TVpJd0xjZ2JNWksxNk1raW5lVkN2Ulh6LUhwbUtOYmhTZjdreHd2R0RQN3o0blQ3ZUJNRE9SOVJJLVFFZ201OVRMUmpraEk2WGYxMlRWNlJCcFByLVprb0FaUjgtelU5SXBYNzRzR3J4anZWSm1Zc00wckt4S2JIS0lZVUQxQ3RzM3hwblJROHRKcm9YR1RKWS1KVHRlVTZYSnh4LW9SampQWjJFWWVPUW4waGF1UGdtZE9lbGFhSDM3dHFmUXN3bHdxc3NLUkZYWEc0T2QxNDRjQW9DUVNlS1lXQ2pHV2U1NnRGMVVJSFljT0pwLXZwa3N3bWxGd2RiOUZudUthS0p4czI5Nld6LTF4MFpwcmN5aHN0dUF0UVFnbks2Y3JUODJSTkxtdXJ5RFI3eWZ1UlZHV0wtczVSbUZuRXFlS1hDUVdabWpJZUc3ZGpyLVdfNVRmb3F0cEt5a19mTW95OVByMmxKOHV2cWZKT2lBUEpvc2h3ckF5cTFfeEVR?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "ليلة ثانية كاملة العدد في الرياض، راشد الماجد يرجع يشعل المسرح"
+  },
+  {
+    "id": "cfd412c0",
+    "decision": "reject",
+    "reason": "Negative health statistic; not positive news",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Nearly half of Kuwait’s adults have diabetes or prediabetes: Specialist - Kuwait Times",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNm83eXBVWWdNUndGOXdlTFVQUVBlRFJEdUMyaE9rWFQyV0R6RF9nZ2VVdlAxRjNMQ2QtVTRYNmh4VjRXNUNsU2xXTV9aYWpOZFl4Y2VxOVA3a0t6YkN2M1VjTW52NHR1eG9ib2NkbjlLTGJIWVBYb1Q5NUFRSFRobkg2Z1NRQ1A0c2ptSkFzSmZIMHRzSk5tZDZHM1ZVSVh4RzdSaWdPLTZRXzRkSlVmSUFXVTNWd9IBugFBVV95cUxPQU1PdGY3MGxjd0NabnpQb1RtWTR3R045d1VJNV9qbHpia3hlRUZKTVM3bXBUY0xHYVlFZ196VjFSRldxamNSVTZXeHJvM2lqbXBRTGdTQjJWNXpuU2x1em5TQUVOWkNIT1hUZUMybXVyczQxT1J4Nk5XVzRURXhYRnB2ei1zZkZuT1gxZXFNWlBqTmVZazBxOVNjTnEwS2VPcU80dGF6SjJPQ3phb0ptSTNCVDhVU3dQR0E?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "00974e49",
+    "decision": "approve",
+    "reason": "Fifth edition of a culinary festival in Oman",
+    "category": "food",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Al Baleed Culinary Festival returns for its fifth edition.",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2Z4R1RDYU5JdWpjVW1QUGVvWFNjQnhnb2NPOUs0ZGNGTkFfaVFlbXQyeHdzbWpRQ09sZy1WRkd5X0VuNGlxbmZ2R09IUERDbmhVd0hxV1kycTFWSjBoTnVDd2l4bXJhQVczdFFkLTZSVlh5ejhQb24tblk3eDNwY1ZUZGM1emtqRjRFc1VZbkhxa25rU2NZR2JvR05uYkV3eHFybjY5OFdJQ1dXMlpZaHNBX1pOM09OR2UwNjZNSEFxTGRnZ2MxTmJyUEJIcmZpak9vMGY4UFpoS0ZKWVVYUg?oc=5"
+      },
+      {
+        "fact": "The festival is titled 'A Michelin Journey Through the Sultanate of Oman'.",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2Z4R1RDYU5JdWpjVW1QUGVvWFNjQnhnb2NPOUs0ZGNGTkFfaVFlbXQyeHdzbWpRQ09sZy1WRkd5X0VuNGlxbmZ2R09IUERDbmhVd0hxV1kycTFWSjBoTnVDd2l4bXJhQVczdFFkLTZSVlh5ejhQb24tblk3eDNwY1ZUZGM1emtqRjRFc1VZbkhxa25rU2NZR2JvR05uYkV3eHFybjY5OFdJQ1dXMlpZaHNBX1pOM09OR2UwNjZNSEFxTGRnZ2MxTmJyUEJIcmZpak9vMGY4UFpoS0ZKWVVYUg?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Al Baleed",
+    "angle": "رحلة ميشلان في عُمان! مهرجان البليد للطعام يرجع في نسخته الخامسة، التفاصيل بالبايو"
+  }
+]
