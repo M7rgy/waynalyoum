@@ -21,5 +21,11 @@
     "status": "published",
     "at": "2026-11-16T16:00:41.577264+03:00",
     "ig_media_id": "18123392833987579"
+  },
+  "D19-06": {
+    "status": "failed",
+    "attempts": 1,
+    "error": "container 18097221341485221 ERROR: Error: Media upload has failed with error code 2207076",
+    "at": "2026-11-16T20:30:29.895184+03:00"
   }
 }
