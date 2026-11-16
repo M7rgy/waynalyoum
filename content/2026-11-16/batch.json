@@ -1,0 +1,439 @@
+{
+  "date": "2026-11-16",
+  "posts": [
+    {
+      "post_id": "D19-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "andalus-spikers-volleyball-champions-bahrain",
+      "title_internal": "Fil-Am team wins Andalus Spikers volleyball",
+      "hook": "بطل جديد للكرة الطائرة في البحرين 🏐",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "🏐 بطل جديد في البحرين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "volleyball resting on an indoor court near the net, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold tones, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "فريق «Fil-Am» يتوّج بلقب بطولة «Andalus Spikers» في البحرين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "hands raised toward a volleyball net seen from behind, silhouettes, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, coral and pearl white palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "مبروك للأبطال 👏\nشنو رياضتك المفضلة بالويكند؟",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: كرة طائرة / كرة قدم / سباحة / مشي",
+          "visual_prompt": "volleyball on warm sand with turquoise sea behind, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, turquoise and sand gold palette, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "volleyball resting on an indoor court near the net, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold tones, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "volleyball court",
+        "volleyball net close up",
+        "volleyball tournament hands"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDlNSmpFMUhOQzR2RGdkYUNzSFZUYkFnb1dxQ1J4TFRSZW9NUDdHQk5YVkhlWUVmU0tRal83WXdoNVlWd3oxcjFTZlR3dWZ2SHdOX1o1UUNXWjMzd2hVTU50ZWhDeFZnTXAtejFqUTdrdFp5bXJNZ0VseVlTa1Q3V2Y3aVBTUzVRdmFybVFzUGtodDdPczFZN215WHNzYld0TUlCcllIazdnek9MdlJ3dXh4cXFzWGY5Z0tsMnFB?oc=5"
+      ]
+    },
+    {
+      "post_id": "D19-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "expand-north-star-2026-dubai",
+      "title_internal": "Expand North Star 2026 startups in Dubai",
+      "hook": "دبي، الإمارات: الشركات الناشئة تلتقي 🚀",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "🚀 دبي – الإمارات\nرواد الأعمال يجتمعون",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "modern Dubai skyline at golden hour seen from the waterfront, United Arab Emirates, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and pearl white palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "«Expand North Star 2026»\nمنظومات الشركات الناشئة من العالم تلتقي في دبي",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "hands typing on a laptop beside a window overlooking a glowing city skyline, Dubai, dusk, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "شنو الفكرة اللي تبي تطلقها؟ 💡\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Quiz/poll: تقنية / أكل / سياحة / رياضة، أي مجال تبي تدخله؟",
+          "visual_prompt": "a notebook and pen on a desk with a lightbulb-like warm glow, Dubai skyline blurred in background, evening, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white palette, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#الامارات",
+        "#ريادة_اعمال"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "modern Dubai skyline at golden hour seen from the waterfront, United Arab Emirates, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and pearl white palette, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Dubai skyline sunset",
+        "startup workspace laptop hands",
+        "Dubai business bay night"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90WDJKWlBVOXVERjZwYk0wck0zb1lvdUkyTGxnal82LVZhbkdEcVdXYnNId1dwckgycGhnWVV2bnRLQUFFUUUxcUx6Q1dBMktvOFpv?oc=5"
+      ]
+    },
+    {
+      "post_id": "D19-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "qalat-al-bahrain-museums-excavation-project",
+      "title_internal": "Two museums launch Qal'at al-Bahrain excavation",
+      "hook": "حفريات جديدة في قلعة البحرين… وش وراها؟",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "حفريات جديدة في قلعة البحرين 🏺",
+          "body": "متحفان وموقع واحد… تعال نعرف القصة.",
+          "visual_prompt": "ancient stone walls of a coastal fort with excavation trenches in sand, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "المتحف الوطني البحريني",
+          "body": "أحد المتحفين اللي أطلقوا مشروع الحفريات الأثرية.",
+          "visual_prompt": "modern museum facade beside the sea with soft light, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "متحف زايد الوطني",
+          "body": "الشريك الثاني في المشروع.",
+          "visual_prompt": "elegant museum architecture silhouette against a coral sunset sky, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral and pearl white palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "مشروع حفريات أثرية",
+          "body": "المتحفان أطلقا مشروع حفريات مشترك.",
+          "visual_prompt": "hands brushing sand off an old stone fragment, close up, Bahrain, morning light, cinematic, photorealistic, 35mm, warm golden light, sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "الموقع: قلعة البحرين",
+          "body": "المشروع ينطلق في «قلعة البحرين».",
+          "visual_prompt": "textured heritage stone fort walls with palm trees and turquoise sea behind, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, palm green and turquoise palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "وش اكتشفوا؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "a lantern-lit archaeological trench at dusk, Bahrain, blue hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "احفظ المنشور 📌",
+          "body": "وشاركه مع ربعك محبي التاريخ، وتابع وين اليوم.",
+          "visual_prompt": "dhow sail silhouette in front of a heritage fort at sunset, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue palette, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "حفريات جديدة في قلعة البحرين 🏺\nمتحف زايد الوطني والمتحف الوطني البحريني أطلقا مشروع حفريات أثرية في القلعة.\nمتحفان، موقع واحد، وتاريخ ينتظر من يكتشفه.\nالتفاصيل في الرابط بالبايو.\nاحفظ المنشور وشاركه مع ربعك محبي التاريخ.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#تراث_البحرين",
+        "#سياحة_البحرين",
+        "#VisitBahrain"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "ancient stone walls of a coastal fort with excavation trenches in sand, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue palette, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "archaeological excavation hands brush",
+        "Bahrain Fort",
+        "ancient stone fort sunset"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWVBY3h1eXlCRFIwZ19yRmszVXVZajVzMkFONWZ4aXNnQlJRVXZvMGxqRG5IT0J4SnAzbWF2ZjkxTTRhRlBfc2VKUmZSdUo1eGRpMzdzbFEweG9TR1VRMDBSYXhqaE1RcGpmZFZ1WHEwZHBxaGlqVkwwSXJVQnFyd0R2OEpjdk0yODl3Y3VEUE9nWmRPWndsdmQzZ1RLdXRzbUwtM3l3b1FDbHo2dTlvMHdBRVZ2NWVfbkZ2elpHSlE5Qk0wMUhZcWlnQkptM3lCOEpldTFkYUlpX1lKZmRLR3A0bnBlNHRqcUE4R3M3TXBsUQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D19-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "riyadh-season-ethnosport-festival-18-countries",
+      "title_internal": "Ethnosport festival Riyadh, 18 countries",
+      "hook": "الرياض السعودية: 18 دولة ورياضات تقليدية",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "الرياض، السعودية: 18 دولة تتنافس 🏆",
+          "body": "رياضات تقليدية من العالم في مكان واحد… وش القصة؟",
+          "visual_prompt": "open-air arena at golden hour with traditional wooden bows and equipment on sand, Riyadh, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "«موسم الرياض» يستضيف",
+          "body": "مهرجان «الإثنوسبورت» يوصل الرياض.",
+          "visual_prompt": "Riyadh skyline at dusk with warm glowing lights, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "رياضات تقليدية",
+          "body": "المهرجان مخصص للرياضات التقليدية.",
+          "visual_prompt": "traditional archery bow and arrows resting on a woven mat, close up, Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and palm green palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "18 دولة مشاركة",
+          "body": "دول من حول العالم تشارك في النسخة الأولى.",
+          "visual_prompt": "row of colorful flags blurred against a sunset sky, arena, Riyadh, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, sunset coral and pearl white palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "أول مرة خارج تركيا",
+          "body": "أول نسخة من مسابقات المهرجان العالمية تُقام خارج تركيا.",
+          "visual_prompt": "world map style globe resting on sand with warm light, Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "المواعيد والتذاكر؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "empty stadium seats glowing in evening light, Riyadh, Saudi Arabia, dusk, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "احفظ وشارك 📌",
+          "body": "أرسلها لربعك اللي يحب الرياضات التراثية، وتابع وين اليوم.",
+          "visual_prompt": "crowd out of focus at an open-air festival at sunset, Riyadh, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, sunset coral and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "18 دولة في الرياض 🇸🇦\n«موسم الرياض» يستضيف مهرجان «الإثنوسبورت» للرياضات التقليدية.\n18 دولة مشاركة في النسخة الأولى.\nأول نسخة من مسابقات المهرجان العالمية تُقام خارج تركيا.\nالمواعيد والتذاكر: التفاصيل في الرابط بالبايو.\nاحفظ المنشور وشاركه مع ربعك.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#السعودية",
+        "#فعاليات_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "open-air arena at golden hour with traditional wooden bows and equipment on sand, Riyadh, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral palette, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Riyadh skyline sunset",
+        "traditional archery close up",
+        "festival crowd sunset blurred"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKMldKckZnMkFUSkU5N1hWa2VjRmhqSkk5UEcxekU4VkYwY3BZUEd2WjdtTWJUWm56dnNSWnJrV1pJQUJaR2JZ?oc=5",
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RR254UzN1REVaUzY4aVdMM3dPNzBqV2tMWThkZVh4ME84cWVISkRqekMxRDlVamdMMUFqQnpaN3ptcWRrbUtIUGMtMTU?oc=5"
+      ]
+    },
+    {
+      "post_id": "D19-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "bahrain-fort-guided-tour-agricultural-heritage",
+      "title_internal": "Bahrain Fort guided tour: agricultural heritage",
+      "hook": "وش علاقة الزراعة بقلعة البحرين؟ 🌴",
+      "script": [
+        {
+          "t": "0-4s",
+          "on_screen": "وش علاقة الزراعة بقلعة البحرين؟ 🌴",
+          "vo": "وش علاقة الزراعة بقلعة البحرين؟",
+          "visual": "slow aerial-style push toward a stone fort with palm trees and turquoise sea at golden hour"
+        },
+        {
+          "t": "4-10s",
+          "on_screen": "جولة إرشادية في قلعة البحرين 🏰\nقلعة البحرين | جولة إرشادية\nتاريخ وتراث زراعي في جولة وحدة",
+          "vo": "في جولة إرشادية داخل قلعة البحرين، تعرف على التاريخ والتراث الزراعي في مكان واحد.",
+          "visual": "wide shot of the fort walls with warm light, gentle camera glide"
+        },
+        {
+          "t": "10-17s",
+          "on_screen": "تاريخ البحرين وتراثها الزراعي 🌿",
+          "vo": "الجولة تستكشف تاريخ القلعة وتراث الزراعة في البحرين.",
+          "visual": "close up of textured heritage stone, a hand touching the wall, palm fronds swaying"
+        },
+        {
+          "t": "17-24s",
+          "on_screen": "تنظمها هيئة البحرين للثقافة والآثار",
+          "vo": "الجولة تنظمها هيئة البحرين للثقافة والآثار.",
+          "visual": "silhouettes from behind walking along a stone path, crowd out of focus, warm sun flare"
+        },
+        {
+          "t": "24-31s",
+          "on_screen": "المواعيد والتسجيل؟\nالتفاصيل في الرابط بالبايو",
+          "vo": "المواعيد والتسجيل؟ التفاصيل في الرابط بالبايو.",
+          "visual": "palm leaves with the sea glittering behind, slow motion, sunset tones"
+        },
+        {
+          "t": "31-36s",
+          "on_screen": "احفظ الريل وشاركه مع ربعك 📌",
+          "vo": "احفظ الريل، وشاركه مع ربعك محبي التراث. وتابع وين اليوم.",
+          "visual": "dhow sail silhouette in front of the fort at sunset, soft fade out"
+        }
+      ],
+      "slides": [],
+      "frames": [],
+      "caption_instagram": "وش علاقة الزراعة بقلعة البحرين؟ 🌴\nجولة إرشادية في قلعة البحرين تستكشف التاريخ والتراث الزراعي.\nتنظمها هيئة البحرين للثقافة والآثار.\nالمواعيد والتسجيل: التفاصيل في الرابط بالبايو.\nاحفظ الريل وشاركه مع ربعك محبي التراث.",
+      "caption_tiktok": "وش علاقة الزراعة بقلعة البحرين؟ 🌴 جولة إرشادية تستكشف التاريخ والتراث الزراعي. التفاصيل في الرابط بالبايو.",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#تراث_البحرين",
+        "#سياحة_البحرين",
+        "#فعاليات_البحرين"
+      ],
+      "audio_suggestion": "warm khaleeji oud and soft percussion, cinematic heritage vibe, mid-tempo",
+      "visual_prompts": [
+        "stone fort with palm trees and turquoise sea, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, palm green and deep sea blue palette, no people faces, no text, no logos --ar 9:16",
+        "close up of textured heritage stone wall with a hand resting on it, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold palette, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Bahrain Fort",
+        "palm trees farm Bahrain",
+        "heritage stone wall close up",
+        "dhow sunset silhouette"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE9WcHl6NGNvNHJkT2E1RVNEeFl0SmFSVEY4T0J0dWZ5cThhTjdVZXFLeXEwOHBSNFpIdjVpQnlnMzdodHBaYjNlcEtCSFBRMGo5TmNoMGtwaEYzYlh2Nm9zQ1hlQUVpbmhDVkFTLURCQmltdw?oc=5"
+      ]
+    },
+    {
+      "post_id": "D19-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "adam-alshami-kuwait-concert-dec-18",
+      "title_internal": "Adam and Al Shami concert in Kuwait",
+      "hook": "الكويت: آدم والشامي على مسرح واحد 🎤",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "🎤 الكويت | 18 ديسمبر",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "concert stage with warm spotlights and haze seen from the back of a crowd out of focus, Kuwait, night, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "آدم والشامي يلتقيان على مسرح واحد في حفل غنائي بالكويت",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "two microphone stands on an empty stage under warm lights, Kuwait, night, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "تروح مع مين من ربعك؟ 🎶\nالمكان والتذاكر: التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: أنا رايح / أفكر / ما أقدر",
+          "visual_prompt": "hands raised toward stage lights, silhouettes from behind, crowd out of focus, Kuwait, night, cinematic, photorealistic, 35mm, warm golden light, sunset coral and pearl white palette, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#الكويت",
+        "#ويكند"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "concert stage with warm spotlights and haze seen from the back of a crowd out of focus, Kuwait, night, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral palette, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "concert stage lights",
+        "microphone stage spotlight",
+        "concert crowd silhouettes"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCMkVkTnBpR2I1SndYQmtwbEtYVURXUnFnOUw3TDQ0Z00ya2xwVGM5dEpVT3M4Y1lHMkhtc2xJSHA0WEprLVE?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "innovation, startups, youth success (applies to the Bahrain posts)",
+  "held_topics": []
+}

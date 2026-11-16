@@ -1,0 +1,416 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Positive Bahrain festival listing; dates still unconfirmed, so no date given",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival takes place on the Pearling Path in December 2026; dates to be confirmed.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path",
+    "angle": "ليالي المحرق قادمة على ممر الغوص، والتواريخ قريباً. التفاصيل بالبايو"
+  },
+  {
+    "id": "89b39362",
+    "decision": "approve",
+    "reason": "Positive tourism development announcement in Bahrain; no political or official subject",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "A Nobu hotel development in Bahrain has been announced in partnership with Infracorp.",
+        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1NiQVlfQnpDUEVYbk9nM05nMXpHZ3BmNEd5ZVI1Rng4ckVqbGl1YXJra3BEVXd0cWRNYXNnRGQ5eU5FMHRiWm9hczFFaXFkaDBpbWVmSktrcVh0SFY5T1BkWGRYNWFYRW94cTEwMzRRR0RyTjNhX1F4WDVhLXFjalkxUWJMalIwSDZpU0I5NWUzdk5LNS1VQkJ6THl5Z0t2Tks3VlJiSjZhcFphTV9OUXJqdkNpMXlrZzJiZjdqRQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "نوبو في البحرين قريباً؟ وجهة فاخرة جديدة تنتظرك. التفاصيل بالبايو"
+  },
+  {
+    "id": "df505378",
+    "decision": "approve",
+    "reason": "Positive GCC tech and startup event in Dubai",
+    "category": "tech",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Global startup ecosystems converge in Dubai at Expand North Star 2026.",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90WDJKWlBVOXVERjZwYk0wck0zb1lvdUkyTGxnal82LVZhbkdEcVdXYnNId1dwckgycGhnWVV2bnRLQUFFUUUxcUx6Q1dBMktvOFpv?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Dubai",
+    "angle": "رواد الأعمال من كل العالم يجتمعون في دبي. شنو الفكرة اللي تبي تطلقها؟"
+  },
+  {
+    "id": "cf6bde7d",
+    "decision": "approve",
+    "reason": "Positive cultural and archaeological cooperation; heritage focus, no official subjects",
+    "category": "heritage",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "A UAE museum and Bahrain have launched a joint archaeological project to explore shared history.",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVpIZVJIVzVsOHlocS12blVCVHctZ2FwXzRtenl5VXU4N0lxZ3lHUTdpQW1CZm5xNkhMZ0RUaFFsd3NwMDhqLWpzNUlYdEtOMDdMREtjeDdVSWVGRHVGakxDc0hndEwzM2ltMjUzTUJiT3ZPYk45OXBZZC1PQjhnYzJtSldkcHMxNjBObng0bk9ubU9nYzBv0gGfAUFVX3lxTE1mZ2RSd0paQlNscGZTcE82UDllTmUwRDlObHVBc1N4dkRhd0MtbV9qUnNvOEx2QjY2ekF2Z3gzRnNMVThrR2hIZ2N4b1BfYUlwSzlFSFVtTzhUYTNWYWZ4bmlnaXhCNnktOXVEcDduNEQ5RW5TOUVhMTdndmNlOTExYzE0WHlhNjIzRm5uWVV1SXc4cmg2NmMtcFdsNDZQaw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "تاريخ مشترك يحكي قصة الخليج. وش تعرف عن جذورنا المشتركة؟"
+  },
+  {
+    "id": "726912c5",
+    "decision": "reject",
+    "reason": "Negative outage news; not positive scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "عطل «مايكروسوفت» العالمي يربك الشركات والحكومات - الشرق الأوسط",
+        "source_url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOVzVyOTgyTEFtS0NlTlRlM0kzcldyUmVOTkIzN1hid09sOEpacTY0YUMxd2VnN3Z0OVRXUFVCQnA1dWRCcU5kLUNORE56WEZtam80bjBZSFZSNmI1bFF0ZlY5bDVsRmNVRFBLcjRHU0l0UHoyd01DOHlmY2RFQlh2NG5xQ2t4OVJIamZKWFlBcnFxS2tBZ291YU1SYnB5ZHowbTVVVllyNFhVVkI2X0d2VE8yZVU2X01NenBGakIyb3lndTBPcmRsSlY2dGFzTmJYa0tQbFlkZDEwNEpZQ0VveFE1R1FxU2dVZndLdHFNVUhoWklvcVdWeGlyMlBsY1h6YUxmODcwOHc1Y291RE5IanF1QlAtMW9lY2Rfa1FrY2N4VWlLcnFjTV94bkVJREdUUVhnTXJHWGZ0SHEwT1I3ZFlSTmhyRDdmR2p1RkdFLS1xa0QzcHYwM2NqMUdVVmNpYW5IU0pUTmdVeGdmWlRRZUJrQWlWQlVYblRlWVBWOUNwT0c0UlhQN2lwd05fNHZGN1hOM294dDNYNFQ3dzlNNzliekY1bXNqRnU3YW1SQmRhOWphaDZMSG9kV0oyUUticEY5VV9wbTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "90979f63",
+    "decision": "reject",
+    "reason": "Ministerial statement and recovery-plan framing; outside positive scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "وزيرة السياحة البحرينية لـ«الشرق الأوسط»: متفائلة بـ2027... ونعمل على خطة خليجية للتعافي - الشرق الأوسط",
+        "source_url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxQWnRvcmJ6OVhwVTV5SXlnc3ZTY1EwRzJ2TDFURE5VcmtNYlo3bktsVl95ejV3bVBqWmkxNnR1eUlTVHd1VXJ0dFk2SWlmaC15UzVHMVlCMzlqdlhZMDROeFg1SkROSy1lRHBpR09aQmNkQjU1eENqZlQ1T0d3Qmh6eXI5SGJCcnhUWkRaS2JTNzNxM05uQjk4UFdRZUxhUk1YamVXNkwtMTN5WnlmbFpOYnZ6X2ZyQVlzb3FFWXlxWE54dGJlSElyNk11RHQtSmFKMWs2MS1qVWZpenFUSU5hRENKVG94OUp6VnNaZW5Dd1ViY3lxdGRBcGRIbklEZlR6bXpJcTJzbi1oYktoaDBmWWZiUjI2cTNkX0ZvN1dSTWZwYmUzMVZqQ0tZdkN2QUJ3V005V0QyMk9SeTZaQko5dG9fZGJfVFdieFE3aGtsYlE4V2tsaGZkclhjcHF2ZzVfUE9MbXc3NHZ3eGMxblk1MGNfbktLMTVnWVdCS1N6dXhSMjRpRXFVMHdXSDF1eVlvbzYtRlQ1TTh3bktHQ29RcE1KVnpwUUFJX1J5WTU1eG8wdzJrWjFSNG4yQlVwWFdmdzNmWkp0ak5oeDN0WENOd1ItOFZEdmRMUGtBSUlLd2JyMU8yYl9WcUIxakdKY0hBenppZkdqSjFDaVpmS3dreW1MU2RmQnBUSlVKcm9UR1RpRnpfMER1Z28weWx6Smh0alctR241Yjh2U2kzYVRfNlU1S1RJcGZabm5RZ2FsMzdKeGJXQmZnMGFZQk9TNHVESXhEQ2w3WGR0SXNOaUR3d0syd0VzT2FNZmg3cTJqSmJkM2tfbHNneVB6aUhZTFBROXFwMWV4dGRyNk9SQndMaEFMUjc0ZTc3ZnJmVmZROHdwRVlyaE9kZTg0b2VtQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "5f5c0578",
+    "decision": "reject",
+    "reason": "Vague headline; possible sectarian or religious coexistence debate",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Coexistence in Bahrain - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vSVJ3cUQwOWVhRzRVV0tGbXVGRG1FT3k1M0JpUTU1d0ZrZ2U2Ny1VN1lyX1RPLVVVYjBZLUNQSU9pd3VoZlluc3dfcUgwYkc1T2J3R1hVT3huYnI0b3MxVUN2ZVF3U2puRUJlQkNPSDhxTjgz?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "08b3461f",
+    "decision": "reject",
+    "reason": "Economic contraction news; outside scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "الاقتصاد الياباني ينكمش للمرة الأولى في عام تحت ضغط التضخم - الشرق الأوسط",
+        "source_url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPa2VsWllmWS1yb0o3ZFZNdlh2aDhLbTZBUWJ1dlR6QnVURUc4WTdtSHhwODZ6VjFfU05KaE9udGtGMGhjZGNwWkw5WXJ1Q1RuX0o0dlVYU1RVb1AyVWtfRkE0WDVWTVBWeDBwaEczOVZLak5UdFExZFZSVDN1WjFkeU41LVM4cjJ5S2laTUhvanlJSmF6TGw4c0NXMnJ5MmFfR25Qb29tdXFxN0F5Zkl2MDdKUUdKYWFwSGRjMlZtTWtQclFZV3d5YW5JTHI4Wk5ESFFCZWpFandZSHRXUWtBZG1MTFFrc1FQZm80VjhkcTdsMjl0MTd2eXRFSmQtdHFDOEViaExjYm5Mc1lLam4tVVBVS29vOGdUWDFjdjhTdXJJY3FMaXg2UFJTS1ZuMURIV0U0cDh3dDllWVREbFNhbzM3MzV2enFJZDZROUZSUVZ0RGctZFAyWnMyeDA2cnQyTU96WEtTNjlYejJvTHRhLTdZMW5tdW03THBtUmh0Qy1NRTZ0eEVxRVlOWW94Nk9fQWMwQlJGYXRQOUJ2Y1pyLW9vdWdiVnc1SnJld0Nub2ZEcUE4Rm9Sc3lMRzY2Z01BOEZNWV9reE5xaDNzUmxseElad1lZSEJ0QUd3clpZSGxfMzNyU3VKZnVjVHl2UWg1WXFNNXRwYkstRzZXOTJqWmNvZjEteG1PV3ViTXVDdm91eEpnZkE?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "c0bd69c0",
+    "decision": "reject",
+    "reason": "Corporate contract award; not a positive event or venue",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "«أرامكو» تسند إلى «أنابيب» عقداً بـ27.7 مليون دولار - الشرق الأوسط",
+        "source_url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPSnJPV2x6eTJBakJjTFRILUs4aFhDanhLa210V01EV0RidmZQaWJDWmtHRkFHaVdDaTNYWVdJZ2U5WjB6bVF1QVlIOFRhQTJvRTlDd09qRHA1akdtRkFCZHM5ZV80ZWNsQVZYT185bExZcjdaS19CODVjd09SNjJHUm5lYmktc1czbUVxa2k3aldsVjRFLWE0STZEeE9IYU5MZXV2dFBWWnRaQ0hKT2dZcGpBNkNIT3Njb3lScHhVV05KbTNLNUdZQ0x0V05vMm1WMDExTE9ha3dKNlNBLW9LR1M2bTdmQUdOSHkyOU9VTElnUjJFN0N0WWdWSV9YM2p4am1UdDlRY0VWMkhXM1lEb0QwUXdmUXJMZFQ1bTAzdEVSa1BBTXI0WGVUQThpMzRSUWVGdUtqTEZnWlpnVi1DQV9NbmZ0R1lHNlFQT1E5WWdFVGhwVlRDMUpYYmgyRlRPcmtzQkh1TDE1SXRhNGJDUTRWRndEQXNUZkZsZjBGWUg3WlZ2MjZiaTZEVUxIWnp0Y2JQT29VdG11RFNzejQyeWFaOTBhRXhCQ1VfUlNFaw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "a9784299",
+    "decision": "reject",
+    "reason": "Bond yields and interest-rate finance news; outside scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "استقرار عوائد السندات الألمانية مع ترقب رفع الفائدة الأوروبية 3 مرات بحلول 2027 - الشرق الأوسط",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxONDhOMmJiLXdlOU5DZi15blViNjUycTJQTDJyQkJNTlNpZDN0MnJMRDgtMzFfSlJMUGpmaGJlM3ZlVG9Kc2ZTV0JvaTJWdjlTUEVfQXRfTVZOMFNVSEFHWm1OYjZFdFdZYnBwV0ltS0tfQjJUQzdPR2dpWkxaSUJHWmJxMTFxUnBBdnJZTU5hQTdmalhfUkJocFRTdEVOSmVBTEUxdWZLeThxcE9wQWZnaXhpM1d2ZzdDbU9YY1RWQUdFSU9XSTdnaUMyWFd4SFRCcWpOT1l3M3ZwbGdCaVBVa0lHSEVHZlV2c21WelB4ZFc2bFZlTENQMHJ0RExCRGI4LTlTNHZxLVJfWnpyd28tdXA0R3F3OFp1N0MwbWxLaU5tMUJsbkJGeFhaRl9XUFZOc1Y3UjItUTJQLTd6cGlBNUszb216Vm5CQmxWZmJhdXBKWXpfN0lQZ05USTU0N21sd2h2UllLMVpEV05sRWRLZ2Q5Vm1jdVBWbFZiTmNiSTB0ekJLZ2Rucmh6aFNJVUxqWmtUelhkckRVVHhMQU0wUThaVmZIN1RaMWlScFBKVnhCWVpIdjVlWEN5N2RLQmVZSXRjOEkzOG5tLWFlejY0TUgtZ0JKUHVBOW5ZUE1QQndMYXduVnVkaFUtdF9MV0NCemtTQ1p2dTBQWjFIZjZfWURJZE5KRVgwMG1WWXgySmh3Rkg3d1dZU2d3ME9EZnJKaHUwNG9IWnlLc0FOVFBKV25PM2FXWnlDRE1hbUo1eVpTRmwtWDdTRUpPNm1zV2c5TU1FUGMzTms1OHJnSmlCMUhabWFEMkE4Um9kVUtVU2xKUkJhTzJUVXliaGVFWjBhQ1loWUMzU2s?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "b4deb81c",
+    "decision": "approve",
+    "reason": "Positive heritage tour at a Bahrain landmark, verifiable from headline",
+    "category": "heritage",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bahrain Authority for Culture and Antiquities organizes a guided tour exploring history and agricultural heritage at Bahrain Fort.",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WcHl6NGNvNHJkT2E1RVNEeFl0SmFSVEY4T0J0dWZ5cThhTjdVZXFLeXEwOHBSNFpIdjVpQnlnMzdodHBaYjNlcEtCSFBRMGo5TmNoMGtwaEYzYlh2Nm9zQ1hlQUVpbmhDVkFTLURCQmltdw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "قلعة البحرين",
+    "angle": "تعرف على الزراعة اللي شكّلت تاريخ البحرين، وخل الجولة تفاجئك"
+  },
+  {
+    "id": "91eea77d",
+    "decision": "approve",
+    "reason": "Concrete tourism development announcement for Bahrain, positive and verifiable",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Nobu announced a deal to bring its luxury hotel and residences brand to Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzlkVmd3bXg1eVR5bnlFVE4wUnNrY2c5NUJqeWVkQ18zdU9zWVZ6amxyQ0VuR2N2a3dzVEcxQzZKS2M3MGJIYUM4ZzI0UTRxa3hNTkh1ZFRkQzNZU2M0TzZieXUxS0Jnbk1EYVBhOGVjbVVfUDRReWJYSV9qZk1PSFlNaVNha2oyVHV2Q1RIbUJack9vVjN1Y3RVVXgzWGFlaU14MWZxQkozdkw4Q1IySzNCTVZ3MmRua1BDbQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "نوبو جاية البحرين بفندق وإقامات فاخرة، والتفاصيل بالبايو"
+  },
+  {
+    "id": "850e1e1e",
+    "decision": "approve",
+    "reason": "Positive archaeology project at a Bahrain heritage site, museum-led",
+    "category": "heritage",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Zayed National Museum and Bahrain National Museum launched an archaeological excavation project at Qal'at al-Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWVBY3h1eXlCRFIwZ19yRmszVXVZajVzMkFONWZ4aXNnQlJRVXZvMGxqRG5IT0J4SnAzbWF2ZjkxTTRhRlBfc2VKUmZSdUo1eGRpMzdzbFEweG9TR1VRMDBSYXhqaE1RcGpmZFZ1WHEwZHBxaGlqVkwwSXJVQnFyd0R2OEpjdk0yODl3Y3VEUE9nWmRPWndsdmQzZ1RLdXRzbUwtM3l3b1FDbHo2dTlvMHdBRVZ2NWVfbkZ2elpHSlE5Qk0wMUhZcWlnQkptM3lCOEpldTFkYUlpX1lKZmRLR3A0bnBlNHRqcUE4R3M3TXBsUQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "قلعة البحرين",
+    "angle": "حفريات جديدة في قلعة البحرين، وش اكتشفوا؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "e30fb545",
+    "decision": "approve",
+    "reason": "Positive sports achievement in Bahrain, verifiable tournament result",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "A Fil-Am volleyball team won the Andalus Spikers tournament championship in Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDlNSmpFMUhOQzR2RGdkYUNzSFZUYkFnb1dxQ1J4TFRSZW9NUDdHQk5YVkhlWUVmU0tRal83WXdoNVlWd3oxcjFTZlR3dWZ2SHdOX1o1UUNXWjMzd2hVTU50ZWhDeFZnTXAtejFqUTdrdFp5bXJNZ0VseVlTa1Q3V2Y3aVBTUzVRdmFybVFzUGtodDdPczFZN215WHNzYld0TUlCcllIazdnek9MdlJ3dXh4cXFzWGY5Z0tsMnFB?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "فريق الفولي بول يفوز ببطولة الأندلس في البحرين، مبروك للأبطال"
+  },
+  {
+    "id": "14fad90a",
+    "decision": "approve",
+    "reason": "Positive Saudi seasonal horse racing event, verifiable end date",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "The horse racing season in Riyadh continues until 27 April 2027.",
+        "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUkJRSWt3QVFxOHNvNEQwR2JLVlhmWGN4eWl1ZzVOXzBCUXllMlFPNGJWamZsdmpIODAzNVdWQ08zWlFxUFp4WTd4TVloS3BMS2QxaTZ1MnhLeGV0Y2hKdDhZNVpRR2J0aHd5MXlSQ04yWmZVY3pITlBrVWZMSDZWSlpZcV82NTRydDZ5aUx1TEFwek5idG9yMmlwSWthS250T2lFUlhGaTMyZ2UtQjJDV1o5bXNZZmhzZHlqamlncmotaVZkelhpNnBsZU1DYmNkdmI5bS1MZXJKSHpVU3l6M2o2V1JvMzd1TlhxaGFiVEhaaGxaV1BPVFZlcjVQeWs3cEJabDhPbw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "موسم سباقات الخيل في الرياض مستمر لين أبريل 2027، جهز نفسك للطلعات"
+  },
+  {
+    "id": "2c05f6d3",
+    "decision": "approve",
+    "reason": "Positive Riyadh Season culture-sport festival news, verifiable",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Riyadh Season hosts the first edition held outside Turkey of the global Ethnosport festival competitions.",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RR254UzN1REVaUzY4aVdMM3dPNzBqV2tMWThkZVh4ME84cWVISkRqekMxRDlVamdMMUFqQnpaN3ptcWRrbUtIUGMtMTU?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "الإثنوسبورت العالمية تنطلق من الرياض لأول مرة خارج تركيا"
+  },
+  {
+    "id": "a22efc1b",
+    "decision": "reject",
+    "reason": "Tunisia is outside Bahrain and GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Tunisia’s tourism revenue surpasses $2.3bn as arrivals exceed 9m - Travel & Tourism News Middle East",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0FsRDRHMXNoUVJkLTVUUXJDMzBZZDlJcUZFRXFQaEpuX21fT3ROalQxX1RCXzZQakNmZFNRX3FXZ3BtQnBSaGdCR0wtXy1GdmZmeE5IVHhHUHFsTVc4ZzMyeW1sREdJaDBqZ1BWMjY1bFJaemVmN1hOeGV4eGdxQjRSWm9OdF9rSXVGNkctU2lLbXR1SXhNdWNPc0FPZmxCTGlVTE05ZmhWSk5mNW9xZHBhQWxwUk8y?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "401e45b5",
+    "decision": "reject",
+    "reason": "Malaysia is outside Bahrain and GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Malaysia’s multi-destination tourism offering - Travel & Tourism News Middle East",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHRHSDN5Y0NheVE3a0IyR0lFZFZOQnZHeG95ZHlYRmJHRzJiWkE5dHJaTTdnZzU1YU15bTZnV0d0Si1RVHdXWXdEN1hYVzZISmVlamtDaWxUNHFyYWNRX29jcUtrTUlDQk5DNklCZG1IanVNV0NKMXVUUkNwdnM2dXJaaFA2OTJVNHRabklScEJSb3J6ZGJ2eTJoelc4dU1K?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "cf39bffb",
+    "decision": "reject",
+    "reason": "No Bahrain or GCC location stated; vague corporate PR",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "NEW MINOR HOTELS OPENINGS IN 2027 - Hotel & Catering",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52dXJIUFpONHJodGJiazRWMkpOU1UwZUNiSFYtel9NNWdBN1hmTFVMZ3lPZjlDN0dKUlNUbFpZTnIzdmRWWnVGelZwejlpTmo3S2ZmcEVjVmlUOXkyYW1rSlktYmtpVURhTWJxclN0WC0xTWtkRFE?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "957e9644",
+    "decision": "reject",
+    "reason": "Security warning and regional tensions, red-line topic",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "السفارة الأمريكية في البحرين تحذر من مخاطر هجمات تستهدف مصالحها بالمنطقة - سانا",
+        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVDJaM2VEWWtqM3lUMHlxOHJjMUJyQmtCSEg3NmdnelZrNWw4SlVUOFQ4TGRubmNvMW1xX09fdEJkam9Ic0Y0NTZlSUxYRXM?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "3d149e99",
+    "decision": "approve",
+    "reason": "Public concert in Kuwait with a named date; positive event news.",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "آدم والشامي يلتقيان على مسرح واحد في الكويت بحفل غنائي",
+        "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCMkVkTnBpR2I1SndYQmtwbEtYVURXUnFnOUw3TDQ0Z00ya2xwVGM5dEpVT3M4Y1lHMkhtc2xJSHA0WEprLVE?oc=5"
+      },
+      {
+        "fact": "The concert is scheduled for 18 ديسمبر.",
+        "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCMkVkTnBpR2I1SndYQmtwbEtYVURXUnFnOUw3TDQ0Z00ya2xwVGM5dEpVT3M4Y1lHMkhtc2xJSHA0WEprLVE?oc=5"
+      }
+    ],
+    "event_date": "2026-12-18",
+    "venue": null,
+    "angle": "ليلة واحدة، صوتان من الخليج والشام.. 18 ديسمبر في الكويت"
+  },
+  {
+    "id": "f45da1e7",
+    "decision": "approve",
+    "reason": "Early childhood week launching in Abu Dhabi; positive youth event.",
+    "category": "youth",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "«بيتر والذئب» تمهّد لانطلاق فعاليات «أسبوع الطفولة المبكرة» في أبوظبي",
+        "source_url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOUy1kcUVkekJLUUhNam1ldnd0dVFCMlQ2Q0FVaUVWS1BsTHZ0bkdRMUZRSFJ5Z0Z5ampucjQyZjR0RkVsVllTM1J5M2tqYWk4Rm5xSXFVT1k3eUJuRzlQTlVBMkR2UG9TdmZpTnBMZDh2bURVUThFaEZKLW9pV242cV9DcTlnVnNmRlYyeVE2dWVWNE9HbnpOTHo4ZGlQXzJXLXc5TGwtZkxaVl9wLThGZnk4UDl3MEZHYnNJMGFLb2tnRzJfcTQyYWZ6UXVnaEtta25VU24xc1JZdzdCT0dfRFB3VWw5TkJKUjN1LU90M1Z6dHdCNTdCNlBUSlhGbkNtQjlOVkJ4YUZteU9lcjFXS3Vpb1lQZUs1Z2otVlY1UXp6eGRmaFREaUpjb044RXFVUVNDZ0V5Q2VtSkRUdGlPM3RnWW4yOUQwclBsTVV0RDV0YmlFdkN3allUVVZKOERxVVZZMl90LVNxWFFZQllGOS11S0JGb3pTb2hjU1ZUVUVFNFZvT0xNS25vT3o5UGdadVRuaHZNbXZPWm9Uam02ZjNPaXU0WGtIUHVuVnExUWlzRUlpOFctM2g0bzRCUlJqcUxBdkhzZXc4YzlwbF9haEs1ektENTlaamU5c2VHZTFvTXVJVEFsMlpKOVRNZUdx0gHwA0FVX3lxTE5TLWRxRWR6QktRSE1qbWV2d3R1UUIyVDZDQVVpRVZLUGxMdnRuR1ExRlFIUnlnRnlqam5yNDJmNHRGRWxWWVMzUnkza2phaThGbnFJcVVPWTd5Qm5HOVBOVUEyRHZQb1N2ZmlOcExkOHZtRFVROEVoRkotb2lXbjZxX0NxOWdWc2ZGVjJ5UTZ1ZVY0T0duek5MejhkaVBfMlctdzlMbC1mTFpWX3AtOEZmeThQOXcwRkdic0kwYUtva2dHMl9xNDJhZnpRdWdoS21rblVTbjFzUll3N0JPR19EUHdVbDlOQkpSM3UtT3QzVnp0d0I1N0I2UFRKWEZuQ21COU5WQnhhRm15T2VyMVdLdWlvWVBlSzVnai1WVjVRenp4ZGZoVERpSmNvTjhFcVVRU0NnRXlDZW1KRFR0aU8zdGdZbjI5RDByUGxNVXRENXRiaUV2Q3dqWVRVVko4RHFVVlkyX3QtU3FYUVlCWUY5LXVLQkZvelNvaGNTVlRVRUU0Vm9PTE1Lbm9PejlQZ1p1VG5odk1tdk9ab1RqbTZmM09pdTRYa0hQdW5WcTFRaXNFSWk4Vy0zaDRvNEJSUmpxTEF2SHNldzhjOXBsX2FoSzV6S0Q1OVpqZTlzZUdlMW9NdUlUQWwyWko5VE1lR3E?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أسبوع كامل للصغار في أبوظبي.. الفن يبدأ من الطفولة"
+  },
+  {
+    "id": "41883ba9",
+    "decision": "reject",
+    "reason": "Duplicate of another Ethnosport report; kept the fuller one.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "موسم الرياض يستضيف مهرجان \"الإثنوسبورت\" لأول مرة خارج تركيا - أخبار 24",
+        "source_url": "https://news.google.com/rss/articles/CBMijARBVV95cUxNWFNHWk1LdzdRMFBBV2tJS004V25NMGdQaVo2dHlteUduVGYyVF9YNHAweVBVVXJSSTFaWjg2M19CaVdrdldYV1l5S2YyYXppUmxfNGFwOUZMVWg2YndpU2dfME9nSzlrRFhmNGx6NHdvVVMxYzA3MElyUm5GTjhaM2RfVHRxNFFQN2FaeXhxSUZvWTVJY1I5djFKYnc4anR0cUlEZzVKX1dXOUdkNGRWcmNha2JIVXo0cU1TOU5HbEV6WnNmVkRqNTN1LVZYcmNzWWVyV0VuTGpvTDRlMjUwdlFnZk1NaDRHZGtLelFXT0prWHMwR1lldXV1b0ZmTkVYMVgxdHp4eFFONVdaZkhNVlA3MkxoNEJHcXF2ak9haUdCWHNORVRvZGx0VkhtMm1MSGE0aGhkYUMwemVJRHVQSV8yNUsxc0Y4RkJOclJOLVFBSDR6NTJTMWxFNXdvZmNXN01uTFhWSGFNZGtoczE3YVhmYk1CRkNLUTQ3cU1qS1pvUjV0VHMzRWRUaEJGczlycy05WjVwU3JSYjNwRlZUZ3VCMzZBd3EyMi0tc0RwVWlOd0FZb0hjQUlFRUlwRDZaNV9yRnlKM3NfVWtEaE42dWNWeUF3anNuYkkycjljQmY4VXN5TEJ0aXRuYVZveXVfeGllbFNRYWQyYXE4OTY5ZWxsM052cmg0bmNhVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "aefe0dfb",
+    "decision": "approve",
+    "reason": "Traditional sports festival in Riyadh with 18 countries; positive event.",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "موسم الرياض يستضيف مهرجان «الإثنوسبورت» للرياضات التقليدية",
+        "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKMldKckZnMkFUSkU5N1hWa2VjRmhqSkk5UEcxekU4VkYwY3BZUEd2WjdtTWJUWm56dnNSWnJrV1pJQUJaR2JZ?oc=5"
+      },
+      {
+        "fact": "The festival features 18 participating countries in its first edition outside Turkey.",
+        "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKMldKckZnMkFUSkU5N1hWa2VjRmhqSkk5UEcxekU4VkYwY3BZUEd2WjdtTWJUWm56dnNSWnJrV1pJQUJaR2JZ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "موسم الرياض",
+    "angle": "18 دولة تجي الرياض تلعب الرياضات التقليدية.. وش الجديد؟"
+  },
+  {
+    "id": "3e0f3645",
+    "decision": "approve",
+    "reason": "Bidiyah entertainment centre opening ahead of Rimal Carnival; positive tourism.",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bidiyah Entertainment Centre in Oman is set to open ahead of Rimal Carnival 2026.",
+        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWd1T1JCMnV5RW4tMWdrTWNPT2NUREZPbU1EVGdlM0ZQYUpneTJnT1dsYlpWdlNxcUVCY25YeW8tUjEzUHRKWmliOFdhbzlOQXU1OWVfWlFBSlM2ZklZUEs2TmRSVEJEUVQ4bGRoRjdRN0xReGFqcWJuMURZU2djbGNDSDR6S2VDOGlJaTA2UG83djgxQkVsR0lFUXpkWlJiVmdyaWpvZ1pHSlpOcU9NcGF0V2I4T2J2LVZIamlqZw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Bidiyah Entertainment Centre",
+    "angle": "مركز ترفيه جديد في بيدية قبل كرنفال الرمال.. وين تروح؟"
+  },
+  {
+    "id": "9148d2bd",
+    "decision": "reject",
+    "reason": "Patronage-led directive; official-subject infrastructure news.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "بتوجيهات سلطان.. افتتاح جسر مدخل الذيد بطول 320 متراً - صحيفة الخليج",
+        "source_url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQRjIxUFUzc2lEN3c5elE2alFha0I1NGdLUHRuX19wa1loWVVOOUZ2VHIwRVI4d1dWZFdtVXFkbnZ4ZUw1bS1adExzdVFlamdFemJlZkpYTGdtTkVHaFR6dW5SR0ZzTlg3ZUlEVzI1NjlPdy1YRlZ0STAxcV85aTA4d2ZUUnU4RWprQU1PYlpFSWlSdTVrekdWdm9TMEJUeDQxREhXSElPWnJkVU1EYmlYWElockowZlpnLTBfa2tZd1RPcnFva0UwaTZMS2I3QmVkSm9ZQ3Nnd1ZPMUh2Ty1tRk5wbWw5bENrVDVJb2dENDgtcm9FcExfQTE3dGdMX2h6SFJlYTFaRVpSbjJnN0xEb1oySHpMbmdXRGJCcnhJWFJNSHQyZVN4TXM2Q0NxUklQTHNxMElmTGJUTUJXR19aMFRVSm0yOFBIc1NTQVN1cEZVYlRFQVRYNU5ZUVZINjBCRDB2c2NNZktUZTBMVFJQbEpMVnZYendtVG4wdzZxWWVKbGpMN1c2dHdzUDhjOFJpa1dsSnZtTjNQMEJSMEhfc284Um12MzZxSmxWT0Zfd1UteUFWV1hhanNTMEZLTDVLVFg1US1qcEtNVkRhWlh3ektTMzhVbGx5VktJTzRDc3lYa1pFT2VsUnc3STA4djBaTy1tbHdPR0ZfVlRvVGdudHJaWERqRkx4VkVETkluWmdzSmdjblNGb0YzN0REUkF6YnB2N3d4cw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "240196bb",
+    "decision": "reject",
+    "reason": "Financial investment news; outside event, place or tourism scope.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Abu Dhabi’s Mubadala taps into Britain’s wealth market with $1.5bn bet - Arabian Business",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmcwcXVQSkoyMUR6YXBVallORjBTWHhfTktkUU45VWxjdW04Mk9aZWh4MDcwa24tQ0swdW1QSGxQVUh2SlNrc2l0TUd2dEdNcjVfVjlDb0g5RnI5OUY4Mnh2MGJJNzhoekRzZDJoclM5NUhqM253blRic255NEFfWWh5OVA5ck9zYlpXRUVTdFlEUHNyN0N5T1o0bE80MlRBcGxpa3JFSEI5cjg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "c39081b7",
+    "decision": "reject",
+    "reason": "Sensitive destination expansion; source unclear, any doubt rejected.",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "«العربية الدمام» تضيف دمشق إلى شبكة وجهاتها الدولية - صحيفة الخليج",
+        "source_url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxQZFgzN2FFLWE3UzNxdW9wM01aNW5rTGQ2akstVUd1eVV6b0N0OG5PNjVNRnR3NE1lZ1c5UEp1UUUxR0dKS2hfVDloV1F4N2ZmUVJpb2tYdmI5LS1XRzRkWmZpS2NYNUdGT3ktQVhEN1IwN2ZoUmJZZ0VoVXEwdmVWcGM4Y0J6ZXdTSmdCYnhPSkNENTZWNmZabUhSNkN5WWlIUTBkV0FkMUF2akVMZ19OSGNIYjVXWFJZR0M5VnFvZ3pRX0lsMFcyZjlCRXdBc0NNUnd4eEVQb2paSU5sX01uVkRsRHRuelBicEZIZU9lVDZhRDhGSkltRnlDdTdSUndGWElRYjk1Q1V2Smg3eVd0TTV5RGlIdXBSZTZUZ0h2cnpFenBlel9fbEdVcUNmcVNFQXhfcDBuNC1NQkc0N1I5V2tieDByS0NQeVB3SFd5WGdCM0otc0s5TnpsZkcyTjhGclpmS3VnSnBDY0ROSzU0R3JEOHNybVlFTkRMOGIyb2RVelpwb1FXeTJ1SGNlRld4aFJwRUpsZkNZS3RvMWVXS1lSTWh1WkJrSnB5UVI1T2ZueHNiRVk5bGN6azF4WUh5MnZIVWt5QjFST19CYTJMVnR1SThEcnVaMjhKR0EtdXZ1R3cxOHpsMW5oelE2Qm5OdVZwdFVRVnJSNlpvekpnUW9UbUl2QWZRNkI1SkdTcnhVUUJyN0JVZjBaSS1aZktLeXNVMUVSdk9CUHNpMXRaMDV3?oc=5"
+      }
+    ]
+  }
+]
