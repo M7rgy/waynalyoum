@@ -1,0 +1,552 @@
+{
+  "date": "2026-11-17",
+  "posts": [
+    {
+      "post_id": "D20-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "bibf-graduates-138-2026",
+      "title_internal": "BIBF celebrates 138 graduates",
+      "hook": "138 خريج وخريجة يحتفلون 🎓",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "138 خريج وخريجة 🎓\nيحتفلون بإنجازهم في البحرين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "graduation caps thrown in the air against a sunset sky, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "احتفال BIBF بخريجي\nBangor University و University of London",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "close-up of hands holding a rolled graduation certificate with ribbon, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "مبروك لكل خريج وخريجة بيننا 👏\nمن تعرف من الخريجين؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Emoji slider: \"قد إيش فخورين بالخريجين؟\"",
+          "visual_prompt": "silhouette of a graduate from behind facing the Bahrain skyline at sunset, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "138 خريج وخريجة 🎓\nاحتفال BIBF بخريجي Bangor University و University of London.\nمبروك لكل خريج وخريجة بيننا!\nالتفاصيل في الرابط بالبايو",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "soft uplifting khaleeji instrumental",
+      "visual_prompts": [
+        "graduation caps thrown in the air against a sunset sky, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "graduation caps toss",
+        "university graduation ceremony hands",
+        "diploma scroll close up"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTkxFLXNORGJ1MWV1ZWNKWEtadFkzQW9EaFNjZmlQR05GQlJwUldjdkNVaTRWRFdhSkI0SWQzTzhPTG54Ri1vbVRzd1VIVFJPQVNDTUZRN1U4Rmd4N0tNVWdtUHZSTFA4RG53TW42dUlPUHlDVlpNTFBjMHZvU3gwRVdITzR6VmJRd3Vfc1FxRF9xT25TdFJfc0VJbEd6cUZuaEZNalktS3A0VHNUN0FuTU1VazVPYVdKcXNibnhFM0pZUWtsRGI3RXU0dWRzNHNoTWZ1OGNRNU9NZF9wUU5tdQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D20-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "doha-film-festival-honours-das-hassan",
+      "title_internal": "Doha Film Festival honours two stars",
+      "hook": "الدوحة تكرّم أسماء فنية كبيرة 🎬",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "الدوحة، قطر 🎬\nمهرجان الدوحة السينمائي يكرّم نجمين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "vintage cinema projector beam and empty red velvet seats, Doha, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "التكريم لـ Nandita Das\nوالنجم Taim Hassan",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "film clapperboard and camera lens on a table with warm light, Doha skyline blurred behind, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "الفن يجمع الكل ✨\nمن تتمنى تشوفه على السجادة؟ تفاصيل الحفل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: \"سينما ولا مسرح؟\"",
+          "visual_prompt": "red carpet leading to a glowing entrance at dusk, Doha, cinematic, photorealistic, 35mm, warm golden light, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "مهرجان الدوحة السينمائي يكرّم Nandita Das و Taim Hassan 🎬\nالفن يجمع الكل.\nتفاصيل الحفل في الرابط بالبايو",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#الخليج",
+        "#قطر"
+      ],
+      "audio_suggestion": "cinematic oud and strings, soft",
+      "visual_prompts": [
+        "vintage cinema projector beam and empty red velvet seats, Doha, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "film festival red carpet",
+        "cinema projector beam",
+        "clapperboard close up"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlBtT01NeHlfZW1MTXJjNHQzaVB5ZUNZTFkta1RjMUNSTHNEc3pnVXNHMUxxYmRLUGJuTUVtRnlOd3lFTFo1VmdVZzMxZXVtMUI4ajJreHdtcllrcl9oLWZ5QVhmRWt1T2hsaUJwWWozZ05MNkJGQkJUdGVFM0I4RWpFQV9ndmZkMjkyeDFqdTBONlFaeEFOMDladjJHcTRnV1NMaA?oc=5"
+      ]
+    },
+    {
+      "post_id": "D20-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "celebrate-bahrain-2026-markets-fireworks",
+      "title_internal": "Celebrate Bahrain 2026 month of markets",
+      "hook": "شهر كامل من السهر في البحرين",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "شهر كامل من السهر 🎆",
+          "body": "شنو اللي ينتظرك في «Celebrate Bahrain 2026»؟",
+          "visual_prompt": "festive night market with warm string lights and fireworks over the water, Bahrain, dusk, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "«Celebrate Bahrain 2026»",
+          "body": "شهر كامل من الأسواق والألعاب النارية.",
+          "visual_prompt": "colorful market stalls with lanterns and textiles seen from a distance, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, palm green, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "أسواق 🛍️",
+          "body": "أسواق طول الشهر، مشوار حلو مع ربعك وعيالك.",
+          "visual_prompt": "hands holding handmade crafts at a market stall, Bahrain, warm evening light, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "ألعاب نارية 🎇",
+          "body": "سماء البحرين تنور في سهرات الشهر.",
+          "visual_prompt": "fireworks bursting over the Bahrain skyline reflected in calm sea, night, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "وين بتكون سهرتك؟",
+          "body": "التفاصيل والمواعيد في الرابط بالبايو.",
+          "visual_prompt": "crowd silhouettes out of focus walking toward glowing lights at dusk, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "لا يفوتك! احفظ وشارك",
+          "body": "شارك البوست مع ربعك، وتابع وين اليوم.",
+          "visual_prompt": "dhow sail silhouette against a coral sunset over turquoise water, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "شهر كامل من الأسواق والألعاب النارية 🎆\n«Celebrate Bahrain 2026» يجمع السهرة والمشوار بمكان واحد.\nوين بتكون سهرتك؟\nالتفاصيل والمواعيد في الرابط بالبايو.\nاحفظ البوست وشاركه مع ربعك!",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#ويكند",
+        "#سياحة_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "festive night market with warm string lights and fireworks over the water, Bahrain, dusk, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "night market lights",
+        "fireworks over sea",
+        "market stalls lanterns"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1NURjM1Z0b25zZzg5VGRublIyMHpUMWdMdktRTGtack5MU3RZMHhuRUxKQVZRdHFDREJuU2RtazRiWFVvUmI1bS1Kdk9xUGFoVEE1ZmpnVkdiQ2ZHVG5WZ21JdHAxcjdQQlVPMlFlb2lHNW9mVk1VS3FfUVdrUQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D20-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "sohar-festival-5th-2026",
+      "title_internal": "Sohar Festival fifth edition Oman",
+      "hook": "صحار، عُمان: موسم فعاليات يبدأ 19 نوفمبر",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "صحار، عُمان تناديك 🇴🇲",
+          "body": "موسم كامل من الفعاليات، متى يبدأ ومتى ينتهي؟",
+          "visual_prompt": "historic coastal fort silhouette at golden hour beside calm sea, Oman, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "مهرجان صحار الخامس",
+          "body": "النسخة الخامسة من المهرجان في صحار، عُمان.",
+          "visual_prompt": "festival lights glowing along a seaside promenade at dusk, Oman, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "البداية: 19 نوفمبر",
+          "body": "الافتتاح يوم 19 نوفمبر في صحار.",
+          "visual_prompt": "festival entrance arch glowing warmly at dusk, Oman, cinematic, photorealistic, 35mm, warm golden light, sand gold, palm green, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "النهاية: 31 يناير",
+          "body": "المهرجان يمتد من 19 نوفمبر إلى 31 يناير.",
+          "visual_prompt": "wide coastline with palm trees and soft sunset sky, Oman, golden hour, cinematic, photorealistic, 35mm, warm golden light, palm green, sunset coral, turquoise water, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "خطط من الحين",
+          "body": "التفاصيل والتذاكر في الرابط بالبايو.",
+          "visual_prompt": "hands holding a paper map and a coffee cup on a wooden table, warm light, Oman, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ وشارك ربعك",
+          "body": "تراها رحلة تستاهل! تابع وين اليوم.",
+          "visual_prompt": "family silhouettes from behind walking along a beach at sunset, Oman, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "موسم كامل من الفعاليات في صحار، عُمان 🇴🇲\nمهرجان صحار الخامس من 19 نوفمبر إلى 31 يناير.\nخطط من الحين لرحلتك.\nالتفاصيل والتذاكر في الرابط بالبايو.\nاحفظ البوست وشاركه مع ربعك!",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#عمان",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "historic coastal fort silhouette at golden hour beside calm sea, Oman, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Oman coastline sunset",
+        "Sohar Oman",
+        "festival lights seaside"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckVXbC1rTFY2dXVHcEJnMFg2Uk5Ha2txODItS2Nsd2tTWFBWOXk0MGNJWVVSdTJ5MS1sOE8yVmdNYXV3VkRzcVpRNHVFY0V5U0dZNzBEQ3RuWjlieTBOTHoyaGxQeGZzYmdmVUhrbmVSSVdzLWF2UEIyQ3hLelJ1bTB3X1k0VDQyQlF2VU16SlRpYXFURGZ5NGRQYWM?oc=5"
+      ]
+    },
+    {
+      "post_id": "D20-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "mena-angel-summit-bahrain",
+      "title_internal": "MENA angel summit top investors",
+      "hook": "مستثمرون كبار جايين للمنطقة 💼",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "مستثمرون كبار جايين 💼\nلقمة المستثمرين الملائكيين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "modern glass skyline at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "قمة MENA للمستثمرين الملائكيين\nكبار المستثمرين على قائمة الحضور",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "hands exchanging a notebook over a conference table with a laptop, warm light, Bahrain, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "ريادة الخليج تكبر 🚀\nعندك فكرة مشروع؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: \"عندك فكرة مشروع؟ أكيد / لسا\"",
+          "visual_prompt": "silhouette of a young professional from behind looking at a city skyline at sunset, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "كبار المستثمرين على قائمة الحضور في قمة MENA للمستثمرين الملائكيين 💼\nريادة الخليج تكبر.\nالتفاصيل في الرابط بالبايو",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#ريادة_اعمال",
+        "#الخليج"
+      ],
+      "audio_suggestion": "modern upbeat corporate-chill beat",
+      "visual_prompts": [
+        "modern glass skyline at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "startup pitch meeting hands",
+        "business skyline sunset",
+        "laptop notebook table"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kX2dxU3I4TlctYVBMcnQ3Vnp0X3FfNl9XOUlVbGh5ckxwbkg5WWR1Z2NIa1QzXzdKSmxESTJrQkpUZDJSVFVjVGxwT09paXJhdVNn?oc=5"
+      ]
+    },
+    {
+      "post_id": "D20-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "marathon-relay-210-teams",
+      "title_internal": "Record 210 teams Marathon Relay",
+      "hook": "210 فريق! رقم قياسي بالبحرين 🏃",
+      "script": [
+        {
+          "t": "0-5s",
+          "on_screen": "210 فريق! رقم قياسي 🏃",
+          "vo": "210 فريق! رقم قياسي بسباق تتابع الماراثون في البحرين!",
+          "visual": "Fast cut: runners' feet hitting the pavement at golden hour, motion blur, no faces"
+        },
+        {
+          "t": "5-11s",
+          "on_screen": "210 فريق يشاركون\nرقم قياسي لسباق التتابع",
+          "vo": "المشاركة هذي المرة 210 فريق، وهذا رقم قياسي.",
+          "visual": "Wide shot of runner silhouettes from behind along a Bahrain waterfront road, sunset coral sky"
+        },
+        {
+          "t": "11-18s",
+          "on_screen": "سباق تتابع الماراثون\nالبحرين تتحرك",
+          "vo": "سباق تتابع الماراثون يجمع الفرق في أجواء حماس وتشجيع.",
+          "visual": "Hands passing a relay baton in slow motion, warm golden light"
+        },
+        {
+          "t": "18-25s",
+          "on_screen": "المواعيد والتسجيل\nالتفاصيل في الرابط بالبايو",
+          "vo": "المواعيد والتفاصيل في الرابط بالبايو.",
+          "visual": "Blurred crowd out of focus cheering at the roadside, turquoise sea in the background"
+        },
+        {
+          "t": "25-32s",
+          "on_screen": "احفظ وشارك ربعك 💙",
+          "vo": "شارك الريل مع اللي بتركض معاه، وتابع وين اليوم!",
+          "visual": "Runner silhouettes from behind heading toward a glowing sunset over the water"
+        }
+      ],
+      "slides": [],
+      "frames": [],
+      "caption_instagram": "210 فريق! رقم قياسي في سباق تتابع الماراثون 🏃\nالبحرين تتحرك.\nالمواعيد والتفاصيل في الرابط بالبايو.\nاحفظ الريل وشاركه مع ربعك!",
+      "caption_tiktok": "210 فريق! رقم قياسي بسباق تتابع الماراثون في البحرين 🏃 التفاصيل في الرابط بالبايو",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#الخليج",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "upbeat khaleeji percussion remix, energetic",
+      "visual_prompts": [
+        "runners' feet on a coastal road at golden hour, motion blur, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16",
+        "hands passing a relay baton in slow motion, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "marathon runners feet",
+        "relay baton handoff",
+        "runners silhouette sunset"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzRPWFZBeXdOellBalpMWk1rY25PZGRXVVBuQnhVUzl3SE1fbUptblRzV3J5R1h4c2xJRXdiVTB2UXZGMjNtT3VjYmdTY0llN3VZN0VFX1VUaFotSHF1QTJuVzJVLVR3MFVVaU41empUVE5wUUFGV2s4VFVWMk9rcC1IWEFUa2h1?oc=5"
+      ]
+    },
+    {
+      "post_id": "D20-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "space42-thurayatwo-production",
+      "title_internal": "Space42 starts ThurayaTwo production",
+      "hook": "إماراتية تصنع جوال يتصل بالأقمار",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "الإمارات 🇦🇪\nبدء إنتاج ThurayaTwo 🛰️",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "satellite orbiting above a glowing desert horizon at twilight, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "Space42 بدأت إنتاج\nThurayaTwo، جوال الأقمار الصناعية",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "generic rugged smartphone held in a hand against a night sky with stars, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "الخليج يبدع بالتقنية ✨\nلو عندك هذا الجوال، وين بتاخذه؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: \"بحر ولا بر؟\"",
+          "visual_prompt": "silhouette of a traveler from behind on a dune looking at the stars, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "Space42 بدأت إنتاج ThurayaTwo، جوال الأقمار الصناعية 🛰️\nالخليج يبدع بالتقنية.\nالتفاصيل في الرابط بالبايو",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#الخليج",
+        "#الامارات"
+      ],
+      "audio_suggestion": "futuristic ambient synth with light khaleeji touch",
+      "visual_prompts": [
+        "satellite orbiting above a glowing desert horizon at twilight, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "satellite in orbit",
+        "night sky stars desert",
+        "smartphone in hand night"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvcDZ5UjRCb0wtekxYbjlYdTg5dDFJbGRkRDhvX3F1OXd4WWtMcjhadnpBOGU0RnF0REFWQnFiTjF2SHJybkVtd01oY1cwVEdCR2tr?oc=5"
+      ]
+    },
+    {
+      "post_id": "D20-08",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "22:30",
+      "topic_key": "bic-batelco-fitness-hallah-lak",
+      "title_internal": "BIC hosts two public events",
+      "hook": "الحلبة تفتح أبوابها لفعاليتين",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "الحلبة تفتح أبوابها 🏁",
+          "body": "فعاليتين جديدتين في حلبة البحرين الدولية، تعرف شنو هي؟",
+          "visual_prompt": "race track curves at golden hour with warm light on asphalt, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "حلبة البحرين الدولية",
+          "body": "الحلبة تستضيف فعاليتين للجمهور.",
+          "visual_prompt": "wide view of a modern circuit grandstand and tower at sunset, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "الفعالية الأولى: «بتلكو فتنس»",
+          "body": "الحلبة تستضيف «بتلكو فتنس».",
+          "visual_prompt": "running shoes on a track surface with morning light, hands tying laces, Bahrain, cinematic, photorealistic, 35mm, warm golden light, palm green, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "الفعالية الثانية: «الحلبة لك»",
+          "body": "والحلبة تستضيف كذلك «الحلبة لك».",
+          "visual_prompt": "open race track with a long straight under a coral sunset sky, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "وين الويكند الجاي؟",
+          "body": "المواعيد والتسجيل في الرابط بالبايو.",
+          "visual_prompt": "crowd silhouettes out of focus near a circuit entrance at dusk, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ وشارك ربعك",
+          "body": "لا يفوتك! تابع وين اليوم لكل جديد.",
+          "visual_prompt": "checkered flag silhouette waving against golden sunset, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "الحلبة تفتح أبوابها لفعاليتين 🏁\nحلبة البحرين الدولية تستضيف «بتلكو فتنس» و«الحلبة لك».\nوين الويكند الجاي؟\nالمواعيد والتسجيل في الرابط بالبايو.\nاحفظ البوست وشاركه مع ربعك!",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#ويكند",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "race track curves at golden hour with warm light on asphalt, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "race circuit sunset",
+        "running shoes laces track",
+        "motorsport circuit aerial"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xb2R2OWp6U3ZfSDJlVWs3U0pkWmp1LTV0Mkk1Y2hURlJlXzVzWnJzREc3MTdpLTY1eHp4NTdsVXd4YUE0Wld2aXNaSW5icmlnY2otNU1kVmFOaU5jYzQxSmdXb09venNlendXUkFWUQ?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "food, cafés, new openings (applies to the Bahrain posts)",
+  "held_topics": []
+}

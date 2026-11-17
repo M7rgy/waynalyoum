@@ -1,0 +1,164 @@
+[
+  {
+    "post_id": "D20-01",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-17T07:00:00Z",
+    "time_local": "10:00",
+    "content": "",
+    "assets": [
+      "D20-01_1.jpg",
+      "D20-01_2.jpg",
+      "D20-01_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D20-02",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-17T09:00:00Z",
+    "time_local": "12:00",
+    "content": "",
+    "assets": [
+      "D20-02_1.jpg",
+      "D20-02_2.jpg",
+      "D20-02_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D20-03",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-17T11:00:00Z",
+    "time_local": "14:00",
+    "content": "شهر كامل من الأسواق والألعاب النارية 🎆\n«Celebrate Bahrain 2026» يجمع السهرة والمشوار بمكان واحد.\nوين بتكون سهرتك؟\nالتفاصيل والمواعيد في الرابط بالبايو.\nاحفظ البوست وشاركه مع ربعك!\n\n#وين_اليوم #البحرين #فعاليات_البحرين #ويكند #سياحة_البحرين",
+    "assets": [
+      "D20-03_1.jpg",
+      "D20-03_2.jpg",
+      "D20-03_3.jpg",
+      "D20-03_4.jpg",
+      "D20-03_5.jpg",
+      "D20-03_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D20-04",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-17T13:00:00Z",
+    "time_local": "16:00",
+    "content": "موسم كامل من الفعاليات في صحار، عُمان 🇴🇲\nمهرجان صحار الخامس من 19 نوفمبر إلى 31 يناير.\nخطط من الحين لرحلتك.\nالتفاصيل والتذاكر في الرابط بالبايو.\nاحفظ البوست وشاركه مع ربعك!\n\n#وين_اليوم #البحرين #الخليج #عمان #وجهات_سياحية",
+    "assets": [
+      "D20-04_1.jpg",
+      "D20-04_2.jpg",
+      "D20-04_3.jpg",
+      "D20-04_4.jpg",
+      "D20-04_5.jpg",
+      "D20-04_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D20-05",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-17T15:00:00Z",
+    "time_local": "18:00",
+    "content": "",
+    "assets": [
+      "D20-05_1.jpg",
+      "D20-05_2.jpg",
+      "D20-05_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D20-06",
+    "platform": "instagram",
+    "format": "reel",
+    "schedule_utc": "2026-11-17T17:30:00Z",
+    "time_local": "20:30",
+    "content": "210 فريق! رقم قياسي في سباق تتابع الماراثون 🏃\nالبحرين تتحرك.\nالمواعيد والتفاصيل في الرابط بالبايو.\nاحفظ الريل وشاركه مع ربعك!\n\n#وين_اليوم #البحرين #فعاليات_البحرين #الخليج #إيجابية_البحرين",
+    "assets": [
+      "D20-06.mp4"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D20-06",
+    "platform": "tiktok",
+    "format": "reel",
+    "schedule_utc": "2026-11-17T17:30:00Z",
+    "time_local": "20:30",
+    "content": "210 فريق! رقم قياسي بسباق تتابع الماراثون في البحرين 🏃 التفاصيل في الرابط بالبايو\n\n#وين_اليوم #البحرين #فعاليات_البحرين #الخليج #إيجابية_البحرين",
+    "assets": [
+      "D20-06.mp4"
+    ],
+    "settings": {
+      "privacy_level": "PUBLIC_TO_EVERYONE",
+      "duet": true,
+      "stitch": true,
+      "comment": true,
+      "content_posting_method": "DIRECT_POST"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D20-07",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-17T18:30:00Z",
+    "time_local": "21:30",
+    "content": "",
+    "assets": [
+      "D20-07_1.jpg",
+      "D20-07_2.jpg",
+      "D20-07_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D20-08",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-17T19:30:00Z",
+    "time_local": "22:30",
+    "content": "الحلبة تفتح أبوابها لفعاليتين 🏁\nحلبة البحرين الدولية تستضيف «بتلكو فتنس» و«الحلبة لك».\nوين الويكند الجاي؟\nالمواعيد والتسجيل في الرابط بالبايو.\nاحفظ البوست وشاركه مع ربعك!\n\n#وين_اليوم #البحرين #فعاليات_البحرين #ويكند #إيجابية_البحرين",
+    "assets": [
+      "D20-08_1.jpg",
+      "D20-08_2.jpg",
+      "D20-08_3.jpg",
+      "D20-08_4.jpg",
+      "D20-08_5.jpg",
+      "D20-08_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  }
+]

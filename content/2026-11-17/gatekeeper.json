@@ -1,0 +1,403 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "reject",
+    "reason": "Festival linked to council dispute; dates unconfirmed",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival on the Pearling Path, December 2026 (dates TBC — check before posting)",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ]
+  },
+  {
+    "id": "1daa1630",
+    "decision": "approve",
+    "reason": "Bahrain university graduation celebration, positive youth achievement news",
+    "category": "youth",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "The BIBF celebrates 138 graduates from Bangor University and the University of London",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTkxFLXNORGJ1MWV1ZWNKWEtadFkzQW9EaFNjZmlQR05GQlJwUldjdkNVaTRWRFdhSkI0SWQzTzhPTG54Ri1vbVRzd1VIVFJPQVNDTUZRN1U4Rmd4N0tNVWdtUHZSTFA4RG53TW42dUlPUHlDVlpNTFBjMHZvU3gwRVdITzR6VmJRd3Vfc1FxRF9xT25TdFJfc0VJbEd6cUZuaEZNalktS3A0VHNUN0FuTU1VazVPYVdKcXNibnhFM0pZUWtsRGI3RXU0dWRzNHNoTWZ1OGNRNU9NZF9wUU5tdQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "١٣٨ خريج من البحرين يحتفلون بإنجازهم.. تهنئة لكل خريج وخريجة بيننا"
+  },
+  {
+    "id": "31e8c9c5",
+    "decision": "approve",
+    "reason": "Major new waterfront destination opening in Bahrain, tourism and dining interest",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Nobu makes its Bahrain debut with a 51,000-sqm waterfront development on Reef Island",
+        "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWE05MVEtcC1uUVBDbDVQNVlRVFB3Rjg0RlZPcG9nTkRJdGVUVXFkYUh0dnhTV1F6ajAtZ0gxN0hNUE93M3c5MlRjcDlSRzZfREFVUXZFTXRaYjZ4TWNxcW1QTnNybExrNTkyUmNzMVJISDA0dVRNV3NEdmxRV0RCZTBKbTlLRUZTZGg4YXZMLUUyd3pxVUNsMTA1blJUTWxSaHJ5Mmp6eDFqVmJfNHYzclAwVmNIU0FtejJ1NmQtODVDVkhM0gHKAUFVX3lxTFBCQkpBYzFfa2hnTmpqa0xLQmJ6VWlXcTBKVlFpOU1Xcm9iRXJKc3lFdDFGV2VUR2JGalQxZ2p3eE11X1JxS3ctOC12QWQ2dnRqN25YN19GWVNObGdfcTZ6TnhXNC05ZUJCVndzQWJHc2FXNnFkUnV1a041ektvZzNMMVliTUczZVp0aldYZ3dWWklqeWk1eHgtbnZLWk5wZjhUY1Raby02SzNfZ0V3VlVISDJudFBfdlZpTkVkQ09GLWJZNlg0dWxSM3c?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Reef Island, Bahrain",
+    "angle": "نوبو تدخل البحرين بوجهة على الواجهة البحرية.. وين بتكون أول زيارة؟"
+  },
+  {
+    "id": "2882c307",
+    "decision": "reject",
+    "reason": "Minister's statement on tourism outlook",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bahrain Tourism Minister Sees Gulf Recovery in 2027, Outlines Joint Strategy - ASHARQ AL-AWSAT English",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHotOG5CUkdsX3E3VW9wMm9tcERwWkg0Q1Y0SkNualFObUh4VEM3d2o1ZThTblplV3ZHZFcyYm1DcU04aVNBVEdlWDd3Y1Mxa1doeGhRZF9Ub3BPdnFhNXFCanhVTHluQXdPa2ZRNkhVeV9RSDVQQkRyMzQtdUxOZGhZQXRmdHZnMF91aEhGSDVpRExaaDRqeGhjMlc3NkJkUjgza1N1SVhReTd4WlBiZFpqUE1OUmc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "035a7f0c",
+    "decision": "reject",
+    "reason": "Council dispute over a festival, government-related",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "النعار: لم نطلب وقف لمهرجان «ليالي المحرق».. وملاحظة المجلس اقتصرت على مواقف بديلة للأهالي - شبكة تواصل الإخبارية",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53ZjR2cWMtWThNR0NkOXNpeEx0WHVQMjc1MzJaLVkzSEV3WDZvVnhaUWh2eHM1WHQ0Rk9PaDU3YXFzczRYRlJXUTZ2eTMwQld4Y2ZB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "1cc03cd5",
+    "decision": "approve",
+    "reason": "Bahrain theatre group represents Kingdom at Gulf festival, positive culture news",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Awal Theatre represents Bahrain at the 15th Gulf Theatre Festival",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QVFZXZDdsWGp1ZVl2T2NWT0ZyUlltQXJ4QmJWcnJPM3ZVV1lwdEtGemltUmJVLTdsNS10Y2NXR1FJbnBxdjBQelg2dU9XdUxNOXBybmhXWk1uMDY0SmtIR0hodzZ2SW5GTFU1RE5wbk0?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مسرح أوال يمثّل البحرين في مهرجان المسرح الخليجي الخامس عشر.. فنّنا يطلع برا"
+  },
+  {
+    "id": "3cbd6522",
+    "decision": "reject",
+    "reason": "Earthquake disaster outside scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Magnitude 6.6 earthquake strikes off Indonesia’s Tual - Muslim Network TV",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaEpqeVpnT3c3aVBVc0V4STdBVTJWbjJReFRHQ3dQQkU1Z3YwV2d4bm96MWF4eko5NUthSV93MExCTzJOSzV1R0lVWWMxaGFzYWZmTWxIUXNES014cEQ2a3RvTEU0SU5CV1E3WEYwdHowVU9ReFhLOGg5a242UEoxR1g1ZWlTc09HX0E?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "f1114486",
+    "decision": "approve",
+    "reason": "Bahrain month-long markets and fireworks celebration, festival news; dates not in source",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Celebrate Bahrain 2026 is a month of markets and fireworks",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1NURjM1Z0b25zZzg5VGRublIyMHpUMWdMdktRTGtack5MU3RZMHhuRUxKQVZRdHFDREJuU2RtazRiWFVvUmI1bS1Kdk9xUGFoVEE1ZmpnVkdiQ2ZHVG5WZ21JdHAxcjdQQlVPMlFlb2lHNW9mVk1VS3FfUVdrUQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "شهر كامل من الأسواق والألعاب النارية.. وين بتكون سهرتك؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "3c73298f",
+    "decision": "reject",
+    "reason": "Generic section page, no specific event",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "سياحة - أخبار الخليج",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WVFlQNGdHWEFVQlk0QzFrdVV3US1BTWFScWtDbW4tQlRQSi1aak5icG5MVnJkYnpRSGdwcXBzVGUydXk5SnpPZm1Pb2Vyd2VjMGFrdkxqTHk2VE8yS0E?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "5173d1e7",
+    "decision": "approve",
+    "reason": "Bahrain-based outlet covers MENA angel investor summit; startup ecosystem news",
+    "category": "tech",
+    "region": "bahrain",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "Top investors are set to attend the MENA angel summit",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kX2dxU3I4TlctYVBMcnQ3Vnp0X3FfNl9XOUlVbGh5ckxwbkg5WWR1Z2NIa1QzXzdKSmxESTJrQkpUZDJSVFVjVGxwT09paXJhdVNn?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مستثمرون كبار جاّيين لقمة المستثمرين الملائكيين بالمنطقة.. الريادة بالخليج تكبر، التفاصيل بالبايو"
+  },
+  {
+    "id": "fa573822",
+    "decision": "approve",
+    "reason": "Bahrain sports event with record team participation",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Record 210 teams set to take part in the Marathon Relay",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzRPWFZBeXdOellBalpMWk1rY25PZGRXVVBuQnhVUzl3SE1fbUptblRzV3J5R1h4c2xJRXdiVTB2UXZGMjNtT3VjYmdTY0llN3VZN0VFX1VUaFotSHF1QTJuVzJVLVR3MFVVaU41empUVE5wUUFGV2s4VFVWMk9rcC1IWEFUa2h1?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "٢١٠ فريق بسباق تتابع الماراثون، رقم قياسي يخلي البحرين تتحرك! التفاصيل بالبايو"
+  },
+  {
+    "id": "195b125c",
+    "decision": "approve",
+    "reason": "Bahrain International Circuit hosts two public events",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Bahrain International Circuit hosts the events \"بتلكو فتنس\" and \"الحلبة لك\"",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xb2R2OWp6U3ZfSDJlVWs3U0pkWmp1LTV0Mkk1Y2hURlJlXzVzWnJzREc3MTdpLTY1eHp4NTdsVXd4YUE0Wld2aXNaSW5icmlnY2otNU1kVmFOaU5jYzQxSmdXb09venNlendXUkFWUQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "حلبة البحرين الدولية",
+    "angle": "الحلبة تفتح أبوابها لفعاليتين جديدتين، وين الويكند الجاي؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "90979f63",
+    "decision": "reject",
+    "reason": "Ministerial statement interview; outside brand scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "وزيرة السياحة البحرينية لـ«الشرق الأوسط»: متفائلة بـ2027... ونعمل على خطة خليجية للتعافي - الشرق الأوسط",
+        "source_url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxQWnRvcmJ6OVhwVTV5SXlnc3ZTY1EwRzJ2TDFURE5VcmtNYlo3bktsVl95ejV3bVBqWmkxNnR1eUlTVHd1VXJ0dFk2SWlmaC15UzVHMVlCMzlqdlhZMDROeFg1SkROSy1lRHBpR09aQmNkQjU1eENqZlQ1T0d3Qmh6eXI5SGJCcnhUWkRaS2JTNzNxM05uQjk4UFdRZUxhUk1YamVXNkwtMTN5WnlmbFpOYnZ6X2ZyQVlzb3FFWXlxWE54dGJlSElyNk11RHQtSmFKMWs2MS1qVWZpenFUSU5hRENKVG94OUp6VnNaZW5Dd1ViY3lxdGRBcGRIbklEZlR6bXpJcTJzbi1oYktoaDBmWWZiUjI2cTNkX0ZvN1dSTWZwYmUzMVZqQ0tZdkN2QUJ3V005V0QyMk9SeTZaQko5dG9fZGJfVFdieFE3aGtsYlE4V2tsaGZkclhjcHF2ZzVfUE9MbXc3NHZ3eGMxblk1MGNfbktLMTVnWVdCS1N6dXhSMjRpRXFVMHdXSDF1eVlvbzYtRlQ1TTh3bktHQ29RcE1KVnpwUUFJX1J5WTU1eG8wdzJrWjFSNG4yQlVwWFdmdzNmWkp0ak5oeDN0WENOd1ItOFZEdmRMUGtBSUlLd2JyMU8yYl9WcUIxakdKY0hBenppZkdqSjFDaVpmS3dreW1MU2RmQnBUSlVKcm9UR1RpRnpfMER1Z28weWx6Smh0alctR241Yjh2U2kzYVRfNlU1S1RJcGZabm5RZ2FsMzdKeGJXQmZnMGFZQk9TNHVESXhEQ2w3WGR0SXNOaUR3d0syd0VzT2FNZmg3cTJqSmJkM2tfbHNneVB6aUhZTFBROXFwMWV4dGRyNk9SQndMaEFMUjc0ZTc3ZnJmVmZROHdwRVlyaE9kZTg0b2VtQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "45369c9f",
+    "decision": "reject",
+    "reason": "Corporate exhibitor promotion, not a public event",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "مجوهرات مس جولد تستعد للمشاركة في معرض الجواهر العربية 2026 بتشكيلة مميزة من اللؤلؤ البحريني الطبيعي والمجوهرات الراقية - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ERW1zeXE5NmNFcGVjMHdxRXBleVNQaFprNFFqU01uNXBmcGcwZ0xpbXFER1lXaXhxanlVNjIwdXVCTUo1SW5MUGc4TDRRaDNSTXRQbUJqUzcwMFVxR1ZmdjlzSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "10f05faf",
+    "decision": "reject",
+    "reason": "Religious ritual coverage; too sensitive for brand",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Chhath Puja Illuminates Asry Beach with Faith and Devotion - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFNfd0VURHFxbDBYczZQZ0RpVXZCMWdFWm1XZXIxZ0NfQXp4dVE4S1pBM0tCeUlmSnVaVERDWWFCRlp2ZVhzZ3FXN0JtZk5fQ0llRHJhUkZmTGp5ZFh0bzJ2TjlyZHpDUnF5Rlh5ejdBVUt1UkhKemNqQTRuMXhTN0RTVnIwWkFwb1hjdUFOWnFVcXhJYm1kTUlnVm9URl9O?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "7a51ee05",
+    "decision": "approve",
+    "reason": "Bahrain national football team friendly against China",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Bahrain face China in the second international friendly under coach Felix Sanchez Bas",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazRBN3A1MUYxUTJTZ3ptOU9oYzJRdVRYSXFGcHNqSllqaXg1cWV2V2NYNlZ1R1R0N1pEaUNMbjYzdXZZM3FVYTk5U2x4UTFQMmpzY2F5UnJiakwxR2NfY0xTYzNuR1F1QW5yYklVc2s5X2JLQXRncmtMU085WWx2XzdxWE9NUGY5dExPTlRBeFVfaWYwdlFmeFBYRVJPYjBIR3BURnQ0SkFuZ3JTenZv?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "منتخبنا يلعب ودية مع الصين، تشجيعكم يفرق! التفاصيل بالبايو"
+  },
+  {
+    "id": "575362a1",
+    "decision": "approve",
+    "reason": "UAE company begins production of satellite smartphone",
+    "category": "tech",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Space42 has begun production of the ThurayaTwo satellite smartphone",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvcDZ5UjRCb0wtekxYbjlYdTg5dDFJbGRkRDhvX3F1OXd4WWtMcjhadnpBOGU0RnF0REFWQnFiTjF2SHJybkVtd01oY1cwVEdCR2tr?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "إماراتية تصنع جوال يشتغل من الفضاء، الخليج يبدع بالتقنية! التفاصيل بالبايو"
+  },
+  {
+    "id": "32a3c636",
+    "decision": "reject",
+    "reason": "Corporate real-estate exhibitor promotion, vague PR",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "عقارات بوابة الجنبية تعلن عن مشاركتها في معرض سيتي سكيب البحرين 2026 - جريدة البلاد",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTNUVIcUZXbkFKN3NNSk1NSENTWFg5NTBQSzg4ZUhpQkJsS05IbEhkSFN4WTg4ako4b3RCdEprR09LQmFxaXpKUldmRWVjeW91SC1WVy1ILWJtVFppNzVaSkhzUFZzTFRiYjMyMjdsQ0Uzdw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "ff271ee7",
+    "decision": "reject",
+    "reason": "Qatar event promotion held outside GCC (Berlin)",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Arab Cultural House in Berlin Hosts Promotional Event for Web Summit Qatar 2027 - Qatar news agency",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmpKNGtMeVBobnV4VHBjTXNwZVl5SGttdWVxU1hwN05kMVZkSW1DczcxMVhKSzNMOVNFZ29OTjZVYWxod2NGemRzX0dPczZPNlpuTk15MkVyQU00bkFHLXNYSjJzNHFEN1JOenNmdVBRLWtsd0FTWGsxM1c3S18tOGw4VWdTZ3RRVVhXRlI2WXVsUGNwS3pJdEVwRnNtek1JMDlTN2wwcXdsb21SVGIxVVNhaFAxYVBTdEZQWGliT1o5SHgwU3c?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "7f190b7a",
+    "decision": "reject",
+    "reason": "Egypt-Germany cooperation; outside GCC scope",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "إطلاق فعاليات اليوم الثاني للتعاون المصري-الألماني لتعزيز الشراكة من أجل التنمية المستدامة - www.alestad.com",
+        "source_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQdlV5alhKVGNQckt6WEw3eVBlYTJRUXpJZklUeV9WMFZSWmQzc0QycVpENEtZczBqNGk5bUsyXzA2eTcxSFNBX3NyUE4yaXhlTVFucXNJVV9uY1RySlpPTVp5eWxTS1pnbTZ3LVpvSTdGVDE1R1Q3UW5PblI3SFBNUlAwd29rTXkxamtFRWJiN1VfTW54S3Nmdm1RLVJuTm5fdmItSUhtc09rVzFVYk9sd0czd1VmLUJXZUlTWEZIeTVRal9vdDNuQU1yRFdxUFNIek4zcjR5cXhpTVNockl6TnVEVDJWenVna3NaSXV6VXpnUk5PNXhwdXhNNkkzUTZWUWRtY3VGVzhJZ1A4Y0cwbFFCUzN1YWJnS0t1Zm1NdEg2M3RmQUdYd1BPZG5kZHJfZGdWNGhZamsxeXJDR2VQcjFVdlM5UXVieFZCd2ZB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "418279e7",
+    "decision": "approve",
+    "reason": "Positive arts recognition at Doha Film Festival, Qatar.",
+    "category": "art",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Doha Film Festival to honour Indian actress and director Nandita Das and Syrian star Taim Hassan",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlBtT01NeHlfZW1MTXJjNHQzaVB5ZUNZTFkta1RjMUNSTHNEc3pnVXNHMUxxYmRLUGJuTUVtRnlOd3lFTFo1VmdVZzMxZXVtMUI4ajJreHdtcllrcl9oLWZ5QVhmRWt1T2hsaUJwWWozZ05MNkJGQkJUdGVFM0I4RWpFQV9ndmZkMjkyeDFqdTBONlFaeEFOMDladjJHcTRnV1NMaA?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Doha",
+    "angle": "أسماء فنية كبيرة تُكرَّم في الدوحة… الفن يوحّد الكل، وتفاصيل الحفل بالبايو"
+  },
+  {
+    "id": "a184eab1",
+    "decision": "approve",
+    "reason": "New transit area at Dubai airport, positive tourism news.",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "A new transit area has been announced at Dubai airport",
+        "source_url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOOVFpb04wZTlKZjM3cGFKdk9FZmVrOWF3V2hHV056MXh4bFkyR2daN0ZUQ1FsUDFNbkhKbjZCZG55cHNobWxDTUwzVTZPS1pRODVlb2dvV2dXYkpBYVRDWlpJU25aekc2ODc0bTg1ck1MZkJtQUFOWTBvdTBLSHI2TVpRU0NsVzlGd3l6OUw5NUVkMHhZMElRZHd5S0RFSllBYzJJcE5BM0ZHZ2t6aHJaWFRPaFN4VnI4QlcwbG1nVmFEUUJ6STlubGgyM0pwaExGdWZlWFlDUHMzUXI1X3U3YWFoVkxaRzA0WTVYdFNqQ3RwV1NfN09zMGE4TDJhNlI3ZFZVcFNmdGt2eVJHNDk5SzlxSHNiaUYyR2dTV2V5b2Z2WVo4WG8xMUdGRlpfS3hJRFZHQW9idmxQSWFnVWY2Z0RiazRvcVlhRFdTamwtNHUtaGpXZzVhRXhEZXNJejZWa1FJaGVSOFBadmd4ZlEwNjQwajh4LWJkNDNqMHZlY3BZYnBvQW9WemVORGRSSF9rNFVIZWlFSFNtQ0ZNdy1YU01FVkIxMG9tMURaRXNYYw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "مطار دبي",
+    "angle": "ترانزيت دبي صار وجهة بحد ذاته؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "b51f06b1",
+    "decision": "approve",
+    "reason": "Fifth Sohar Festival in Oman, positive cultural event with dates.",
+    "category": "event",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "The fifth Sohar Festival runs from November 19 to January 31",
+        "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckVXbC1rTFY2dXVHcEJnMFg2Uk5Ha2txODItS2Nsd2tTWFBWOXk0MGNJWVVSdTJ5MS1sOE8yVmdNYXV3VkRzcVpRNHVFY0V5U0dZNzBEQ3RuWjlieTBOTHoyaGxQeGZzYmdmVUhrbmVSSVdzLWF2UEIyQ3hLelJ1bTB3X1k0VDQyQlF2VU16SlRpYXFURGZ5NGRQYWM?oc=5"
+      }
+    ],
+    "event_date": "2026-11-19",
+    "venue": "Sohar",
+    "angle": "موسم كامل من الفعاليات في صحار، من 19 نوفمبر لين 31 يناير. خطط لويكندك من الحين"
+  },
+  {
+    "id": "2db9efc1",
+    "decision": "approve",
+    "reason": "Turkish ethnosport festival starting Nov 19 within Riyadh Season.",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "A Turkish ethnosport festival starts on 19 November as part of Riyadh Season",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPanR1YTVZcG1BcnpsX3BYNDUzQ0psR1prSWJBWGJtdlZJSmFvRXYzZUozVzc2X3Fka0c2Zm5pSFBKN3dJa1EtbEZRN29sTmFLbVRCVEdJbldxbE1EOWZUcTJuZnBfZXNOWkhPc0doMzg4NHh2cDVoZTkyZEd4Y2Z1Y0UxQ0U5dUxqbU14OTdIR0dvUU5ERmN5WUktbFFxQUdLN2pYS1gySHJIek9kS3p2akZfdXVuckxaS1g1X3JseV80aWpXa1NqN3J1UmUtR1B6WHk4Nmh0TWNUYzIyYTJNcTJOcmFPZFpJXzJLc1pkWnRoNlRVeEw5Z1FoRTMyQjBCOTF0UnhkR2hQUmFhUXRaX3JzS28zQU42OHB4U1l3dHE1dzhyaE52ZXNXajF4R3Z6ZDZuZU1WZWx4OWsxVWlHdjVrOA?oc=5"
+      }
+    ],
+    "event_date": "2026-11-19",
+    "venue": "موسم الرياض",
+    "angle": "ثقافة تركية بروح الإثنوسبورت في الرياض، يبدأ 19 نوفمبر. التفاصيل بالبايو"
+  },
+  {
+    "id": "8f191728",
+    "decision": "reject",
+    "reason": "Geopolitical framing; regional tension risk",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Festival In Focus: Doha Set For Lift-Off Against Geopolitical Odds - Deadline",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGJKTktJbGlDTjFjQzVjZGU3U2RYN1ZSSWhyMnhLMnNweXVWOVVPdGwyS2Q1OEttQXRLUXE1aXprWWdaM3Z0ZzNONlc4YllrTzFlVG1USlN6bGQ4U1JmYzZRLTZETjFFQTVlQjNaUWlVdWU5NFRubVdsSzJ1VzNISGxaWmlobDdqd24wVlRkcw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "526e9e1a",
+    "decision": "reject",
+    "reason": "Vague institutional PR, no concrete event",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "EAQC highlights role of engineering in Qatar’s sustainable transformation - The Peninsula Qatar",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVNUWDAxazFkelNrWml0Tmk4WWc0eVVfUThCaGNXZDFCQzBsSzJzaDNLU1pSeEdyenNKbXpNZ1loZ3NTaGRVYUNnSzR2SUxaX01fRm9pNGx1V2JlQVlkSXlic21uXzNPeWM5ei1qYzR1cDQyeUhPaFp1UGNUMV9UcVludkFoMkJzVERwT25XR0FuaTFLUVdfck0xeTZ1VzNKNm1LSVJseVRNNDFvNUtISGQxYzUxTXV0dHpGX2ZB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "63734506",
+    "decision": "reject",
+    "reason": "Duplicate of candidate 418279e7",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Doha Film Festival to honour Indian filmmaker, renowned Syrian actor - The Peninsula Qatar",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblVsMlFDZmZ2U1dBUUx2R2M4eHBGeEppUEMzcDEyeFBGZnEzUlNrMmt0QkZPSHBnXy1YTURjd1NqZzNLQmJIUFM2UW1Fa1NqbHh0aTVEUjJsX0NoOVYyUEdpT25scW84OTRTc3dwbU1tNFVzRHB4YUlHc3lkN0VTOHZYd2FtRVFwMGN4OHpLa25xU2xGMUhlRnJMMEgxVUZrQVNaTUJOSmVDOWZVNXRtRkVnSGlYNEE?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "29bda0dc",
+    "decision": "reject",
+    "reason": "Corporate trade-industry PR, vague details",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "MEFMA’s 13th Event in Qatar to Unite the FM Industry Around a Smarter, More Sustainable Future - EIN Presswire",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOREpvUHlEYURVRXpqdmVYSWpuUW0zV3JtOGE5bVZYVlFjcFp1ZGJBcnlNY3pYcl9YNEdteFFqNVpzV3RRQWxWVjhqZmJpdjh1amg0WEs5Q0tLczVpSF9YUVZiSllQWDVJWXc5VDh2bmd3ZHZ0aWR1VGNRSzhFWWpJdVdMTGc5aFlCc2JFWkx2bFhBMnRrM0dMcXZkNjZGcTU1VS1lbjUzX3JBRlhTanhocG9PMzNrUGpHZmZ4VFViZEZpYU44Y1kyU0t4TFNGQXJUNkVBUkRnZw?oc=5"
+      }
+    ]
+  }
+]
