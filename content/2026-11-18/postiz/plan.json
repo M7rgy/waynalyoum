@@ -1,0 +1,140 @@
+[
+  {
+    "post_id": "D21-01",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-18T07:00:00Z",
+    "time_local": "10:00",
+    "content": "",
+    "assets": [
+      "D21-01_1.jpg",
+      "D21-01_2.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D21-02",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-18T09:00:00Z",
+    "time_local": "12:00",
+    "content": "",
+    "assets": [
+      "D21-02_1.jpg",
+      "D21-02_2.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D21-03",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-18T11:00:00Z",
+    "time_local": "14:00",
+    "content": "جواهر وعطور تحت سقف واحد ✨\n«معرض الجواهر العربية والعطور العربية 2026»\n24–28 نوفمبر\nExhibition World Bahrain\nتجربة ذكية وسلسة للزوار\nالتذاكر والتفاصيل في الرابط بالبايو\nاحفظ المنشور وشاركه مع ربعك\n#وين_اليوم #البحرين #فعاليات_البحرين #الخليج #ويكند\n\n#وين_اليوم #البحرين #فعاليات_البحرين #الخليج #ويكند",
+    "assets": [
+      "D21-03_1.jpg",
+      "D21-03_2.jpg",
+      "D21-03_3.jpg",
+      "D21-03_4.jpg",
+      "D21-03_5.jpg",
+      "D21-03_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D21-04",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-18T13:00:00Z",
+    "time_local": "16:00",
+    "content": "الكويت: معرض الكتاب بدأ 📚\nانطلقت الدورة 49 من معرض الكويت الدولي للكتاب\nودولة قطر ضيف الشرف هذا العام\nشنو أول كتاب بتشتريه؟\nالتفاصيل في الرابط بالبايو\nاحفظ وشارك ربعك القراء\n#وين_اليوم #البحرين #الكويت #قطر #الخليج\n\n#وين_اليوم #البحرين #الكويت #قطر #الخليج",
+    "assets": [
+      "D21-04_1.jpg",
+      "D21-04_2.jpg",
+      "D21-04_3.jpg",
+      "D21-04_4.jpg",
+      "D21-04_5.jpg",
+      "D21-04_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D21-05",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-18T15:00:00Z",
+    "time_local": "18:00",
+    "content": "",
+    "assets": [
+      "D21-05_1.jpg",
+      "D21-05_2.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D21-06",
+    "platform": "instagram",
+    "format": "reel",
+    "schedule_utc": "2026-11-18T17:30:00Z",
+    "time_local": "20:30",
+    "content": "نور السبيعي صارت دكتورة 🎓\nحصلت على الدكتوراه في تحليلات الأعمال بتميّز من جامعة البحرين\nفخر لكل شاب بحريني يطارد حلمه\nمبروك دكتورة نور 👏\nشارك المنشور وهنّيها بالتعليقات\n#وين_اليوم #البحرين #إيجابية_البحرين #ريادة_اعمال #Bahrain\n\n#وين_اليوم #البحرين #إيجابية_البحرين #ريادة_اعمال #Bahrain",
+    "assets": [
+      "D21-06.mp4"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D21-06",
+    "platform": "tiktok",
+    "format": "reel",
+    "schedule_utc": "2026-11-18T17:30:00Z",
+    "time_local": "20:30",
+    "content": "نور السبيعي صارت دكتورة 🎓 دكتوراه في تحليلات الأعمال بتميّز من جامعة البحرين. مبروك! #وين_اليوم #البحرين #إيجابية_البحرين\n\n#وين_اليوم #البحرين #إيجابية_البحرين #ريادة_اعمال #Bahrain",
+    "assets": [
+      "D21-06.mp4"
+    ],
+    "settings": {
+      "privacy_level": "PUBLIC_TO_EVERYONE",
+      "duet": true,
+      "stitch": true,
+      "comment": true,
+      "content_posting_method": "DIRECT_POST"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D21-07",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-18T18:30:00Z",
+    "time_local": "21:30",
+    "content": "",
+    "assets": [
+      "D21-07_1.jpg",
+      "D21-07_2.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  }
+]

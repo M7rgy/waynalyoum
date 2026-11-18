@@ -1,0 +1,394 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Upcoming Muharraq festival; dates still to be confirmed",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival takes place on the Pearling Path in December 2026; dates to be confirmed.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path",
+    "angle": "ليالي المحرق جاية على طريق اللؤلؤ بديسمبر، جهّز نفسك والتواريخ قريب"
+  },
+  {
+    "id": "2621cfb9",
+    "decision": "approve",
+    "reason": "Sports match result, positive coverage of national team fixture",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Japan beat Bahrain 8-3 in Group A, according to The AFC.",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGJkODI2Nld3SGhhVTJyU2RlLXJvdi1OUEQwaWlKbHc4ejRXVlZVX3lQLXJsRDY1Yno2MXdaQUR2LThSa09BLVhKRnNQWEQzeE1lVXRidXBVTENvNmNlOUtVZmd6a01vZTN6NzNGN2xUSm1xTDV3YXFYbHd5X3pvWnhNRjRyQXdxM2tYOVpIV3dDWk51VWUtMTA1ZDZVb1U?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "ملخص مباراة البحرين واليابان بالمجموعة A، والتشجيع ما يقف"
+  },
+  {
+    "id": "f10810d3",
+    "decision": "approve",
+    "reason": "Dated trade exhibition at Exhibition World Bahrain, 24–28 November",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "معرض الجواهر العربية والعطور العربية 2026 يُقام خلال الفترة من 24 إلى 28 نوفمبر.",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yLWVYRVVvdmhVWjk3d2dpaW1RZFVXcm1rN211QmlUcm5VWUdRYl9ZUkxGVmgzTVU3eks2b2c0X09fdENmMTNfLUE0SUp3ejhDeHo4?oc=5"
+      },
+      {
+        "fact": "The show offers visitors a smart and seamless experience at Exhibition World Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yLWVYRVVvdmhVWjk3d2dpaW1RZFVXcm1rN211QmlUcm5VWUdRYl9ZUkxGVmgzTVU3eks2b2c0X09fdENmMTNfLUE0SUp3ejhDeHo4?oc=5"
+      }
+    ],
+    "event_date": "2026-11-24",
+    "venue": "Exhibition World Bahrain",
+    "angle": "جواهر وعطور عربية تحت سقف واحد خمسة أيام، والتفاصيل بالبايو"
+  },
+  {
+    "id": "0ed4d00c",
+    "decision": "approve",
+    "reason": "Positive expansion news for a GCC trade show",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "MEBAA Show 2026 expands its exhibition space by 20 percent, per Gulf Daily News.",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tVFBPLUxHNzBMZllvSVRReHlocUpkLTVkOEhNM0xLZERhTFFlNllmUFhqTi03U2hidjdkVnlmRUJNa1V1ckNicFVZbWZndzl1SVRz?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "معرض MEBAA 2026 صار أكبر بـ20%، والمساحة الجديدة تستاهل الزيارة"
+  },
+  {
+    "id": "17d4b395",
+    "decision": "approve",
+    "reason": "Ongoing November real estate exhibition in Bahrain",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "سيتي سكيب البحرين يدعو الزوار للتعرف على أحدث المشاريع والفرص العقارية الجديدة خلال شهر نوفمبر.",
+        "source_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPLVMyYXZQY2FEQkFBWGFld3h4NXdhcklnSE5VM3JnSTVhZXVaYTRTYjRvYVpBY0xENHRsWjFraXMtdjhzMG5oM0FCUUJTZURMNVpYSDZKalRUYktoRHltZmZ6VEFWRXQtekJhYXdHTGNGWHUtT0s4OHdTMUhZQmZNV0Nyd09oSVQ3WXZ2N3hoaXpXNVZVamZtUmRQRjVXMEc4Yjg2NTN3RWtYOEJsVTEtTi1Ed0l1djhHcmpFbWs2eF9nN1pBYi11TTdNQzFxRlJDS1doYzg2LWlxR2Z3OEtyWURHM0dLclRIZ1NCb1B2MmIwMjMta2ZuTVdJUjF4bTE5ZW9jUHlMSjdmY29RLW42T0pyQmE3U3NTTnVveHYwS1FDSGhHME56endGcVgxbEgtcGFBQ01QaG1vQkxEd1FhNEEyZF9pOFNheVE?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مشاريع عقارية جديدة بنوفمبر؟ شوف الفرص قبل ما يخلص الشهر"
+  },
+  {
+    "id": "405c40cc",
+    "decision": "reject",
+    "reason": "Vague official hospitality news with no concrete event",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bahrain Welcomes GCC Olympic Leaders with Warm Hospitality - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3phOVZGbnozYm1rSGE1Q2U2LXpKOV9QX1dTMWtiYTJhdXRxa2ZQcG5GeEI1b3VJXzB4TXdEVHVZMFlHVy1aaXdRdWVvVkdtQnVNa2pCTFl3Y0oyLU5CaDdPSFluM2V6NWhHRjdEUjBpNFRkRDZZLXliX2d5Y1BkWg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "701180fb",
+    "decision": "reject",
+    "reason": "Royal visit; political and royal figures as subject",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "ملك البحرين يصل إلى الرياض وسمو ولي العهد في مقدمة مستقبليه - صحيفة سويفت نيوز",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wTGxVV3QwelF1ekFwaEQ3bkdLNGtzb0hRXzRRdTZ5RE11TUZ0bTRfWUREM2xqMVZmVFU2eVVrSVNxYmlKcVZwSkRYR2xndw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "b6d196fe",
+    "decision": "reject",
+    "reason": "Duplicate of approved Exhibition World Bahrain item",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Jewellery Arabia and Scent Arabia 2026 to deliver a smart and seamless visitor experience at Exhibition World Bahrain - Zawya",
+        "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTDhGUExBb2lia1cyVERoV18yVXIzZE43bWhDTHEwdlRYZlZ5d2pPNTBWMnFKbzJCSnA4T0Q1OURYTnFtLVlyYURoaFR6WDdsZ3FsakNZZFU5X19zTjg3ODExMml4ZHFfVG5IcW5ESlBUczM0VnRjbVhzMTY3YmdQdW5Gb3VpbUVrM3l5VFlaU2xKX3E3M0ZDbVNMbWRKYjFiWVh2c3RITUtNekw1SW9DQ0pKRlpkS3JEWXpfM1lTVlJ4NUV3R0ZYeFQyRUYzajhnU3JjSkhFdlJlTFYxOHZRdDdkeGJKWmNPRm9ZOW90bGRNLTY1ZGJFaTA2ZEppbzR4NVNqLVB1ZE55SGJJOFhWeA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "acea6e1c",
+    "decision": "reject",
+    "reason": "Outside scope: US restaurant opening",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "New restaurant opens just off Indiana University Bloomington campus - Yahoo",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd1VRZ1JaZEthc3ZxY01PbmUwT3BmdWI4TnFrRjRpZWJwc0x0azJySU9KQWJhYV8yd2pqYjJVV3lfZ1U1ZG5PMFZqY256czFyMl90OE12R0J3U0FaYVNjXzZINkVVNjdqYWs3NEk2dTU3QTdlQXJQRzFWUEdEdE1jWWsxTV9pVFJSY3FaSA?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d60762f0",
+    "decision": "reject",
+    "reason": "Government official statement on national infrastructure",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Data centres are now critical national infrastructure, says Dr Mohamed Al Kuwaiti - Gulf Business",
+        "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHVpMkhLYUduWEJ6TEtCbjZ4ZURZQjBtREIwdzNFYlNhM01ZSjhKbGxrWm95UWthZEFxaDBfTU9aVHF4MUdmOHUyN1BYdVo1Nm5pUXprOENNS3Y3VG1KaU43bjhQcUk1UzhBX1hFZ1hoSC1QLVlZNXFFRHlIdUJhQjVHSXNla0MzRzRrMTcwbkkxNjNyVjc3VlRpWDdWV3A0QWtCS2dyUjdlU21XWXUwNkNhWndiTVAxMzZISjE2RS1IbURuZlMzUm5nT3BpdmRqOGc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "50c9bdc2",
+    "decision": "approve",
+    "reason": "Bahrain trade event this November with verifiable details",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Cityscape Bahrain invites visitors to explore leading developments and new experiences this November.",
+        "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaW9hUU9FSnJtZlJwZzhuMjNfVWgwTXhNb05zTGw0anhXbzRSX3NFa3JMZHZoektFcm1aVTY0V3d0QUdicENoZkQ3V1lOa0VJVEozSXVVaXZMTHhCa0NiQXNDaEhtdjFmRUJnVXc5TUZNT3Byb2l5MDByWVVoM3YzSlJ4eTk4Uzc3UjNfcXp4ZEZ2d0liOGM0Zl83QVI1SmFtZmM1M2UzeGtnX3lIUmNoUDZTcEVfajdQSTVxOFcydHl0R2Q4MWZ5QmVsVmNHcDFjcFRPcU04eGpfOHoySGlkUmlXVnlqSExRUVg3RF9YdGUySHVLMW1IazhR?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "شنو الجديد في عالم العقار هالشهر؟ تفاصيل Cityscape Bahrain بالبايو"
+  },
+  {
+    "id": "5783618b",
+    "decision": "approve",
+    "reason": "Bahraini academic achievement at University of Bahrain",
+    "category": "youth",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Noor Al Subaie received a PhD in Business Analytics with distinction from the University of Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNbVlXbmdWZnI0N1VqMXZOeDgxYlU0VnZHdG14OXRCclRpTFR3SGliRnJ2WGZjTERaSDRySW1NUzJXZENRNklaZ1lDeEZhdFhoQkVVRzZIUG1vZTRSYm1EVlZsN3NqZVdzaWNZNm5IVm4wMkYyNmtINnFySW1zQXliQmVjeTFpWTgyUENqX0d1VFBqUnUzRGNwSFFGX29VcXQ2WG02RER2RzdmTjRnRDNlQVcta2xGbERRbmV0RFFsOGhxbG9OYndJMnU5bGFoeEZzUVdGUEVJWk1CR2hCcHpRQlVrVFllYXhVTmlUZktFNnNTRFN5bm9BNXJWeTNHUW9BNlBTTGFtNGhYR29GcGFOWlVGN1c4R192Sk1UYkdoSEdyeHc3Nkhrci1ITHJ3MXZQVFpZdlZicGM2RFd1ckdGMW80emVKVXRjdnhEdjl5UXNIX2p2WjZ1djV1VDJjSHd2bnlaS1NOVHJNQWlLZ2NmT3p1Y00tbF9HeUZzTEY5Ty1xc3Vlel9GQi03RHZzMjF2VzNWMnNWcURDT0RMT0dqUVBZdlNTUlEzb3Y4WnR2aEthVGdlTWt3akRKTXpSbVh3YXo2VE85QktETm83Rk12bE5DTUdLSGszS3hGZzVvTUpvVEN6VThqNk1JQ1A2alNUNWdoeVdrcElXY19FWFluTXRXUi1rTE9kNm5RcnVpVFR2UUtER1E4V0drdkNVN0o5NFdxVS1RVzZHUHdCVmtyOXZxSWV1X00zejREMWtPNHhaZWRXMlBpTFROeEJJb3FlR0V4ZlhCdHRmYUxaTVpCeDhEZHTSAVRBVV95cUxQR2xjNzlXbTdzTEtUS09JYnZkUTE3ZHRBTVdjVkJKX3NEVkRXWDJLZ0dpSmxmeGVCOGRwV1lmUmxleFVhUWktRlU1Yk1Ud3lpbWYwT2c?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "جامعة البحرين",
+    "angle": "فخر لكل شاب بحريني يطارد حلمه: تهنئة للدكتورة نور السبيعي"
+  },
+  {
+    "id": "96be5307",
+    "decision": "approve",
+    "reason": "Kuwait International Book Fair launch, positive cultural event",
+    "category": "art",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "The 49th edition of the Kuwait International Book Fair has officially launched.",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6QWpwYTJDWTF3MXEwbTdOZm5qSzBfcWJlaHRFdkhoTmRSZXN2MGlzUERUa05sdXE1MUhwQ3duOFJ6Vl9hQlpZSjRSeUVrR2R5N2Vj?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "عشاق الكتب في الكويت، الدورة 49 انطلقت... التفاصيل بالبايو"
+  },
+  {
+    "id": "97d3ffe7",
+    "decision": "approve",
+    "reason": "Qatari film festival opening tomorrow, verifiable and positive",
+    "category": "art",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Doha Film Festival opens tomorrow with Sara Ishaq's The Station.",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzA1Y1p3WmhnVE5OelAwSTZQcU9JRTBNZTZQVmJfMlZ4Zzg0VXFfaTRoWlVKc1M2dHFDSHM5OE94SjZaUVpzTWlhOUtTMHJhU2lIMXFSeVpRZXNTX1AwdnpEa3YyX0tmUl8tc1pYSVVWajdDZWVJc3dYV0ZXalUxQ2pGVV9OalotUjAxa0pEUWlrbU5FNE9PRG85eWRXN09hV0RkRkNEVzVfWnJGNTBUbQ?oc=5"
+      }
+    ],
+    "event_date": "2026-11-19",
+    "venue": null,
+    "angle": "بكرة يفتح مهرجان الدوحة للأفلام... وفيلم The Station يفتح الباب، التفاصيل بالبايو"
+  },
+  {
+    "id": "42b2906b",
+    "decision": "reject",
+    "reason": "Commercial product launch, vague corporate PR",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "مجوهرات مس جولد تكشف عن مجموعتها المتكاملة وقلادة «بيوند تشوكر» في معرض الجواهر العربية 2026 - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tQUNCbEJrZ0doSUJBMFlpZk56SUhSVlpXcHNTTzZBMnd2dUh3TTFLOW1QZUs4MWhjYUc2VlNnak1YTkZKbldxejBVc2hDNkFldWtoc0lfRUNIUWhqRUl0dTAyNU45UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "90979f63",
+    "decision": "reject",
+    "reason": "Minister interview on recovery plans, government statements",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "وزيرة السياحة البحرينية لـ«الشرق الأوسط»: متفائلة بـ2027... ونعمل على خطة خليجية للتعافي - الشرق الأوسط",
+        "source_url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxQWnRvcmJ6OVhwVTV5SXlnc3ZTY1EwRzJ2TDFURE5VcmtNYlo3bktsVl95ejV3bVBqWmkxNnR1eUlTVHd1VXJ0dFk2SWlmaC15UzVHMVlCMzlqdlhZMDROeFg1SkROSy1lRHBpR09aQmNkQjU1eENqZlQ1T0d3Qmh6eXI5SGJCcnhUWkRaS2JTNzNxM05uQjk4UFdRZUxhUk1YamVXNkwtMTN5WnlmbFpOYnZ6X2ZyQVlzb3FFWXlxWE54dGJlSElyNk11RHQtSmFKMWs2MS1qVWZpenFUSU5hRENKVG94OUp6VnNaZW5Dd1ViY3lxdGRBcGRIbklEZlR6bXpJcTJzbi1oYktoaDBmWWZiUjI2cTNkX0ZvN1dSTWZwYmUzMVZqQ0tZdkN2QUJ3V005V0QyMk9SeTZaQko5dG9fZGJfVFdieFE3aGtsYlE4V2tsaGZkclhjcHF2ZzVfUE9MbXc3NHZ3eGMxblk1MGNfbktLMTVnWVdCS1N6dXhSMjRpRXFVMHdXSDF1eVlvbzYtRlQ1TTh3bktHQ29RcE1KVnpwUUFJX1J5WTU1eG8wdzJrWjFSNG4yQlVwWFdmdzNmWkp0ak5oeDN0WENOd1ItOFZEdmRMUGtBSUlLd2JyMU8yYl9WcUIxakdKY0hBenppZkdqSjFDaVpmS3dreW1MU2RmQnBUSlVKcm9UR1RpRnpfMER1Z28weWx6Smh0alctR241Yjh2U2kzYVRfNlU1S1RJcGZabm5RZ2FsMzdKeGJXQmZnMGFZQk9TNHVESXhEQ2w3WGR0SXNOaUR3d0syd0VzT2FNZmg3cTJqSmJkM2tfbHNneVB6aUhZTFBROXFwMWV4dGRyNk9SQndMaEFMUjc0ZTc3ZnJmVmZROHdwRVlyaE9kZTg0b2VtQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "b7745726",
+    "decision": "reject",
+    "reason": "Security alert and hostile drones, red-line topic",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Kuwait intercepts hostile drones as Bahrain issues fresh security alerts - Gulf Business",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMktJSjdZTnNrMW1Jem5xRjczd0o2bzZsYVZCYXBoYW95NEFfNkhodjBPQ2RoZ2swSkxJMWRPSVRvUV9WekdPNkNwbE5TRDVEWkRhc0lSU2VFRE9NZ0l2dXktY2c5N1AwN3VHcU5XcG1hQl9tWVhaV3JPMTJ2cF92N2FFWU9pZmx4XzB6akhYS2FWU2RoUDNLOTFkZm4yYkZK?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "52e81a26",
+    "decision": "reject",
+    "reason": "Corporate personnel appointment, outside Bahrain and GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Wolseley Hotel NY Names Karin Kopano Managing Director - Food & Beverage Magazine",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQm9zaXlYeDNKVXE2eWFYWENkLUFmTFdta05OYktpVHpEdlRwalRNSWxNSnpCSlRNMWduV3BoUzJDTW9DUTA4QzBDek9zSGRQZUltWGNNZnNBRHNYQVpJUkNnVzNzMWc3OENBbHYzbTlaekxfOVU5dEd4eWFoTGJiTTdrOHYxZ2NMdlpmTlU1M2I?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d28719cf",
+    "decision": "reject",
+    "reason": "Vague corporate exhibition PR, no clear event details",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "DG-Manufactured Jewelry Display Showcases Featured at Jewellery Arabia 2026 - Porterville Recorder",
+        "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRS0wUlpzSkpvNFNLUXg2VHVwLVVITXdZUjIwb2pQTTd5SjIyWUJaQXBUbTFvR0RFLXZ3czVMYjAxcUxxOGhTVzZfVFd6QmRBb3VRbUZNckdOZHdUelJ2eFdPUW9tWlFNNFh3NVhRLXBqaVktUzdLb0E0UHUwRTEybUFUZzhGdDd5UVAzRXo3aXViXzdJcXdaWWQ0aHlXRVQ5LUpPNkt1OV9HSkE4Y2ZKamV1VzN2aFZIYVBjTmpTOGlfbDFFTFMtOHVGNVE4RFVMdTVVSTk4UWpTdkROd3VIZXJBUUtZSFNWa0xHU2o0blBLMlA3SnQxaWtURlh5Xzl5RmVHVno0dVRrS1hNSV94Q0Ywa2Rwdw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "f3bdf933",
+    "decision": "reject",
+    "reason": "Golf tour news, no GCC event or location",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bryson DeChambeau Joins DP World Tour as Nine Others Sign Invitation Deals - Yahoo Sports",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0xDVnVvZVJNemNpY01IRFl2Snd4SHNNRnp0Qkp0c0ZPRXN5a3VWUzNsZ0JTLVFBaHFiMmFqSFJSZVJaaU5ycEVlbHJpakZYR1NwRmlsbk9TYXNMOXVlMVV6eGYzUndSd2RZZlZWMEdmcGtOcm5EaUZUc1lSdWs2ZDdjWVNnZ1Zk?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "ef38937c",
+    "decision": "approve",
+    "reason": "Kuwait International Book Fair 49th edition launch, positive culture news",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "انطلاق فعاليات الدورة 49 لمعرض الكويت الدولي للكتاب",
+        "source_url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQM2dLaXNMSDF3UTdfdE1SeDZQTUxiaEgxUTktcUpwTEhaUVQybkYwTHY5dGdJVmUxTGJNbnlFWXpVWXU5c1ZDV0xqVmJOZkI4NWtwVmJra2dKZGFVLUxlU1J5YmxBdkVzTGVzNXNWLVoxMGpGLTR0Q0NRMl9wX2RpdDNOOUg1LUNzcXVkMmxXTTBON3dGbHY5T2Z0MlVMNElwZVRES0sxXzFGTzNvY2NacG9GdW5oNl9ibWJUbXVUNzlJREVDVFgtdm9saUIxRHZYRXdkTWEwc2lteGdyemR3a3VDZk94RUJHZHAwU2MzY1VmOFNKLWItQzRkb1B3NHliemo4OEt5eExTVWE3b0xWQndLdldIblJvWmsxc0x0NW1tcTVvX3Y3MUpYMmF2em9zd1dsRmpuTDNJOUFxNDZscFJtM1lIWk1UaEZ3Vw?oc=5"
+      },
+      {
+        "fact": "دولة قطر ضيف شرف لمعرض الكويت الدولي للكتاب هذا العام",
+        "source_url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQM2dLaXNMSDF3UTdfdE1SeDZQTUxiaEgxUTktcUpwTEhaUVQybkYwTHY5dGdJVmUxTGJNbnlFWXpVWXU5c1ZDV0xqVmJOZkI4NWtwVmJra2dKZGFVLUxlU1J5YmxBdkVzTGVzNXNWLVoxMGpGLTR0Q0NRMl9wX2RpdDNOOUg1LUNzcXVkMmxXTTBON3dGbHY5T2Z0MlVMNElwZVRES0sxXzFGTzNvY2NacG9GdW5oNl9ibWJUbXVUNzlJREVDVFgtdm9saUIxRHZYRXdkTWEwc2lteGdyemR3a3VDZk94RUJHZHAwU2MzY1VmOFNKLWItQzRkb1B3NHliemo4OEt5eExTVWE3b0xWQndLdldIblJvWmsxc0x0NW1tcTVvX3Y3MUpYMmF2em9zd1dsRmpuTDNJOUFxNDZscFJtM1lIWk1UaEZ3Vw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "معرض الكتاب يفتح أبوابه في الكويت وقطر ضيف شرف.. وش تقرا أول؟"
+  },
+  {
+    "id": "4aca716e",
+    "decision": "reject",
+    "reason": "Duplicate of an already-covered Kuwait book fair story",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "انطلاق فعاليات الدورة 49 لمعرض الكويت الدولي للكتاب.. ودولة قطر ضيف شرف هذا العام - جريدة الشرق",
+        "source_url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxNZllIaENZSXRhZU5xWEJmSzd0UXRlSlZpejRfZmJNaXRBendBcmFweFpKMTVaVXQyRG40dnRtV0VldXFkZ1BHRUZUbXZUbFkxd3dIYTNUQW0xWFpTZmdhWEFHTnE0eGFJdUJabGlyQlFpWm54RmdGZ3VldFZ5aTlRTXpqVEpVMTQzWlE3NHlITFpPeF9QUFg5NHR0ZVR4VTBGNnNKR19DQVp6Yk5QdGlsTURYQkdYdTY0YVkzWWNtM3NLSHdJV2toelJmRmpHc040bERTNWNNSExUS3E2OUMwbW1XT0tBcDFHQWVMaUhfY0FSSkFjOHJrTzZ3b1cyTUJxT0xzQmc0aURteEh1dmk5VHNQODRxTUd6UERWOWo4dzJzbFRCa1VIZ3oxM0Rta2QtdGZSYTlIbE5uX2dYYjdhNGJNRXBsWjhtNDMxS1R6NFozQ1JHeEEtaE1OczJYNnNfSjRpSWhQbUxzNjZHUkNwdTJldmpFSkkxZEwzaTFMRjQtN054ZkEzVDVpRHVPclJzcm9zYTU5SUxQUDFfcTVUbEpwX1hGaHNkMXFZejJLZ2E4eHJvSElUX21DZjdyaTFFYTZzZkpQbl9yUjBWQldvUjhydXJIY3RzY01VMW9zWGVvRFg1cEMyRnFsZFBqT0ttUkI0TFJDeEJjM3lkTEVWdzhZT2NpM2pkMHZhRXBWMF8yZGY5UzRrbDl1Sm00QS16VFdyUnczODJxcDRNMzVvRno2QzZ1Vmp2bUdNdTIzbko1MjJueVJ6ak5tRHhPdmFkcEN6MDZmOTlpRTNyclBjS04tVFhlZw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "88c9e037",
+    "decision": "reject",
+    "reason": "Vague corporate airline PR without concrete tourism details",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Oman Air–SalamAir codeshare put to work for Oman tourism - https://www.thetraveler.org/",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHdqLVhwcGp1LUhvT2x6d1k3amZBZFRBQy1sankwSG4tOV9wWDRNNzd2MVB1c3laSFoySm96LTIzUUNDYXNXWUhYYnhlNVJMc1R0ZDU3QXpscUw0a2NBNnRMUUlCdENJOGhxUUFkWFZTYW9BUFJQVElWWUNaYy1MdkNQbnVERjF0QzhWaFNR?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "ae24bb17",
+    "decision": "reject",
+    "reason": "Partnership with Cairo festival; activity outside GCC",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Red Sea Film Foundation and Cairo International Film Festival announce partnership - Arab News",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMHkyOElDN3pPZ19FUG04NkZiRF9JMnFydDlUczlEeXpuNEMtMWtOQkVkTlJITUtFNVQzV0x0UHo4OTRZNUhFeFo0ZC10MGNjNHYxWnp5WS1ib1BfYUxwWVJEYlZKN2liVlcyT2xJb3FZZUFBNUQzQmRCTmtDTk0td01OY0pnakR0ekViQVd0dXNxT05FYVQwQjZVNkxqeHR5VGVjZW1obUpWc3lDeU5aQ29ZYnZaZFB1bjE0MUJhakpzZnM?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "45d50ffe",
+    "decision": "approve",
+    "reason": "Riyadh Season zoo return, positive entertainment and family news",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "حديقة الحيوان تعود من جديد ضمن فعاليات موسم الرياض",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTFLRVVHNlN0akJIVm1yZUpCRGVPLUxCQTBmRm52LVF1NnVGNFd4VEFoOTUzZW9ldFZ5d2pMZHgxUnFPdjlRam1NaGFLaDI4Mm03NkRMYkZqLXNjNUpaVWpVRmhGV19KM09rU1BZbnFXb0lWQnppZ1JjeDltRnhPczBOWHJ1NURCamVrQ2s0c1hzaGpTZWU1YUZ0a2xRRUFzQkpmODFVUm9YQkJ3dVJmTEJnNGpSRGlJY0M0?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "حديقة الحيوان",
+    "angle": "حديقة الحيوان ترجع ضمن موسم الرياض.. وين تبي تكون الويكند؟"
+  },
+  {
+    "id": "e15b5532",
+    "decision": "reject",
+    "reason": "Duplicate partnership story; activity outside GCC",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Saudi Arabia’s Red Sea Film Festival Forges ‘Strategic’ Partnership With Cairo Film Festival - Variety",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSnRiSkptTXZ3bzE2bElCZ3l6ODEtbkY5NmFHSE1fWFc3MGdkeHpSUHpDcWEyVXVYNm1FOFp6OEdYQ1c2SWRETll0Q2xDemtPUjAwMTNXYmhKbkpjbmMtdHFsVHl6SWR0b1JzV3JUREZ0RjFnMU43aGhDRW9MX3JxNnZkSzc5MFFLZkxCRGZIb2xRWlc5ZmswYlFfcjBVX1pET3VaZw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "98dcde18",
+    "decision": "approve",
+    "reason": "Concert night announced within Riyadh Season, event news",
+    "category": "event",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "خالد عبد الرحمن يقدم \"ليلة خالديات\" ضمن فعاليات موسم الرياض",
+        "source_url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQTml3ZzlnajFPdDNuT3Q3dGg4cy1NT3FZeDVjMUNwdXRhZUZwekU4Ry1uNWpZbVdQX2ZjeF91THFQQ3ZySUxUWmJwZ0pvUzFnRlR3WWsyUnU2V3JYLWhxMmZTNXlzOTgyLUM3VmpYOEc1d01rM0R0c2pmTG1ySzZfblhCUE5lTTdDdzJZQ0hQTXJmODVWbkZrUFlxelFwUWNaVlp4aWc0dkItZ1JYY3ZlZ0hjUmo2MktqVmNwVDlSd015ZlBvR1c0a0NaZndoSDdaa3hKZkw0Vi1oc2t1OERMQlVRZ2lNamFSaEJEcEptOUtBU1RKa0dxX244cXp4cnVkUkJOS1Fib0pSYWtkOUFRWXEtTEd5Nm5LWlhseHJsWlM2OFYxSjl0Slo0RXFCMUdGMHVXSk11Y3N1YzItbE5LdFpQSlRkQkktc3ZVZzBadDdzWk95YkRYUzVDSTFNaFQzV1FzZkhqTDQtVWxyb2pUaWk1WjVaemlaLTJLOFI4UFlGSGwwZThhakRuY1FhR2RHT0NHQm1WSWFwc3RJM3JIZ0tMVjB4SUdMcWt3ckJxS2JJbWN2c3F4akNHSEhRbmRydmdUYnVIRVFRVkRFMXl3QVVfUHFsOFFFZnl5dFVTQ0hqNmdYLWc0NkFJMGQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "ليلة خالديات في موسم الرياض.. التفاصيل بالبايو"
+  }
+]

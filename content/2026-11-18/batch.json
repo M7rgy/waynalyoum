@@ -1,0 +1,442 @@
+{
+  "date": "2026-11-18",
+  "posts": [
+    {
+      "post_id": "D21-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "cityscape-bahrain-november-2026",
+      "title_internal": "Cityscape Bahrain November property show",
+      "hook": "عقارات جديدة بنوفمبر؟ 🏙️",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "عقارات جديدة بنوفمبر؟ 🏙️\nالبحرين فيها معرض لك",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "modern Manama skyline with glass towers and the sea, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "«سيتي سكيب البحرين» يعرض أحدث المشاريع والفرص العقارية خلال نوفمبر\nتبي تزوره؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: تزور المعرض؟ (إيه / بعدين)",
+          "visual_prompt": "architectural scale model of a residential development seen from above, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, deep sea blue, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "modern Manama skyline with glass towers and the sea, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Manama skyline sunset",
+        "real estate architectural model",
+        "Bahrain modern towers"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiygJBVV95cUxPLVMyYXZQY2FEQkFBWGFld3h4NXdhcklnSE5VM3JnSTVhZXVaYTRTYjRvYVpBY0xENHRsWjFraXMtdjhzMG5oM0FCUUJTZURMNVpYSDZKalRUYktoRHltZmZ6VEFWRXQtekJhYXdHTGNGWHUtT0s4OHdTMUhZQmZNV0Nyd09oSVQ3WXZ2N3hoaXpXNVZVamZtUmRQRjVXMEc4Yjg2NTN3RWtYOEJsVTEtTi1Ed0l1djhHcmpFbWs2eF9nN1pBYi11TTdNQzFxRlJDS1doYzg2LWlxR2Z3OEtyWURHM0dLclRIZ1NCb1B2MmIwMjMta2ZuTVdJUjF4bTE5ZW9jUHlMSjdmY29RLW42T0pyQmE3U3NTTnVveHYwS1FDSGhHME56endGcVgxbEgtcGFBQ01QaG1vQkxEd1FhNEEyZF9pOFNheVE?oc=5"
+      ]
+    },
+    {
+      "post_id": "D21-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "doha-film-festival-the-station-2026",
+      "title_internal": "Doha Film Festival opens 19 November",
+      "hook": "مهرجان الدوحة للأفلام يفتح 19 نوفمبر 🎬",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "الدوحة، قطر 🎬\nمهرجان الدوحة للأفلام يفتح 19 نوفمبر",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "empty cinema hall with red seats and a glowing screen, Doha Qatar, evening, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "الافتتاح بفيلم «The Station» للمخرجة Sara Ishaq\nتحب أفلام المهرجانات؟ التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: فيلم ولا مسلسل؟",
+          "visual_prompt": "vintage film reel and clapperboard on a wooden table, soft warm light, cinematic, photorealistic, 35mm, sunset coral, sand gold, pearl white, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#الخليج",
+        "#قطر"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "empty cinema hall with red seats and a glowing screen, Doha Qatar, evening, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "cinema hall empty seats",
+        "film reel close up",
+        "Doha skyline evening"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzA1Y1p3WmhnVE5OelAwSTZQcU9JRTBNZTZQVmJfMlZ4Zzg0VXFfaTRoWlVKc1M2dHFDSHM5OE94SjZaUVpzTWlhOUtTMHJhU2lIMXFSeVpRZXNTX1AwdnpEa3YyX0tmUl8tc1pYSVVWajdDZWVJc3dYV0ZXalUxQ2pGVV9OalotUjAxa0pEUWlrbU5FNE9PRG85eWRXN09hV0RkRkNEVzVfWnJGNTBUbQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D21-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "arabian-jewellery-perfumes-2026",
+      "title_internal": "Arabian Jewellery & Perfumes Exhibition 2026",
+      "hook": "جواهر وعطور تحت سقف واحد ✨",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "جواهر وعطور تحت سقف واحد ✨",
+          "body": "5 أيام في البحرين... شنو الموعد؟",
+          "visual_prompt": "elegant gold jewellery and Arabian perfume bottles on pearl white silk, Bahrain, warm soft light, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "24–28 نوفمبر",
+          "body": "«معرض الجواهر العربية والعطور العربية 2026» يُقام خلال هالفترة.",
+          "visual_prompt": "calendar page style composition with gold jewellery pieces, warm light, Bahrain, cinematic, photorealistic, 35mm, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "المكان: Exhibition World Bahrain",
+          "body": "المعرض يُقام في Exhibition World Bahrain.",
+          "visual_prompt": "large modern exhibition hall interior with soft lights and empty walkways, Bahrain, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "جواهر عربية",
+          "body": "جولة بين قطع الجواهر العربية تحت سقف واحد.",
+          "visual_prompt": "close-up of ornate Arabian gold necklace on dark velvet, warm light, cinematic, photorealistic, 35mm, sand gold, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "تجربة سلسة وذكية",
+          "body": "المعرض يقدم للزوار تجربة ذكية وسلسة في Exhibition World Bahrain.",
+          "visual_prompt": "oud incense smoke curling beside a glass perfume bottle, Bahrain, warm golden light, cinematic, photorealistic, 35mm, sand gold, sunset coral, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ الموعد وشاركه ربعك",
+          "body": "تذاكر وتفاصيل الدخول: التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "Bahrain skyline at golden hour with turquoise water, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "جواهر وعطور تحت سقف واحد ✨\n«معرض الجواهر العربية والعطور العربية 2026»\n24–28 نوفمبر\nExhibition World Bahrain\nتجربة ذكية وسلسة للزوار\nالتذاكر والتفاصيل في الرابط بالبايو\nاحفظ المنشور وشاركه مع ربعك\n#وين_اليوم #البحرين #فعاليات_البحرين #الخليج #ويكند",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#الخليج",
+        "#ويكند"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "elegant gold jewellery and Arabian perfume bottles on pearl white silk, Bahrain, warm soft light, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, sunset coral, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "gold jewelry close up",
+        "arabic perfume oud bottles",
+        "exhibition hall interior"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yLWVYRVVvdmhVWjk3d2dpaW1RZFVXcm1rN211QmlUcm5VWUdRYl9ZUkxGVmgzTVU3eks2b2c0X09fdENmMTNfLUE0SUp3ejhDeHo4?oc=5"
+      ]
+    },
+    {
+      "post_id": "D21-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "kuwait-book-fair-49-qatar-guest",
+      "title_internal": "Kuwait Book Fair 49th edition, Qatar guest",
+      "hook": "الكويت: معرض الكتاب بدأ 📚",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "الكويت: معرض الكتاب بدأ 📚",
+          "body": "الدورة 49... ومن ضيف الشرف؟",
+          "visual_prompt": "rows of colorful books on wooden shelves in a bright hall, Kuwait, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "الدورة 49",
+          "body": "انطلقت فعاليات الدورة 49 من معرض الكويت الدولي للكتاب.",
+          "visual_prompt": "open book with pages fanned out on a table, warm light, Kuwait, cinematic, photorealistic, 35mm, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "قطر ضيف الشرف",
+          "body": "دولة قطر ضيف شرف معرض الكويت الدولي للكتاب هذا العام.",
+          "visual_prompt": "Arabic calligraphy pen and ink beside old books, warm golden light, cinematic, photorealistic, 35mm, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "شنو تقرا أول؟",
+          "body": "عشاق الكتب في الكويت: الدورة الجديدة بانتظارك.",
+          "visual_prompt": "stack of books beside a cup of Arabic coffee, cozy warm light, Kuwait, cinematic, photorealistic, 35mm, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "المواعيد والأسعار؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "Kuwait City skyline at sunset with the sea, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ وشارك ربعك القراء",
+          "body": "تابع وين اليوم لأخبار الخليج الحلوة.",
+          "visual_prompt": "hands holding an open book against warm sunset light, Kuwait, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "الكويت: معرض الكتاب بدأ 📚\nانطلقت الدورة 49 من معرض الكويت الدولي للكتاب\nودولة قطر ضيف الشرف هذا العام\nشنو أول كتاب بتشتريه؟\nالتفاصيل في الرابط بالبايو\nاحفظ وشارك ربعك القراء\n#وين_اليوم #البحرين #الكويت #قطر #الخليج",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الكويت",
+        "#قطر",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "rows of colorful books on wooden shelves in a bright hall, Kuwait, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "book fair shelves",
+        "Kuwait City skyline",
+        "open book pages close up"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMizAJBVV95cUxQM2dLaXNMSDF3UTdfdE1SeDZQTUxiaEgxUTktcUpwTEhaUVQybkYwTHY5dGdJVmUxTGJNbnlFWXpVWXU5c1ZDV0xqVmJOZkI4NWtwVmJra2dKZGFVLUxlU1J5YmxBdkVzTGVzNXNWLVoxMGpGLTR0Q0NRMl9wX2RpdDNOOUg1LUNzcXVkMmxXTTBON3dGbHY5T2Z0MlVMNElwZVRES0sxXzFGTzNvY2NacG9GdW5oNl9ibWJUbXVUNzlJREVDVFgtdm9saUIxRHZYRXdkTWEwc2lteGdyemR3a3VDZk94RUJHZHAwU2MzY1VmOFNKLWItQzRkb1B3NHliemo4OEt5eExTVWE3b0xWQndLdldIblJvWmsxc0x0NW1tcTVvX3Y3MUpYMmF2em9zd1dsRmpuTDNJOUFxNDZscFJtM1lIWk1UaEZ3Vw?oc=5"
+      ]
+    },
+    {
+      "post_id": "D21-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "bahrain-japan-group-a-afc",
+      "title_internal": "Bahrain vs Japan Group A result",
+      "hook": "البحرين × اليابان: التشجيع ما يوقف 💙",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "البحرين × اليابان | المجموعة A\nاليابان فازت 8-3 حسب AFC",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "empty sports arena court under bright lights, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "منتخبنا يكمل المشوار والتشجيع ما يوقف 💙\nمن نجمك في المباراة؟",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Quiz/Poll: شلون تقيّم المباراة؟",
+          "visual_prompt": "crowd silhouettes from behind waving flags in an arena, out of focus, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "empty sports arena court under bright lights, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "sports arena empty lights",
+        "fans waving flags silhouette",
+        "indoor court evening"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGJkODI2Nld3SGhhVTJyU2RlLXJvdi1OUEQwaWlKbHc4ejRXVlZVX3lQLXJsRDY1Yno2MXdaQUR2LThSa09BLVhKRnNQWEQzeE1lVXRidXBVTENvNmNlOUtVZmd6a01vZTN6NzNGN2xUSm1xTDV3YXFYbHd5X3pvWnhNRjRyQXdxM2tYOVpIV3dDWk51VWUtMTA1ZDZVb1U?oc=5"
+      ]
+    },
+    {
+      "post_id": "D21-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "noor-alsubaie-phd-uob",
+      "title_internal": "Noor Al Subaie earns PhD distinction",
+      "hook": "نور السبيعي صارت دكتورة 🎓",
+      "script": [
+        {
+          "t": "0-5s",
+          "on_screen": "نور السبيعي صارت دكتورة 🎓",
+          "vo": "فخر جديد من البحرين! نور السبيعي صارت دكتورة.",
+          "visual": "graduation cap tossed in the air, silhouette from behind against a golden hour sky, Bahrain, slow motion"
+        },
+        {
+          "t": "5-11s",
+          "on_screen": "دكتوراه في تحليلات الأعمال\nجامعة البحرين",
+          "vo": "حصلت على الدكتوراه في تحليلات الأعمال من جامعة البحرين.",
+          "visual": "university building exterior in warm light, wide shot, no faces, Bahrain"
+        },
+        {
+          "t": "11-17s",
+          "on_screen": "بتميّز ✨",
+          "vo": "وبتميّز كمان.",
+          "visual": "close-up of hands holding a rolled certificate with a ribbon, shallow depth of field"
+        },
+        {
+          "t": "17-24s",
+          "on_screen": "فخر لكل شاب يطارد حلمه",
+          "vo": "قصة تلهم كل شاب وشابة يطاردون أحلامهم.",
+          "visual": "silhouette from behind walking toward the sea at sunset, Bahrain corniche"
+        },
+        {
+          "t": "24-30s",
+          "on_screen": "هنّيها وشارك المنشور 👏\nتابع وين اليوم",
+          "vo": "هنّوها بالتعليقات، وتابعونا لكل جديد!",
+          "visual": "Bahrain skyline at golden hour with turquoise water, slow push-in"
+        }
+      ],
+      "slides": [],
+      "frames": [],
+      "caption_instagram": "نور السبيعي صارت دكتورة 🎓\nحصلت على الدكتوراه في تحليلات الأعمال بتميّز من جامعة البحرين\nفخر لكل شاب بحريني يطارد حلمه\nمبروك دكتورة نور 👏\nشارك المنشور وهنّيها بالتعليقات\n#وين_اليوم #البحرين #إيجابية_البحرين #ريادة_اعمال #Bahrain",
+      "caption_tiktok": "نور السبيعي صارت دكتورة 🎓 دكتوراه في تحليلات الأعمال بتميّز من جامعة البحرين. مبروك! #وين_اليوم #البحرين #إيجابية_البحرين",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#إيجابية_البحرين",
+        "#ريادة_اعمال",
+        "#Bahrain"
+      ],
+      "audio_suggestion": "uplifting khaleeji pop instrumental with soft percussion",
+      "visual_prompts": [
+        "graduation cap thrown in the air, silhouette from behind, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16",
+        "university building exterior, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, pearl white, palm green, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "graduation cap toss silhouette",
+        "university campus golden hour",
+        "hands holding diploma"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNbVlXbmdWZnI0N1VqMXZOeDgxYlU0VnZHdG14OXRCclRpTFR3SGliRnJ2WGZjTERaSDRySW1NUzJXZENRNklaZ1lDeEZhdFhoQkVVRzZIUG1vZTRSYm1EVlZsN3NqZVdzaWNZNm5IVm4wMkYyNmtINnFySW1zQXliQmVjeTFpWTgyUENqX0d1VFBqUnUzRGNwSFFGX29VcXQ2WG02RER2RzdmTjRnRDNlQVcta2xGbERRbmV0RFFsOGhxbG9OYndJMnU5bGFoeEZzUVdGUEVJWk1CR2hCcHpRQlVrVFllYXhVTmlUZktFNnNTRFN5bm9BNXJWeTNHUW9BNlBTTGFtNGhYR29GcGFOWlVGN1c4R192Sk1UYkdoSEdyeHc3Nkhrci1ITHJ3MXZQVFpZdlZicGM2RFd1ckdGMW80emVKVXRjdnhEdjl5UXNIX2p2WjZ1djV1VDJjSHd2bnlaS1NOVHJNQWlLZ2NmT3p1Y00tbF9HeUZzTEY5Ty1xc3Vlel9GQi03RHZzMjF2VzNWMnNWcURDT0RMT0dqUVBZdlNTUlEzb3Y4WnR2aEthVGdlTWt3akRKTXpSbVh3YXo2VE85QktETm83Rk12bE5DTUdLSGszS3hGZzVvTUpvVEN6VThqNk1JQ1A2alNUNWdoeVdrcElXY19FWFluTXRXUi1rTE9kNm5RcnVpVFR2UUtER1E4V0drdkNVN0o5NFdxVS1RVzZHUHdCVmtyOXZxSWV1X00zejREMWtPNHhaZWRXMlBpTFROeEJJb3FlR0V4ZlhCdHRmYUxaTVpCeDhEZHTSAVRBVV95cUxQR2xjNzlXbTdzTEtUS09JYnZkUTE3ZHRBTVdjVkJKX3NEVkRXWDJLZ0dpSmxmeGVCOGRwV1lmUmxleFVhUWktRlU1Yk1Ud3lpbWYwT2c?oc=5"
+      ]
+    },
+    {
+      "post_id": "D21-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "riyadh-season-zoo-khalidiyat",
+      "title_internal": "Riyadh Season zoo returns, Khalidiyat night",
+      "hook": "الرياض: الحديقة ترجع بموسم الرياض 🦁",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "الرياض، السعودية 🦁\nحديقة الحيوان ترجع ضمن «موسم الرياض»",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "zoo entrance garden path with palm trees at golden hour, Riyadh Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, palm green, sand gold, sunset coral, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "و«ليلة خالديات» مع خالد عبد الرحمن ضمن «موسم الرياض» 🎶\nوين تبي تكون الويكند؟",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: الحديقة 🦁 / الحفلة 🎶",
+          "visual_prompt": "concert stage lights and out of focus crowd silhouettes from behind, Riyadh, night, cinematic, photorealistic, 35mm, warm light, sunset coral, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#السعودية",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "zoo entrance garden path with palm trees at golden hour, Riyadh Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, palm green, sand gold, sunset coral, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "zoo garden path palm trees",
+        "concert stage lights crowd silhouette",
+        "Riyadh skyline night"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTFLRVVHNlN0akJIVm1yZUpCRGVPLUxCQTBmRm52LVF1NnVGNFd4VEFoOTUzZW9ldFZ5d2pMZHgxUnFPdjlRam1NaGFLaDI4Mm03NkRMYkZqLXNjNUpaVWpVRmhGV19KM09rU1BZbnFXb0lWQnppZ1JjeDltRnhPczBOWHJ1NURCamVrQ2s0c1hzaGpTZWU1YUZ0a2xRRUFzQkpmODFVUm9YQkJ3dVJmTEJnNGpSRGlJY0M0?oc=5",
+        "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQTml3ZzlnajFPdDNuT3Q3dGg4cy1NT3FZeDVjMUNwdXRhZUZwekU4Ry1uNWpZbVdQX2ZjeF91THFQQ3ZySUxUWmJwZ0pvUzFnRlR3WWsyUnU2V3JYLWhxMmZTNXlzOTgyLUM3VmpYOEc1d01rM0R0c2pmTG1ySzZfblhCUE5lTTdDdzJZQ0hQTXJmODVWbkZrUFlxelFwUWNaVlp4aWc0dkItZ1JYY3ZlZ0hjUmo2MktqVmNwVDlSd015ZlBvR1c0a0NaZndoSDdaa3hKZkw0Vi1oc2t1OERMQlVRZ2lNamFSaEJEcEptOUtBU1RKa0dxX244cXp4cnVkUkJOS1Fib0pSYWtkOUFRWXEtTEd5Nm5LWlhseHJsWlM2OFYxSjl0Slo0RXFCMUdGMHVXSk11Y3N1YzItbE5LdFpQSlRkQkktc3ZVZzBadDdzWk95YkRYUzVDSTFNaFQzV1FzZkhqTDQtVWxyb2pUaWk1WjVaemlaLTJLOFI4UFlGSGwwZThhakRuY1FhR2RHT0NHQm1WSWFwc3RJM3JIZ0tMVjB4SUdMcWt3ckJxS2JJbWN2c3F4akNHSEhRbmRydmdUYnVIRVFRVkRFMXl3QVVfUHFsOFFFZnl5dFVTQ0hqNmdYLWc0NkFJMGQ?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "weekend guide (Thu–Sat events) (applies to the Bahrain posts)",
+  "held_topics": []
+}
