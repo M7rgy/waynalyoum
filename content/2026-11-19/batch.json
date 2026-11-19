@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-19",
+  "posts": [
+    {
+      "post_id": "D22-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "dilmun-jidhafs-heritage",
+      "title_internal": "Dilmun civilization spotlight in Jidhafs",
+      "hook": "دلمون تحكي تاريخ البحرين 🏺",
+      "frames": [
+        {
+          "n": 1,
+          "text": "دلمون تحكي تاريخ البحرين 🏺\nحضارة دلمون القديمة كانت محور فعالية في جدحفص",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "Ancient Dilmun-style carved stone and clay textures with soft warm light, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "تاريخ البحرين أقدم مما تتوقع\nأي موقع تراثي زرته في البحرين؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: زرت موقع تراثي هذا السنة؟ (إي / لسه)",
+          "visual_prompt": "Weathered heritage stone wall with long soft shadows, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white palette, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#تراث_البحرين",
+        "#سياحة_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Ancient Dilmun-style carved stone and clay textures with soft warm light, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue palette, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "ancient stone ruins Bahrain",
+        "archaeological site golden hour",
+        "heritage pottery close up"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQREpPb0FVUTJ3SF9ucFloZmhtY3pOTWpCbWpYVFlaeUUyVUQyYXdQM09GQ3k3QnlvbzJlYkFPRENxbFVSVk1rdEVIaVc3WnVJdDc2bHFwdEgtSWRZdlhobGFCQTYtWjlSdHlYYVNIUEV4ZWdFNDdiNHY5U1JWbmVPMnVFejRuZGxwS1dIcmgzb3NqWnRpRHhpa3dhZ1U4Szc2Wnc?oc=5"
+      ]
+    },
+    {
+      "post_id": "D22-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "katara-childrens-festival-2026-11-19",
+      "title_internal": "Katara Children's Festival starts in Qatar",
+      "hook": "مهرجان الأطفال في كتارا – قطر 🎈",
+      "frames": [
+        {
+          "n": 1,
+          "text": "مهرجان الأطفال في كتارا – قطر 🎈\nينطلق اليوم 19 نوفمبر",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "Colorful balloons and festival decorations seen from behind, out-of-focus crowd, Qatar, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and sand gold palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "عيالكم وين يروحون اليوم؟\nكتارا – قطر\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: تاخذون العيال هالويكند؟ (إي / لا)",
+          "visual_prompt": "Children's small hands holding colorful paper pinwheels, Qatar, warm afternoon light, cinematic, photorealistic, 35mm, warm golden light, sunset coral and turquoise palette, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#قطر",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Colorful balloons and festival decorations seen from behind, out-of-focus crowd, Qatar, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and sand gold palette, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "children festival balloons",
+        "family festival outdoor evening",
+        "kids pinwheels close up"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVTF1dUs2QWpzUEJ4c0hJeWFqUXdnc2xPVld4bUFFcThQa0cxcEpnUC0xdEJzMm44a0RKdUtLWTBfRXdJeFg5bHAzSlY0ZmlwcG9DVU45N05wbEJqeDA1QUtENlBrS2VVdGtyQzdEZm4wV2Y1T0FnQkJCVW9nQnlqbXFvZE8tWExDcDZzVHZNRVR1MHMyN2thRQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D22-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "arabian-jewels-italian-pavilion-debut",
+      "title_internal": "Italian pavilion debuts at Arabian Jewels",
+      "hook": "جناح إيطالي لأول مرة بـ«الجواهر العربية» 💎",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "جناح جديد في «الجواهر العربية» 💎",
+          "body": "من وين جاء؟ كمّل السلايدات",
+          "visual_prompt": "Elegant gold jewellery pieces on pearl white display with soft bokeh, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "جناح إيطالي",
+          "body": "ظهر جناح إيطالي في «الجواهر العربية».",
+          "visual_prompt": "Minimal showcase pavilion with warm spotlights and gold accents, out-of-focus visitors, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "لأول مرة",
+          "body": "هذا أول ظهور للجناح الإيطالي في «الجواهر العربية».",
+          "visual_prompt": "Single gold necklace on dark velvet with warm side light, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "حرفية الصياغة",
+          "body": "الجناح يعرض حرفية صياغة المجوهرات.",
+          "visual_prompt": "Jeweller's hands shaping gold with fine tools, close up on hands only, Bahrain, warm workshop light, cinematic, photorealistic, 35mm, warm golden light, sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "والتصميم كمان",
+          "body": "ويبرز التصميم أيضاً. التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "Delicate gold earrings and rings arranged in a pattern, Bahrain, soft morning light, cinematic, photorealistic, 35mm, warm golden light, pearl white and sunset coral palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ المنشور 📌",
+          "body": "وشارك ربعك اللي يحبون الجواهر",
+          "visual_prompt": "Soft glow of gold on pearl white fabric, abstract, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white palette, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "جناح إيطالي لأول مرة في «الجواهر العربية» 💎\nيعرض حرفية صياغة المجوهرات والتصميم.\nلا يفوتك، يستاهل المتابعة.\nالتفاصيل في الرابط بالبايو.\nاحفظ المنشور وشاركه مع ربعك 📌",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Elegant gold jewellery pieces on pearl white display with soft bokeh, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white palette, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "gold jewellery display",
+        "jeweller hands crafting gold",
+        "luxury jewelry showcase"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwQURnMDFmOFJNRExmRjh5em5uVlNpemJpcml2VUVqY3R3eFMtZzR4M3NndEJhSFhtM0RLYjI5ak1uVzRqUV9OS3lfQ25pWEF3dVlRWUN6QWVHOVlUSXVFNGM2dw?oc=5"
+      ]
+    },
+    {
+      "post_id": "D22-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "abu-dhabi-accessible-tourism-250-sites",
+      "title_internal": "Abu Dhabi accessible tourism 250 sites",
+      "hook": "أبوظبي: 250 موقع للجميع",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "أبوظبي تفتح أبوابها للجميع",
+          "body": "كم موقع تم تقييمه؟ الجواب في السلايد الجاي",
+          "visual_prompt": "Abu Dhabi waterfront promenade with a wide smooth walkway, UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white and turquoise palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "250 موقع",
+          "body": "أبوظبي وسّعت مبادرة السياحة الميسّرة بتقييم 250 موقع.",
+          "visual_prompt": "Abu Dhabi modern skyline across calm water at sunset, UAE, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "شنو يعني سياحة ميسّرة؟",
+          "body": "يعني وجهات تناسب كل الزوار.",
+          "visual_prompt": "Wheelchair-friendly ramp and smooth pathway in a tourist area, shot from behind, Abu Dhabi, UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "المبادرة توسّعت",
+          "body": "التوسّع شمل تقييم 250 موقع في أبوظبي.",
+          "visual_prompt": "Aerial view of Abu Dhabi coastline and green parks, UAE, late afternoon, cinematic, photorealistic, 35mm, warm golden light, turquoise and palm green palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "تبي تعرف المواقع؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "Hand holding a phone map blurred in the background, Abu Dhabi street, UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ وشارك 📌",
+          "body": "شارك ربعك اللي يخططون لرحلة أبوظبي",
+          "visual_prompt": "Warm sunset glow over Abu Dhabi water with soft reflections, UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue palette, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "أبوظبي تفتح أبوابها للجميع 🇦🇪\nوسّعت مبادرة السياحة الميسّرة بتقييم 250 موقع.\nيعني وجهات تناسب كل الزوار.\nالتفاصيل في الرابط بالبايو.\nاحفظ المنشور وشاركه مع ربعك 📌",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الامارات",
+        "#الخليج",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Abu Dhabi waterfront promenade with a wide smooth walkway, UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white and turquoise palette, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Abu Dhabi corniche sunset",
+        "accessible tourism ramp",
+        "Abu Dhabi skyline aerial"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oUnZSMC10MktUVE1xQjF6cEpnWW84SmMzVDE0S29LM0VWb3JwSzFvQUp5aFo1Uy1iNGlBbVpja1AzOTVYeFBfMUFaTmoydEZPaXVz?oc=5"
+      ]
+    },
+    {
+      "post_id": "D22-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "radisson-blu-bahrain-strongest-brands-me",
+      "title_internal": "Radisson Blu Bahrain strongest brands list",
+      "hook": "فنادق Radisson Blu تدخل قائمة الأقوى",
+      "frames": [
+        {
+          "n": 1,
+          "text": "فنادق Radisson Blu في البحرين 🏨\nتدخل قائمة أقوى العلامات في الشرق الأوسط",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "Modern Bahrain hotel facade at dusk with warm lit windows, no signage, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "الويكند قريب، وين تفضّل تقضيه؟\nجربت أحد فنادقها قبل؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: جربت Radisson Blu بالبحرين؟ (إي / لسه)",
+          "visual_prompt": "Hotel pool at golden hour with turquoise water and empty loungers, Bahrain, cinematic, photorealistic, 35mm, warm golden light, turquoise and pearl white palette, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#سياحة_البحرين",
+        "#ويكند"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Modern Bahrain hotel facade at dusk with warm lit windows, no signage, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral palette, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Bahrain hotel exterior dusk",
+        "hotel pool golden hour",
+        "Manama skyline evening"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQLW02RlIxamtFZTJjd2tSY0RzR1MxaF9CUnhhQ1RTU0RqZTYtRmJWNDZ0Sm9fQ3pZTmp2UG1ONmtaLWp6S09xUHdkU2tQZ05QNjVYallxVDFTX2JXaXhQSk5CbWdIVzNYcWhuUzh0bzVOUElNWGxnR1pIamtKVlRqUUIxZG9FdGtWa21UanFEeUFYYWFHNWp6endrS1BDSDMxZUNyTV9KMW55d1ZNRjhtVzU3bU5EYmFpSlA4WUpYSWZSc1daazF5OWw5UWlvUXN0ZVFWck1CX2hqeEJBUjZLeGdBaGJ0ZFNTbnZGR2hfaDVEMVB1RERWNGFyZkhKNEw3REdJTjcteFBwRmpjV09PbVlvQU1DV0YxTTNnMFkteGZlRXk2VFdGMTN6WU1xRWRnQ0hGLTB3U05nTmlfREpzaFMxZEtxYlBwY2ZXSVQ4Y0E2NVpuQ0RWR0dB?oc=5"
+      ]
+    },
+    {
+      "post_id": "D22-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "muharraq-nights-pearling-path-dec-2026",
+      "title_internal": "Muharraq Nights coming in December",
+      "hook": "ديسمبر في المحرق… جهّز نفسك ✨",
+      "script": [
+        {
+          "t": "0-4s",
+          "on_screen": "ديسمبر في المحرق ✨",
+          "vo": "وين نروح الويكند؟ خلّ ديسمبر في بالك… المحرق جاية بشي جديد!",
+          "visual": "Aerial drift over old Muharraq lanes and stone houses at golden hour, warm light"
+        },
+        {
+          "t": "4-10s",
+          "on_screen": "«ليالي المحرق» ديسمبر 2026\nديسمبر 2026 | طريق اللؤلؤ – المحرق",
+          "vo": "مهرجان «ليالي المحرق» على طريق اللؤلؤ في المحرق، ديسمبر 2026.",
+          "visual": "Slow push-in along a textured heritage stone passage with warm lantern-style lighting, no people faces"
+        },
+        {
+          "t": "10-16s",
+          "on_screen": "المهرجان مؤكد ✅\nما راح يتأجل",
+          "vo": "والخبر الحلو؟ المهرجان ما راح يتأجل.",
+          "visual": "Silhouettes from behind strolling in an out-of-focus old alley, dhow sail glimpse in the distance"
+        },
+        {
+          "t": "16-22s",
+          "on_screen": "التواريخ تنتظر الإعلان\nالتفاصيل بالبايو",
+          "vo": "التواريخ لسه تنتظر التأكيد، والتفاصيل في الرابط بالبايو.",
+          "visual": "Close-up of a hand tracing carved heritage stone, warm light, shallow depth of field"
+        },
+        {
+          "t": "22-28s",
+          "on_screen": "احفظ الفيديو 📌\nوشارك ربعك",
+          "vo": "احفظ الفيديو عشان ما يفوتك، وشارك ربعك!",
+          "visual": "Wide golden-hour shot of Muharraq waterfront with a dhow sail and turquoise water"
+        }
+      ],
+      "caption_instagram": "ديسمبر 2026 في المحرق ✨\nمهرجان «ليالي المحرق» على طريق اللؤلؤ.\nالمهرجان ما راح يتأجل.\nالتواريخ تنتظر الإعلان، والتفاصيل في الرابط بالبايو.\nلا يفوتك، احفظ المنشور وشاركه مع ربعك 📌",
+      "caption_tiktok": "ديسمبر 2026: «ليالي المحرق» على طريق اللؤلؤ ✨ المهرجان ما راح يتأجل. التفاصيل بالبايو 📌",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#تراث_البحرين",
+        "#ويكند"
+      ],
+      "audio_suggestion": "upbeat khaleeji percussion remix, warm and festive",
+      "visual_prompts": [
+        "Aerial view of old Muharraq stone lanes and houses, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white palette, no people faces, no text, no logos --ar 9:16",
+        "Heritage stone passage with warm lantern-style lighting, Bahrain, dusk, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral palette, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Muharraq old town Bahrain",
+        "traditional stone alley golden hour",
+        "dhow sail turquoise water",
+        "Bahrain heritage night lights"
+      ],
+      "sources": [
+        "https://www.bahrain-confidential.com/bahrain-events-2026-guide/",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT0hCR2JobTRneGZkLVh1R0s0UHF0V3YwRFJNVFI2Z2Zuci13N2hkOEZCVHZxOXhLVGJ1d0ZHYTZkUWlDYUNhWFcyekhjc0k3TS1hM2luNVF2a0lVMUVIR211bTRMTXpHSG1BUFpsbjlzTHJNWUgzcDhGZ1dyQjdKWFRR?oc=5"
+      ]
+    },
+    {
+      "post_id": "D22-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "kuwait-three-walls-gates-research",
+      "title_internal": "Kuwait's three historic walls documented",
+      "hook": "أسوار الكويت وأبوابها القديمة",
+      "frames": [
+        {
+          "n": 1,
+          "text": "أسوار الكويت الثلاثة وأبوابها القديمة 🏯\nباحثان وثّقاها في معرض الكتاب",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "Old sand-colored fortified wall and arched gate with warm dusk light, Kuwait, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue palette, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "تاريخ الكويت محفوظ بين الأسوار\nتعرف أي باب قديم بالكويت؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: تحب تعرف أكثر عن تاريخ الأسوار؟ (إي / لاحقاً)",
+          "visual_prompt": "Textured heritage stone gate detail with soft shadows, Kuwait, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white palette, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الكويت",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Old sand-colored fortified wall and arched gate with warm dusk light, Kuwait, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue palette, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "old city wall gate sand stone",
+        "Kuwait heritage architecture",
+        "arched stone gate sunset"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Zc1hJejBGZE1oYkNzdFpyeGNaazB3OGp4LU9kc3IzbWFPbS03cExsdlBnRTBPZ0JJZUNYdDJjQ29NOFRla0xNMlh3?oc=5"
+      ]
+    },
+    {
+      "post_id": "D22-08",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "22:30",
+      "topic_key": "paris-to-manama-fashion-days-2026",
+      "title_internal": "Paris to Manama fashion days launch",
+      "hook": "موضة باريس وصلت المنامة 👗",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "موضة باريس وصلت المنامة 👗",
+          "body": "شنو صاير بالبحرين؟ كمّل السلايدات",
+          "visual_prompt": "Elegant flowing fabrics in sunset coral and pearl white draped near a Manama skyline window, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and pearl white palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "اسم الفعاليات",
+          "body": "«أيام الموضة من باريس إلى المنامة 2026»",
+          "visual_prompt": "Fashion runway empty with soft spotlights, out-of-focus seats, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "انطلقت في البحرين",
+          "body": "فعاليات الموضة هذي انطلقت في البحرين.",
+          "visual_prompt": "Row of designer garments on a rack in warm light, Bahrain, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "من باريس إلى المنامة",
+          "body": "العنوان يجمع باريس والمنامة في قصة موضة وحدة.",
+          "visual_prompt": "Hands adjusting a silk scarf with Manama skyline blurred behind, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "التواريخ والتذاكر",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "Fabric swatches and sketches on a table, close up on hands only, Bahrain, warm light, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white palette, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ المنشور 📌",
+          "body": "وشارك ربعك محبّي الموضة",
+          "visual_prompt": "Soft folds of coral and gold fabric in golden light, abstract, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral and sand gold palette, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "موضة باريس وصلت المنامة 👗\nانطلقت في البحرين فعاليات «أيام الموضة من باريس إلى المنامة 2026».\nالتواريخ والتفاصيل في الرابط بالبايو.\nاحفظ المنشور وشاركه مع ربعك 📌",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Elegant flowing fabrics in sunset coral and pearl white draped near a Manama skyline window, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and pearl white palette, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "fashion runway empty spotlights",
+        "fabric draping golden light",
+        "Manama skyline evening"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaVBtLXhsQklUSWRiNmN4NkJwQl9UbERMczZ4UV9mT2tFb0ZUWDZJM1hUVzNMRjYzeWppeUhVX3BkczNHZWZmSElhSUs4THFGMlozUXV0UE9fZW9KTlE1YTBMTHpwTDB0aTEzT05WSGY5QQ?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "weekend guide + countdowns (applies to the Bahrain posts)",
+  "held_topics": []
+}

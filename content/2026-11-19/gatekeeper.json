@@ -1,0 +1,392 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "reject",
+    "reason": "Duplicate of Muharraq Nights item 24c91dc1.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival on the Pearling Path, December 2026 (dates TBC — check before posting)",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ]
+  },
+  {
+    "id": "630dbf16",
+    "decision": "reject",
+    "reason": "Government-linked road safety award; accident-adjacent topic, too doubtful.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Oman receives road safety award from International Road Federation in Geneva - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZktjRklrV2FIUllmM2pjT2F2LWJveFZHMTVpaEtlU1ptUkd3QjlWYnI5S3VmYUVPbDdoaXpnQlV5S3FNazc1MWxFQ3JGbS15N0FheW43UVVjS1RORmV4NjZfSVRyMVZqeEU5MDJRX3JXckg3TlI1OUp5Vnk4bllWb25pakt5S0FoVy0yZlN1bmxiTF9iOVFnV09ydTVmR3RjdnBFckxmRzJHT3kxSjFoVS01V2RabFdrNnc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "24c91dc1",
+    "decision": "approve",
+    "reason": "Festival confirmed going ahead, not postponed; dates still unannounced.",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival on the Pearling Path, December 2026; dates to be confirmed.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      },
+      {
+        "fact": "Muharraq Nights will not be postponed, according to News of Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT0hCR2JobTRneGZkLVh1R0s0UHF0V3YwRFJNVFI2Z2Zuci13N2hkOEZCVHZxOXhLVGJ1d0ZHYTZkUWlDYUNhWFcyekhjc0k3TS1hM2luNVF2a0lVMUVIR211bTRMTXpHSG1BUFpsbjlzTHJNWUgzcDhGZ1dyQjdKWFRR?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path, Muharraq",
+    "angle": "ليالي المحرق على طريق اللؤلؤ قادمة بديسمبر، والتفاصيل بالبايو"
+  },
+  {
+    "id": "7be6cb14",
+    "decision": "approve",
+    "reason": "Heritage showcase on Dilmun civilization; event name truncated in source.",
+    "category": "heritage",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bahrain's ancient Dilmun civilization was the focus at an event held at Jidhafs.",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQREpPb0FVUTJ3SF9ucFloZmhtY3pOTWpCbWpYVFlaeUUyVUQyYXdQM09GQ3k3QnlvbzJlYkFPRENxbFVSVk1rdEVIaVc3WnVJdDc2bHFwdEgtSWRZdlhobGFCQTYtWjlSdHlYYVNIUEV4ZWdFNDdiNHY5U1JWbmVPMnVFejRuZGxwS1dIcmgzb3NqWnRpRHhpa3dhZ1U4Szc2Wnc?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Jidhafs",
+    "angle": "دلمون في جدحفص: سالفة تاريخ البحرين تنحكى بالحاضر"
+  },
+  {
+    "id": "7ceec873",
+    "decision": "reject",
+    "reason": "Celebrity gossip and non-GCC UK festival.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Celebs: Harry Styles, Billie Eilish and Cher to headline UK's Glastonbury in 2027 - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUk9EdHZFNDh4UlQ5ME1tcnU5eWlYOHVuRkNWNVNUNjBKUndfRUZBbGlnbDBPZkxfekZvdEd1TVZtWEtKYTc0Y1ZZSy02MW1oQlhtYy1xaTZOYWw3RU9YU2tiUGZiMlVvcnB5d2JXdlRvSXl4U3Z1bjAxWXE4TG42bkV6LWNSYXRXZGhMbktXQVY1aFd3c21zMm5HaktBRDItLWZ2bHU3b1pob01iMU1NTnVzUHc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "241e4a5c",
+    "decision": "approve",
+    "reason": "Verifiable Bahrain hospitality achievement; tourism-positive hotel recognition.",
+    "category": "tourism",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Radisson Blu strengthens its Bahrain hotels and enters the list of strongest brands in the Middle East.",
+        "source_url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQLW02RlIxamtFZTJjd2tSY0RzR1MxaF9CUnhhQ1RTU0RqZTYtRmJWNDZ0Sm9fQ3pZTmp2UG1ONmtaLWp6S09xUHdkU2tQZ05QNjVYallxVDFTX2JXaXhQSk5CbWdIVzNYcWhuUzh0bzVOUElNWGxnR1pIamtKVlRqUUIxZG9FdGtWa21UanFEeUFYYWFHNWp6endrS1BDSDMxZUNyTV9KMW55d1ZNRjhtVzU3bU5EYmFpSlA4WUpYSWZSc1daazF5OWw5UWlvUXN0ZVFWck1CX2hqeEJBUjZLeGdBaGJ0ZFNTbnZGR2hfaDVEMVB1RERWNGFyZkhKNEw3REdJTjcteFBwRmpjV09PbVlvQU1DV0YxTTNnMFkteGZlRXk2VFdGMTN6WU1xRWRnQ0hGLTB3U05nTmlfREpzaFMxZEtxYlBwY2ZXSVQ4Y0E2NVpuQ0RWR0dB?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "فنادق البحرين تدخل قائمة الأقوى بالشرق الأوسط، وش رأيك تجرب؟"
+  },
+  {
+    "id": "773a5493",
+    "decision": "approve",
+    "reason": "Positive UAE accessible tourism expansion; 250 sites assessed.",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Abu Dhabi expands its accessible tourism drive with assessments of 250 sites.",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oUnZSMC10MktUVE1xQjF6cEpnWW84SmMzVDE0S29LM0VWb3JwSzFvQUp5aFo1Uy1iNGlBbVpja1AzOTVYeFBfMUFaTmoydEZPaXVz?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Abu Dhabi",
+    "angle": "أبوظبي تفتح أبوابها للجميع: 250 موقع جاهز لكل الزوار"
+  },
+  {
+    "id": "3c8f2114",
+    "decision": "reject",
+    "reason": "Location unverified; statement-led, no event details.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "FIA PRESIDENT SAYS ARRIVE AND DRIVE WORLD CUP WILL GIVE KARTING A BIGGER GLOBAL BOOST BY REDUCING BARRIERS - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSXZhOGVxaG5pSmVPbFd6aUZnb1g4cVZzTXgtQWhNWWxMY1Z5UXg4R3IyZ2JwVDhta2pnUUtpRkZmOXlEWVZvTmNUNWVReHNvUklaS054TFNpNFFXMTkwSVlpZlpzTFBNQnlJQTR3XzBiTXgzX3Rjb0xXaHQ2MjRIcTMzWnpsUkdzVzVGcTY2QV8wNEpjaGRxQVFPVnZQNndtaURFWEtjV3NaT2hPMzRIaldobzRuSS03cURockU5NjdKU3RhSzQ1N0YyYy1ubGJleURqXzhIdGVEdTFwYmRpOQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "32cbeddd",
+    "decision": "approve",
+    "reason": "Heritage research collaboration on ancient Gulf ties; cultural, not diplomatic framing.",
+    "category": "heritage",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "Bahrain and UAE join forces to uncover ancient Gulf ties.",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdXUzckhRbTA4VkxKcUItSzE1RVJUNjI1NlFtRVgyWjhQUFZnNDVaMl9zZ1hJQXFKOEhDczFXZndfWkh0UUk5NTRtV3Fmc2FBeVV3bXhVOHlsOUR5Ry0zV0pscF9aR0Mzc1pnMGl0d1ItbmNpNUF0YkpON2xRQ3V5WEc4ZlZ3S24tMGx2VmJlSTFBZWZFdHc1akxtMlMyUQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "البحرين والإمارات يكشفون روابط الخليج القديمة، سالفة تاريخ مشتركة"
+  },
+  {
+    "id": "64cc9603",
+    "decision": "reject",
+    "reason": "Out of scope: Las Vegas, not GCC.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Las Vegas lights up for F1 night race - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2J1TVdkUHU4RlJXUXJuc2R3Z1M4SGt6Xy1vdm9FeFBScHdKTXZVQWFVa3J0TWU4QUo0ZFlXR0d3aTZDQWhCMGpRMHl1M3BPN21tSVFLWU5XQUl5XzNIUmtQZmVVMmFwdUVTcU02NlgwNm8tYXFIQ3NTOW04bG9wUzRmX18?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "987c1bc1",
+    "decision": "reject",
+    "reason": "Not Bahrain or GCC; Palestine-focused, sensitive topic",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Palestinian artisans revive endangered traditional crafts - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFhLV3hMWG1UelFBUzdobllueVQyUFJZaEpXWUdSc2xrYWpOQlczbW1QVVoxanN5d1U2QmxEaWRJX3d0NGZtVzZLM1l0NmxJUDZGZGp5UktjRUJSOFhDemtyRXdKRzNRWUQtTVRGcWlaZjRCMkhtN09mMEpOUHNvX1cwS2ZsOEhSN25iZXJxeVcyWVI0UnBoZEVBRTVtUXM?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "828037b8",
+    "decision": "approve",
+    "reason": "Cultural fashion event in Bahrain; embassy name stripped",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "Fashion events titled «أيام الموضة من باريس إلى المنامة 2026» launched in Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaVBtLXhsQklUSWRiNmN4NkJwQl9UbERMczZ4UV9mT2tFb0ZUWDZJM1hUVzNMRjYzeWppeUhVX3BkczNHZWZmSElhSUs4THFGMlozUXV0UE9fZW9KTlE1YTBZTHpwTDB0aTEzT05WSGY5QQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "موضة باريسية في المنامة هذا العام؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "8f122896",
+    "decision": "reject",
+    "reason": "Vague industry trend piece, no concrete event",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "KSA Business: Tourism faces shift towards high-value experiences, smarter travel: TOURISE - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aVkdQTmxzQXE5a0gzRUVIbkl5Zk54cFJUTEJ1WW1la3NtZDFUMkJ4Z3pac3BrRXlwMVRBaEEybzJtUlZyV3FDSVAzWERnNFEyeVk0?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "fd5ae95f",
+    "decision": "reject",
+    "reason": "Bhutan is outside GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bhutan wins global award for protecting water - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWtRQ3BWVmdtenNSMHNnbk5tWWx4dUNhUlJOcUpwRnhQRmVoQlFQTDRSYVBKUUlXcUlCNFlOaDVwa0tUemVTaGlZbkp2TDJaVDBiZmV1WXppS085aE1lLVctb3BDc184YllQVElZUlZPR1JrLTlhN0ZVREVQOW80Z0xUWGMzNXY3S3hzX3BnRQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "9b2a56f4",
+    "decision": "reject",
+    "reason": "Negative environmental news, outside GCC",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "World's rarest whales face renewed decline - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3RpUlNkeTF2RUdubnNDRmFhcjJrcmdVYkpUNk5yQ21yQ2w0M1gwUWkxaDVNc0hxNTN3cng5UzU5eG56OFRQLWRKUGd3bjBMR1d4RUNzNWFFcy1WeFhEWk93WDBwSTduOEdrbUNxUlgxRDVVdWkxWldOc25JTGVWOHpabm50NnZmeVE?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "fbdb765a",
+    "decision": "approve",
+    "reason": "Positive jewellery craft showcase at Arabian Jewels",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "An Italian pavilion debuts for the first time at «الجواهر العربية» showcasing jewellery craftsmanship and design.",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwQURnMDFmOFJNRExmRjh5em5uVlNpemJpcml2VUVqY3R3eFMtZzR4M3NndEJhSFhtM0RLYjI5ak1uVzRqUV9OS3lfQ25pWEF3dVlRWUN6QWVHOVlUSXVFNGM2dw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "جناح إيطالي لأول مرة في الجواهر العربية، فنون الصياغة تجمعنا"
+  },
+  {
+    "id": "bea08baf",
+    "decision": "reject",
+    "reason": "Bahraini fintech activity outside GCC (Philippines)",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bahrain fintech firm Skyro to offer credit at Philippine shops - Tech in Asia",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemFUQVl5Sld0UlhKTWpVSmZ6Q093djRZbUU2aTd0WUwzN2haRjRrWmFkay1mRDRjV3FSdEcycDI2U1dRU1ZQUldYNl94OUk2N0ZUbVlUd3MydHFKTjJMZnNhbld4cXNrYmZlRVlzVDVFS2tpNUtleHA4VGlqcGFKQjMyZUJpNmkwdGw2YU1xU3Vvdw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "e24c56c9",
+    "decision": "reject",
+    "reason": "Duplicate story, activity outside GCC",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Skyro to Bring Customers with Approved Credit to Merchant Checkouts - The Manila Times",
+        "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc3N6ZTFWdmdwa1Vfd1JnMEZvOFNESmJuVkhnMWFMWS01WHNKQ3YtLUlIa24xRGZGcmFBUXpDQVIwRnItNGN2bXBxLWJDZ1FPR2JWM2ExOTloWXBVZEtMRGdHWkxEbHlwaFJ4NksyOGpkYjM0NXhVUVRCVk1wNXQ3V3AzM0ZXN1l3bU9RVHVkWkt3RnF2b3B5SzNrQS1IaHhlRnlBanVTd0ZLVUVUcHN3cEtyYzdnc3JQcVJqRmpaZDBPU01rTGlXcUhHNkZ0aEFSajR3YmNtTGY5cmVtZFd2OTltUTlYQdIB6wFBVV95cUxNNnhtZkpyVEFZMVNtd3hvWHhySENYSHotZHpRNkFORjZmYi1obGZnWGJvYWozRlpieGNfYzU3Q3o0UmRYSUxfNmlRWDhEMXVxc0RFQVdHRUpLekFxZVhTOWU1bmlJbnVvbHRtem4wOVlHbXFUTi1IWk90dVhYYzRUWm5QN1N3WERHQ3RLUHc2OW5weWFGcmxlVXhOUHp5VXduVmhkWW5USnU2VTRfU3VpcHhvX2NGQkpoWkhURkwyaTBoXzkzNkNPWUxTcW1oS0J6dkkzMHRKaWhjSjJYamNiUXRKN1BaNnVsdDNv?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "3e10f744",
+    "decision": "reject",
+    "reason": "Diplomatic agreement, government-level news",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Uzbekistan, Oman sign visa-free travel agreement for stays of up to 30 days - Trend News Agency",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96cEk2MVMwZklwWmZRRVVzVkFSc1l0REFSWXQzTERuMmVDSjNUX3BpZFRxNHh1a2FoT2pHejNwYUUyamdOcVFiTXhQdWpoQ2Z5NjFndkdRYzJ4cEV6UEVz?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "272a5c1e",
+    "decision": "approve",
+    "reason": "Positive Kuwaiti heritage research presented at book fair",
+    "category": "heritage",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Two researchers document Kuwait's three historic walls and their historic gates at the book fair.",
+        "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Zc1hJejBGZE1oYkNzdFpyeGNaazB3OGp4LU9kc3IzbWFPbS03cExsdlBnRTBPZ0JJZUNYdDJjQ29NOFRla0xNMlh3?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أسوار الكويت وأبوابها القديمة تحكي تاريخ المدينة، التفاصيل بالبايو"
+  },
+  {
+    "id": "05c4b276",
+    "decision": "approve",
+    "reason": "Official UFC Qatar sports event, positive and verifiable",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "UFC Fight Night: Prochazka vs Stirling is listed as part of UFC Qatar",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuamFJU0NsYXkxcENEUUwzSzhtSTE3cUNYMExkcUQ4NjdfamdJS0c1SmhMMnYxNTNTMlBUVlo5c1lYU2s0dTlvR3gzV0p0UWVJcl9WZzhEcml1cnVpeWZ5eDdoN2VXSmRnTmc?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "نزال كبير في قطر! تابع UFC Qatar والتفاصيل بالبايو"
+  },
+  {
+    "id": "8d66a19f",
+    "decision": "reject",
+    "reason": "Government-linked statistics report, no event or place content",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "GCC-Stat Highlights Oman's Broad-Based Development, Future-Ready Economy - Qatar news agency",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjc2d1l4RHpLOFZKMXpOa2xjcDZENV9wS1I4aFJhWXV2Y0RtR1pzVjZoeG1qTTB0VFkyMnRXbEhncWY0RjB4dk53b2duNGxsXzlYdnhGc0licGozMmpRbWFUci1yTzc5V1RkTzFIVXVCM0FVek9lWnZxSmQyQy1pZ0MwZ0JIVnMyVDRQOGJIUW1OdVlDUzY2c2JjaWV0aDZJcDdrbmJ1a3lBcnJ1OVdiT3ZwUF9PZENHQWc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "e0c9c61c",
+    "decision": "reject",
+    "reason": "Duplicate of the UFC Qatar event already covered",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Stirling Targets Prochazka Defensive Weakness at UFC Qatar - bsinews.id",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZbmNmVmxPZV85SFZVSXNRaXZJT0dXRHVOeHoxWmJyV2tRNFpzdVZPV1hvcUc3UDJFZ0VTZlJsbWM1dW5UUXE5MjRVUjh5Y2d2a3BQMlZEazhwYWZjZE5hY2ZFYjU3UjQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "367d17ce",
+    "decision": "reject",
+    "reason": "Duplicate of the UFC Qatar event already covered",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Prochazka Faces Stirling in UFC Qatar Main Event - bsinews.id",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZOTA0WnBHMHU4QXBDQ2hHLWhqLXBTbEk1RWdFTE55bkUxQ2YyVDNhcFFuUXpXTElwaDQtT21Nc2F5MTNQVTVkMVA4QU1GUnNFTkZHS1poYVdES0JwVEhlZjRPNnVWSU9uMmc?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "259c762e",
+    "decision": "reject",
+    "reason": "Duplicate of the UFC Qatar event already covered",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Prochazka Faces Stirling in UFC Qatar Main Event - Limapagi",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SM0x4T3VxbWF3bmtVaVRnWUw2a1Q3MVhXdmpkdnNPTnBFT0VKN3JWakR1XzV4aUtrbEFaOG5xUkdPRWJLYjhWdTZWS21Xd1k5TmhSWGhGYm50VjRDNEZpUHdPWnNaQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "833c3c51",
+    "decision": "approve",
+    "reason": "Children's festival starting today in Qatar, family-friendly event",
+    "category": "youth",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Katara to host Children’s Festival from today",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVTF1dUs2QWpzUEJ4c0hJeWFqUXdnc2xPVld4bUFFcThQa0cxcEpnUC0xdEJzMm44a0RKdUtLWTBfRXdJeFg5bHAzSlY0ZmlwcG9DVU45N05wbEJqeDA1QUtENlBrS2VVdGtyQzdEZm4wV2Y1T0FnQkJCVW9nQnlqbXFvZE8tWExDcDZzVHZNRVR1MHMyN2thRQ?oc=5"
+      }
+    ],
+    "event_date": "2026-11-19",
+    "venue": "Katara",
+    "angle": "عيالكم وين يروحون اليوم؟ مهرجان الأطفال في قطر"
+  },
+  {
+    "id": "5f90b047",
+    "decision": "reject",
+    "reason": "Government regulator showcase, location and details unverified",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "CRA event showcases technology, innovation and culture on sidelines of PP-26 - The Peninsula Qatar",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQajE5ZGlHRE1INnZYLW1uRXdQTHQ4bXZCbHNGSU1ZRjJkYmg1dlFMRHgwM1J6eUVWU2Z5bkUyemZSaXQwTGRVNGhxVWNldXphQ0J0UzZjOEFxeGZwRG4zWmdoQ1ZWRVFNMGlvVkYtZE9KVlEweGtWMWlSNXR1TG9DQ2NVN19ZcDlHRW5GaE0xNlNRUGxfU05QcDdWRENOYzlJeGdpLVloRDJHRVp0OTFtM0FpY080c2pHUFE3dlh2OG5SQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "787aaa00",
+    "decision": "reject",
+    "reason": "Vague industry PR, no concrete event or details",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "27 شريكاً من دبي يرسمون خريطة جديدة لسياحة الأعمال - صحيفة الخليج",
+        "source_url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNMVpNNjFBN3RvVG01ajNQNVZiZDVMRVlJdk5HMXBGT3hHcjRYZWl5dTkxMUp5Q3ltZUQwN2ZSRmloUjhyS0xzOEFYVndDaVB3Z0dlbVRZbXBvT1hOeTFtZzdISVJpMW5FeU5lN25nMzNKSzlvZExKT0l3SXB2a3dRRGZnd1phX1VJbzA5MGRLZlBXS1pLZHM0WnB5VFpab0ZRWHUyaGx1alZVb01BZm9sRTRyMFZkWGxfLVp1VndXZ2gzZTJwOHVMLTVDVVQxQW5fX1FRT0ZtblpudmZBbzEyT1E2eE9PUjYyUmZLVzJKN2NVd2dQdG5pU3A0U3ZvczlyLTVwNW5kRGVxQW9GVGw2b2gzdmVYdVI5R0lpN1JvQUJ2eXRsWHVUMENpdGlyWHNUSE9YYlhqaTJEX1pFSGh0X1c5SGFSMjFVTGF0LXZYalQ4UC0tNHF0bGI2TWZqXzVFZWVzTkdZWEhZSUFDLWVTNkNqbGJUaTVfU1pZVFdOaE5IY3VfcWs5SlllZzExWDBpSDMzd0psVkUtcGpleXJCd2RvdDFEdWJQM01TNU9oZUtvMHNKYVgwTGNfY3BHS3Njak1abUR2NzM2VENHOG5LakNpS0RYQ0xXSFQxVVJ4X1JuTVRiZl85U2ZqdW92TmNjNnJPNFZoX3Y2anV1RU4wNmhIbG9CWEp2QlNzTTB1UjRNcUFmd2VycFhaOFU4dngzRlNZQ0FVMVNVanEzYmc?oc=5"
+      }
+    ]
+  }
+]
