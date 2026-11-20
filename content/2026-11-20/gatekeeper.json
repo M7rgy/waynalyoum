@@ -1,0 +1,419 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Upcoming Bahrain festival on Pearling Path; dates still to be confirmed",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival is planned on the Pearling Path in December 2026.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      },
+      {
+        "fact": "Festival dates are still to be confirmed.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path",
+    "angle": "ليلي في المحرق مع مسار اللؤلؤ... ديسمبر الجاي، والتواريخ قريبة. التفاصيل بالبايو"
+  },
+  {
+    "id": "62014baa",
+    "decision": "reject",
+    "reason": "Health and entry restrictions, negative and outside scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Worldwide: Temporary Ebola-Related Entry Restrictions Introduced - Fragomen",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ19nMnBtZVRSWjltTERDLTExVWpoeWFzVnB6NERSdVBlUmVLNXN3bk9aenM5QU93cmJLWXBsd3VUMkJSejY4SlRyWlZoaml3YjMwWS1IS0FIVHdZU2pkY25uc3dvb0xlS1lMemZtdXNvTzZFelZZYTJXZFh4UnlBeFZYbTE5NHR2dk1ocnI5R1dBM21oSWFCLWJ4aTRicnJyMGdRTVV0UHUwa21UcE9n?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "97525e64",
+    "decision": "approve",
+    "reason": "Bahrain basketball semi-final result against Kuwait; sports recap",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Bahrain lost 74-70 to Kuwait in an international basketball semi-final.",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbjByWFN0azV4WGZqLWJJaVY0Q3BwcGtmaEVkX3g2VDgyYURoNm5TcUxPRVZwakFIcmhURlZYcVhwSHNIaEcwR2xwa2tRWjZzRXdSWXpWRGs5YVh3TUl5R0V5U0ctZDhLUlM3cGRJYThsWFdpbF9PU1Zvc1RNSEtsMXdmZ09CYU1Ga0RwOEh6TGQ3bi1zV3dkQkVOMm9XVlBhOFAwMXR3M09WOVd0?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مباراة نص نهائي حماسية بين البحرين والكويت، 74 مقابل 70. شلون كانت الأجواء؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "b03ab37e",
+    "decision": "reject",
+    "reason": "Legal award enforcement, court case, out of scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "KPF Enforces RM172.94 Million Award Against Al-Rawda - Wisevoter",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTVvRmxLeFR4SHlsU19DXzEzTGkzeUI1bHdJOHZzMnVFaTJtTk1lNEk3czlCRWNaYmtfM2xqTENLb3BMQV84d04zQUN4bDNXR3JobVF5RG9sdnFDeGtzNktGNlRSbkNfZnQxY3JoNmNjWDZReDU1cUx0cVhhUnI1NFJTVkhOSms?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "9e855c74",
+    "decision": "reject",
+    "reason": "Evergreen explainer with no news hook",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Why is tourism an important part of Bahrain’s service economy? - Britannica",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXMtZGlnR1U5ZzFKNnA2UFBDWTdXWGpDWkJUOVpBQktQNnA1NDF2eGZrMWhGdFhaM0FRenQxSlJPQjdsMjA4UUR3emppYkpWNEtMOFNXYUYwOG9YMVREUGJFREYxaHEwcFRzbWJxT1ljaE96VDRBMUhCcW1QT3UwMV9IUlJiYVEwNmVDNTB3X1duUVljbHVzSg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "9a6203ce",
+    "decision": "reject",
+    "reason": "European pool event, outside Bahrain and GCC",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "2027 Roobet European Open Pool Championship Confirmed For March As Final Qualifying Event For World Pool Championship - World Nineball Tour",
+        "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYjlTZlVMcVplUHZHVERqQXJVcldjZkltQndzdl82X0kwZm9vY1dMejVuS2FDUnVpNzZQWFBmWUZneGhqN1djeEJRX2lvOV9lSVp3XzB1bDJINDBKaEktNnNMaDl3QzczNEFsMDFSekpGaGM1ZVY4VDR4MUVNYVJVUHQ2T1VPZF85eHNlMEhwY2pSSWN1ODRTbjNtTVAtOU10cGd1VkdOZENwZk5idEJuQ1ZXU2tLVWVfV2kzVk1BS1hta3pxaWpIYklCUG1MXzg4ckR0THRMZm1pQS0xb21HMnhfNjV2R3pD?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "9b21cb6c",
+    "decision": "reject",
+    "reason": "Event held in Malaysia, outside GCC",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Other Sports: Menon is eager to shine in Malaysia - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DcGxtQnp1RXhncTJUUkxiYUQ0T0ttZnZOV1Vra19kbW9YdWlxaEFWekRYTUZvUDE4SjFmcWFJMWxQbWl5YUNhYm5qUWVqU01aNjNR?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "0dcbd0a0",
+    "decision": "approve",
+    "reason": "Bahrain festival season launch preparations; positive event news",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Bahrain is preparing to launch the «أعياد البحرين 2026» festival season.",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YWEZ6RWpCeGJ2RnYxX0dkbW5SRGZ0NVVhNkRabGRKVHUxRWdCWjJwa2JmemE4SU53aTdVYVRBZ1p4MmVYZzRHVGNCMm9xWi1qbmtMdkFra0lSUk5Vc2ZCaUpraw?oc=5"
+      },
+      {
+        "fact": "Launch date and venue details were not included in the source.",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YWEZ6RWpCeGJ2RnYxX0dkbW5SRGZ0NVVhNkRabGRKVHUxRWdCWjJwa2JmemE4SU53aTdVYVRBZ1p4MmVYZzRHVGNCMm9xWi1qbmtMdkFra0lSUk5Vc2ZCaUpraw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "موسم «أعياد البحرين 2026» على الأبواب. وين بتكون أول محطة عندك؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "c443bdd5",
+    "decision": "approve",
+    "reason": "Bahrain startup wins StartUp Bahrain Pitch; positive tech achievement",
+    "category": "tech",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Vivid Algorithms won the StartUp Bahrain Pitch.",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUdGSnA0NHA1ckF4TkVxVlZxRHVHQ0J3NzZkQ2NFdFRpQVB0dHhiVXNWSUdCSktESm45cTM4M0pTeWdPQjJTOXpLRXBINHRCZzFaYkxuNmpla0RRZ1hlbG03NTlteldJb19Id21DaFhieVNiaTJnMkFyVHBfS0x6NzFKOG5zcHB3RlVlcEZ3?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "شباب بحرينيين يبنون أفكار تنافس. Vivid Algorithms فازت بمسابقة StartUp Bahrain. التفاصيل بالبايو"
+  },
+  {
+    "id": "4bcd36e4",
+    "decision": "approve",
+    "reason": "Bahrain beach soccer team chasing first win at Asian Cup",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bahrain are seeking their first win against Thailand at the AFC Beach Soccer Asian Cup.",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3pldzRpWk5tZWlybUdRYzh0NTFRcTJyMUM3V190YUp2M1NsSjJheElGV0paSHFBUWRkaTNtQ0dhdk5JVE1XTklTNGNqRE1FMkZ6QzdVZ1lrTkFwSldEVmp2TG5HWm5CYWZCUVZJbXF2b0lFVWpWWGdqanNxbzU5QkRibjZuRmFYeklWZ1VaV2dZRS1vUjh4a3dhVFJWLUhUWlFQU1E0WTdfV0Z6UXlF?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "منتخب البحرين للشاطئية يدور على أول فوز في كأس آسيا. الدعم من المدرجات يفرق. التفاصيل بالبايو"
+  },
+  {
+    "id": "29ae3cb2",
+    "decision": "approve",
+    "reason": "Bahrain U17 national team match, positive sports news",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bahrain U17 face Lebanon in the final AFC Asian Cup qualifier",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkp1MWxjU0IzVk9Rck83X0p6OENXNWhmOTlEeGMybHhUc0tLZkYtMl9wUTlmajI5Y0J3TjdMNjAxTHdwb0JhbFJDYmdNUm5kVWp6dHJMdUtWWlc2aU5vTkVJanBnMHNnWW9oNmIweGE1QjlPaVMzVXBQQnFZNXY4OENQT2JCMUhzNHdqZi1oQ1lQNWpVR1VFS1prSWR6Wm8?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أشبالنا تحت 17 على موعد مع لبنان في التصفيات الآسيوية الحاسمة، شدّوا على أيدهم!"
+  },
+  {
+    "id": "58dd439e",
+    "decision": "approve",
+    "reason": "International 3x3 basketball event in Bahrain, positive sports",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "FIBA 3x3 Manama Masters has begun",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1ZYMGV6T3dSdm9pTEVlUWhNRmc4ZGZyelVpWjBoSGJFZzYtRUdBeTVuSXNhSDlNSzNURXJGZy1hSy0xNktYUkRpSWZPUU95S1k1WWUtV0pTcmNNaE5sNVhKQmJSeVFuM05vLTEwelQzS0sxdjlHMGd0VEVEemRTMVNhdzFMQ0FTTDhSRlFHWmtId2R6TEotN3M5eXRkVmdoY3NHU2VhbDV2dG9TVFdPRA?oc=5"
+      },
+      {
+        "fact": "FIBA 3x3 World Tour stars have arrived in Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1ZYMGV6T3dSdm9pTEVlUWhNRmc4ZGZyelVpWjBoSGJFZzYtRUdBeTVuSXNhSDlNSzNURXJGZy1hSy0xNktYUkRpSWZPUU95S1k1WWUtV0pTcmNNaE5sNVhKQmJSeVFuM05vLTEwelQzS0sxdjlHMGd0VEVEemRTMVNhdzFMQ0FTTDhSRlFHWmtId2R6TEotN3M5eXRkVmdoY3NHU2VhbDV2dG9TVFdPRA?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "نجوم الـ3x3 العالمية وصلوا المنامة، والبطولة بدأت. مين بتشجع؟"
+  },
+  {
+    "id": "590f02cd",
+    "decision": "approve",
+    "reason": "Official Bahrain festival season launch, positive event news",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bahrain Tourism and Exhibitions Authority launches the fifth edition of أعياد البحرين 2026",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5UEhKUzR2LWYxMHZsMlhYXzVCVmVGMEdTOFNmM2g5bl9tdFdvY1RZWHM2SmZWU1RLekVMQWQtSVluZkM0Umw5MUpEWEhZVWRWdTlF?oc=5"
+      },
+      {
+        "fact": "The season's slogan is «نعيشها كل لحظة»",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5UEhKUzR2LWYxMHZsMlhYXzVCVmVGMEdTOFNmM2g5bl9tdFdvY1RZWHM2SmZWU1RLekVMQWQtSVluZkM0Umw5MUpEWEhZVWRWdTlF?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أعياد البحرين 2026 رجعت بنسختها الخامسة… نعيشها كل لحظة. التفاصيل بالبايو"
+  },
+  {
+    "id": "92e03fc9",
+    "decision": "reject",
+    "reason": "Government program registration, no public event or audience value",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Tamkeen opens registration for Isteshara programme consultancy providers - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3J0UnROaDVYMkVMUDhvUUpBeWlkRjBoTWMzRG1HSnRrOVNFUUl4YWU2Q1ZkdUgxNDRBSXJ4SnI2aHdxdzdMeUVTdk1JVjZrdVFQeWVKWFA2bThkY2UtVjJFdFk2bWc1bWVuNGc3NDhXS29SS2VhbWs2eWh4N1hLYmxXdmVjOUxZakJsNDlRdUJWRWRGNlVqdVFvVWw3ZjBaUlB6RVVIU1k3NVhGekI5RmJ3aw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "87c626e7",
+    "decision": "reject",
+    "reason": "Embassy advisory to citizens, diplomacy and security-related",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Sri Lankan Embassy issues special advisory to citizens in Bahrain - Newswire",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUdHczdZbkRwbE5kVmtFYTJOeGxmcTdfSlc4Xzg2VEJuVjRKVkpXUGlCc0sxNVVnN29lRjY0X1lBOEhRYXY1YWsxUVVKMjdrY0J2WE9xOXJNTUIxZVNCNzVzNjFEZlcxWVdRMGxVT210Uk9rcS03bGZzZF9oaWNSdGk1UmRwLWNZY3dBcFdhXzRqbHpRUlVJS04xN1ZOTTl3T0o4?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "f0981749",
+    "decision": "reject",
+    "reason": "Duplicate of approved festival launch story",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "هيئة البحرين للسياحة والمعارض تستعد لإطلاق موسم «أعياد البحرين 2026» - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MZGFGdXR2UElteXE3QUxNZ2kxai12MFBReXRvbFJsdFpCTURRV1F0TGxINHprMVNmZFJ6YXEwNUZaMVdlMlk2YjU5a0w2YjZVV0otOVBkczBXSnFzLUYzSS1fVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "a3fe17d7",
+    "decision": "reject",
+    "reason": "Duplicate of approved festival launch story",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bahrain prepares to launch Celebrate Bahrain 2026 under ‘Live Every Mo - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamJNdGdIdXFLbVZFQ2MxdFpYcjFjNUxPQlJtbE1Xb01tbjdKNmpsR0ZYNlNvY0dXNTJubTZoZlVQeURXNjdTMHFTc29rY3lfbjZFU3Nqa0tDOGJqZTlldmtBVENfVU1kN2FieHh3RWt5aEVHQ1VSaVI4RFByZVRxT2lTd2lVX2VGc0RFNjV4U2NSX0p1QU1oZXFpc0l4VG9qVlBSeG1BVFU3TGR4a05PbmxOTFp0cFdGRHM1VmVPZDd0QQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "9cd0e546",
+    "decision": "reject",
+    "reason": "Outside Bahrain and GCC scope, UK-based awards",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Fan Voting for the Autosport Awards is now open - Motorsport.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2lVRE94Q3o1ZDEwaTJLenFJbzlXbEs0OWdwQzV1eHQxYkVWTXo1Z1hVZDZ3YUJWeVNBb2hrQzdWUV9ETmN4RTl3aENEZ0F6dEtETUE5TnpfRUd2akw4eG85QjJEWVZWODJ2OUlNRmFyX3VOd09oaU1PTkx5SkJna2NVdThMaVQwd25mXzJicW56YlNzQWNLTEEwTExZdWk0cFE?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "a49a7ab2",
+    "decision": "approve",
+    "reason": "UAE airline expanding destinations, positive tourism news",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "flydubai adds 5 destinations to its network starting December",
+        "source_url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNMkFLdnNBMlQxRjZnc1ZCS0QwOVM1Y2kzNDZSWWJvbDMtTkFEQzFPdkJPZ3RSWHpzMEltOElOaTRUVGZZZFBSM19NeXRBRnQ3MTBIbzZpeGpaZnJpVXhSa0JCdEFuZTdlMGxzSnZzMGpEcllnVVBIcUpINFhFdzFGY3dhLWZ3NUh0S2E2alZXNXZTcGtWcXZEV09Ic2VHRXpfLW1FdWF2d2ltX2h5Qlp0Smp2cTd5Ulo3NUVTYjYwSHQwdnd4NEhERHlsN1E4Q213Qk5wUWpLclBKV0hhbnE4Qmh4SHdpby1rS2tZcWt3ZkptV3RQbFVMelFiLVlLVVo5a29RRDBVZU1VbjVXSkxkRUZjUlY4NzB0eFhCb2phcFMwa2xTMXZoZHk5Uzk5aGtxNU15TXRMRGZIMDA1bEhUZTNLUWF0NFcta3RKVnVva2c1elZLb0tqb3pzYlROSzhzYjRoOXIwVkdpN3NwZGdNaVNCV21neHRtSFVJQ0N0Q0dLR3R1NHk1bFdzWnpKSExTYnJRUDdYLUVMQ1R5a0dqeXBWbEZHTko2anI5aE5GbXBQQUozUXd5RGY0QjZjWVR5dExhQi1QVENCaWpQYnBQemFaNW9QQXI1dTVWeHNBZ0ZpUFlJcUtrRnVzcW1VZGVkLTdHNGFrTkMwYkJrWWQ5ZFZzZkN5WTBrMkJRSkJ3?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "5 وجهات جديدة بالطريق من دبي، وين تبي تروح أول؟"
+  },
+  {
+    "id": "c484722a",
+    "decision": "approve",
+    "reason": "UFC event in Qatar, positive sports news",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bloody Elbow staff are predicting the UFC Qatar main event, Jiri Prochazka vs. Navajo Stirling",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelVnTHlrTGpLV0hXbjVkSkZwUnVGSTd2TkJ5SEpaU2U3My1uaFNJTkRqZHlhbFM5aHlhLXpjRFBCUTYxdFZhVGdJWEJKOWRwOHZBem9rN0VOM2VUS1NBajVrcEc3YnBhcWRLbkFfcUZZT3ZXa3hmbDBLd2EtZWY0VFNUMEVxa0FFVDUzQnhJZzBCcmtCNHBFMXFpa0psRnZPak9BVWxPa05ocV9WTDIwamFUTFEwUF90OUVtVHh3?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "براوو.. بروخازكا ضد ستيرلينغ في قطر! مين بتتوقع يفوز؟"
+  },
+  {
+    "id": "34651ff7",
+    "decision": "approve",
+    "reason": "Positive cultural festival launch in Riyadh, GCC",
+    "category": "event",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Riyadh hosts Ethnosport Cultural Festival for the first time outside Türkiye",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVc3NUx6OG12c2VHd2xPd2Z1MXdVNjFhSDJnSEdVMWRNYUlFN3lVVk5ZTnNNUDVuSVYyUHJoZnMzRXpjRDlWVWxOaUhQQzhUZzBpMWc4aEVHWm9sMldQSFpEbWdzT2c1SU1QN3Z2LS1qcHVXOVZvTmFIWXljbW5sMEtXN0t0RklLYmNGT3A2VUctenF4Z2ZUdXRNWHU4ZFlIU2NnM0Nndjh6bDk2czRGemxlc3dSR0YyY1g4?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أول مرة مهرجان ثقافي عالمي برا تركيا... والرياض تستضيفه، تراه يستاهل الزيارة؟"
+  },
+  {
+    "id": "05c4b276",
+    "decision": "approve",
+    "reason": "Positive sports event in Qatar, verifiable and recent",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "UFC Fight Night: Prochazka vs Stirling is held as UFC Qatar",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuamFJU0NsYXkxcENEUUwzSzhtSTE3cUNYMExkcUQ4NjdfamdJS0c1SmhMMnYxNTNTMlBUVlo5c1lYU2s0dTlvR3gzV0p0UWVJcl9WZzhEcml1cnVpeWZ5eDdoN2VXSmRnTmc?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "ليلة قتال عالمية في قطر... عشاق الرياضة، هذا الحدث لكم. التفاصيل بالبايو"
+  },
+  {
+    "id": "96da2525",
+    "decision": "approve",
+    "reason": "Positive heritage, sport and arts coverage for Oman's National Day",
+    "category": "community",
+    "region": "gcc",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Heritage, sports and arts take centre stage as Oman prepares for National Day holiday",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXhacXE4UVJBTXhhazR3bkctbTVxb21mS0lTWnM4RHJYSmZYc2dIM1VkWS1JY2FnbXIta1dYNFRZM05aaTE1dDJ0c04zWENSS3BKUmlzVVU2QXRCRFZRQVVRTjF4Y0pPUEQ4RTEzX0NoUXU1UHFMNk13SjFlazRZaTJDWTlvek5HZV9GZk96X3g4cy0wTTFEbDViMDJXZC1nRGYyTGc1VVVhdElLenZTNk1ZblJ4YXRXdDlxWjJFQ1c?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "عمان تحتفل بعيدها الوطني بالتراث والرياضة والفن... شنو الأجواء اللي تنتظرك؟"
+  },
+  {
+    "id": "a2d85233",
+    "decision": "reject",
+    "reason": "Streaming guide for Indian viewers; not GCC-focused",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "UFC Qatar Live Streaming: Jiri Prochazka Vs Navajo Stirling, date, time, full fight card and how to watch in India - IndulgExpress",
+        "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUmtJQ25RWUdoRzNzS3FubEZENk5EdnhacXh1NkVRM2JHREg0VmpWOGVOWVhrd3k2eUYwMHpUNVctQ0toLTdIeTBwbzNmRU8zbzFzMXI4b1NQR1Jybkx0SS1FME42cFRjd1pKMUNaUUlfYVVkRmdUcjZaLXdycl8tdTZWVnkwekFfbjBIb1hnU09wQmRpSW5CNlhzb3VXTTd2ZlpJX2p3VW12WTVYUkRacXRfNkE0S1pHQzJGd3doYURtbGREQmVZU2VQNnI2RjBJLWI1Q0xiUC1QTW00SVNld0wxSXVndGdWQnZyNzVKb0o?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "9c38c75d",
+    "decision": "reject",
+    "reason": "Duplicate of the Ethnosport festival story",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Ethnosport Cultural Festival Opens at Riyadh Season - شبكة تواصل الإخبارية",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iaERSSDVlWGJwa2hJd1pzbG1ITjdDakc2aGZiMDdLS1lzZmxSdjNORlV1SlB0SFZqdThXZ2ZWbFFWeUpzd25yZEJ3eGFBMXhCTEZV?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "865306db",
+    "decision": "reject",
+    "reason": "Government and political figures as headline subjects",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "بحضور تركي آل الشيخ وبلال أردوغان.. انطلاق «مهرجان اثنوسبورت الثقافي» ضمن موسم الرياض - المصري اليوم",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3Nm9RTVg0WWJ3SU1faThjbGwxSnNNN1ZaQ01GTi1QVDVqbFFOSXZSY2JCal9oTHE0RW1vS25MOTJCdjhQb0pPZGY3VGQ2SmR6NXZMVUxzS3NaQW9zX0RJ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "34683d74",
+    "decision": "reject",
+    "reason": "Duplicate weigh-in coverage; no new event facts",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Jiri Prochazka Hits 205 At UFC Qatar Official Weigh-In - MiddleEasy",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORjNRWGxWQmxiMzJ1WF91TjVZdklEdXFrYU5tb01kajlkRWc4b211LThrb210T3h2bnBrTlo2TDJhdjN3VEJSbEc1T21vSkpydW12V3QxdS1WYmR1LUg5amxra09IZ3NpRnZQQWt1SV90dFBvcTJkdmJ2akJ4Wll2R1VuOU9ldFZwSEJn?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "90d9106a",
+    "decision": "reject",
+    "reason": "Duplicate weigh-in coverage; missed-weight focus is negative",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight - Yahoo Sports",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWNlR20tdmpoRlRpa0hhdU83VFRISXpOcjAyekw1WkI0aUtxdlJSOHBwcndxbnAzS08xbHVqaU5Gbll1S2JsaEdyTE9CZEI2NlVYakUtUW5kWlR3ZHdCLVU3RVpCTS1tanVXcXZPVUE5aGdpYlozZnJoNWQwbERBcW8zUQ?oc=5"
+      }
+    ]
+  }
+]

@@ -1,0 +1,432 @@
+{
+  "date": "2026-11-20",
+  "posts": [
+    {
+      "post_id": "D23-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "oman-national-day-heritage-sports-arts",
+      "title_internal": "Oman heritage, sports, arts National Day",
+      "hook": "عمان تجهّز لعطلة العيد الوطني 🇴🇲",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "عمان تجهّز لعطلة العيد الوطني 🇴🇲",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "traditional Omani silver khanjar-style ornaments and carved wooden door detail, Oman, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "التراث والرياضة والفن\nفي الواجهة",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "old stone fort walls with palm trees and a calm sea behind, Oman, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, palm green, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "أي جانب يشدك أكثر؟\nتراث، رياضة، ولا فن؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: تراث / رياضة / فن",
+          "visual_prompt": "hands holding a small traditional Omani coffee cup beside a dallah on a woven mat, Oman, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#عمان",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "traditional Omani silver ornaments and carved wooden door detail, Oman, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Oman heritage fort",
+        "Oman traditional crafts",
+        "Oman coastline sunset"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXhacXE4UVJBTXhhazR3bkctbTVxb21mS0lTWnM4RHJYSmZYc2dIM1VkWS1JY2FnbXIta1dYNFRZM05aaTE1dDJ0c04zWENSS3BKUmlzVVU2QXRCRFZRQVVRTjF4Y0pPUEQ4RTEzX0NoUXU1UHFMNk13SjFlazRZaTJDWTlvek5HZV9GZk96X3g4cy0wTTFEbDViMDJXZC1nRGYyTGc1VVVhdElLenZTNk1ZblJ4YXRXdDlxWjJFQ1c?oc=5"
+      ]
+    },
+    {
+      "post_id": "D23-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "aayad-bahrain-2026-fifth-edition",
+      "title_internal": "Fifth edition of Bahrain festival season",
+      "hook": "«أعياد البحرين 2026» رجعت 🎉",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "«أعياد البحرين 2026» رجعت 🎉",
+          "body": "وشعارها يلخص كل شي. اسحب وشوف",
+          "visual_prompt": "festive string lights over a Manama waterfront promenade at dusk, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "النسخة الخامسة",
+          "body": "انطلقت النسخة الخامسة من موسم «أعياد البحرين 2026».",
+          "visual_prompt": "number-free festive lanterns glowing along a seaside walkway, Bahrain, blue hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "الشعار",
+          "body": "«نعيشها كل لحظة» هو شعار الموسم.",
+          "visual_prompt": "hands holding warm tea glasses on a table by the sea, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "تحضيرات الإطلاق",
+          "body": "البحرين جهّزت لإطلاق موسم «أعياد البحرين 2026».",
+          "visual_prompt": "modern Bahrain skyline glowing at sunset reflected in turquoise water, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "المواعيد والأماكن؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "traditional dhow sail silhouette on calm turquoise water, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "وين نروح الويكند؟",
+          "body": "ضع الموسم على خطتك. احفظ المنشور وشارك ربعك",
+          "visual_prompt": "crowd out of focus with warm festival lights in the background, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "«أعياد البحرين 2026» رجعت 🎉\nالنسخة الخامسة انطلقت.\nشعار الموسم: «نعيشها كل لحظة».\nوين نروح الويكند؟ حط الموسم على خطتك.\nالمواعيد والأماكن: التفاصيل في الرابط بالبايو.\nاحفظ المنشور وشارك ربعك 🌴",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#ويكند",
+        "#VisitBahrain"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "festive string lights over a Manama waterfront promenade at dusk, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Bahrain festival lights",
+        "Manama waterfront evening",
+        "Bahrain skyline sunset"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5UEhKUzR2LWYxMHZsMlhYXzVCVmVGMEdTOFNmM2g5bl9tdFdvY1RZWHM2SmZWU1RLekVMQWQtSVluZkM0Umw5MUpEWEhZVWRWdTlF?oc=5",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YWEZ6RWpCeGJ2RnYxX0dkbW5SRGZ0NVVhNkRabGRKVHUxRWdCWjJwa2JmemE4SU53aTdVYVRBZ1p4MmVYZzRHVGNCMm9xWi1qbmtMdkFra0lSUk5Vc2ZCaUpraw?oc=5"
+      ]
+    },
+    {
+      "post_id": "D23-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "flydubai-5-new-destinations-dec-2026",
+      "title_internal": "flydubai adds 5 destinations December",
+      "hook": "5 وجهات جديدة من دبي ✈️",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "5 وجهات جديدة من دبي ✈️",
+          "body": "الإمارات – دبي. وين تبي تروح أول؟",
+          "visual_prompt": "airplane wing seen from a window above clouds at sunset, Dubai UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "الخبر",
+          "body": "flydubai تضيف 5 وجهات إلى شبكتها.",
+          "visual_prompt": "modern Dubai skyline at golden hour seen from the air, Dubai UAE, sunset, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "متى؟",
+          "body": "الوجهات الجديدة تبدأ من ديسمبر.",
+          "visual_prompt": "hands holding a passport and boarding pass near an airport window, Dubai UAE, morning, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "شنو هي الوجهات الخمس؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "world map style travel flat-lay with a suitcase and sunglasses on sand-colored surface, Dubai UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "ابدأ التخطيط",
+          "body": "اختر وجهتك المفضلة وشاركها مع ربعك.",
+          "visual_prompt": "runway lights at dusk with a distant airplane silhouette, Dubai UAE, blue hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "لا يفوتك",
+          "body": "احفظ المنشور وتابعنا لكل جديد في الخليج",
+          "visual_prompt": "sunrise over desert dunes and city towers on the horizon, UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "5 وجهات جديدة من دبي ✈️\nflydubai تضيف 5 وجهات إلى شبكتها.\nالبداية من ديسمبر.\nالتفاصيل في الرابط بالبايو.\nوين تبي تروح أول؟ احفظ المنشور وشارك ربعك.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#الامارات",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "airplane wing seen from a window above clouds at sunset, Dubai UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "airplane window sunset",
+        "Dubai skyline aerial",
+        "airport departures travel"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijgRBVV95cUxNMkFLdnNBMlQxRjZnc1ZCS0QwOVM1Y2kzNDZSWWJvbDMtTkFEQzFPdkJPZ3RSWHpzMEltOElOaTRUVGZZZFBSM19NeXRBRnQ3MTBIbzZpeGpaZnJpVXhSa0JCdEFuZTdlMGxzSnZzMGpEcllnVVBIcUpINFhFdzFGY3dhLWZ3NUh0S2E2alZXNXZTcGtWcXZEV09Ic2VHRXpfLW1FdWF2d2ltX2h5Qlp0Smp2cTd5Ulo3NUVTYjYwSHQwdnd4NEhERHlsN1E4Q213Qk5wUWpLclBKV0hhbnE4Qmh4SHdpby1rS2tZcWt3ZkptV3RQbFVMelFiLVlLVVo5a29RRDBVZU1VbjVXSkxkRUZjUlY4NzB0eFhCb2phcFMwa2xTMXZoZHk5Uzk5aGtxNU15TXRMRGZIMDA1bEhUZTNLUWF0NFcta3RKVnVva2c1elZLb0tqb3pzYlROSzhzYjRoOXIwVkdpN3NwZGdNaVNCV21neHRtSFVJQ0N0Q0dLR3R1NHk1bFdzWnpKSExTYnJRUDdYLUVMQ1R5a0dqeXBWbEZHTko2anI5aE5GbXBQQUozUXd5RGY0QjZjWVR5dExhQi1QVENCaWpQYnBQemFaNW9QQXI1dTVWeHNBZ0ZpUFlJcUtrRnVzcW1VZGVkLTdHNGFrTkMwYkJrWWQ5ZFZzZkN5WTBrMkJRSkJ3?oc=5"
+      ]
+    },
+    {
+      "post_id": "D23-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "international",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "fiba-3x3-manama-masters-2026",
+      "title_internal": "FIBA 3x3 Manama Masters weekend watch",
+      "hook": "نجوم الـ3x3 وصلوا المنامة 🏀",
+      "script": [
+        {
+          "t": "0-4s",
+          "on_screen": "نجوم الـ3x3 وصلوا المنامة 🏀",
+          "vo": "نجوم الـ3x3 العالمية وصلوا المنامة!",
+          "visual": "Fast push-in on a basketball hitting the net on an outdoor court at golden hour, Manama skyline blurred behind, no faces"
+        },
+        {
+          "t": "4-10s",
+          "on_screen": "البطولة بدأت\nFIBA 3x3 Manama Masters",
+          "vo": "بطولة FIBA 3x3 Manama Masters بدأت فعلاً في البحرين.",
+          "visual": "Close-up of hands bouncing a ball on the court, sneakers and court lines, shallow depth of field, no faces"
+        },
+        {
+          "t": "10-16s",
+          "on_screen": "نجوم FIBA 3x3 World Tour\nفي البحرين",
+          "vo": "ونجوم الجولة العالمية FIBA 3x3 World Tour وصلوا البحرين.",
+          "visual": "Silhouettes from behind walking onto the court at sunset, warm rim light, crowd out of focus"
+        },
+        {
+          "t": "16-23s",
+          "on_screen": "وين نروح الويكند؟ 🔥\nالمواعيد والتذاكر في الرابط بالبايو",
+          "vo": "وين نروح الويكند؟ المواعيد والتذاكر في الرابط بالبايو.",
+          "visual": "Slow pan across the court lights and Manama waterfront at dusk, no faces"
+        },
+        {
+          "t": "23-29s",
+          "on_screen": "من تشجع؟ احفظ وشارك ربعك",
+          "vo": "من تشجع؟ احفظ الريل وشاركه مع ربعك.",
+          "visual": "Ball resting on court line at golden hour, camera pulls back to reveal the skyline"
+        }
+      ],
+      "slides": [],
+      "frames": [],
+      "caption_instagram": "نجوم الـ3x3 العالمية وصلوا المنامة 🏀\nبطولة FIBA 3x3 Manama Masters بدأت.\nونجوم FIBA 3x3 World Tour في البحرين.\nوين نروح الويكند؟ المواعيد والتذاكر في الرابط بالبايو.\nمن تشجع؟ احفظ الريل وشاركه مع ربعك.",
+      "caption_tiktok": "نجوم الـ3x3 وصلوا المنامة 🏀 بطولة FIBA 3x3 Manama Masters بدأت! وين نروح الويكند؟ التفاصيل في الرابط بالبايو. من تشجع؟",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#ويكند",
+        "#فعاليات_البحرين",
+        "#Bahrain"
+      ],
+      "audio_suggestion": "upbeat khaleeji percussion remix with a modern trap-style beat",
+      "visual_prompts": [
+        "outdoor 3x3 basketball court with a ball at the net, Manama skyline in background, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16",
+        "silhouettes from behind walking onto a basketball court at sunset, crowd out of focus, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "3x3 basketball court sunset",
+        "basketball hoop net close up",
+        "streetball hands dribbling",
+        "Manama skyline evening"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1ZYMGV6T3dSdm9pTEVlUWhNRmc4ZGZyelVpWjBoSGJFZzYtRUdBeTVuSXNhSDlNSzNURXJGZy1hSy0xNktYUkRpSWZPUU95S1k1WWUtV0pTcmNNaE5sNVhKQmJSeVFuM05vLTEwelQzS0sxdjlHMGd0VEVEemRTMVNhdzFMQ0FTTDhSRlFHWmtId2R6TEotN3M5eXRkVmdoY3NHU2VhbDV2dG9TVFdPRA?oc=5"
+      ]
+    },
+    {
+      "post_id": "D23-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "ufc-qatar-prochazka-stirling",
+      "title_internal": "UFC Qatar Prochazka vs Stirling",
+      "hook": "ليلة UFC في قطر 🥊",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "ليلة UFC في قطر 🥊",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "empty combat sports arena with dramatic spotlights over an octagon-style cage, Qatar, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "الحدث الرئيسي:\nبروخازكا ضد ستيرلينغ",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "close-up of fight gloves resting on a bench in warm arena light, Qatar, evening, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "من تتوقع يفوز؟\nشاركنا توقعك\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: بروخازكا / ستيرلينغ",
+          "visual_prompt": "silhouettes from behind in an arena crowd out of focus with warm lights, Qatar, night, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#قطر",
+        "#ويكند"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "empty combat sports arena with dramatic spotlights, Qatar, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "MMA arena lights",
+        "fight gloves close up",
+        "arena crowd silhouettes"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuamFJU0NsYXkxcENEUUwzSzhtSTE3cUNYMExkcUQ4NjdfamdJS0c1SmhMMnYxNTNTMlBUVlo5c1lYU2s0dTlvR3gzV0p0UWVJcl9WZzhEcml1cnVpeWZ5eDdoN2VXSmRnTmc?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelVnTHlrTGpLV0hXbjVkSkZwUnVGSTd2TkJ5SEpaU2U3My1uaFNJTkRqZHlhbFM5aHlhLXpjRFBCUTYxdFZhVGdJWEJKOWRwOHZBem9rN0VOM2VUS1NBajVrcEc3YnBhcWRLbkFfcUZZT3ZXa3hmbDBLd2EtZWY0VFNUMEVxa0FFVDUzQnhJZzBCcmtCNHBFMXFpa0psRnZPak9BVWxPa05ocV9WTDIwamFUTFEwUF90OUVtVHh3?oc=5"
+      ]
+    },
+    {
+      "post_id": "D23-08",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "22:30",
+      "topic_key": "vivid-algorithms-startup-bahrain-pitch",
+      "title_internal": "Vivid Algorithms wins StartUp Bahrain Pitch",
+      "hook": "منو فاز بـ StartUp Bahrain Pitch؟ 🚀",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "منو فاز بـ StartUp Bahrain Pitch؟ 🚀",
+          "body": "اسحب وتعرف على الفائز",
+          "visual_prompt": "modern workspace desk with laptop glow and notebook, hands typing, Bahrain, golden hour through a window, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "الفائز",
+          "body": "Vivid Algorithms فازت بمسابقة StartUp Bahrain Pitch.",
+          "visual_prompt": "glowing abstract data lines over a dark blue desk surface with a trophy-like glass award silhouette, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "الجائزة وتفاصيل المسابقة؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "Manama business district towers at sunset, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "مبروك للفريق",
+          "body": "ألف مبروك لفريق Vivid Algorithms.",
+          "visual_prompt": "hands raised in celebration seen from behind in a bright modern hall, out of focus, Bahrain, daylight, cinematic, photorealistic, 35mm, warm golden light, pearl white, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "الأفكار تبدأ بعرض واحد",
+          "body": "كل شركة ناشئة تبدأ بفكرة وجرأة.",
+          "visual_prompt": "single light bulb glowing on a wooden desk beside a notebook, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, palm green, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "شارك ربعك رائد الأعمال",
+          "body": "احفظ المنشور وتابع جديد ريادة الأعمال في البحرين",
+          "visual_prompt": "Bahrain waterfront skyline at dusk with turquoise water, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "منو فاز بـ StartUp Bahrain Pitch؟ 🚀\nVivid Algorithms فازت بالمسابقة.\nمبروك للفريق.\nالتفاصيل في الرابط بالبايو.\nاحفظ المنشور وشارك ربعك رائد الأعمال.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#ريادة_اعمال",
+        "#إيجابية_البحرين",
+        "#Bahrain"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "modern workspace desk with laptop glow and notebook, hands typing, Bahrain, golden hour through a window, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "startup pitch stage",
+        "laptop typing hands close up",
+        "Manama business district"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUdGSnA0NHA1ckF4TkVxVlZxRHVHQ0J3NzZkQ2NFdFRpQVB0dHhiVXNWSUdCSktESm45cTM4M0pTeWdPQjJTOXpLRXBINHRCZzFaYkxuNmpla0RRZ1hlbG03NTlteldJb19Id21DaFhieVNiaTJnMkFyVHBfS0x6NzFKOG5zcHB3RlVlcEZ3?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "beaches, islands, nature, family (applies to the Bahrain posts)",
+  "held_topics": []
+}
