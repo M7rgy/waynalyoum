@@ -1,0 +1,396 @@
+{
+  "date": "2026-11-21",
+  "posts": [
+    {
+      "post_id": "D24-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "malaysian-traders-bahrain-30",
+      "title_internal": "30 Malaysian traders travel to Bahrain",
+      "hook": "30 تاجر ماليزي سافروا 10 ساعات للبحرين",
+      "frames": [
+        {
+          "n": 1,
+          "text": "30 تاجر ماليزي سافروا 10 ساعات 🛫\nعشان يعرضون منتجاتهم بالبحرين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "hands arranging colourful products on an exhibition table, Bahrain, golden hour light through windows, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "10 ساعات سفر\nوالوجهة: البحرين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "airplane wing seen from a window over turquoise sea at sunset, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "شنو تتمنون تشوفونه عندهم؟\nالتفاصيل في الرابط بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Question box: شنو منتج ماليزي تحب تجربه؟",
+          "visual_prompt": "close-up of hands holding a small product sample at a trade stand, Bahrain, warm evening light, cinematic, photorealistic, 35mm, warm golden light, pearl white, palm green, sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "30 تاجر من ماليزيا سافروا 10 ساعات عشان يعرضون منتجاتهم في البحرين.\nشنو تتمنون تشوفونه عندهم؟\nالتفاصيل في الرابط بالبايو.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "hands arranging colourful products on an exhibition table, Bahrain, golden hour light through windows, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "trade exhibition products display hands",
+        "airplane wing sunset window",
+        "market stall products close up"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTnEtWTNDTE1sMVBVdkxSVE9aYno0SHExcHVSR3NQZDgteVA4allkQVlTbVpIREJjelEzQlFoajROOVdGYzgza1pYNTdvLVlKMWJaQk1MZmMzcFlmbWFHMjdWZU1zelV4SjFaVXN4LTEzQQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D24-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "tabuk-art-exhibition-islamic-art-day",
+      "title_internal": "Tabuk art exhibition marks Islamic Art Day",
+      "hook": "تبوك تحتفي باليوم العالمي للفن الإسلامي",
+      "frames": [
+        {
+          "n": 1,
+          "text": "السعودية – تبوك 🎨\nمعرض فني يحتفي بالفن الإسلامي",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "Islamic geometric art pieces displayed on a gallery wall, Tabuk Saudi Arabia, soft warm light, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "بمناسبة اليوم العالمي\nللفن الإسلامي",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "close-up of intricate arabesque patterns on a textured surface, Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, palm green, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "أي فن تحبون أكثر: الخط ولا الزخرفة؟\nالتفاصيل في الرابط بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: الخط / الزخرفة",
+          "visual_prompt": "hands holding a calligraphy pen over paper, Saudi Arabia, warm light, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "معرض الفن في تبوك بالسعودية يحتفي باليوم العالمي للفن الإسلامي.\nأي فن تحبون أكثر: الخط ولا الزخرفة؟",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#السعودية",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Islamic geometric art pieces displayed on a gallery wall, Tabuk Saudi Arabia, soft warm light, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Islamic geometric pattern art",
+        "art gallery exhibition wall",
+        "arabic calligraphy pen hands"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeURGbHNaako2ZDgtcG02YTJWUWdpNEZqS1FNSUNPVm1iOU5uUFRlc0ZDUzduVHBEaENoLWdJX1BoUWhDclpGSTlxRnpVaTN1MDBmdGVXdlZiNmljemNvX2VVSlhSSm0wQ1htcUJLblpDRlZEUHlDWHYya3BGQWtTVXNwOXJLNXB1WWlqTEVsN3NWNmpqN0FoTkEyU0p5N1BTLTdFYjQtYTk5QQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D24-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "gcc-roundup-cargo-eid-etihad-tabuk-oman",
+      "title_internal": "Four positive GCC news items roundup",
+      "hook": "4 أخبار خليجية تفرّح القلب",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "4 أخبار خليجية تفرّح القلب",
+          "body": "من الإمارات والسعودية وعُمان… اسحب وشوف 👉",
+          "visual_prompt": "Gulf coastline skyline at golden hour with turquoise water, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "الإمارات – الفجيرة ✈️",
+          "body": "مطار الفجيرة الدولي يفوز بجائزة «Most Promising Airport for Cargo Services» في Arabian Cargo Awards 2026.",
+          "visual_prompt": "cargo aircraft silhouette on an airport apron, Fujairah UAE, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "الإمارات – دبي 🎉",
+          "body": "دبي تستعد لاحتفالات «عيد الاتحاد» الـ55.",
+          "visual_prompt": "Dubai modern skyline at dusk with festive lights, UAE, cinematic, photorealistic, 35mm, warm golden light, sunset coral, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "السعودية – تبوك 🎨",
+          "body": "معرض الفن في تبوك يحتفي باليوم العالمي للفن الإسلامي.",
+          "visual_prompt": "Islamic geometric art on a gallery wall, Tabuk Saudi Arabia, warm light, cinematic, photorealistic, 35mm, warm golden light, pearl white, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "عُمان 🇴🇲",
+          "body": "معالم خليجية أضاءت بألوان علم عُمان.",
+          "visual_prompt": "Gulf landmark skyline lit with red, white and green light at night, cinematic, photorealistic, 35mm, warm light, deep sea blue, palm green, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "أي خبر عجبك أكثر؟",
+          "body": "احفظ المنشور وشاركه مع ربعك، وتابع وين اليوم",
+          "visual_prompt": "sunset over calm Gulf sea with a dhow sail silhouette, cinematic, photorealistic, 35mm, warm golden light, sunset coral, deep sea blue, sand gold, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "4 أخبار خليجية تفرّح القلب 🌅\nمطار الفجيرة في الإمارات يفوز بجائزة في Arabian Cargo Awards 2026.\nدبي تستعد لاحتفالات «عيد الاتحاد» الـ55.\nمعرض الفن في تبوك بالسعودية يحتفي باليوم العالمي للفن الإسلامي.\nومعالم خليجية أضاءت بألوان علم عُمان.\nأي خبر عجبك أكثر؟ احفظ وشارك ربعك.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#الامارات",
+        "#السعودية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Gulf coastline skyline at golden hour with turquoise water, cinematic, photorealistic, 35mm, warm golden light, pearl white, deep sea blue, sunset coral, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Fujairah airport cargo plane",
+        "Dubai skyline dusk lights",
+        "Islamic art exhibition gallery",
+        "Gulf skyline night lights"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV0pucE82X2pKZC1TeEZWdzhtT3hPc1k2NnducVpzbUNTYkJYeXhLV3B0bTVXS1pLVU42MUlodUVuemM0R2dhamxFcWoybU8waE83U0hVVFNXbXdSLXJOendYd3J6YmJ6emtybFVUSkJYUGNLN3pxMFBHM2trVEpWWUFhME9aU0Y5Q1dPODhtamRZNnRycjR5YTlCYlAzVHc5VFlOdTJaMHZNbHdVTUNZQU1LME1nUUdsM2hMQlVpbG5VU0NaZ3o2LVVNRUFWdUo5MVhvd0ZLWUctaXpZUERRdVR3?oc=5",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wYUJ1R0d1RHVOTDlnUjJxdTQ3MWtDUGtNbjZXdGt4NVprUk1EU1djUXJMcGxtdzNlN2ZLSHdHZDR1b0V6ZVBjWTdVV2hUNjVFQ2hz?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeURGbHNaako2ZDgtcG02YTJWUWdpNEZqS1FNSUNPVm1iOU5uUFRlc0ZDUzduVHBEaENoLWdJX1BoUWhDclpGSTlxRnpVaTN1MDBmdGVXdlZiNmljemNvX2VVSlhSSm0wQ1htcUJLblpDRlZEUHlDWHYya3BGQWtTVXNwOXJLNXB1WWlqTEVsN3NWNmpqN0FoTkEyU0p5N1BTLTdFYjQtYTk5QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnNCRzdwWkpPeDdPWHRkVlRtLXpvS1M0cWh6X3RScjc5U3ZGWGwtbVFrX2RqQktWb2ZjcXlTQXc4bVpvaC1yT2tfSkx0cG1yVkxMcURDVHoyUm9zb0QwSXRfelNKdlhocGNlQ3lhb25KY0NzdlkyS0d6LVdOUDQ3aTRaZzBTWmdzOThCemdQQUszLXJaN3ZiT9IBWkFVX3lxTE5MQlJ3V1NpSTh0MWJ5ZF9KV2dyNGt1UzBqN0ZfSVZuX3hKUTBCRlVoV3lWTVNDaTh5ckQxMkF3SmJJTWN4NUVfdVdkdEg0SDZ0Y194RW9iQV9rZw?oc=5"
+      ]
+    },
+    {
+      "post_id": "D24-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "syria-medals-arab-aquatics-bahrain-2026",
+      "title_internal": "Syria wins medals at Arab Aquatics in Bahrain",
+      "hook": "ذهبية وفضية لسوريا في البحرين",
+      "frames": [
+        {
+          "n": 1,
+          "text": "سوريا تحصد ذهبية وفضية 🥇🥈\nفي البحرين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "swimming pool lanes with clear turquoise water seen from above, Bahrain, golden hour light, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "«Arab Aquatics Championships»\nاستضافتها البحرين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "water surface with light ripples and starting blocks out of focus, Bahrain, warm light, cinematic, photorealistic, 35mm, warm golden light, turquoise, sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "تحبون الرياضات المائية؟\nقولوا لنا رياضتكم المفضلة",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: سباحة / غوص",
+          "visual_prompt": "medals resting on a towel by a pool edge, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "سوريا فازت بميدالية ذهبية وفضية في «Arab Aquatics Championships» اللي استضافتها البحرين.\nتحبون الرياضات المائية؟ قولوا لنا رياضتكم المفضلة.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "swimming pool lanes with clear turquoise water seen from above, Bahrain, golden hour light, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "swimming pool lanes aerial",
+        "aquatics championship pool water",
+        "medals pool edge"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMGxGQk8zMEZCSzlQcDBpcVVoZ25DVjNwNXg3Qi1kZmpQaGVBYnpFdmllcDN2RFJNMkVXTUprLXJrRW1OOE85cA?oc=5"
+      ]
+    },
+    {
+      "post_id": "D24-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "international",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "bahrain-beat-thailand-afc-beach-soccer",
+      "title_internal": "Bahrain beat Thailand on penalties",
+      "hook": "البحرين تفوز على تايلاند 7-5 🏖️",
+      "script": [
+        {
+          "t": "0-4s",
+          "on_screen": "البحرين تفوز على تايلاند 🏖️",
+          "vo": "البحرين فازت على تايلاند… وبركلات الترجيح!",
+          "visual": "football rolling on golden sand toward a goal, slow motion, sunset light, no faces"
+        },
+        {
+          "t": "4-10s",
+          "on_screen": "فوز 7-5 بركلات الترجيح\nAFC Beach Soccer Asian Cup",
+          "vo": "النتيجة 7-5 بركلات الترجيح، في بطولة آسيا للكرة الشاطئية.",
+          "visual": "ball resting on the sand at the penalty spot, goal posts out of focus behind, golden hour"
+        },
+        {
+          "t": "10-16s",
+          "on_screen": "كل ركلة تفرق ⚽",
+          "vo": "في ركلات الترجيح، كل ركلة تفرق.",
+          "visual": "silhouette of a player from behind walking toward the ball on the beach, sunset, no face"
+        },
+        {
+          "t": "16-23s",
+          "on_screen": "فخر رياضي بحريني 💙",
+          "vo": "فخر رياضي يستاهل نفرح فيه.",
+          "visual": "sunset over the sea with waves rolling on the sand, warm coral and gold sky"
+        },
+        {
+          "t": "23-29s",
+          "on_screen": "شلون شفتوا النتيجة؟ 👇\nتابع وين اليوم",
+          "vo": "شلون شفتوا النتيجة؟ قولوا لنا بالتعليقات، وشاركوها مع ربعك محبي الرياضة.",
+          "visual": "hands lifting a football from the sand, golden light, no faces"
+        }
+      ],
+      "caption_instagram": "البحرين تفوز على تايلاند 7-5 بركلات الترجيح في AFC Beach Soccer Asian Cup 🏖️\nشلون شفتوا النتيجة؟\nقولوا لنا بالتعليقات، وشاركوها مع ربعك محبي الرياضة.\nتابع وين اليوم لكل جديد.",
+      "caption_tiktok": "البحرين تفوز على تايلاند 7-5 بركلات الترجيح في AFC Beach Soccer Asian Cup 🏖️ شلون شفتوا النتيجة؟",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "upbeat khaleeji percussion remix, energetic sports vibe",
+      "visual_prompts": [
+        "football on golden sand near a goal, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, deep sea blue, no people faces, no text, no logos --ar 9:16",
+        "silhouette from behind of a player on the beach at sunset, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral, sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "beach soccer ball sand sunset",
+        "football penalty spot beach",
+        "waves on sand sunset slow motion"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSTFvUEVYQ04wbWhGZ3lYdnZlZEZKNm5wc20yN1RsRHJvR3BjZmR5cS1VWF9yTTZGWk9lRkVSb0xTbkdEVUl0MVFZZDJQSUZySm1KTXI4eFdkdzNJeTZCNTViMnN3V2JGRktxcHJuZVBHRnd0OUJGQmtqRi1xanl0ZjV0LUJxYkZYSFg5cS14cmlaMkdVM0xaVzR1X0RpaUlaMkdZZ1RUYThJM3lvUUE?oc=5"
+      ]
+    },
+    {
+      "post_id": "D24-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "gcc-landmarks-omani-colours",
+      "title_internal": "GCC landmarks lit in Omani colours",
+      "hook": "معالم الخليج بألوان علم عُمان",
+      "frames": [
+        {
+          "n": 1,
+          "text": "معالم خليجية أضاءت\nبألوان علم عُمان 🇴🇲",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "Gulf landmark skyline lit with red, white and green light at night, cinematic, photorealistic, 35mm, warm light, deep sea blue, palm green, sunset coral, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "لمسة فرح\nتجمع الخليج",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "modern tower lit in red and green light reflecting on calm water at night, Gulf, cinematic, photorealistic, 35mm, warm light, deep sea blue, palm green, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "أي معلم تتمنون تشوفونه\nبألوان عُمان؟",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Question box: أي معلم خليجي تتمنى تشوفه بألوان عُمان؟",
+          "visual_prompt": "bridge lit with red, white and green lights over the sea at dusk, Gulf, cinematic, photorealistic, 35mm, warm light, deep sea blue, sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "معالم خليجية أضاءت بألوان علم عُمان 🇴🇲\nأي معلم تتمنون تشوفونه بألوان عُمان؟",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#عمان"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Gulf landmark skyline lit with red, white and green light at night, cinematic, photorealistic, 35mm, warm light, deep sea blue, palm green, sunset coral, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "city skyline night colored lights",
+        "landmark lit red green white",
+        "bridge lights sea dusk"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnNCRzdwWkpPeDdPWHRkVlRtLXpvS1M0cWh6X3RScjc5U3ZGWGwtbVFrX2RqQktWb2ZjcXlTQXc4bVpvaC1yT2tfSkx0cG1yVkxMcURDVHoyUm9zb0QwSXRfelNKdlhocGNlQ3lhb25KY0NzdlkyS0d6LVdOUDQ3aTRaZzBTWmdzOThCemdQQUszLXJaN3ZiT9IBWkFVX3lxTE5MQlJ3V1NpSTh0MWJ5ZF9KV2dyNGt1UzBqN0ZfSVZuX3hKUTBCRlVoV3lWTVNDaTh5ckQxMkF3SmJJTWN4NUVfdVdkdEg0SDZ0Y194RW9iQV9rZw?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "sports & achievements / week recap (applies to the Bahrain posts)",
+  "held_topics": []
+}
