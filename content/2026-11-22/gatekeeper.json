@@ -1,0 +1,430 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Positive upcoming festival; dates not yet confirmed, so none stated",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival on the Pearling Path, December 2026; dates to be confirmed.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path, Muharraq",
+    "angle": "ليالي المحرق على مسار اللؤلؤ قادمة في ديسمبر، والتفاصيل بالبايو"
+  },
+  {
+    "id": "0437053b",
+    "decision": "approve",
+    "reason": "Positive heritage feature on a Bahraini musical tradition",
+    "category": "heritage",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Ahmed Al Jumairi brings Bahrain's musical heritage to life.",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFdwdEU4NWFzTDZ2UEx3enQ3SW1FS1RKbmtPU1dzeHRRMi1WZ215Z3ZDdU85UnNRcjJPMHQ5UjVCajNuM1FvV1B2T2dwUzhGaXBteTJUcW9tWmxrX0Nna1BlUUxOUnMyWWlaNEI5QnEyY0xiVF9ySlNYc1ppbkNhbzVsdzR2X1lFOEp6b3gzTmdvWWZDUUxURkFRU196Rlk?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "صوت البحرين القديم يرجع للحياة، تعرف على قصته"
+  },
+  {
+    "id": "65e24149",
+    "decision": "approve",
+    "reason": "Positive arts event in Bahrain",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Art Without Borders is taking place at Dragon City.",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmVqa2tKZmhTQzc1MzJMbVo4cDRYRDRPdDlRUVl3Nm5JZGloSmF0NnhWYzRwS0VUU1A2NERaVWkyeVFBWlhqQW5JTWlLRy0yNkR6MDZxSHZtTHotNUtBMFBjMGpWRExUNDRaQkNORUswMDZKeV9JempTM3hEUGRIcQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Dragon City",
+    "angle": "فن بلا حدود في دراغون سيتي، وجهة جديدة لعشاق الفن"
+  },
+  {
+    "id": "7d23630c",
+    "decision": "approve",
+    "reason": "Positive property and innovation event in Bahrain",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Cityscape Bahrain 2026 puts property innovation in focus.",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDBxQlpXRG9ZUktiSVdqcnNXRmNuQlV2T1FGMGNxYXlEN2xOUkRoQnFEblBtZjVLZUhFbS1nbVhzTEhrRHNKRUxWbU5pMVVBT3hkNDlmY193U281UGJaN3FKQmM3cXNwR3FpNUlZLW1qMU5lZFoxX1BXQXl1ZXNxVHByNzVwODlxT1Z4MkFHWVI4TkVKT1pGSTd0YlQ1dw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "الابتكار يلتقي بالعقار، سيتي سكيب البحرين 2026 والتفاصيل بالبايو"
+  },
+  {
+    "id": "157da122",
+    "decision": "approve",
+    "reason": "Positive classic car heritage event in Bahrain",
+    "category": "heritage",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "«كونكورس البحرين الملكي» presents cars as cultural memory.",
+        "source_url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPeHVrYUszUDBVQndSZmxJZDgxWmpNUUhkODVRRk5WNU1kTHhwQ3h3VGtSVDM0a25kdGlLR3hYbFp5S0VRQWtmeDBMX29Jak5HeTNVb2ZXZ1dNZDhjWDBiclg4TnVpMVJ1cW9JSjdxZzduaEVXcUdFRXV0V3JVUXFaVWd3QWJFZU1UYk83WW9sTVU3SWQ4SXk1cUtZWXB3UDJ0dEo3ZHRjMkUyaGRnRjNYLXFjOGYyWll4dlgyb0ZUYzEtVURNYTZVQ1A5RU5DMFhEZlpWM1ZfMk5mTGFkSFhJTTZybWdlVk0zOEotcVJyUXhhN2U2WFZldk5yMlZXNjBScmUzWTNuVWdGVk1vY3FSRWM1MjU1TzNZOTdITy0xb24za2pDb2xfQnEzMnNCSGk2ZEVXNUpwRmtkREd4N2lQUzVLczJWOW9MVndyNUM5YlIxN1pxUUxpVGpuOFlWRVhGNUoyeUotWjBweVI0cTJLcUZZbUdXXzB4QlJ5T2pqX0kzeTBucDg0a2ptSVUzakEtMERVRVlDRk5EQnBMUW9KanVadlJ6R0lJWElHQURXWUE0RU9BYk5hWFZ5a1IyR2IxdlZoZlpKX01rVEFQWU50dHVfekpDVXAtRm1hOUJ0dFdVcU16TEhtVE16RkRkbmNscHFDWlZyVmdpWkJEUWFvM2R4X2kzMi0yR1dnTWUzaw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "سيارات تحكي تاريخ البحرين، كونكورس يستاهل الزيارة"
+  },
+  {
+    "id": "6c95590f",
+    "decision": "approve",
+    "reason": "Positive Saudi tourism opening: new resort at AMAALA",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "AMAALA welcomes its largest resort with the Ritz-Carlton opening.",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFpyMXc2YnN5ZUljNFo1dUVBbnZvNjdQRzdKLU9hUXlaWmJlcXdwanlTczNFSG02cGt0SUdFUndUUmJJNkpkNEhub3BzTUJSVnR4S1U3R0s4cTZYVVYxWDlKVnJHWEZXT0ZfN3ZFMERBdEhWU3FvSHV5NXNGUkNPVy0tcy1MTjg3VHlLRTNTWDM2MVR2aUVySlFZSXZEcGw4bVJJTQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "AMAALA",
+    "angle": "وجهة سعودية جديدة على البحر الأحمر، فندق جديد يستاهل الزيارة"
+  },
+  {
+    "id": "a53c7c12",
+    "decision": "reject",
+    "reason": "Negative economic news about air cargo declines",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "UAE Business: Air cargo volumes down due to Diwali and US outage - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JdzdmRldrSFVfX3Y3dFBOdGkwaVRUdjZVU2Q1MmVpS2c1eWw0NlNGZDN0MGpwSVNoVEpOTGxBbVhkUnp6NXQwVzUtdHphVzhiZ0VZ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "4697242a",
+    "decision": "reject",
+    "reason": "Vague corporate sales promotion for property developer",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "«بحرين مارينا» تطرح عروضًا حصرية لمشتري شقق «بحرين مارينا رزيدنس» خلال سيتي سكيب البحرين - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBNEpKMU1QcGZ4TTF6M2lXSy1fTUZ5SUZfOHdvMTFSd0xpektyejVSWVgxdmYzajFHWWlhUnhVRTJvYWpoejlQcVpGYzJuaFNSWEdDMVFIa1JqZEF0VDZBd3NpRQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "c37f6235",
+    "decision": "reject",
+    "reason": "Minister's statement, government official as subject",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "“Young people are partners in creating events”: Youth Minister - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzZfSU5nM2NLcFlwLTY4dGtCczVrcE12V29vRHVZclRPRjdrdlZfUXo3WktJNXZTVUt2N3NFd0J3aXdkaUg1MW92cGltUjV2a3F3RzdIZ2hvQ1EyUFVhS3JtNjlCN0NTUW9hd0VvNV9rUXRkdnZhUlpmU0JwaHdDZ1RqRjZieVZGX3RlMThEWlZ2UnJhWmNKSWVoVUYxbFVrc3c?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "2b2adb1a",
+    "decision": "reject",
+    "reason": "Diplomacy and UN resolution, political content",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bahrain Urges UN to Enforce Resolution 2817 - News of Bahrain",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaktBa2VZOGNveEtlYmVFNlZGSDZYR0Y1cm5iTUtFSmk4UDlXMG5ub1FURkQzRzN1ZTRRdFdzdUJFdUhxR2Y0bzhDRXJSNEhpSUxqbHpVUmd1VDZvUXVqWTZMSDlGNE1hQ3BEM0gta0ZoNTBUeGhPVFhIXzRPRjNaaXE4R2VIaktJeHRqSw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d49bf7cd",
+    "decision": "reject",
+    "reason": "Motorsport awards outside Bahrain and GCC scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Autosport Awards 2026 nominees revealed as fan voting opens - SSBCrack",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzlLejczQ0xvaVYxWWNqSlFaelF6cTY2V0pGUFgyNDdkWEFpTFZpUE5IbVRmWFhVV05qUUNXdFlzM1FMWlBiLWZPMEpGampmOXRMUXlJYWxYekFCbkt4dlRBV09HWU5GdENFakdBVEJicUcyRTQxTWV4RXl3VXR0S0E1c0JYaFhmR29DNmFYQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "1135a03f",
+    "decision": "reject",
+    "reason": "Incident-focused motorsport story, outside scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Untelevised Max Verstappen footage after George Russell Las Vegas GP incident - PlanetF1",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONEpycE1STnh5SE42RnZUcFFUUVhiLW5Gd1VfdlJiT1V2OGg0bm5vYkZ2cmpXMTNiYkdJVzZQSTVrSmdHdTVIWWVBV3lZbXVUdG9lOXFnVE5rOGtSM3E2a1lwS1BHRFVod01CbFktM0dIeUxmdG4tZDlnNGd6TVBFckRLSXhGMWdCQmVrbTFONFBOMmxxZ2pZ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "e2f41e46",
+    "decision": "reject",
+    "reason": "Duplicate of the Bahrain Eids 2026 programme story",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "«أعياد البحرين 2026».. مهرجانات وحفلات تنشر الفرح - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFWno0NFY2TEttSmxJc09KRlRxS2lEUG9oWUJCdTJ1YlNmWjRjSXBYNENuWlBXYjhZNHNqaTJwcW1WdFVvZ1RkSXdUWDJrbTR2ZGdpYkVTMGgxaW4wbnFVampCYw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "784ac218",
+    "decision": "approve",
+    "reason": "Positive Bahrain festival programme with governorate events",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Al Ayam published the programme details for Bahrain Eids 2026 celebrations.",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55SDRKaUEwUFhuSWdRTTQyeUpuZ1BTSXZHbElwc2Zjc181MFQ1Z3VhNEZxQUlNUzVJT29xTU5hUkxPSmhDU1FlRERHczJqc1JZTDJBOGE5UnBhRW50NGZUdU1fTQ?oc=5"
+      },
+      {
+        "fact": "The festival programme includes events held across Bahrain's governorates.",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55SDRKaUEwUFhuSWdRTTQyeUpuZ1BTSXZHbElwc2Zjc181MFQ1Z3VhNEZxQUlNUzVJT29xTU5hUkxPSmhDU1FlRERHczJqc1JZTDJBOGE5UnBhRW50NGZUdU1fTQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أعياد البحرين 2026 فعاليات في كل المحافظات، وين تبي تروح الويكند؟"
+  },
+  {
+    "id": "9ce247aa",
+    "decision": "reject",
+    "reason": "Named individual award; affiliation and role unclear",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "منصور العلوان ضمن 5 قادة متميزين.. وفرع البحرين يفوز بجائزة البرنامج المبتكر - الأيام البحرينية",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SSkFIVU1MYVFXWE5jOFVTZllNWVdka19DZGR6eHFfZnBYc1ZNWjJDVnZtSG1ZOGVPcVdLVzZrTVlwZVY5UDh2dEdubktSUmVKdzlYa25TbnFFSER5S1VpMEwyQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "39b71d68",
+    "decision": "approve",
+    "reason": "Positive Bahraini club sports result, verifiable from source",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Al Ahli cruised past Oman in a sports match reported by Gulf Daily News.",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdlZKb2Q4NkoyYmJQZWVUSkpSSTlXWGtfbFB0WC1PZUR0V3drZUt4RFI2Q1dmNmFFMENWcl85NktnMmROLTNhbE14eGFqSjAtUmFxUjVGQTdEM1BZTGtGSzFZTnNUckM5N25PeFZVbGFHSTZq?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "الأهلي يكتسح عُمان، الروح الرياضية تملّي الويكند. التفاصيل بالبايو"
+  },
+  {
+    "id": "d101098f",
+    "decision": "approve",
+    "reason": "Community events offering professional development for women in Bahrain",
+    "category": "community",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Zain Bahrain events give women the chance to learn from specialists and gain professional development.",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ia0JZNjNMQnpDUlI1R25pbjlJQjAtSWtfMFpwdXFibERleVVkcTYwNDBrRXczMlhxYXAzQWJTWF9BVTJ2WWt1NGlpUjRNYUJtN2F1Y0l3eHRuMFNBaVE?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "كفاءات بحرينية تطوّر مهاراتها من خبراء ميدان. التفاصيل بالبايو"
+  },
+  {
+    "id": "7faa9e04",
+    "decision": "approve",
+    "reason": "Positive Bahraini club result in Gulf competition opener",
+    "category": "sport",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Al Ahli won the Gulf opener.",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0xKZzM3R1pEOUV1ekl4eENneUhhbllkaXhjNnpmZ21iSlpfelNvN1Y1YTY1T2tENUFiaWRWRXdGVFRDWnlSUkhDVG4zUDBzZnp4a2poNmtiVk9tMHV3OWF4YXdCb0NPWU5BUzNrZ3NPUV9YaUJmZE1WWDdERmJyWmhpUW1XQTJNUjdESw?oc=5"
+      },
+      {
+        "fact": "Al Najma fell short in the same fixture.",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0xKZzM3R1pEOUV1ekl4eENneUhhbllkaXhjNnpmZ21iSlpfelNvN1Y1YTY1T2tENUFiaWRWRXdGVFRDWnlSUkhDVG4zUDBzZnp4a2poNmtiVk9tMHV3OWF4YXdCb0NPWU5BUzNrZ3NPUV9YaUJmZE1WWDdERmJyWmhpUW1XQTJNUjdESw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "الأهلي يفتتح بفوز، والويكند الرياضي بدأ. التفاصيل بالبايو"
+  },
+  {
+    "id": "fce3ad38",
+    "decision": "approve",
+    "reason": "Positive cultural event bringing world traditions to Riyadh",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "إثنوسبورت brings traditions from around the world to the heart of Riyadh.",
+        "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00blJVQ2drMmgxdTVheHZCTExSakpLNGFydTUxRVZPNklPUE5IX0VLT24xTzJObTJya2dQTWVCc29tdjdtVWVqMGdn?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "تقاليد العالم في قلب الرياض، وين الرياض تحتفي بالثقافات؟"
+  },
+  {
+    "id": "808b236c",
+    "decision": "approve",
+    "reason": "Positive entertainment launch within Riyadh Season",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "متاهة الحصن launched with excitement and challenge as part of Riyadh Season.",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSX1VDTmNfbllxNWtwdXdWcUJIeklOX2c2Y0phaUR3Nm1Da196SEwxSE9lWU1VT1V5Y1pmbnlkOFVOYjVFOVRlaDM2RUg?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "متاهة الحصن تنطلق في موسم الرياض، تقدر تحل اللغز؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "76952883",
+    "decision": "reject",
+    "reason": "Seasonal weather trivia, no real event or place",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "موعد بدء الشتاء في السعودية في 1 ديسمبر - تايم أوت الرياض",
+        "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYlN2R0p3NUVTYW1IODJwZm9nUjVHOUFjekRLMzd4dlUwSGg3NWEyUm56Q2pZanBtdzB3RGtSLXdVT0ExamphMU1YTGIzNEVpbmdTVGVSQUdfMXpZOFJ3TTRtN1U3bXBTUGhibXRGWjJCOHhiYjRBVTBFZWtaSHM1WHFtNEk1czZaanNwM3p1am1ob3VwMGlvbUp4ZFZadnJ2T0lhS1RTUUI3dFdQUWZtZHBHQTVMWjRQSWwzRmlzcWpudGFwdFNEaWlSYWM?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "55f537f9",
+    "decision": "reject",
+    "reason": "Crime: shooting injuries, outside GCC",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Nine Injured in Shooting at Music Event in California - Qatar news agency",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWVM3UWd6cm03UVdFREtSSF8wZFJUTXlXLXR0aWVSYlhXR2wzaTdOV21Ic2lLZ2k3WTZmNXRKLTc0TGdBS0x6TTZDLTJDYzIydC1FVm9PZWQ3YjhkbVNxUF9yR21TV0RTVEpjYy1FMU9BeVgwdDU0am9helFuQmpNRDZVeUxjMWQxN2haSnpKNzZZRGdUOVhXUTNFN3NBRm9MckxB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d1e0459e",
+    "decision": "approve",
+    "reason": "Positive entertainment show launch at a Riyadh venue",
+    "category": "event",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "Shows of \"عالم ريتشل\" launched in the heart of \"البوليفارد سيتي\" in Riyadh.",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZVW1sZ1NoS3VHelFiQUdkZ01XT1MzeUJ0WVJVVURiYm1JQ0tpNnBDZjk0UVJja3FHS3ZoWWU4SWRWOWx3MHRyRHpEcFo?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "البوليفارد سيتي، الرياض",
+    "angle": "عالم كامل يفتح أبوابه بقلب الرياض، تراه الويكند هذا؟"
+  },
+  {
+    "id": "1496b411",
+    "decision": "approve",
+    "reason": "Positive coastal tourism project announced in Khafji",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "A new real estate development company, ساحل الخليج للتطوير العقاري, is launched to build an integrated coastal destination in Khafji.",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EZG91dHhtcVZzOUtOdkNGaWQyTGV3dGpHWGZNTTFvZXN0WHVuWHRZQTRXUFNrSDVxVEJKMDdfU1FxandYaHdDWkZ5bXRDR3FLcmhBTDZTZk8zSnBZR3RaNkpZdE9VdF92Ymc?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "الخفجي",
+    "angle": "وجهة ساحلية جديدة في الخفجي، الشرقية تكبر وايد"
+  },
+  {
+    "id": "c4a191a0",
+    "decision": "approve",
+    "reason": "UFC Qatar results recap, positive sporting event",
+    "category": "sport",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "UFC Qatar event featured the Jiri vs. Stirling fight.",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMTlCb0tZbkdQd3dmMm9sWmVtbEFwa3JBNmRtMGlSVU8zN0hHWk9ubl9INFU5ZDJMeTZ6eEJsM1NrVUJwNVROc2owSnpva2pNVzBOWDFKM3JXZnZ6X201UC1PRjhNRlpwalBrazBlLXg5YXZqWW05dFFhR3Q0Q21wYXVtTHJkbmNEZE9DczVrQjIwSjZGQXY2azM1MFZSZXFlYTQxWWx1Ykg?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "ليلة قتالية في قطر، كل التفاصيل بالبايو"
+  },
+  {
+    "id": "005a427c",
+    "decision": "reject",
+    "reason": "Duplicate coverage of the same UFC Qatar event",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "Fight By Fight Preview | UFC Qatar - UFC.com",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUtMUUViOEdFTE5pOTNYLV9vVUNUTzRHWUtJM09YUjBYdmxxX1pUaU94NUZKRjlsTmk3YjVzYndVdlJiU1JnYWF4UmlvLUV5Uk4wTjYyWXkzZzd3alpZZlRfT3E3bG56UC04NVRCQWVUMlEwVnZGelk0R1J5X1NweUNrU1hsV21uT0tqTG9HeE90YmdRV2c?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "e2dce6c8",
+    "decision": "approve",
+    "reason": "Positive cultural festival with crowds in Riyadh",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Turkish wrestling draws big crowds at the \"إثنوسبورت\" festival in Riyadh.",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHZkY5Mi02U29MM3VPakRPci0zVEI5Q0phNmdFWF80dTNSNFd4Zks4dkNsTnZGU2QyVkUzTzEtOG50TlNDR3NFYUdXci1QeHBF?oc=5"
+      },
+      {
+        "fact": "The \"إثنوسبورت\" festival is part of Riyadh Season 2026 activities.",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHZkY5Mi02U29MM3VPakRPci0zVEI5Q0phNmdFWF80dTNSNFd4Zks4dkNsTnZGU2QyVkUzTzEtOG50TlNDR3NFYUdXci1QeHBF?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "الرياض",
+    "angle": "مصارعة تركية ورماية تقليدية بقلب موسم الرياض، جربها الويكند"
+  },
+  {
+    "id": "35c4c203",
+    "decision": "reject",
+    "reason": "Duplicate coverage of the same Ethnosport festival",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "مهرجان \"إثنوسبورت\" يواصل فعالياته في الرياض وسط إقبال واسع على المصارعة التركية والرماية التقليدية - https://alsaudi.news/",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yMUp5alp6Nkx1NkZvX2VrSThxTy1jcmNaN1JuY09qNjVNUGdiV0xaMU8zTlgwT21EX0swOFVTYmFXRGg4YlZKLXZuLUxGdTBu?oc=5"
+      }
+    ]
+  }
+]

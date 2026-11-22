@@ -1,0 +1,540 @@
+{
+  "date": "2026-11-22",
+  "posts": [
+    {
+      "post_id": "D25-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "zain-bahrain-women-development",
+      "title_internal": "Zain Bahrain women development events",
+      "hook": "فرصة تطوير مهني للمرأة 💼",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "فرصة تطوير مهني للمرأة 💼\nفعاليات Zain Bahrain تتيح لها التعلّم من متخصصين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "hands writing in a notebook on a clean white desk beside a coffee cup, Bahrain, morning, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue tones, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "من تعرفين تستاهل هالفرصة؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: نشاركها مع صديقة؟ نعم / أكيد",
+          "visual_prompt": "silhouette of a woman from behind looking out over the Manama skyline, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "فرصة تطوير مهني للمرأة 💼\nفعاليات Zain Bahrain تتيح لها التعلّم من متخصصين وتطوير مهاراتها المهنية.\nالتفاصيل في الرابط بالبايو.\n#وين_اليوم #البحرين #إيجابية_البحرين",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "hands writing in a notebook on a clean white desk beside a coffee cup, Bahrain, morning, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue tones, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "woman writing notebook desk hands",
+        "professional workshop audience blurred",
+        "Manama skyline golden hour"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ia0JZNjNMQnpDUlI1R25pbjlJQjAtSWtfMFpwdXFibERleVVkcTYwNDBrRXczMlhxYXAzQWJTWF9BVTJ2WWt1NGlpUjRNYUJtN2F1Y0l3eHRuMFNBaVE?oc=5"
+      ]
+    },
+    {
+      "post_id": "D25-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "riyadh-season-maze-alhisn",
+      "title_internal": "Riyadh Season maze launch",
+      "hook": "تقدر تحل «متاهة الحصن»؟",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "«متاهة الحصن» انطلقت في الرياض 🧩\nحماس وتحدٍّ ضمن موسم الرياض",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "tall sand-coloured maze walls seen from above at sunset, Riyadh Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "تقدر تحل اللغز؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Quiz: كم دقيقة تحتاج لتطلع من المتاهة؟",
+          "visual_prompt": "narrow maze corridor with warm lantern light, silhouette of a visitor from behind in the distance, Riyadh, dusk, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "«متاهة الحصن» انطلقت في الرياض 🧩\nحماس وتحدٍّ ضمن موسم الرياض في السعودية.\nتقدر تحل اللغز؟ التفاصيل في الرابط بالبايو.\n#وين_اليوم #البحرين #السعودية #الخليج",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#السعودية",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "tall sand-coloured maze walls seen from above at sunset, Riyadh Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "hedge maze aerial sunset",
+        "Riyadh skyline dusk",
+        "maze corridor lantern light"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSX1VDTmNfbllxNWtwdXdWcUJIeklOX2c2Y0phaUR3Nm1Da196SEwxSE9lWU1VT1V5Y1pmbnlkOFVOYjVFOVRlaDM2RUg?oc=5"
+      ]
+    },
+    {
+      "post_id": "D25-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "ahmed-al-jumairi-musical-heritage",
+      "title_internal": "Ahmed Al Jumairi revives Bahrain music heritage",
+      "hook": "تدري إن للبحرين صوت قديم؟ 🎶",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "تدري إن للبحرين صوت قديم؟ 🎶",
+          "body": "ومن اللي يرجّعه للحياة؟ اسحب وتعرف",
+          "visual_prompt": "oud resting on a cushion beside a carved heritage stone doorway, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "أحمد الجميري",
+          "body": "Ahmed Al Jumairi يُحيي التراث الموسيقي البحريني.",
+          "visual_prompt": "hands plucking oud strings close-up, Bahrain, warm interior light, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "تراث موسيقي بحريني",
+          "body": "موسيقى البحرين القديمة جزء من هويتها.",
+          "visual_prompt": "textured heritage stone alley at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "يرجعه للحياة",
+          "body": "الألحان القديمة تنبض من جديد بدل ما تبقى ذكرى.",
+          "visual_prompt": "dhow sails against turquoise water at sunset, Bahrain, cinematic, photorealistic, 35mm, warm golden light, turquoise and sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "ليش يهمنا؟",
+          "body": "لأن كل لحن قديم يحمل سالفة من المكان.",
+          "visual_prompt": "silhouette of a person from behind listening by the sea at dusk, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "تبي القصة كاملة؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "open old wooden window overlooking Bahrain coastline, warm light, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "شاركها مع ربعك",
+          "body": "احفظ البوست وشاركه مع محبي التراث.",
+          "visual_prompt": "oud and prayer-bead-free heritage rug at sunset on a Bahrain rooftop, cinematic, photorealistic, 35mm, warm golden light, palm green and sand gold, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "تدري إن للبحرين صوت قديم؟ 🎶\nأحمد الجميري (Ahmed Al Jumairi) يُحيي التراث الموسيقي البحريني.\nألحان قديمة تنبض من جديد.\nكل لحن يحمل سالفة من المكان.\nالقصة كاملة في الرابط بالبايو.\nاحفظ وشارك مع ربعك محبي التراث.\n#وين_اليوم #البحرين #تراث_البحرين #سياحة_البحرين",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#تراث_البحرين",
+        "#سياحة_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "oud resting on a cushion beside a carved heritage stone doorway, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "oud strings close up hands",
+        "traditional Arabic music instrument",
+        "Bahrain heritage stone alley"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFdwdEU4NWFzTDZ2UEx3enQ3SW1FS1RKbmtPU1dzeHRRMi1WZ215Z3ZDdU85UnNRcjJPMHQ5UjVCajNuM1FvV1B2T2dwUzhGaXBteTJUcW9tWmxrX0Nna1BlUUxOUnMyWWlaNEI5QnEyY0xiVF9ySlNYc1ppbkNhbzVsdzR2X1lFOEp6b3gzTmdvWWZDUUxURkFRU196Rlk?oc=5"
+      ]
+    },
+    {
+      "post_id": "D25-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "amaala-ritz-carlton-opening",
+      "title_internal": "AMAALA largest resort Ritz-Carlton opens",
+      "hook": "أكبر منتجع في AMAALA يفتح أبوابه",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "السعودية: أكبر منتجع في AMAALA 🌴",
+          "body": "أي علامة فندقية وراءه؟ اسحب وتعرف",
+          "visual_prompt": "luxury coastal resort architecture with white walls and turquoise water at golden hour, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, pearl white and turquoise, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "الوجهة: AMAALA",
+          "body": "وجهة سعودية جديدة تستقبل زوارها.",
+          "visual_prompt": "modern seaside destination with palm trees and calm sea, Saudi Arabia, sunset, cinematic, photorealistic, 35mm, warm golden light, palm green and sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "افتتاح Ritz-Carlton",
+          "body": "يستقبل AMAALA أكبر منتجع فيه مع افتتاح Ritz-Carlton.",
+          "visual_prompt": "elegant resort lobby with soft warm light and sea view, no brand marks, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "الأكبر في AMAALA",
+          "body": "هذا أكبر منتجع تشهده الوجهة حتى الآن.",
+          "visual_prompt": "aerial view of resort villas along a turquoise shoreline, Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "للي يحب الوجهات الجديدة",
+          "body": "ربعك محبي السفر يستاهلون يعرفون عن هالوجهة.",
+          "visual_prompt": "hands holding a passport and sunglasses on a sunlit terrace railing with sea view, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "تبي التفاصيل؟",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "infinity pool meeting the horizon at sunset, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "احفظ وشارك",
+          "body": "احفظ البوست لخطة سفرك الجاية وشاركه مع ربعك.",
+          "visual_prompt": "sunset over calm sea with a lone sailboat silhouette, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "أكبر منتجع في AMAALA يفتح أبوابه 🌴\nالسعودية تستقبل افتتاح Ritz-Carlton في AMAALA.\nوجهة جديدة تستاهل تنحط في قائمتك.\nالتفاصيل في الرابط بالبايو.\nاحفظ وشارك مع ربعك محبي السفر.\n#وين_اليوم #البحرين #السعودية #الخليج #وجهات_سياحية",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#السعودية",
+        "#الخليج",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "luxury coastal resort architecture with white walls and turquoise water at golden hour, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, pearl white and turquoise, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "luxury beach resort aerial",
+        "infinity pool sunset",
+        "resort lobby sea view"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFpyMXc2YnN5ZUljNFo1dUVBbnZvNjdQRzdKLU9hUXlaWmJlcXdwanlTczNFSG02cGt0SUdFUndUUmJJNkpkNEhub3BzTUJSVnR4S1U3R0s4cTZYVVYxWDlKVnJHWEZXT0ZfN3ZFMERBdEhWU3FvSHV5NXNGUkNPVy0tcy1MTjg3VHlLRTNTWDM2MVR2aUVySlFZSXZEcGw4bVJJTQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D25-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "al-ahli-gulf-opener",
+      "title_internal": "Al Ahli wins Gulf opener",
+      "hook": "الأهلي يفتتح بفوز 🏆",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "الأهلي يفتتح بفوز 🏆\nفوز في الافتتاحية الخليجية",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "football resting on stadium grass under floodlights, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, palm green and deep sea blue, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "شنو توقعك لمشوار الأهلي؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: الأهلي يكمل بقوة؟ أكيد / نشوف",
+          "visual_prompt": "blurred stadium crowd out of focus with warm lights, Bahrain, dusk, cinematic, photorealistic, 35mm, warm golden light, sunset coral and palm green, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "الأهلي يفتتح بفوز 🏆\nفوز في الافتتاحية الخليجية.\nشنو توقعك لمشوار الأهلي؟\nالتفاصيل في الرابط بالبايو.\n#وين_اليوم #البحرين #الخليج",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "football resting on stadium grass under floodlights, Bahrain, evening, cinematic, photorealistic, 35mm, warm golden light, palm green and deep sea blue, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "football stadium floodlights evening",
+        "soccer ball on grass close up",
+        "stadium crowd blurred"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0xKZzM3R1pEOUV1ekl4eENneUhhbllkaXhjNnpmZ21iSlpfelNvN1Y1YTY1T2tENUFiaWRWRXdGVFRDWnlSUkhDVG4zUDBzZnp4a2poNmtiVk9tMHV3OWF4YXdCb0NPWU5BUzNrZ3NPUV9YaUJmZE1WWDdERmJyWmhpUW1XQTJNUjdESw?oc=5"
+      ]
+    },
+    {
+      "post_id": "D25-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "royal-concours-cars-cultural-memory",
+      "title_internal": "Cars as cultural memory at Concours",
+      "hook": "تدري إن السيارة ذاكرة؟ 🚗",
+      "script": [
+        {
+          "t": "0-4s",
+          "on_screen": "تدري إن السيارة ذاكرة؟ 🚗",
+          "vo": "تدري إن السيارة ممكن تكون ذاكرة؟",
+          "visual": "close-up of a polished classic car fender reflecting golden sunset light, no badges"
+        },
+        {
+          "t": "4-10s",
+          "on_screen": "«كونكورس البحرين الملكي»\nسيارات | ذاكرة ثقافية",
+          "vo": "«كونكورس البحرين الملكي» يقدّم السيارات كذاكرة ثقافية.",
+          "visual": "slow pan along a row of classic cars on a Bahrain waterfront, golden hour"
+        },
+        {
+          "t": "10-16s",
+          "on_screen": "أكثر من معدن وعجلات",
+          "vo": "السيارة هنا أكثر من معدن وعجلات.",
+          "visual": "hands gently wiping a vintage dashboard, warm light, no faces"
+        },
+        {
+          "t": "16-22s",
+          "on_screen": "لكل سيارة سالفة",
+          "vo": "كل سيارة تحمل سالفة من الزمن.",
+          "visual": "detail shots of chrome, leather seats and steering wheel, soft sunset glow"
+        },
+        {
+          "t": "22-28s",
+          "on_screen": "المواعيد والتذاكر\nالتفاصيل في الرابط بالبايو",
+          "vo": "المواعيد والتذاكر في الرابط بالبايو.",
+          "visual": "classic car driving slowly toward the Manama skyline at golden hour, seen from behind"
+        },
+        {
+          "t": "28-34s",
+          "on_screen": "شارك مع ربعك محبي السيارات 🔥",
+          "vo": "شارك الريل مع ربعك محبي السيارات، وتابعنا للمزيد.",
+          "visual": "silhouette of a classic car at sunset by the sea, wide shot"
+        }
+      ],
+      "slides": [],
+      "frames": [],
+      "caption_instagram": "تدري إن السيارة ذاكرة؟ 🚗\n«كونكورس البحرين الملكي» يقدّم السيارات كذاكرة ثقافية.\nلكل سيارة سالفة.\nالمواعيد والتذاكر في الرابط بالبايو.\nشارك مع ربعك محبي السيارات وتابعنا.\n#وين_اليوم #البحرين #فعاليات_البحرين #تراث_البحرين #VisitBahrain",
+      "caption_tiktok": "تدري إن السيارة ذاكرة؟ 🚗 «كونكورس البحرين الملكي» يقدّم السيارات كذاكرة ثقافية. التفاصيل في الرابط بالبايو. #وين_اليوم #البحرين #فعاليات_البحرين",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#تراث_البحرين",
+        "#VisitBahrain"
+      ],
+      "audio_suggestion": "mellow khaleeji oud and percussion remix with a nostalgic groove",
+      "visual_prompts": [
+        "polished classic car fender reflecting sunset light, no badges, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 9:16",
+        "row of classic cars on a Bahrain waterfront, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "classic car close up chrome",
+        "vintage car show sunset",
+        "hands cleaning vintage car dashboard",
+        "classic car driving coastal road"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijwRBVV95cUxPeHVrYUszUDBVQndSZmxJZDgxWmpNUUhkODVRRk5WNU1kTHhwQ3h3VGtSVDM0a25kdGlLR3hYbFp5S0VRQWtmeDBMX29Jak5HeTNVb2ZXZ1dNZDhjWDBiclg4TnVpMVJ1cW9JSjdxZzduaEVXcUdFRXV0V3JVUXFaVWd3QWJFZU1UYk83WW9sTVU3SWQ4SXk1cUtZWXB3UDJ0dEo3ZHRjMkUyaGRnRjNYLXFjOGYyWll4dlgyb0ZUYzEtVURNYTZVQ1A5RU5DMFhEZlpWM1ZfMk5mTGFkSFhJTTZybWdlVk0zOEotcVJyUXhhN2U2WFZldk5yMlZXNjBScmUzWTNuVWdGVk1vY3FSRWM1MjU1TzNZOTdITy0xb24za2pDb2xfQnEzMnNCSGk2ZEVXNUpwRmtkREd4N2lQUzVLczJWOW9MVndyNUM5YlIxN1pxUUxpVGpuOFlWRVhGNUoyeUotWjBweVI0cTJLcUZZbUdXXzB4QlJ5T2pqX0kzeTBucDg0a2ptSVUzakEtMERVRVlDRk5EQnBMUW9KanVadlJ6R0lJWElHQURXWUE0RU9BYk5hWFZ5a1IyR2IxdlZoZlpKX01rVEFQWU50dHVfekpDVXAtRm1hOUJ0dFdVcU16TEhtVE16RkRkbmNscHFDWlZyVmdpWkJEUWFvM2R4X2kzMi0yR1dnTWUzaw?oc=5"
+      ]
+    },
+    {
+      "post_id": "D25-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "khafji-coastal-destination-sahel-alkhaleej",
+      "title_internal": "Khafji integrated coastal destination company",
+      "hook": "وجهة ساحلية جديدة في الخفجي",
+      "script": [],
+      "slides": [],
+      "frames": [
+        {
+          "n": 1,
+          "text": "الخفجي، السعودية 🏖️\nوجهة ساحلية متكاملة في الطريق",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "calm Arabian Gulf shoreline with soft sand and distant lights at sunset, Khafji Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and turquoise, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "انطلقت شركة «ساحل الخليج للتطوير العقاري» لبناء الوجهة.\nشنو تتمنى تلقى فيها؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: كورنيش / مطاعم / فعاليات",
+          "visual_prompt": "empty seaside promenade with palm trees and warm lamps at dusk, Saudi Arabia, cinematic, photorealistic, 35mm, warm golden light, palm green and sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "وجهة ساحلية جديدة في الخفجي 🏖️\nانطلقت شركة «ساحل الخليج للتطوير العقاري» لبناء وجهة ساحلية متكاملة في الخفجي بالسعودية.\nشنو تتمنى تلقى فيها؟\nالتفاصيل في الرابط بالبايو.\n#وين_اليوم #البحرين #السعودية #الخليج",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#السعودية",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "calm Arabian Gulf shoreline with soft sand and distant lights at sunset, Khafji Saudi Arabia, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and turquoise, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Gulf coastline sunset",
+        "seaside promenade palm trees dusk",
+        "coastal development aerial"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EZG91dHhtcVZzOUtOdkNGaWQyTGV3dGpHWGZNTTFvZXN0WHVuWHRZQTRXUFNrSDVxVEJKMDdfU1FxandYaHdDWkZ5bXRDR3FLcmhBTDZTZk8zSnBZR3RaNkpZdE9VdF92Ymc?oc=5"
+      ]
+    },
+    {
+      "post_id": "D25-08",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "22:30",
+      "topic_key": "art-without-borders-dragon-city",
+      "title_internal": "Art Without Borders at Dragon City",
+      "hook": "فن بلا حدود… وين؟ 🎨",
+      "script": [],
+      "slides": [
+        {
+          "n": 1,
+          "headline": "فن بلا حدود… وين؟ 🎨",
+          "body": "وجهة جديدة لعشاق الفن في البحرين. اسحب",
+          "visual_prompt": "bright gallery space with abstract colourful canvases on white walls, Bahrain, warm light, cinematic, photorealistic, 35mm, warm golden light, pearl white and sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "«فن بلا حدود»",
+          "body": "Art Without Borders فعالية فنية تقام في دراغون سيتي.",
+          "visual_prompt": "hands holding a paintbrush over a colourful canvas, Bahrain, warm studio light, cinematic, photorealistic, 35mm, warm golden light, sunset coral and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "المكان: دراغون سيتي",
+          "body": "دراغون سيتي تستضيف الفعالية في البحرين.",
+          "visual_prompt": "large modern retail complex exterior at golden hour, no signage, Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "وجهة لعشاق الفن",
+          "body": "خطة مختلفة تناسب محبي الألوان واللوحات.",
+          "visual_prompt": "close-up of textured paint strokes in sunset colours, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral, turquoise and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "المواعيد والتذاكر",
+          "body": "التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "silhouettes from behind walking through a softly lit gallery corridor, out of focus, Bahrain, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "ربعك محبي الفن؟",
+          "body": "لا يفوتك تشاركهم الخبر.",
+          "visual_prompt": "artist palette and brushes on a wooden table by a window, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and palm green, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "احفظ وشارك",
+          "body": "احفظ البوست وتابعنا لفعاليات البحرين.",
+          "visual_prompt": "Manama skyline at sunset with warm glow over the sea, Bahrain, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "frames": [],
+      "caption_instagram": "فن بلا حدود… وين؟ 🎨\n«فن بلا حدود» (Art Without Borders) تقام في دراغون سيتي بالبحرين.\nوجهة جديدة لعشاق الفن.\nالمواعيد والتذاكر في الرابط بالبايو.\nاحفظ وشارك مع ربعك محبي الفن.\n#وين_اليوم #البحرين #فعاليات_البحرين #وجهات_سياحية",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "bright gallery space with abstract colourful canvases on white walls, Bahrain, warm light, cinematic, photorealistic, 35mm, warm golden light, pearl white and sunset coral, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "art gallery abstract paintings",
+        "painter hands brush canvas",
+        "modern art exhibition corridor"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmVqa2tKZmhTQzc1MzJMbVo4cDRYRDRPdDlRUVl3Nm5JZGloSmF0NnhWYzRwS0VUU1A2NERaVWkyeVFBWlhqQW5JTWlLRy0yNkR6MDZxSHZtTHotNUtBMFBjMGpWRExUNDRaQkNORUswMDZKeV9JempTM3hEUGRIcQ?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "تدري إن… heritage & surprising facts (applies to the Bahrain posts)",
+  "held_topics": []
+}
