@@ -1,0 +1,425 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Positive festival announcement; dates still unconfirmed, so written around.",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival on the Pearling Path, December 2026; dates to be confirmed.",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path, Muharraq",
+    "angle": "ليالي المحرق على طريق اللؤلؤ قادمة في ديسمبر... التفاصيل بالبايو"
+  },
+  {
+    "id": "ab507dc3",
+    "decision": "approve",
+    "reason": "Positive tourism awards recognising excellence across seven categories.",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Qatar Tourism Awards 2026 recognise excellence across seven categories.",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZElCVlVZTWw3X2REbld1a0V2bEVOX0NiOFVYdENPLXJ4UGZySDNMNk5YMms3YnBPdE0xdTFHbnJra3p5RXN0TXVFanNpVlpGbEdxendQUFA3RTB6bDEtdEZIdDBVdGRLeTdwMS1Iclkxck83cl9nTHo0UFFYYU9tbWJ4d3JvNnNWX2hFem84Y1VYSUNvUzEwN2hUWThOaXFuZWU0NUMyUWV1Y0JvcWZWQ0dCSnZGSWM?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "قطر تكرّم أفضل ما في سياحتها... شنو الجهات اللي فازت؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "29b50a82",
+    "decision": "reject",
+    "reason": "Outside Bahrain and GCC; diplomatic visa policy.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "إعفاء متبادل من التأشيرات بين مصر والعراق..متى يدخل القرار حيز التنفيذ؟ - أموال الغد",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMENxMER0NzN1YloydkVMWGZkeWFqSEVmUHlDZjZDbzFSYUNXWUNqX0tsQlhfZ3pQeWxlYUluVHp4NnhHNXk5cjhjOTI4c21kUEdNQlUwSHU3cUNteDVXOHhKUmtDSjRYZ3F2LXZJQXJ6NEdJbzMxUGhodTh6ejQ0SjhGWWo2aHBoZzVwazZxRHpuZnlMeVFqcXdnLV9YUWdZQXA5eWdtakFOeXEwaVoxSGg2c1VfWDNmT0F3QWJYZzNUeWQ4ZG1zYVY4VUdtWnJNYUhQbXAxZ0YwOFJpSWtrU1BXbEhBLThlZFhGMlBjQkZKRHhQdTZlbEJNNXdfVlhNdU5VdEFzZVJISnRGRldLZjRyWTdmLWJEOFZZODhxVFZDR0Mta0RmUDJ6aFQ3VF9FZHhkODJLS2VPX2ZGMnQtY3FiWjRheEtSb1BFY2IzaTRvUlUw?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "07419069",
+    "decision": "reject",
+    "reason": "Outside Bahrain and GCC; US restaurant opening.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Sbarro Expands Presence in Greater Columbus with New Tanger Outlets Columbus Restaurant - EIN News",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmp4bnd1blVtSzB3dDZGR0cwQXNVMENCc1QyQ21PdGVLd0FBY2piMzhuaGVvSEtsTW5wRFRscHN2R19QcTZRR0F4VTk3cFpSZFQ5dVZ1QUxjbTVjRk94OHpKOFBDeG42QTRBWFJTRGY5RnJiMHRYUzA5a1NnR0FmdGhjY1oxVkZrVUdhTy1tWmE0c0JtdFBXSjg5UWJGYUJDbUFTcFpXSkhfTDZFQUV6aDY2ZVdhdnpwUHN5ZEpjbkVpdnBfdzJUSg?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "9e8dad50",
+    "decision": "approve",
+    "reason": "Concrete Bahrain fintech achievement announced at Cityscape Bahrain 2026.",
+    "category": "tech",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Al Salam Bank activated its first technical link with the Beity app for housing finance in Bahrain.",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HNmlVcGRMMHctSVhtWnJWbVpCWm9jVy10dG9Qdjd1a1IySk13UVNyWVc2YzdpUHFYNVlZN0pWTHFDRGFEY0txNFd0RFl5ajZpalc2QV9sREFzbmZvU3c?oc=5"
+      },
+      {
+        "fact": "The announcement was made during Cityscape Bahrain 2026.",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HNmlVcGRMMHctSVhtWnJWbVpCWm9jVy10dG9Qdjd1a1IySk13UVNyWVc2YzdpUHFYNVlZN0pWTHFDRGFEY0txNFd0RFl5ajZpalc2QV9sREFzbmZvU3c?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أول ربط تقني من نوعه لتمويل السكن في البحرين... شنو يعني لك كمشتري؟"
+  },
+  {
+    "id": "903db803",
+    "decision": "reject",
+    "reason": "Royal figure as subject of inauguration; patronage news.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "HRH Prince Salman inaugurates fifth edition of Cityscape Bahrain - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ubDh2U24xVjM4ekhmY1ZhaWZqWC1oRG42eWtKMEgyaVZodzJzN3FVbnBwTURHa2J1V0xIc0tLMndQUll2ODVKbndxdDhSZExLVGhV?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d3b35fde",
+    "decision": "reject",
+    "reason": "Political: government official incident at a diplomatic event.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "انفعال رئيس الوزراء الكويتي بسبب ارتفاع أصوات الحضور أثناء إلقاء السفير العماني - العربية",
+        "source_url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxQRjJCT1VxRjl0VEtxdTlsVGJNSm56N3ZtR09aeHpEaW44VHA5UXQzWHVPVGxhcjBYMWNpeHp0SjVBaEh3eDA4elVrY0wwa1piMDFyc0lkcFp3aDFtT1hUN3NjYTN6YktMYVJ6VHlWbzV1OFEtRENpek93NUZpcTFfSmtLNWtjYmFwdDdaZjAxaDVYdmp0T0tYdGdHaWdCUjBMRHl6WVRaWlZVSGJRVDA3OVZWZ1hEdF9FUWtheTBqVnBybmhiN1lJVWxqd2lMZFpaMFpMMWVZU1NPQUZLNm5QVFlySzdUMV9OSjVleXlNYWZNZTlaZi0yNE42NHRnWXowQ2dzU3ZWRFNjaWJoeGtlTXAzaUhXQkJ3aFJjMWRWYVRpYUFrQjRUYjBzc2pTRklFOHpDcExBUkQyNHJ0bW1FTnlEVElrRlZZVjZOeG1GbW1ILTltb19jVHFocUVXc2l4WnpMUTl1dlVoU3RWVmFiY2lyRDlzU2tmTENKWkV1bFcxYXhOcG5rVmFjczV4Y01pRmtUTGRkQmI3ZE9MZVNXLVBYRG1QQzE5UUFpck5aZEtjMUxnUHJtZnQyVTY3LWJWamVydVk4aXpfdmpaVXlTempKS3BUV0pJeEh0U2thTHY3blRZcG9UbFNXTHZoRFpwYndzVkRIVVExek1EZ1ZUZ2o2LVRTTmwzTzRrRFc0TWt1cDAyRFBuRGV2R1l1WkVPMDVlc0YtcUc0SXU2ekxWd2pQNWhOZDVlSVJxaDFPVHB2Nl9kMjhJcjRveXo5aEVzNHVZVFZsdmUtemhKYVptbm5kYnlZMEVSU3NWV3YxY05yX2Zmd2RKS0t6SjcxUVZveFdzaU1SQndjcG1RdEx0VjVFa1k5dmpJOW5reXlvMWFqQdIBpwVBVV95cUxQeUxWSDhTYmM0c21zbS1ZRUNzRE5GQlYwSkhiN25MZnU4U2lEZ2JwZnc0MVN3R09oWHIwSmFTSkNfdnlmQjJ2S2RSQTExRE5yVVQ3NlNlNzRhdFRyaDVsNnNEb0R3TG8wYXNTMHVGam5zSmY2SWxXQ2I0Uy1BS3JGMGd5WkNvZktub2dUclRiaTFvbjNuWmV0VFNZTjZlWkVVd1RJT2RHVFd1dURuOEMtZGhFVVJEdFRIZE81dC1oMDdEMzRIMER2QnJ3dWJDV1NaTVZWQUhWbmlHZlNZWktTMEdJajFxeE9GMDFIdEx5NTZXUDR6UnhnVDBnSTktbFN3S3h4SERQMzFDOG9RbExnd1RhSDUzWW5JYy1QTUREVHZPTk1faDQzMW1PRGpfU1Blc2kycUxwVk1Ua3NrZjVfYkxFRWVyZ1l6ZUlZbXJvaVp0MkE0M3ZjcnJES1ZpOXBsZjJXNkZqaXA0MEZMTERadElNWTRlZklPQS1mY3FCUVVlT0hBUkFZVFZJMThNalhrTm9JRS1HRUVWYVY4ZHc2U04ySlpTNGh5MTk1T1ZjcE9XeVI1bjNYakRqNzZZbWpheTJ2OXN5aXpzeDdIYmxoa2J0QnBfTHJSTnlBSDEzb0pIRTV5allDNko2eTJoa3hLTDBxWVpHUjNvWW0zeFlBWllnNHBUcGxZa3M2THpzYjFQclFheldaa09TQUlCZWxEaDVmZWhxcWU1YUVjVjlES0JsNFlaampLY3ZvTFpydDg2dlVhbUNYdHNhVm9mWWFodkdxUWwyNHlETmlZLU5rR0Z1TDdzc1BCdjRqSGctVVJxRGlTaEJFSUtlX0lUaTFDTXFFQVg4NHFtZ1Z4WTJBOC03bEpjMTBoX0hVUElnUFVXMmwwWjNV?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "97f9af47",
+    "decision": "approve",
+    "reason": "Bahraini theatre work selected for official competition; Bahrain on international stage.",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "The play «أرواح عالقة» represents Bahrain in the official competition of Carthage Days Theatre Festival in Tunisia.",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LdTNQT0ptMklrNDVGd2JZTW5BU252YnktNW0wMUtacFl2OThzTE5xbUJSUXhGczlPdHl2aWxuaGtUS0R1NjcycnlTVXhHWkxBbkNnSXl4UHdIUjdVVlcta0t4VnpuZw?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "أيام قرطاج المسرحية، تونس",
+    "angle": "«أرواح عالقة» تسافر إلى تونس وتمثل البحرين على خشبة قرطاج... تابعونا"
+  },
+  {
+    "id": "f4c5a617",
+    "decision": "reject",
+    "reason": "Minister statement; not a positive event or achievement story.",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Bahrain's Youth Minister Praises Kurdistan's People and Heritage at Erbil World Youth Summit - Kurdistan24",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSk9LMTliNnphLWREa1FvYTlGX2cySHZPZGxFdmpEYV9RTURwczExRjlOdzExYm03eUozNW5FMHQwYUI4S0o4UmRXWWd4bnZIc0k3S3ZmbDhpZW1DSWJyLVZobU5hMjE4Qll5MTk0T3ZZaEZiZVBoSWhPT0d5dmRqQ1hlSHBFQjdEWWlsQmdIZ1JBTHhvUzVDTEVJSWtDRHk1eWo1TnZwZEhxR2VJa1hHcW1IWEV4VFk5TGQwNEVSZkxhZjJCcTJSV2JoSEhVdkk?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "64b12cfb",
+    "decision": "approve",
+    "reason": "Positive partnership supporting tourism and creative startups in the UAE.",
+    "category": "tech",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "DCT Abu Dhabi partners with Khalifa Fund to support tourism and creative sector startups.",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmY2N3FZUF9kU2xlTzNFMTlJN1ZYaWRhZzVTM1p5MzJzdUlTa1ZJNHdTTWxySmdNSGs2RzdqaVF5aG5RYTFySGNULThEajQ3NWczQTZaZGJzdXdCVVlobEYwNWdvYjhJbGphQnRQdENKQnBxSmVQbzF2eFFzcnFESnVsd0ZoSU9mZ2xVSFFEaHBTWm9seExwaDl6VUx3YW9JNTZ4aWdycWJLak1uUUxicC03TTBvcVQ1RGhJWUY1Y3hNNm03dGgyZXQzUQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "أبوظبي تدعم الشركات الناشئة في السياحة والإبداع... عندك فكرة؟ التفاصيل بالبايو"
+  },
+  {
+    "id": "1f003096",
+    "decision": "approve",
+    "reason": "Real estate expo event in Bahrain; named offer is verifiable from the headline",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "Infracorp unveils an exclusive \"5-6-7\" ownership offer at Cityscape Bahrain 2026",
+        "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1cydnFxNUMxTE1NT3l2cTNYZ0ItMV9YTU5pSHo1LW8zLXlNTk0wQmhWSzRpcDBhaUJLTWp3RllKTWxyaVRNVUFOODdILVMyOUNjS1UtZ2o5ZzFGd1dOT21Mc01XQkZfOXdxRU56bHBvZ0s2cUhKYUNmZkt4Yl9uYlEzOWtHcEtKVGEtXzg2WVJYd2x4WWtxLWlDbk01NVp5RGU1bmxCZHVBR2c0c293d2FEdGVBNlduNDhPN2trb0swYTBrR24xUUpnT0NvSEQ1aEVhX0pOc2M?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "عرض خاص في سيتي سكيب البحرين 2026، التفاصيل بالبايو"
+  },
+  {
+    "id": "7f9faea5",
+    "decision": "approve",
+    "reason": "Positive Oman business milestone: new IFC headquarters opens with registrations",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "IFC Oman headquarters opens",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYThkM3ktb04zNmVGaFUwandDbXctNUNkRk9CbDBXZTJKeUV0NnBCZXN1LXJ6V2Vqa2Q3WG83akxyYzJNVmp5a2gweHV6OHJueEU3dGprd2U2NWVoQThCVzNJWHQ4YUN0RkNKRUh2TjdSTmdicFRmLTAydDNoSVY1Nk9Pb29TbEp0dFphbWZrVk1aVTA4TVBsd0hwQ0VtN3Mz?oc=5"
+      },
+      {
+        "fact": "First 13 companies registered",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYThkM3ktb04zNmVGaFUwandDbXctNUNkRk9CbDBXZTJKeUV0NnBCZXN1LXJ6V2Vqa2Q3WG83akxyYzJNVmp5a2gweHV6OHJueEU3dGprd2U2NWVoQThCVzNJWHQ4YUN0RkNKRUh2TjdSTmdicFRmLTAydDNoSVY1Nk9Pb29TbEp0dFphbWZrVk1aVTA4TVBsd0hwQ0VtN3Mz?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "مقر جديد في عُمان يفتح أبوابه وأول 13 شركة سجّلت، تفاصيل بالبايو"
+  },
+  {
+    "id": "8f25353b",
+    "decision": "approve",
+    "reason": "New luxury resort opening in UAE; positive tourism news",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Six Senses makes its UAE debut with a new luxury resort on Palm Jumeirah",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SWnI5TkMtRGRmNnlLeVAxd1d4YWdjM09ibUdaZkVpc0JPYW5ZYTZ2QjgtNUhXWjVJcUhibGExcHhtQmd3MFhtSlgtYTVwcGlLWlZB?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "Palm Jumeirah",
+    "angle": "منتجع فاخر جديد على نخلة جميرا، وجهة الويكند الجاية؟"
+  },
+  {
+    "id": "a90e36da",
+    "decision": "approve",
+    "reason": "Bahrain exhibition on Arab jewellery and luxury tourism; positive culture news",
+    "category": "art",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "معرض الجواهر العربية والسياحة الفاخرة في البحرين",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yWjRkZVRIZjhFV1EzWVpvTkNSX1BLOWxueS1URHM1S0c5M09Jemw0WUhSaEJCWnRPcGgwZVRQbUM5TEIyNTAyR1VScHVaWVBsZDZfeUZqTG85eU5KZmtEdXFRUW1lZHJraEhRbW1SX0VEck45LW1MWA?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "جواهر عربية وسياحة فاخرة في البحرين، التفاصيل بالبايو"
+  },
+  {
+    "id": "fbf9f250",
+    "decision": "approve",
+    "reason": "Dubai Shopping Festival returns for 32nd edition; positive event news",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Dubai Shopping Festival returns for its 32nd edition",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVk0YjVDUjdvLXU5Z1kxQ2xQNjN6OVZ5OEhYZ0J6bk9hTWdOLVpHMW1EMEpGaWR3SEN3S1lHamdKS3BaVDZEcmlSNnRkNW5HSEVhYmNGT3Axd0FTUks2RDdyZndFckVHeUxDcnNoSXBGQ2YtYVdvQk9kT1NMSWo5bXVzX1ZRSmhTTXdzcHlaYWNjejA4SkNROEVVRFRUNElhSXVFNDZyWVh5ckNOcEh5RVBUMkVqSkQzbF9NQg?oc=5"
+      },
+      {
+        "fact": "The festival runs for 45 days of entertainment",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVk0YjVDUjdvLXU5Z1kxQ2xQNjN6OVZ5OEhYZ0J6bk9hTWdOLVpHMW1EMEpGaWR3SEN3S1lHamdKS3BaVDZEcmlSNnRkNW5HSEVhYmNGT3Axd0FTUks2RDdyZndFckVHeUxDcnNoSXBGQ2YtYVdvQk9kT1NMSWo5bXVzX1ZRSmhTTXdzcHlaYWNjejA4SkNROEVVRFRUNElhSXVFNDZyWVh5ckNOcEh5RVBUMkVqSkQzbF9NQg?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "٤٥ يوم فعاليات في دبي، وش الوجهة اللي تختارها؟"
+  },
+  {
+    "id": "c4ee3e37",
+    "decision": "approve",
+    "reason": "Omani products promotional campaign held in Qatar; positive GCC commerce news",
+    "category": "event",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "A promotional campaign for Omani products is organized in Qatar",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDQTFQZFlDQmthOTFqWlBsZ1hMZGMxR2lwcXlLTk5sWjdLcWNJYmVlbXJoMU5TMG1VRUhjRTJJZWxyOGZzZlJEbmlOU0QxNXNUSHBHdmtMcEt5TWp1?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "منتجات عمانية في قطر، تجربة خليجية تستاهل الزيارة، التفاصيل بالبايو"
+  },
+  {
+    "id": "4734de29",
+    "decision": "approve",
+    "reason": "UAE ranked among top 12 travel destinations for February 2027; positive tourism news",
+    "category": "tourism",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "The UAE is ranked among the top 12 destinations to visit in February 2027",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPSkVBQnVYN1JGYUphQlZSNV8tc0FrWE9jTFFGZHdoSFZlZ1dVWHh2YUdvTjl5NFZFamVOQ1U5NklFaThGdjFtYWRZLUNFU0R1bV9iZTJnNmhZVEVpMmp0WG5PRGNMY1lDbVg5MGZwSVUweTlGM0g5MldUcE5SX3VndlA1MkQ0X2VXRXdaMGlXUlNLYy1MdjYwOG9wcnFxUXB4T0pJV2R5eXNPOEJlSTRLeVFWS2JnZmdUb1lGRHZxR280SmIyTzJCbkJwWmh4ME56QjFibndia3Bfd3NJYmxyOUluUnVkaFg2Rnh4S3p5THdPZzY5dVhaaTR3bWF0Nkk3VkFabmppRExKeldsaEdYME56eUdXTzg4RjJCbXdLV1RGQkh3Q3BjbmtIZFlyT3BiUnFFc0RrOVBJQi10NHVab0N3LXF1U2gzektkT2J6VGdBU0dYRG1IXzdzOGlFX19wNENzaFBKR3JnM2FBaVhjZmpnbVAwZXpDUldYaUhtTXI5UFdjbGFHbHIxUVZtZzgzeW0xaFl5eVFkUmh5aWtLVGliVEhsbGszdVl1ZjFtQVVyaUF5d0IwakRoQUx2TUljMkJzblFrTE9PZ2ZqRW5YVXhpejM5S29tQTRyQmpqcW5PYlRpRFFINUZtbHBKOVo2UjVnUFlwOFkzNzZWT29obGpERGRTVWE2TmtZ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "الإمارات من أفضل ١٢ وجهة لفبراير ٢٠٢٧، وش خطتك للسفر؟"
+  },
+  {
+    "id": "c14662d2",
+    "decision": "reject",
+    "reason": "Corporate leadership news; not Bahrain or GCC",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "Jensen Huang returns to Nvidia, vows to be 'a better CEO' - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZSUxZR05Ua2w2eEVYZlY5NnNVbEpmYlhfM3R6OVdzdU03VDVIbm9kM1VQSkdMZUxhblNEZHI2REM4X0YxZ2hTMnBLRHJHT2F4WlB3?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "7a65a4e5",
+    "decision": "reject",
+    "reason": "Negative workforce shortfall framing; not a positive event",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "KSA Business: Tourism sector faces 43m worker shortfall by 2035, TOURISE report finds - Gulf Daily News (Bahrain)",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BLUZiRjRuY1Q1T1Q0blZ4N3VqV1N4OHB4TWxHbGZ6dVRKWW1waWtycXhhQ2RDd3lSdG53a0tkSlFidzNwT1UtSTd3WVctTW96ZHVB?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "91f4ea33",
+    "decision": "reject",
+    "reason": "Conflict and attacks; regional tension, out of scope",
+    "region": "bahrain",
+    "facts": [
+      {
+        "fact": "منظمة التعاون الإسلامي تُدين الهجمات على الخرطوم واستهداف المواقع المدنية ومقر الأمم المتحدة - صحيفة سويفت نيوز",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CaURRV0NfakV4amtjdHBZcHVXLUNJcG5qYlZaM0pBQzNUVk15Qm1Gbm9tLVZGZ2NRYUNCSFRGb3dlbU96TGotV3RwVGF5QQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "606856e4",
+    "decision": "approve",
+    "reason": "Positive women-entrepreneurs award ceremony in Abu Dhabi, UAE",
+    "category": "community",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "تكريم الفائزات بجائزة التميز لرائدات الأعمال في أبوظبي",
+        "source_url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxOTUExN0ZlRUJKT0tJbmpwN3ZFRUZHRkg5VHJ2d09LcGlFX0FnZ1JjQktpWWhxYVBWY2J2MFBUZ1gxMnpURW1mejFySHhadlYzUUR0ZUUzMUVTNGwxSVE5S3BwOHlEckxSZlZEaFJoMWF1RzJQYmdpcUhYd1N5b1ZMbmlfNEFzbGlVaW5Ga3VMWTdlQk5HYW9HZ1B5Z3k0WlczMXd0NUxmTU1DbGhlYTJLVzI5aEU5cEZLeHBsNHVZWjE5T04wdnlWR0w2aS1FSzNUWS1MQVZnSmNSVWNrdWhBMVZxclZMTzN3dklldlpBNWZtRUNGQmNiRWFhVVJxN0lRM0FHYWIwVVlTcXJuQ0tVZkR2RTFaNm1HS2hOSHdlUEZqNUZsOG1KTFR3a0FUVEhBNS16QmpMS2JLWGZkanhrdGtDcGV4SWI1djYwaVVneEZNRDJKaGZxcGZJbmRDaVBZazFTbHRWUS1YcTVIQkNVMzRfY0ZZMVpVTEJWM21uLUxUR2NNU2RTaGFHMDl1RnRybWozdkRzSzEwZWhFVHpnY1ZiUmZKR2ZjM09hb1VrajJndG9BVGpFOWRhVTZET1lLdVN1a2Q0bnQ1X3hBcDR4LTBsYUNvbk0talFmUzdENE9oQzJzWVJWYzZQdmY4NXdwRGtTZmFEQlcxdUVCMFdGU0FkMlhJTlNkdlF2ZkFFaV9wdVR4MXMwSXhmTGl2YWZWTk5oSnh6VlFBUDdhUEZEcV9hcmF3dmt2SWVhTk5VdjB0NDc5RzRzNG5yZGtyUlBKbjM2UkJMWUJNWlhLOWRwRnRDS01zQjI5UUE?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "نسوان الإمارات يلمعون بالأعمال.. التفاصيل بالبايو"
+  },
+  {
+    "id": "4087401c",
+    "decision": "reject",
+    "reason": "Vague corporate PR about a law firm's expansion",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "«بونيلي إيريدي» للمحاماة تعزز حضورها في المنطقة من أبوظبي - صحيفة الخليج",
+        "source_url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNdDJiMllSd2l1NFFETHRWRWMwenQwNERVcUdsOFAwQnk5V1VmMWRhMkVzcVpPdzFaOVVFdkJJLUN3VW1ocVdRbHRaM3JOVVpsX0FMZTB2RXlaeDU5dU5VRXRwVW1lYjl6OFlURHowTktxVEctcnhRcXJEUl8zR0psZ3pGbkVsRlZJMnotTThCVTVicXJaUGRMbV9XQUVCVWl1RFg0UE5VVVpZcWVRTnNoeUh6NGwyeWFYOGNqczFuMUVPUUdjNVd4RG5vNzBkR0RIZXhZSGxDa0cyQWpsWDM5VU5oWDR1OEhoRHJTZEFXdUlsdHJiUktJdlMzQ1htSkZGSnY4NnRGeG1oZkFRcWFHaHprS0ZYNmhLT09fU3NnRVdCOTlPckVoWnRMRHEza1VzeV95eTlYcTdsQjljeFNIMWo2ZVpjUDBtam5fMmxMcWxxWWw4RVZXMV8xUThsWkY4aktjbkh6b1RPMWFZcHJyTC1LQ3ZVcjZEQkJ3WjhKYzNraG9wV0RPOUdtWEVWWGptSjNRc0hjYlJQSWNKQ042YW5ab2ZndXlXVDlfUTFlNHlNdUhNbUkyS0xiMDU5bURWX2JwWmh0YkRJNnBVNlgybXhsdWE1RnhMYnhsTTVNaWxIVl84dHM2UXZlRm5sWlBWT0hwTmdKSXVxb2NOa3FtT2xzUHN0UGgyWUxjZzNnUWNIaXZsaVJRZUMwd2pNNFcyUFBTOGNxUVNqV2pPUkhWZmdTMjRqSnRJRDVuNlVrYmQ4RmpKVzFTSkxyZWhEZEc4QUNuaUVibEI4UmlFanN5QjcxV2t2dEZhQnhR?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "d42808f5",
+    "decision": "approve",
+    "reason": "Positive tech upgrade: 5G connectivity at Dubai airport",
+    "category": "tech",
+    "region": "gcc",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "du enhances Dubai Airport connectivity with advanced 5G network",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxPX0dtYk41b2VMTXlQQkZuQ29PNmoxMFIyZHJDOEtuVGVoTU9Nc2I5T1FLeG1DZThIU1gyNVFFMTFVbVNqQk9VaGp3ekpCQmhTQk1DU3M1SW9zT2hsMnFXRjBLOU9aNEQtLV9fVWRzMFNZMjJGTk1VN2xLR0c4ZzVLQnR6VngzS2ZmSFREbWJkNkZySkF0RXlnVFRQdlJpYmx0bTRkZEk1eVV6aUdicUN0NzJsV2ZwVDRSLURnbjBDQ0hHVVJDelU0cDhGNkI0M2Fqa2lxcmpSRHNZdHhobVROdElLdGVsZzVCeEVXZFhRcWdBOEhoTnZlSjNSV2xyeVBBT3ZPVFhIUWppNXQ1Nkw3UlZib0RLby1td2dNbHVMNmtmSl9iWGZrcC1fc1NIVHFsZVJ1UEptZ3NmWmdDSXQ0SmtybUdhQnhXTkthcXRBaWlSWWlHbmxPRjBfelVrbXV6YjJfREI4QjNacW5OOTF0YWN5SFNWNUg4UmE2QUJLRnpJeExfNXBkRTBoWU95NVF2VmNWRGNWek1sWmtYMVlSVW5SbEEzd3llNlJOTzUtV3k3Wks0Y2ZOYzJtZ2IwQmpzVnZLbF9sQXJpdFI2UlJQcl95bzY1WDlhUFFfSDZZVjJYbWtLSm5NYWRCZ2pXNmlpdjFZSEdqb2Q5OVI1X0N3clRLZWpVS2o2WnNOZEtZdktqTzZDSkJseGRRSDlzLUtlWWdid05IWWtDMHQxTnNiU0t3eXVIQVk3dE9xdDk0cUJLZDg?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": "مطار دبي",
+    "angle": "الإنترنت السريع يوصلك حتى قبل البوردنق.. التفاصيل بالبايو"
+  },
+  {
+    "id": "8d078e45",
+    "decision": "reject",
+    "reason": "Government-linked award, no concrete event or achievement",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "جائزة الشارقة في المالية العامة تواصل نشر ثقافة التميز - صحيفة الخليج",
+        "source_url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxNQ3c4WFh0U0tocEVvUWl3WGMxYS1kaGNMVEhMaDlNdEF2STl6Q2RBZGJxZGU3U01KcEVXdlE3M1Y1ZW0xUjBKQ0N2bkFTMlR0TkRQay1pZi1wdFdSZUVDRFJNcDVmT0d5TXlTQlFDUm9qQ1ZuR0RGZ1o4TkxHR3pET2xFSHRZeXRUaXpsQlpRN2VwN0xJVlJncUNEZnNhQVVYWEFMc2RoMFJDQzdlUEdmVXN6a2FXVXh6THpBOEEtckJDZDRsUG9YeWpPY1BJeXFFazRDS1UtNjRwb1R3S3d1MXhmbGhETDVHdGhUNFZiOUliUWNpcnc2cmJQeE5Dd3ltUmJLWV9vcDUtU0NyZnFfRnlpbUpfQ0JhVWZuTU4zSG9QWG10QVFNWVNiRVBvXy0xTHZORmlTNHppZVBwYkJGUXNTY0JNa3BFcjlleUJhS2I4VXByejlKSE1hbFl3WUZmZU1PQW5WREpCVVU0UXpKM3ZvZW5kd2UtWkFqTXp6Nk9zSkVxZGhxbjEzb1laMjdmVzI0bFVGcGQtbkhib1Z3bXhOWE5WcFRYbmtwYmNvM0NRTElwU2RUcldFUHF1Ry1mNjdsSF95WklTOU1iRWxTUFc1NGpJcUhQaFZ6V1NKTXQzMTdDRW5fV2ZkOFkwSHIxanhtWFJsbWNMUGNsWjZmR3dISm9xeTluRFlPTlNRNHFvaW56VWNBaTNPLV81eVRPZm1vNFhnNFk5cFFKb1ZSY3ZsOXBuYmVFUXRkbFBCMVlHSjBxU3pjX1AyMGlLQ3NtMHJVbUNIbmt6YzEwOVJGa1NCSQ?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "7fc82ea7",
+    "decision": "reject",
+    "reason": "GCC brand activity outside GCC (Malawi)",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "الإمارات للشحن الجوي تدعم مجتمعات في ملاوي بحقائب إسعافات أولية - صحيفة الخليج",
+        "source_url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxQdlBuQW13M0MyRTFUc3RwVTdDdnZwc3plQWFGbkNiN05kT0FtcXI2MFU1Q044Wkp3bmZxeDI4MUVxWHpmRHMzbXRuZWVyX3E1d25IWlhUR3lYSmtvTGhNUkxRYV90NFJOTnpTbnNhQ2toVkUwMXVPeFgxRWMtVkJ1QnZFRU1CMGhzeGEyX3dJeGZGcUgzd19BTU9IWEVJUDE4YnJnRFZZcXlrOXgzRGZrdHBld0hwTTJoSVEtSm85X2s0eHZ4MnJJMVI3QkROcnRldy0zUVVRa3V4MGN2R1BHWXY3Ry1ISGF6Y3YyVUpaNGlxY3M5WFZTczFXb2R0RjFBeU1uUldIXzA5bjFqSTJZM1BORFJYR1BwMmVNN3YxR29LOFBvTjlnWFp4aTdmcmtxd19HcnRsU04zbjZOZmZqemxoNEx3QWJDUGFnRnhpWG94RzctQU10OHRSNkZwMTJlYmUzTWtLRHV5Y1BFU0gyVjJYUFYzNFhhbWtadzZyZUFFVzhkMkJhM29uMGZ6SDRNM01ackJfaW5UM1h5a0NXbGZ1Z2NxeVZkZno5aUFTTGlBXzRyUl91TE1LUmdwZU1HQkZJazl4bkNORkpHZVdDelRrR1IxQ0RlSVNDaXk4bmZ4UEhEVHd0SDlhV3hCVW9QT0wxNm1pcHFLay1DbURyc3BsVFctOGZrRm1HM0I4aFFIc3A2MUVfX0tKUXhoZTl5blBwWUtzTzFod2NhQWFfNEM5eUlwQVQteDBuTmd3cFFmWlJ5T0o2YjdMV1I2NW9VQmlMd2sySHp2WnJtZG5HUDB4WmtyNDFQR1hFb1ExOFpYRWlpOTlUczRpa3ZCZVJzZmU3ZEYxWkZOdF9XX2ppbDh6VHU1NnktWks4RGllWm1kMGxF?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "59b70ead",
+    "decision": "reject",
+    "reason": "Central bank official meeting participation, no positive hook",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "«المركزي» يشارك في اجتماع مجلس الخدمات المالية الإسلامية - صحيفة الخليج",
+        "source_url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNRVQtNDZRRDBVQXBJVFFCLU9KRFNHT0NXRHdtVGRvTlJfN2dSbjhHUEZ0cXUtOW9tMHBiZGZCZU4tRVdyTF85dVFRdDhHWWVTc2ZTMzZWZC10NThNeFM0Wk14SS1NS1hjNGRLaGRxUmt2R0dVUl9MaGx6REtvRjNrZ1VBOHBIeXJvRDBiRk02bnpueFpPeS1CZkZtMUF5ZmFNdHBpX3d1clZ6STJEQlRkNzJhZlZBWE52Q050dXdTUlpEWXZlZmR6eUlKczI4VW5fbDh0aXZuZGVBQm9vVUhsemJaUXZrNGw5aEdUU1IwajFvbG9mUkVaZVNjOVM1dkxkVFJSdlhYdWZ5cE1LYjFhX0hvUkpuZXpSaHljZTNDaUt3LVpsNHVFOTJpRmRBa19hQnpUNExMeVRONmVScW1DVW56cU5IT1BablpGY2I4MDlRVmRMZ29UYzl2SDE2TzBmR01TcnhjclRWb0cwdGJrUFhCa25SMVdGRGo5Z0lROENMR2J2cGRyVy16Wi1BLXZYSmRaNlh0QXAzMG55MmQ4UXFMdWM1VmV3VUduVFZQYWNCbWxOV1NNWDhvRDI0MktvbVZSR3QwdkF1bFN2TW1mcUdpTEJ3Vnk4TkdOUDJIbHcyQTdvZlV6cDVNSlVjUkw4ZTYyZzcyVVFuQUl1SkEyNU81V2VkR19KWFZXelVyemp4VkdHTVhtcU13QnZjcjJEY1ZrLUJqYlljM0lDSURKaVJuTVJsUUx5MWdRdmloa0gxS3c0S0wwUDFtN0NaV1UzRU9GZlJiYTJuazJTYzktWURYaEJDRlNYY1E?oc=5"
+      }
+    ]
+  },
+  {
+    "id": "ded5d9bc",
+    "decision": "approve",
+    "reason": "Positive environment news: official partner of UN water conference 2026",
+    "category": "environment",
+    "region": "gcc",
+    "risk": 2,
+    "facts": [
+      {
+        "fact": "First Abu Dhabi Bank named official partner of the UN Water Conference 2026",
+        "source_url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxQQnNyZGlsa3ZHRjFOOThPNS10YVUwdDZWbjZlblc2QU1haDZUaFRma2h0T1JSSFR5UTlVMnJOa2Nzc3ZHLXdSOVZWWlRpYTJ4MW1WX2dKb09LUkY0UzQ4TmJTXzV2RGRKbWp4cjFaNUJQUmd5N2szSkRnX2tXTlpkamx6dXhGMGRVNEt4LUM2LVdpal9SeGlQNUNqM21MOElrcW1OUm03c0xlR01SbGFYdEVyTUFERkJrWFVLQ2N6cVRMZ2g1bVlZN0NTZ3IwUVg5dU1TdU82NjdMZXRlcDU5ZUlQWmt3a0pxcjVkSzRmUlhFVGFjQ00xV0R6Qi14T0ZhdHJXMjZaNHZnVmRlYm9Oa25yNS0wMFRUOTRpazhlY3lGNnc4NDZVQUw4a3VUVVdvckhOdjBoU0ZmQy1HY0ZqNzctRXl5TDVsdUl0S0NMRTBvUDVuYkhLeEdZZFd0SkI0WVlnT2dIdnc5ZWo4YzRaLXlNWXZibGE4SmtIVl80TElsU3A1RTBNWDlyQ19na1NkcDhBRkdvVExMRWRLYTZ3VUVZMGNUUFFKbkNrWHQ2OU83X05DWWJETkNRbUV3WXpKdWgtVkdSVlBjc2hsVE5kQm5wOWduV2Y5bGVKTkE4OWh5Sk9fdXlaSl9TY0pKNnVDbWJJZzJ0ek01R0VNdUw0a1B3VWJrdWwzU0RtNnFWLUNYdFdKcXFnWGtmT0pSUDZxdW45ckU0UFZYODVEWkRELUFZZWVfWDdZenJMQjdENXBGR2ZYZkhqdW1hemlNTTNJeVJ3a0RkVUlaSS0tMUE5QQ?oc=5"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "الماي يهمنا كلنا.. مؤتمر الأمم المتحدة للمياه 2026 والتفاصيل بالبايو"
+  },
+  {
+    "id": "1579c0be",
+    "decision": "reject",
+    "reason": "Mixed roundup includes government childcare rules",
+    "region": "gcc",
+    "facts": [
+      {
+        "fact": "From Qasr Al Watan Tracing 7,000 YO Emirati Heritage To Saudi Arabia’s Childcare Rules, 5 GCC Updates - Curly Tales",
+        "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRDR5V3lCbDJNX01IZ2hwLWlTWUJsUkVZQ1A3RHdETFpkNW9HYlhDMXUtRllRZXh6M2tKRHZnREhvaHNNY3Q1cHZpVjZtTEl5d3ZCcTcxUGtvVmFxZ0JjUmFSRHpzZjJQNjZKNklLZGpKc0QtRXhyc0VXeHBvV21nakJfX2daTHEzdC1JZms1LVJ0OUo1cU1tS1dUS3oyRDF6QjdGdVdxVmZ1OXFfd200WkU5QnJON0QyNVBKRnBSa0ZwRm9fNXRSaEtCbFM2dnB6Z3Q0N2dxRzVlWnPSAeABQVVfeXFMTUpMWGtIbm9LQkdCd29HZWFwUHV2aE11ZlQxdTJ4aTN5MHF3THY4X3JaNjR5TXVGd1VlLWw0VXRWWFhZOEk1MEZmWFZKRnFyX0pISlNraC1UeGRYbmRBVHJLQ3g4LUFYSEFyNnhuYUd2eG5WbW04WDh3Q2Zia0UxSTRkd2JYakQ1ZUtBbFFXNG9GczdUcklYTlBmbFR1cWNKdlA4Nk8xcnZVa1FEMXBOVjF3eE9sU1VZZGFnZDJ5aTBISWdOVGFKT1A5SGotcjZJUlJuelFWa2JpM3ZuRlVndE0?oc=5"
+      }
+    ]
+  }
+]
