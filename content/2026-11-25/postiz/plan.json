@@ -1,0 +1,146 @@
+[
+  {
+    "post_id": "D28-01",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-25T07:00:00Z",
+    "time_local": "10:00",
+    "content": "",
+    "assets": [
+      "D28-01_1.jpg",
+      "D28-01_2.jpg",
+      "D28-01_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D28-02",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-25T09:00:00Z",
+    "time_local": "12:00",
+    "content": "",
+    "assets": [
+      "D28-02_1.jpg",
+      "D28-02_2.jpg",
+      "D28-02_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D28-03",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-25T11:00:00Z",
+    "time_local": "14:00",
+    "content": "25 رحلة إضافية.. وين تطير؟ ✈️\nGulf Air تعلن 25 رحلة إضافية إلى لندن وبانكوك وماليه – كولومبو والدوحة.\nالرحلات تتزامن مع إجازات البحرين وموسم عطلة الشتاء.\nالمواعيد والتفاصيل في الرابط بالبايو.\nاحفظ البوست وشارك ربعك اللي يخطط للسفر.\n\n#وين_اليوم #البحرين #سياحة_البحرين #وجهات_سياحية #الخليج",
+    "assets": [
+      "D28-03_1.jpg",
+      "D28-03_2.jpg",
+      "D28-03_3.jpg",
+      "D28-03_4.jpg",
+      "D28-03_5.jpg",
+      "D28-03_6.jpg",
+      "D28-03_7.jpg",
+      "D28-03_8.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D28-04",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-25T13:00:00Z",
+    "time_local": "16:00",
+    "content": "عُمان في ديسمبر.. شنو الجديد؟ 🇴🇲\nTravel Daily News تدرج عُمان ضمن الوجهات الدافية لزيارة ديسمبر.\nعُمان أطلقت أول تلفريك عام في مطرح.\nوالمنشآت الفندقية وصلت 1,475 بنهاية 2025.\nاحفظ البوست وشاركه مع ربعك. التفاصيل في الرابط بالبايو.\n\n#وين_اليوم #البحرين #عمان #الخليج #وجهات_سياحية",
+    "assets": [
+      "D28-04_1.jpg",
+      "D28-04_2.jpg",
+      "D28-04_3.jpg",
+      "D28-04_4.jpg",
+      "D28-04_5.jpg",
+      "D28-04_6.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D28-05",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-25T15:00:00Z",
+    "time_local": "18:00",
+    "content": "",
+    "assets": [
+      "D28-05_1.jpg",
+      "D28-05_2.jpg",
+      "D28-05_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D28-06",
+    "platform": "instagram",
+    "format": "reel",
+    "schedule_utc": "2026-11-25T17:30:00Z",
+    "time_local": "20:30",
+    "content": "أول مشروع بحريني بـ WiredScore Gold 🥇\nDigital City Bahrain أول مشروع في مملكة البحرين يحصل على WiredScore Gold للمرحلة الأولى.\nالإعلان كان على هامش Citiscape 2026.\nفخر للتقنية في البحرين!\nالتفاصيل في الرابط بالبايو. تابع وين اليوم.\n\n#وين_اليوم #البحرين #ريادة_اعمال #إيجابية_البحرين #Bahrain",
+    "assets": [
+      "D28-06.mp4"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D28-06",
+    "platform": "tiktok",
+    "format": "reel",
+    "schedule_utc": "2026-11-25T17:30:00Z",
+    "time_local": "20:30",
+    "content": "أول مشروع بحريني بـ WiredScore Gold 🥇 Digital City Bahrain يحقق إنجاز المرحلة الأولى. التفاصيل في الرابط بالبايو.\n\n#وين_اليوم #البحرين #ريادة_اعمال #إيجابية_البحرين #Bahrain",
+    "assets": [
+      "D28-06.mp4"
+    ],
+    "settings": {
+      "privacy_level": "PUBLIC_TO_EVERYONE",
+      "duet": true,
+      "stitch": true,
+      "comment": true,
+      "content_posting_method": "DIRECT_POST"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D28-07",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-25T18:30:00Z",
+    "time_local": "21:30",
+    "content": "",
+    "assets": [
+      "D28-07_1.jpg",
+      "D28-07_2.jpg",
+      "D28-07_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  }
+]

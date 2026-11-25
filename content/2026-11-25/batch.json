@@ -1,0 +1,486 @@
+{
+  "date": "2026-11-25",
+  "posts": [
+    {
+      "post_id": "D28-01",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "10:00",
+      "topic_key": "bahrain-u16-gulf-champion",
+      "title_internal": "Bahrain U16 crowned Gulf champion",
+      "hook": "منتخبنا تحت 16 بطل الخليج",
+      "frames": [
+        {
+          "n": 1,
+          "text": "منتخب البحرين تحت 16 سنة\nبطل الخليج 🏆",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "golden trophy silhouette on a pedestal in a stadium, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "ومنتخباتنا الوطنية حجزت\nمكانها على منصة بطولة الخليج",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "empty winners podium on a sports field, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sunset coral and pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "شنو رسالتك لأبطالنا الصغار؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Question box: اكتب تهنئتك لأبطال البحرين",
+          "visual_prompt": "crowd out of focus waving flags in stadium stands, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and pearl white, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "منتخبنا تحت 16 بطل الخليج 🏆\nمنتخب البحرين تحت 16 سنة توّج بطل الخليج.\nومنتخباتنا الوطنية حجزت مكانها على منصة البطولة.\nمبروك للأبطال الصغار!\nالتفاصيل في الرابط بالبايو.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#إيجابية_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "golden trophy silhouette on a pedestal in a stadium, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "football trophy stadium golden hour",
+        "youth sports team celebration silhouette",
+        "stadium crowd flags"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jZHFTOFc3bkJGZGs1TXJkRUZ0ZEQ1VDlneC1ZdEc1SGtEY28zMmRCOWdwTklUUTFsdm9BU09LVkp1LW90bkUtU2s4Z3o5SFFUWWlJQ2E0NGF4VTc5eHotTk44cW1NcEJDQnlBY2RBOA?oc=5"
+      ]
+    },
+    {
+      "post_id": "D28-02",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "12:00",
+      "topic_key": "doha-cultural-walking-route",
+      "title_internal": "Doha unveils new cultural walking route",
+      "hook": "الدوحة تفتح مسار مشي ثقافي جديد",
+      "frames": [
+        {
+          "n": 1,
+          "text": "الدوحة – قطر\nمسار مشي ثقافي جديد 🚶",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "empty stone walkway with traditional architecture details, Doha Qatar, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "الدوحة كشفت عن المسار\nوالتفاصيل في الرابط بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "Doha waterfront promenade at sunset seen from low angle, Qatar, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise water and pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "تمشونه مع ربعكم؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: أمشي المسار / بعدين",
+          "visual_prompt": "two pairs of feet from behind walking on a stone path, Doha Qatar, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "الدوحة – قطر تفتح مسار مشي ثقافي جديد 🚶\nتفاصيل المسار في الرابط بالبايو.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الخليج",
+        "#قطر",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "empty stone walkway with traditional architecture details, Doha Qatar, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Doha walking path culture",
+        "Doha corniche sunset",
+        "Qatar heritage architecture"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT1YwV0l5ZVdsUDZ1V2hBRDZNUDZnYlgtbXZVN3dSMGtuZkFObFFPNXBJMEhGMEdNWURGMzFhTUt6VmU3Z25wcU9uNlBFNzNlWl9jeHppQnVJcUk1a1pMVzN6MlJOSmpMZnRMSUZOUUd4dGJZdmhkMXQ4WjhVVDY1YmRQZ3JteUk?oc=5"
+      ]
+    },
+    {
+      "post_id": "D28-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "gulf-air-25-extra-flights-winter",
+      "title_internal": "Gulf Air adds 25 flights for holidays",
+      "hook": "25 رحلة إضافية.. وين تطير؟",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "25 رحلة إضافية.. وين تطير؟ ✈️",
+          "body": "Gulf Air تضيف رحلات جديدة من البحرين. اسحب تعرف الوجهات.",
+          "visual_prompt": "airplane wing over clouds at sunset, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "25 رحلة إضافية",
+          "body": "Gulf Air تعلن 25 رحلة إضافية لأربع وجهات.",
+          "visual_prompt": "passenger aircraft on runway at golden hour, Bahrain, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold, no airline livery, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "لندن",
+          "body": "لندن ضمن الرحلات الإضافية.",
+          "visual_prompt": "London skyline silhouette at dusk with soft clouds, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "بانكوك",
+          "body": "بانكوك ضمن الرحلات الإضافية.",
+          "visual_prompt": "Bangkok skyline at sunset with warm haze, cinematic, photorealistic, 35mm, warm golden light, sunset coral and palm green, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "ماليه – كولومبو",
+          "body": "ماليه – كولومبو ضمن الرحلات الإضافية.",
+          "visual_prompt": "turquoise lagoon with a wooden boat from above, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise water and palm green, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "الدوحة",
+          "body": "والدوحة كمان ضمن القائمة.",
+          "visual_prompt": "Doha skyline across calm water at sunset, Qatar, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "توقيت يستاهل",
+          "body": "الرحلات الإضافية تتزامن مع إجازات البحرين وموسم عطلة الشتاء.",
+          "visual_prompt": "suitcase and passport on sand-coloured table near window, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 8,
+          "headline": "احفظ البوست وشارك ربعك",
+          "body": "المواعيد والتفاصيل في الرابط بالبايو. تابع وين اليوم.",
+          "visual_prompt": "dhow sail silhouette at sunset over turquoise water, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "25 رحلة إضافية.. وين تطير؟ ✈️\nGulf Air تعلن 25 رحلة إضافية إلى لندن وبانكوك وماليه – كولومبو والدوحة.\nالرحلات تتزامن مع إجازات البحرين وموسم عطلة الشتاء.\nالمواعيد والتفاصيل في الرابط بالبايو.\nاحفظ البوست وشارك ربعك اللي يخطط للسفر.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#سياحة_البحرين",
+        "#وجهات_سياحية",
+        "#الخليج"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "airplane wing over clouds at sunset, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "airplane wing sunset",
+        "airport departures board blurred",
+        "London skyline dusk",
+        "Bangkok skyline sunset",
+        "Maldives lagoon aerial"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OWkNCaDJMVTloRklDRHBQTlgzdW1CWDJyV29RQmxqVkNITGgtNkxKR3g5SHVRc1ZUX0l0NmZRZ01kY0NDUDFsN0FJQ0VTYnpKQjZNTzI5UmwtcWlPNGR3RGw1NA?oc=5"
+      ]
+    },
+    {
+      "post_id": "D28-04",
+      "format": "carousel",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "16:00",
+      "topic_key": "oman-december-cable-car-hotels",
+      "title_internal": "Oman: December warmth, cable car, hotels",
+      "hook": "عُمان في ديسمبر.. شنو الجديد؟",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "عُمان في ديسمبر.. شنو الجديد؟",
+          "body": "3 أسباب تحط مسقط ومطرح على قائمتك. اسحب 👉",
+          "visual_prompt": "Muttrah corniche and mountains at golden hour, Oman, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "وجهة دافية في ديسمبر",
+          "body": "Travel Daily News تدرج عُمان ضمن الوجهات الدافية لزيارة ديسمبر.",
+          "visual_prompt": "warm sandy beach with calm turquoise sea, Oman, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise water and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "أول تلفريك عام في مطرح",
+          "body": "عُمان أطلقت أول تلفريك عام في مطرح.",
+          "visual_prompt": "cable car cabin gliding above rocky coastline, Muttrah Oman, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "1,475 منشأة فندقية",
+          "body": "عدد المنشآت الفندقية في عُمان وصل 1,475 بنهاية 2025.",
+          "visual_prompt": "modern hotel facade near the sea at dusk, Oman, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "الضيافة تكبر",
+          "body": "الرقم جاء مع توسع البنية التحتية السياحية في عُمان.",
+          "visual_prompt": "coastal road along rocky mountains at sunset, Oman, cinematic, photorealistic, 35mm, warm golden light, sunset coral and deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "احفظ وخطط مع ربعك",
+          "body": "تابع وين اليوم لمزيد من وجهات الخليج. التفاصيل في الرابط بالبايو.",
+          "visual_prompt": "traditional dhow at sunset on calm water, Oman, golden hour, cinematic, photorealistic, 35mm, warm golden light, sunset coral and turquoise water, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "عُمان في ديسمبر.. شنو الجديد؟ 🇴🇲\nTravel Daily News تدرج عُمان ضمن الوجهات الدافية لزيارة ديسمبر.\nعُمان أطلقت أول تلفريك عام في مطرح.\nوالمنشآت الفندقية وصلت 1,475 بنهاية 2025.\nاحفظ البوست وشاركه مع ربعك. التفاصيل في الرابط بالبايو.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#عمان",
+        "#الخليج",
+        "#وجهات_سياحية"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Muttrah corniche and mountains at golden hour, Oman, cinematic, photorealistic, 35mm, warm golden light, sand gold and deep sea blue, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Muttrah corniche Oman",
+        "Oman cable car",
+        "Oman beach winter",
+        "Muscat hotel exterior"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUVhWMEthS3dUOE5EZlRWaHF2U1RzQVN3OWVlNzNFdXpfUWkteV9xLUtUVzVEOG85TXkyLUhCLWw5MWVIRDY5akdyWEtKbUo4bkhJcE5mMFdQT05jcXpYVnVoVUNyMVBhN3JpWUZHVTlxTldyT2l2ai12QjZrdHhYUEFjZWRzOVA1RUlrVnpZUG1sZnZKNmhNY1E2NTVWY01XMTFXREVaek1RZ3FmUS1adXB5YWV5VktiNXFTX2gxNXpTZmRNMkZ3azZ0QUhzN2NJalE?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGZaZ1ZoOEhRdzZ2V25OS1IxY0laS1otYVZoaGVTYkRaaDdwMmZNdnBTb25xZUxnS09NdGZHRWZyWVA5WXNPalRzSlhEYVJaak5HSzlBc0JsbzNMeklCSkg4ZllsWXBmZ1FObmNMY09zbEFSYThEZmpEd25kNFJtYmNoQmc0bVlfV042cVJkYXJ2Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iRGVZSjVJRzBrM0ZFZFcxdTFFT1ZRVXRobURfSFhNUWY2M3RDX1JvdjZyOGRaaENUTU5XaHlTWGtBdXc0TlRWUVp6V3U5SVJ5S2fSAVZBVV95cUxQalNmTXJQZEhrX3R3c0oxWS1JVzdFQmg3RFlPS1VSUGxVbjdEclNZUE1NWlZER2xLRGhTYnVlRlB5aXFfV2tLdl83empxQkE1Znl0bnpVUQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D28-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "bahrain-vet-pet-conference-nov-30",
+      "title_internal": "Second Bahrain Vet and Pet Conference",
+      "hook": "عشاق الحيوانات الأليفة.. موعدكم 30 نوفمبر",
+      "frames": [
+        {
+          "n": 1,
+          "text": "المؤتمر والمعرض الثاني للطب البيطري\nوالحيوانات الأليفة 🐾",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "cat and dog paw prints on sand near the sea, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "ينطلق 30 نوفمبر\nفي البحرين",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "modern exhibition hall interior with soft light, out of focus, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, pearl white and deep sea blue, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "عندك حيوان أليف؟ شارك ربعك!\nالمكان والتذاكر: التفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: قطة / كلب / غيرهم",
+          "visual_prompt": "pet bowl and leash on a wooden bench, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and palm green, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "عشاق الحيوانات الأليفة.. موعدكم 30 نوفمبر 🐾\nالمؤتمر والمعرض الثاني للطب البيطري والحيوانات الأليفة في البحرين ينطلق 30 نوفمبر.\nالمكان والتذاكر: التفاصيل في الرابط بالبايو.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#Bahrain"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "cat and dog paw prints on sand near the sea, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold and pearl white, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "pet exhibition hall",
+        "veterinary clinic hands",
+        "dog and cat paws"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE85cUFPYkhSTHhNTW1CMkZzckFPOHRwQ2ZvcDBZTDByZzdXZTdvZ084Ty1BckFRaUpzSzg0cFBEc1NXNFc0QWxhZFk4T1Z0VmNWOEl1UGFTZC1IOXVKam5XazFIdUlPdDhuR3ZYY0pqVGNpQQ?oc=5"
+      ]
+    },
+    {
+      "post_id": "D28-06",
+      "format": "reel",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "time_local": "20:30",
+      "topic_key": "digital-city-bahrain-wiredscore-gold",
+      "title_internal": "Digital City Bahrain earns WiredScore Gold",
+      "hook": "أول مشروع بحريني بـ WiredScore Gold 🥇",
+      "script": [
+        {
+          "t": "0-4s",
+          "on_screen": "أول مشروع بحريني بـ WiredScore Gold 🥇",
+          "vo": "أول مشروع بحريني يحصل على WiredScore Gold!",
+          "visual": "slow aerial push over a modern Bahrain skyline at golden hour, glass towers glowing"
+        },
+        {
+          "t": "4-10s",
+          "on_screen": "أول مشروع في مملكة البحرين\nDigital City Bahrain",
+          "vo": "Digital City Bahrain، أول مشروع في مملكة البحرين يحقق هذا التصنيف.",
+          "visual": "modern glass building facade with warm reflections, camera tilting up, no people"
+        },
+        {
+          "t": "10-17s",
+          "on_screen": "WiredScore Gold\nالمرحلة الأولى | Digital City Bahrain",
+          "vo": "التصنيف الذهبي جاء للمرحلة الأولى من المشروع.",
+          "visual": "abstract light trails over a city at dusk, soft blue and gold tones"
+        },
+        {
+          "t": "17-24s",
+          "on_screen": "إنجاز جديد للتقنية 🚀\nأُعلن على هامش Citiscape 2026",
+          "vo": "والإعلان كان على هامش Citiscape 2026.",
+          "visual": "exhibition hall corridor out of focus with warm lights, silhouettes from behind"
+        },
+        {
+          "t": "24-30s",
+          "on_screen": "تابع وين اليوم 💙",
+          "vo": "تابع وين اليوم لكل جديد في البحرين، والتفاصيل في الرابط بالبايو.",
+          "visual": "Bahrain skyline at sunset with dhow sail silhouette in foreground"
+        }
+      ],
+      "caption_instagram": "أول مشروع بحريني بـ WiredScore Gold 🥇\nDigital City Bahrain أول مشروع في مملكة البحرين يحصل على WiredScore Gold للمرحلة الأولى.\nالإعلان كان على هامش Citiscape 2026.\nفخر للتقنية في البحرين!\nالتفاصيل في الرابط بالبايو. تابع وين اليوم.",
+      "caption_tiktok": "أول مشروع بحريني بـ WiredScore Gold 🥇 Digital City Bahrain يحقق إنجاز المرحلة الأولى. التفاصيل في الرابط بالبايو.",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#ريادة_اعمال",
+        "#إيجابية_البحرين",
+        "#Bahrain"
+      ],
+      "audio_suggestion": "upbeat modern khaleeji electronic beat with light percussion",
+      "visual_prompts": [
+        "modern glass towers with warm reflections, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16",
+        "Bahrain skyline at sunset with dhow sail silhouette, cinematic, photorealistic, 35mm, warm golden light, sunset coral and turquoise water, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "modern city skyline golden hour aerial",
+        "glass building facade",
+        "technology smart city night lights"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5STFN2Z0RROEo1aU82YVdTZFY5anR1NTJZN1g4TEZVQWlkaVJjUS1ncnFVX1VjN2x0QVl0QngyRjFtdnRTSFpMRDlDZHhGSnoxQjBB?oc=5"
+      ]
+    },
+    {
+      "post_id": "D28-07",
+      "format": "story",
+      "region": "gcc",
+      "post_type": "international",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "21:30",
+      "topic_key": "dwtc-12-global-events-dec",
+      "title_internal": "Dubai World Trade Centre hosts 12 events",
+      "hook": "12 فعالية عالمية في دبي ديسمبر",
+      "frames": [
+        {
+          "n": 1,
+          "text": "دبي – الإمارات\n12 فعالية عالمية في ديسمبر 🌍",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "Dubai skyline at golden hour with sleek towers, UAE, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "«دبي التجاري العالمي»\nيستضيف 12 فعالية عالمية",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "large modern exhibition venue exterior at dusk, Dubai UAE, cinematic, photorealistic, 35mm, warm golden light, pearl white and sunset coral, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 3,
+          "text": "أي وحدة تبيها أول؟\nالتفاصيل بالبايو",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Question box: أي فعالية تنتظرها في دبي؟",
+          "visual_prompt": "crowd out of focus in a bright exhibition hall, Dubai UAE, cinematic, photorealistic, 35mm, warm golden light, pearl white and sand gold, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "12 فعالية عالمية في دبي ديسمبر 🌍\n«دبي التجاري العالمي» يستضيف 12 فعالية عالمية في ديسمبر.\nأي وحدة تبيها أول؟\nالتفاصيل في الرابط بالبايو.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#الامارات",
+        "#الخليج",
+        "#فعاليات_البحرين"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "Dubai skyline at golden hour with sleek towers, UAE, cinematic, photorealistic, 35mm, warm golden light, deep sea blue and sand gold, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Dubai skyline golden hour",
+        "exhibition hall crowd blurred",
+        "Dubai World Trade Centre area"
+      ],
+      "sources": [
+        "https://news.google.com/rss/articles/CBMizgRBVV95cUxON242bjhuOW5RUGJLazVRWllCRWYxb1Z4QXMxS2E1LU9CdVJuaDdHQ0RDWHNscHd0VkdLd2pTMTdhRElhcFlzWjhacVNQb0JUWnJGLVoyVTdpZnlIakJZRVdUNy1HYW9yLXNPMzNqamo2SVNGdnViT3dfczFnWjJIM3lyNEgzUmFkVVV0X0ItT3lOT2JlX0owWW56azl0bHVrbl85LU9wN0syUlJLelJmWmhBMmU5TVhKZEh6YXF5NzZCZHM4a1pXNW90UFEzdFh0UmQ4UWUzSFZ3c0Y3ZFo0blNhUm5OakFaOTZ2RmlzLUNVWVF3YUZaYkg2d0pZMktrXzJiVlcwMTlySVNsbVJwaWIyV0RNRFQ5dzlZVHVUNVFzWjZQQ044V1M5Z3MtVjQ5NlAydlBLVnRlTnFJYmNjblRxRGZ3dDBqNHdiek5HcHQycGxOX2lIRW04SGlZOVBqYzZCa29SNWV4cGtOb1VwX1hHZGh5X2h4b25YOGpIaDdHV2l3WUpjV0RhRkNTZFBaZEVPZndYMzc4cHdyZF9EUTFxbzNXNDJoQ3Q1eHM3ZWtmU1h5THNSTTFJRDdOX0lKZTd1bjJnYUtDdnhTWHRtUEZ4RDA1Wk9ZQmFLem4teGloclhreEhaWlVVQXJQVkQxdDhKM2w1c3M0Y1FwbnlPc0RsOThWdzRRMWY3THZRY3RwZjdiT0k5eDFQREl2NzdNWUIwZDhKMkpmaVVpOUNxN0kxSmNSYWhoZFpWamhZdEF1dVl3dm9CTjRBTkw3Zw?oc=5"
+      ]
+    }
+  ],
+  "day_theme": "weekend guide (Thu–Sat events) (applies to the Bahrain posts)",
+  "held_topics": []
+}
