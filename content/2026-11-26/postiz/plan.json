@@ -1,0 +1,70 @@
+[
+  {
+    "post_id": "D29-01",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-26T07:00:00Z",
+    "time_local": "10:00",
+    "content": "",
+    "assets": [
+      "D29-01_1.jpg",
+      "D29-01_2.jpg",
+      "D29-01_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D29-05",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-26T15:00:00Z",
+    "time_local": "18:00",
+    "content": "",
+    "assets": [
+      "D29-05_1.jpg",
+      "D29-05_2.jpg",
+      "D29-05_3.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D29-06",
+    "platform": "instagram",
+    "format": "reel",
+    "schedule_utc": "2026-11-26T17:30:00Z",
+    "time_local": "20:30",
+    "content": "ثلاث معابد فوق بعض 🏛️\n«معبد باربار» في البحرين يتكون من ثلاث معابد، كل واحد انبنى فوق الثاني.\nبُنيت بين الألفية الثالثة والثانية قبل الميلاد.\nوهو على القائمة المبدئية لليونسكو.\nوين نروح الويكند؟ احفظ الريل وشاركه ربعك.\nالتفاصيل في الرابط بالبايو.\n\n#وين_اليوم #البحرين #تراث_البحرين #سياحة_البحرين #ويكند",
+    "assets": [
+      "D29-06.mp4"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D29-06",
+    "platform": "tiktok",
+    "format": "reel",
+    "schedule_utc": "2026-11-26T17:30:00Z",
+    "time_local": "20:30",
+    "content": "ثلاث معابد فوق بعض 🏛️ «معبد باربار» في البحرين من الألفية 3 و2 ق.م، وعلى القائمة المبدئية لليونسكو. وين نروح الويكند؟\n\n#وين_اليوم #البحرين #تراث_البحرين #سياحة_البحرين #ويكند",
+    "assets": [
+      "D29-06.mp4"
+    ],
+    "settings": {
+      "privacy_level": "PUBLIC_TO_EVERYONE",
+      "duet": true,
+      "stitch": true,
+      "comment": true,
+      "content_posting_method": "DIRECT_POST"
+    },
+    "manual_on_phone": false
+  }
+]

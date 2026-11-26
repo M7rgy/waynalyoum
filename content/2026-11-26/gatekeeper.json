@@ -1,0 +1,115 @@
+[
+  {
+    "id": "d5e52b8c",
+    "decision": "approve",
+    "reason": "Positive festival listing; dates still unconfirmed, so no date set.",
+    "category": "event",
+    "region": "bahrain",
+    "risk": 1,
+    "facts": [
+      {
+        "fact": "Muharraq Nights festival on the Pearling Path, December 2026",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      },
+      {
+        "fact": "Source states dates are TBC and should be checked before posting",
+        "source_url": "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      }
+    ],
+    "event_date": null,
+    "venue": "Pearling Path, Muharraq",
+    "angle": "ليالي المحرق على طريق اللؤلؤ بديسمبر الجاي، والتواريخ قريب بالبايو"
+  },
+  {
+    "id": "eg-unesco",
+    "decision": "approve",
+    "reason": "Verifiable heritage fact about Bahrain's UNESCO World Heritage Sites.",
+    "category": "heritage",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bahrain has 3 UNESCO World Heritage Sites: Qal'at al-Bahrain (2005), Pearling Path (2012), Dilmun Burial Mounds (2019)",
+        "source_url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      },
+      {
+        "fact": "Qal'at al-Bahrain has been occupied since c. 2300 BCE and was the capital of Dilmun",
+        "source_url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "٣ مواقع من اليونسكو في البحرين... تعرف عليها قبل ويكند الجاي"
+  },
+  {
+    "id": "eg-hawar",
+    "decision": "approve",
+    "reason": "Positive nature and heritage fact about Hawar Islands.",
+    "category": "environment",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Hawar Islands are on UNESCO's tentative list for nature",
+        "source_url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      },
+      {
+        "fact": "The islands lie about 26 km offshore and are important for migratory waterbirds",
+        "source_url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      },
+      {
+        "fact": "They host coral reefs, seagrass meadows and a dugong population",
+        "source_url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      }
+    ],
+    "event_date": null,
+    "venue": "Hawar Islands",
+    "angle": "جزر حوار تبعد 26 كم عن الساحل، وفيها شعاب مرجانية وطيور مهاجرة ووايد كائنات تستاهل الاكتشاف"
+  },
+  {
+    "id": "eg-barbar",
+    "decision": "approve",
+    "reason": "Positive heritage fact about Barbar Temple on UNESCO's tentative list.",
+    "category": "heritage",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Barbar Temple consists of three temples built one over another",
+        "source_url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      },
+      {
+        "fact": "The temples were built between the 3rd and 2nd millennia BCE",
+        "source_url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      },
+      {
+        "fact": "Barbar Temple is on UNESCO's tentative list",
+        "source_url": "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      }
+    ],
+    "event_date": null,
+    "venue": "Barbar Temple, Bahrain",
+    "angle": "ثلاث معابد فوق بعض من آلاف السنين... سالفة معبد باربار"
+  },
+  {
+    "id": "eg-startups",
+    "decision": "approve",
+    "reason": "Positive tech ranking news on Bahrain's startup ecosystem.",
+    "category": "tech",
+    "region": "bahrain",
+    "risk": 0,
+    "facts": [
+      {
+        "fact": "Bahrain's startup ecosystem is valued at $1.6bn (Jul 2023–Dec 2025), up 759% vs 2021 review",
+        "source_url": "https://www.gccbusinessnews.com/gser-2026-bahrain-mena-startup-ecosystems/"
+      },
+      {
+        "fact": "GSER 2026 places MENA in the top 5 for Performance, top 10 for AI-Native and top 15 for R&D",
+        "source_url": "https://www.gccbusinessnews.com/gser-2026-bahrain-mena-startup-ecosystems/"
+      }
+    ],
+    "event_date": null,
+    "venue": null,
+    "angle": "البحرين ضمن أفضل 5 في الأداء بين منظومات الشركات الناشئة بالمنطقة، شي يفرح"
+  }
+]
