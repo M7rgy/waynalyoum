@@ -1,0 +1,39 @@
+[
+  {
+    "post_id": "D30-03",
+    "platform": "instagram",
+    "format": "carousel",
+    "schedule_utc": "2026-11-27T11:00:00Z",
+    "time_local": "14:00",
+    "content": "3 كنوز بحرينية عند اليونسكو ✨\n\nقلعة البحرين: 2005\nطريق اللؤلؤ: 2012\nمدافن دلمون: 2019\n\nوين نروح الويكند؟ اختر موقع وخذ ربعك.\nاحفظ المنشور وشارك اللي يحب التراث.\n\n#وين_اليوم #البحرين #تراث_البحرين #سياحة_البحرين #VisitBahrain",
+    "assets": [
+      "D30-03_1.jpg",
+      "D30-03_2.jpg",
+      "D30-03_3.jpg",
+      "D30-03_4.jpg",
+      "D30-03_5.jpg",
+      "D30-03_6.jpg",
+      "D30-03_7.jpg"
+    ],
+    "settings": {
+      "post_type": "post"
+    },
+    "manual_on_phone": false
+  },
+  {
+    "post_id": "D30-05",
+    "platform": "instagram",
+    "format": "story",
+    "schedule_utc": "2026-11-27T15:00:00Z",
+    "time_local": "18:00",
+    "content": "",
+    "assets": [
+      "D30-05_1.jpg",
+      "D30-05_2.jpg"
+    ],
+    "settings": {
+      "post_type": "story"
+    },
+    "manual_on_phone": false
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-27",
+  "posts": [
+    {
+      "post_id": "D30-03",
+      "format": "carousel",
+      "region": "bahrain",
+      "post_type": "info",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "14:00",
+      "topic_key": "bahrain-three-unesco-sites-weekend",
+      "title_internal": "3 UNESCO sites in Bahrain",
+      "hook": "3 كنوز بحرينية عند اليونسكو",
+      "slides": [
+        {
+          "n": 1,
+          "headline": "3 كنوز بحرينية عند اليونسكو",
+          "body": "تعرف عليها؟ اسحب وشوف السنة اللي دخل فيها كل موقع.",
+          "visual_prompt": "ancient fortress walls of a Bahrain heritage site by the sea, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 2,
+          "headline": "تراث عالمي في البحرين",
+          "body": "ثلاثة مواقع بحرينية مسجلة في قائمة التراث العالمي لليونسكو.",
+          "visual_prompt": "wide aerial view of Bahrain coastline with heritage stone and modern skyline in the distance, golden hour, cinematic, photorealistic, 35mm, warm golden light, turquoise water, sand gold, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 3,
+          "headline": "قلعة البحرين",
+          "body": "سُجلت في قائمة التراث العالمي لليونسكو سنة 2005.",
+          "visual_prompt": "Qal'at al-Bahrain fort stone walls against sunset sky, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 4,
+          "headline": "طريق اللؤلؤ",
+          "body": "سُجل في قائمة التراث العالمي لليونسكو سنة 2012.",
+          "visual_prompt": "textured old coral stone alley in Muharraq, Bahrain, late afternoon, cinematic, photorealistic, 35mm, warm golden light, sand gold, pearl white, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 5,
+          "headline": "مدافن دلمون",
+          "body": "سُجلت في قائمة التراث العالمي لليونسكو سنة 2019.",
+          "visual_prompt": "rows of ancient burial mounds across desert landscape, Bahrain, sunset, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 6,
+          "headline": "وين نروح الويكند؟",
+          "body": "اختر موقع من الثلاثة وخذ ربعك في جولة تراثية.",
+          "visual_prompt": "silhouette of a person from behind walking toward a heritage stone gate, Bahrain, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 4:5"
+        },
+        {
+          "n": 7,
+          "headline": "احفظ المنشور",
+          "body": "شارك ربعك، وتابع وين اليوم لأفكار الويكند.",
+          "visual_prompt": "dhow sail on turquoise water at sunset near Bahrain, cinematic, photorealistic, 35mm, warm golden light, deep sea blue, sunset coral, pearl white, no people faces, no text, no logos --ar 4:5"
+        }
+      ],
+      "caption_instagram": "3 كنوز بحرينية عند اليونسكو ✨\n\nقلعة البحرين: 2005\nطريق اللؤلؤ: 2012\nمدافن دلمون: 2019\n\nوين نروح الويكند؟ اختر موقع وخذ ربعك.\nاحفظ المنشور وشارك اللي يحب التراث.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#تراث_البحرين",
+        "#سياحة_البحرين",
+        "#VisitBahrain"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "ancient fortress walls of a Bahrain heritage site by the sea, golden hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, pearl white, no people faces, no text, no logos --ar 4:5"
+      ],
+      "broll_search": [
+        "Bahrain fort sunset",
+        "Muharraq old stone alley",
+        "Bahrain heritage site drone"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Bahrain"
+      ]
+    },
+    {
+      "post_id": "D30-05",
+      "format": "story",
+      "region": "bahrain",
+      "post_type": "local",
+      "platforms": [
+        "instagram"
+      ],
+      "time_local": "18:00",
+      "topic_key": "muharraq-nights-pearling-path-dec-2026",
+      "title_internal": "Muharraq Nights on Pearling Path",
+      "hook": "ليالي المحرق على طريق اللؤلؤ",
+      "frames": [
+        {
+          "n": 1,
+          "text": "«Muharraq Nights» على طريق اللؤلؤ ✨\nديسمبر 2026",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "",
+          "visual_prompt": "narrow old coral stone alley in Muharraq lit by warm lanterns, Bahrain, dusk, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 9:16"
+        },
+        {
+          "n": 2,
+          "text": "الموقع: طريق اللؤلؤ، المحرق\nالتواريخ بتتأكد، والتفاصيل في الرابط بالبايو.\nتروح مع ربعك؟",
+          "sticker": {
+            "type": "none"
+          },
+          "phone_sticker_idea": "Poll: أكيد بروح / أنتظر التواريخ",
+          "visual_prompt": "silhouette of a group from behind walking along a heritage stone path in Muharraq, Bahrain, blue hour, cinematic, photorealistic, 35mm, warm golden light, sand gold, sunset coral, no people faces, no text, no logos --ar 9:16"
+        }
+      ],
+      "caption_instagram": "«Muharraq Nights» على طريق اللؤلؤ في المحرق، ديسمبر 2026. التواريخ بتتأكد، والتفاصيل في الرابط بالبايو.",
+      "caption_tiktok": "",
+      "hashtags": [
+        "#وين_اليوم",
+        "#البحرين",
+        "#فعاليات_البحرين",
+        "#تراث_البحرين",
+        "#VisitBahrain"
+      ],
+      "audio_suggestion": "",
+      "visual_prompts": [
+        "narrow old coral stone alley in Muharraq lit by warm lanterns, Bahrain, dusk, cinematic, photorealistic, 35mm, warm golden light, sand gold, deep sea blue, no people faces, no text, no logos --ar 9:16"
+      ],
+      "broll_search": [
+        "Muharraq old town evening",
+        "Bahrain lanterns heritage night",
+        "Bahrain stone alley dusk"
+      ],
+      "sources": [
+        "https://www.bahrain-confidential.com/bahrain-events-2026-guide/"
+      ]
+    }
+  ],
+  "day_theme": "beaches, islands, nature, family (applies to the Bahrain posts)",
+  "held_topics": []
+}
